@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 import logging
 
@@ -45,7 +46,8 @@ def setup_driver():
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
     
-    service = Service('/usr/bin/chromedriver')
+    # Use webdriver-manager to automatically get the correct driver version
+    service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
 
@@ -54,22 +56,18 @@ def fetch_article_content(driver, url):
         logging.info(f"Fetching content from: {url}")
         driver.get(url)
         
-        # Wait for the archived content to load
         wait = WebDriverWait(driver, 15)
         
-        # Based on your screenshot, the article content is in the main body
-        # Archive.is wraps the original page, so we need to find the Economist article structure
         try:
-            # Wait for body to be present
             wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
-            time.sleep(3)  # Give extra time for dynamic content
+            time.sleep(3)
             
-            # Try to find article content using various Economist-specific selectors
+            # Try Economist-specific selectors
             selectors = [
-                "article[data-test-id='Article']",  # Economist's article container
+                "article[data-test-id='Article']",
                 "article",
                 "div[class*='article']",
-                "div[class*='ds-layout-grid']",  # Economist uses design system layout
+                "div[class*='ds-layout-grid']",
                 "section[class*='article']",
                 "main"
             ]
@@ -80,21 +78,19 @@ def fetch_article_content(driver, url):
                     elements = driver.find_elements(By.CSS_SELECTOR, selector)
                     if elements:
                         text = elements[0].text
-                        if text and len(text) > 200:  # Ensure substantial content
+                        if text and len(text) > 200:
                             logging.info(f"✓ Content found using: {selector} ({len(text)} chars)")
                             return text
                 except:
                     continue
             
-            # Fallback: Extract all paragraph text from the page
+            # Fallback: Extract paragraphs
             logging.info("Trying paragraph extraction...")
             paragraphs = driver.find_elements(By.TAG_NAME, "p")
             
-            # Filter out navigation/footer paragraphs and keep only article content
             content_paragraphs = []
             for p in paragraphs:
                 text = p.text.strip()
-                # Skip very short paragraphs (likely UI elements)
                 if len(text) > 50:
                     content_paragraphs.append(text)
             
@@ -103,7 +99,7 @@ def fetch_article_content(driver, url):
                 logging.info(f"✓ Extracted {len(content_paragraphs)} paragraphs ({len(content)} chars)")
                 return content
             
-            # Last resort: get all visible text and clean it
+            # Last resort: body text
             logging.info("Trying full body text extraction...")
             body = driver.find_element(By.TAG_NAME, "body")
             all_text = body.text
@@ -143,10 +139,8 @@ def fetch_items(feed_urls):
                 original_link = entry.link
                 archive_link = ARCHIVE_PREFIX + original_link
                 
-                # Fetch full article content
                 full_content = fetch_article_content(driver, archive_link)
                 
-                # Use RSS description as fallback
                 description = full_content if full_content else entry.get("description", "No content available")
                 
                 all_items.append({
@@ -158,7 +152,6 @@ def fetch_items(feed_urls):
                 
                 logging.info(f"[{idx}/{len(feed.entries)}] Added: {entry.title[:60]}...")
                 
-                # Respectful delay between requests
                 time.sleep(2)
                 
     finally:
@@ -169,16 +162,34 @@ def fetch_items(feed_urls):
     
     return all_items
 
-# Test with a single article first
+def generate_rss(items, output_file="combined.xml"):
+    rss = ET.Element("rss", version="2.0")
+    channel = ET.SubElement(rss, "channel")
+    
+    ET.SubElement(channel, "title").text = "Combined Economist RSS Feed"
+    ET.SubElement(channel, "link").text = "https://www.economist.com"
+    ET.SubElement(channel, "description").text = "Aggregated articles from The Economist"
+    
+    for item in items:
+        item_elem = ET.SubElement(channel, "item")
+        ET.SubElement(item_elem, "title").text = item["title"]
+        ET.SubElement(item_elem, "link").text = item["link"]
+        ET.SubElement(item_elem, "description").text = item["description"]
+        ET.SubElement(item_elem, "pubDate").text = item["pubDate"]
+    
+    tree = ET.ElementTree(rss)
+    ET.indent(tree, space="  ")
+    tree.write(output_file, encoding="utf-8", xml_declaration=True)
+    logging.info(f"RSS feed written to {output_file}")
+
 if __name__ == "__main__":
     logging.info("Starting RSS feed aggregation...")
     
-    # Test with just one feed first
-    test_feeds = [rss_feeds[0]]  # Just briefing feed
-    items = fetch_items(test_feeds)
+    # Use all feeds
+    items = fetch_items(rss_feeds)
     
-    logging.info(f"\n\nSample output:")
     if items:
-        logging.info(f"Title: {items[0]['title']}")
-        logging.info(f"Content length: {len(items[0]['description'])} characters")
-        logging.info(f"First 500 chars: {items[0]['description'][:500]}...")
+        generate_rss(items)
+        logging.info(f"✓ Successfully generated RSS feed with {len(items)} articles")
+    else:
+        logging.error("✗ No items collected")
