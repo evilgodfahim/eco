@@ -1,20 +1,21 @@
-import os
-import time
-import logging
+import feedparser
 import xml.etree.ElementTree as ET
 from datetime import datetime
-import requests
-from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import WebDriverException
-import re
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
+import time
+import logging
 
-# --------------------------
-# CONFIG
-# --------------------------
-RSS_FEEDS = [
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# RSS feed URLs
+rss_feeds = [
     "https://www.economist.com/briefing/rss.xml",
     "https://www.economist.com/the-economist-explains/rss.xml",
     "https://www.economist.com/leaders/rss.xml",
@@ -29,159 +30,155 @@ RSS_FEEDS = [
     "https://www.economist.com/business/rss.xml",
     "https://www.economist.com/graphic-detail/rss.xml",
     "https://www.economist.com/rss/middle_east_and_africa_rss.xml",
-    "https://www.economist.com/the-americas/rss.xml",
+    "https://www.economist.com/the-americas/rss.xml"
 ]
 
-OUTPUT_FILE = "combined_feed.xml"
-WAIT_TIME = 8
-MAX_ARTICLES_PER_FEED = 5  # Set to None to process all articles
+ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
-)
-
-# --------------------------
-# DRIVER SETUP
-# --------------------------
 def setup_driver():
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--blink-settings=imagesEnabled=false")
-    chrome_options.add_argument("--window-size=1920,1080")
-    return webdriver.Chrome(options=chrome_options)
+    chrome_options.add_argument("--window-size=1920x1080")
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    
+    service = Service('/usr/bin/chromedriver')
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    return driver
 
-# --------------------------
-# FETCH FROM ARCHIVE.IS
-# --------------------------
-def fetch_article_content(url):
-    """Fetch full readable text from archive.is snapshot."""
-    try:
-        driver = setup_driver()
-    except WebDriverException as e:
-        logging.error(f"Selenium setup failed: {e}")
-        return None
-
+def fetch_article_content(driver, url):
     try:
         logging.info(f"Fetching content from: {url}")
         driver.get(url)
-        time.sleep(WAIT_TIME)
-
-        # Find all frames and switch to the one that has visible text
-        frames = driver.find_elements(By.TAG_NAME, "frame")
-        if frames:
-            logging.info(f"Found {len(frames)} frames, searching for readable content...")
-            for frame in frames:
+        
+        # Wait for the archived content to load
+        wait = WebDriverWait(driver, 15)
+        
+        # Based on your screenshot, the article content is in the main body
+        # Archive.is wraps the original page, so we need to find the Economist article structure
+        try:
+            # Wait for body to be present
+            wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+            time.sleep(3)  # Give extra time for dynamic content
+            
+            # Try to find article content using various Economist-specific selectors
+            selectors = [
+                "article[data-test-id='Article']",  # Economist's article container
+                "article",
+                "div[class*='article']",
+                "div[class*='ds-layout-grid']",  # Economist uses design system layout
+                "section[class*='article']",
+                "main"
+            ]
+            
+            content = None
+            for selector in selectors:
                 try:
-                    driver.switch_to.default_content()
-                    driver.switch_to.frame(frame)
-                    body_text = driver.find_element(By.TAG_NAME, "body").text
-                    if len(body_text.strip()) > 400:
-                        logging.info("Readable frame found.")
-                        break
-                except Exception:
+                    elements = driver.find_elements(By.CSS_SELECTOR, selector)
+                    if elements:
+                        text = elements[0].text
+                        if text and len(text) > 200:  # Ensure substantial content
+                            logging.info(f"✓ Content found using: {selector} ({len(text)} chars)")
+                            return text
+                except:
                     continue
-
-        # Parse article content
-        html = driver.page_source
-        soup = BeautifulSoup(html, "html.parser")
-
-        # Extract from article section
-        article_tag = soup.find("article")
-        if not article_tag:
-            # fallback: try main content divs
-            possible_divs = soup.find_all("div")
-            article_tag = max(possible_divs, key=lambda d: len(d.get_text(" ", strip=True)), default=None)
-
-        if not article_tag:
-            logging.warning("No readable article block found.")
-            return None
-
-        text = article_tag.get_text(" ", strip=True)
-        text = re.sub(r"\s+", " ", text).strip()
-        return text if len(text) > 300 else None
-
-    except Exception as e:
-        logging.error(f"Error fetching content: {e}")
+            
+            # Fallback: Extract all paragraph text from the page
+            logging.info("Trying paragraph extraction...")
+            paragraphs = driver.find_elements(By.TAG_NAME, "p")
+            
+            # Filter out navigation/footer paragraphs and keep only article content
+            content_paragraphs = []
+            for p in paragraphs:
+                text = p.text.strip()
+                # Skip very short paragraphs (likely UI elements)
+                if len(text) > 50:
+                    content_paragraphs.append(text)
+            
+            if content_paragraphs:
+                content = "\n\n".join(content_paragraphs)
+                logging.info(f"✓ Extracted {len(content_paragraphs)} paragraphs ({len(content)} chars)")
+                return content
+            
+            # Last resort: get all visible text and clean it
+            logging.info("Trying full body text extraction...")
+            body = driver.find_element(By.TAG_NAME, "body")
+            all_text = body.text
+            
+            if len(all_text) > 500:
+                logging.info(f"✓ Extracted body text ({len(all_text)} chars)")
+                return all_text
+                
+        except TimeoutException:
+            logging.warning("⚠ Timeout waiting for page elements")
+        except NoSuchElementException:
+            logging.warning("⚠ Required elements not found")
+            
+        logging.warning("✗ Content not found on page")
         return None
+        
+    except Exception as e:
+        logging.error(f"✗ Error fetching content: {str(e)}")
+        return None
+
+def fetch_items(feed_urls):
+    all_items = []
+    driver = setup_driver()
+    
+    try:
+        for feed_url in feed_urls:
+            logging.info(f"\n{'='*60}")
+            logging.info(f"Parsing feed: {feed_url}")
+            logging.info(f"{'='*60}")
+            
+            feed = feedparser.parse(feed_url)
+            
+            for idx, entry in enumerate(feed.entries, 1):
+                if not hasattr(entry, "link"):
+                    continue
+                
+                original_link = entry.link
+                archive_link = ARCHIVE_PREFIX + original_link
+                
+                # Fetch full article content
+                full_content = fetch_article_content(driver, archive_link)
+                
+                # Use RSS description as fallback
+                description = full_content if full_content else entry.get("description", "No content available")
+                
+                all_items.append({
+                    "title": entry.title,
+                    "link": archive_link,
+                    "description": description,
+                    "pubDate": entry.get("published", datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000"))
+                })
+                
+                logging.info(f"[{idx}/{len(feed.entries)}] Added: {entry.title[:60]}...")
+                
+                # Respectful delay between requests
+                time.sleep(2)
+                
     finally:
         driver.quit()
-
-# --------------------------
-# PARSE RSS
-# --------------------------
-def fetch_items(feed_url):
-    try:
-        logging.info(f"Parsing feed: {feed_url}")
-        response = requests.get(feed_url, timeout=15)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, "xml")
-        return soup.find_all("item")
-    except Exception as e:
-        logging.error(f"Failed to parse feed: {e}")
-        return []
-
-# --------------------------
-# MAIN FUNCTION
-# --------------------------
-def combine_feeds(rss_feeds):
-    logging.info("Starting RSS feed aggregation...")
-    root = ET.Element("articles")
-    
-    total_articles = 0
-
-    for feed_url in rss_feeds:
         logging.info(f"\n{'='*60}")
-        logging.info(f"Processing feed: {feed_url}")
+        logging.info(f"Total articles collected: {len(all_items)}")
         logging.info(f"{'='*60}")
-        
-        items = fetch_items(feed_url)
-        
-        if not items:
-            logging.warning(f"No items found in feed: {feed_url}")
-            continue
-        
-        # Process articles per feed (limited or all)
-        items_to_process = items[:MAX_ARTICLES_PER_FEED] if MAX_ARTICLES_PER_FEED else items
-        
-        for idx, item in enumerate(items_to_process, start=1):
-            title = item.title.text if item.title else "No title"
-            link = item.link.text if item.link else "No link"
-            pub_date = item.pubDate.text if item.pubDate else "No date"
-            desc = item.description.text if item.description else ""
-
-            # Try to find archived version
-            archive_link = f"https://archive.is/{link}"
-            content = fetch_article_content(archive_link)
-
-            article = ET.SubElement(root, "article")
-            ET.SubElement(article, "title").text = title
-            ET.SubElement(article, "link").text = link
-            ET.SubElement(article, "archive").text = archive_link
-            ET.SubElement(article, "pubDate").text = pub_date
-            ET.SubElement(article, "description").text = desc
-            ET.SubElement(article, "content").text = content or "No readable text found."
-            ET.SubElement(article, "feed_source").text = feed_url
-
-            total_articles += 1
-            logging.info(f"Added article {idx} from this feed (Total: {total_articles}): {title}")
-
-    tree = ET.ElementTree(root)
-    ET.indent(tree, space="  ")
-    tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
     
-    logging.info(f"\n{'='*60}")
-    logging.info(f"Feed aggregation complete!")
-    logging.info(f"Total articles processed: {total_articles}")
-    logging.info(f"Total feeds processed: {len(rss_feeds)}")
-    logging.info(f"Saved to: {OUTPUT_FILE}")
-    logging.info(f"{'='*60}")
+    return all_items
 
-# --------------------------
-# RUN
-# --------------------------
+# Test with a single article first
 if __name__ == "__main__":
-    combine_feeds(RSS_FEEDS)
+    logging.info("Starting RSS feed aggregation...")
+    
+    # Test with just one feed first
+    test_feeds = [rss_feeds[0]]  # Just briefing feed
+    items = fetch_items(test_feeds)
+    
+    logging.info(f"\n\nSample output:")
+    if items:
+        logging.info(f"Title: {items[0]['title']}")
+        logging.info(f"Content length: {len(items[0]['description'])} characters")
+        logging.info(f"First 500 chars: {items[0]['description'][:500]}...")
