@@ -1,6 +1,17 @@
 import feedparser
 import xml.etree.ElementTree as ET
 from datetime import datetime
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
+import time
+import os
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # RSS feed URLs
 rss_feeds = [
@@ -23,6 +34,39 @@ rss_feeds = [
 
 ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 
+def setup_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--window-size=1920x1080")
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    
+    service = Service('/usr/bin/chromedriver')  # Update path if needed
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    return driver
+
+def fetch_article_content(url):
+    driver = setup_driver()
+    try:
+        logging.info(f"Fetching content from: {url}")
+        driver.get(url)
+        time.sleep(10)  # Wait for content to load
+        
+        try:
+            # Adjust selector based on archive.is structure
+            content = driver.find_element(By.CSS_SELECTOR, '.article-content').text
+            return content
+        except NoSuchElementException:
+            logging.error("Content element not found")
+            return None
+        except TimeoutException:
+            logging.error("Page load timed out")
+            return None
+    finally:
+        driver.quit()
+
 def fetch_items(feed_urls):
     all_items = []
     for feed_url in feed_urls:
@@ -32,33 +76,14 @@ def fetch_items(feed_urls):
                 continue
             original_link = entry.link
             archive_link = ARCHIVE_PREFIX + original_link
+            
+            # Fetch full article content
+            full_content = fetch_article_content(archive_link)
+            
             all_items.append({
                 "title": entry.title,
                 "link": archive_link,
-                "description": entry.get("description", ""),
+                "description": full_content if full_content else entry.get("description", ""),
                 "pubDate": entry.get("published", datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000"))
             })
     return all_items
-
-def create_rss(items):
-    rss = ET.Element("rss", version="2.0")
-    channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "Combined Economist RSS Feed"
-    ET.SubElement(channel, "link").text = "https://yourusername.github.io/combined.xml"
-    ET.SubElement(channel, "description").text = "Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links"
-    
-    for item in items:
-        i = ET.SubElement(channel, "item")
-        ET.SubElement(i, "title").text = item["title"]
-        ET.SubElement(i, "link").text = item["link"]
-        ET.SubElement(i, "description").text = item["description"]
-        ET.SubElement(i, "pubDate").text = item["pubDate"]
-    
-    return ET.tostring(rss, encoding="utf-8", xml_declaration=True)
-
-if __name__ == "__main__":
-    items = fetch_items(rss_feeds)
-    rss_xml = create_rss(items)
-    with open("combined.xml", "wb") as f:
-        f.write(rss_xml)
-    print("Combined RSS feed created successfully.")
