@@ -19,20 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests beautifulsoup4 selenium
-
-      - name: Install Chrome and Chromedriver
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip xvfb
-          wget https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/linux64/chrome-linux64.zip
-          wget https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/linux64/chromedriver-linux64.zip
-          unzip chrome-linux64.zip
-          unzip chromedriver-linux64.zip
-          sudo mv chrome-linux64 /usr/local/bin/chrome
-          sudo mv chromedriver-linux64/chromedriver /usr/bin/chromedriver
-          sudo chmod +x /usr/bin/chromedriver
-          echo "Chrome and Chromedriver installed."
+          pip install feedparser requests beautifulsoup4 selenium webdriver-manager
 
       - name: Run script
         run: python combine_rss.py
