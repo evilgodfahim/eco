@@ -5,13 +5,19 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import (
+    TimeoutException,
+    NoSuchElementException,
+    WebDriverException,
+)
 import time
 import os
 import logging
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # RSS feed URLs
 rss_feeds = [
@@ -29,7 +35,7 @@ rss_feeds = [
     "https://www.economist.com/business/rss.xml",
     "https://www.economist.com/graphic-detail/rss.xml",
     "https://www.economist.com/rss/middle_east_and_africa_rss.xml",
-    "https://www.economist.com/the-americas/rss.xml"
+    "https://www.economist.com/the-americas/rss.xml",
 ]
 
 ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
@@ -37,6 +43,7 @@ OUTPUT_FILE = "combined.xml"
 
 
 def setup_driver():
+    """Set up headless Chrome."""
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--disable-gpu")
@@ -44,44 +51,79 @@ def setup_driver():
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--window-size=1920x1080")
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    chrome_options.binary_location = "/usr/local/bin/chrome/chrome"  # Adjust if needed
+    chrome_options.binary_location = "/usr/local/bin/chrome/chrome"
 
-    service = Service('/usr/bin/chromedriver')
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-    return driver
+    service = Service("/usr/bin/chromedriver")
+    return webdriver.Chrome(service=service, options=chrome_options)
 
 
 def fetch_article_content(url):
-    """Fetch full article content using Selenium from the archived link."""
+    """Fetch full text of the archived article."""
     try:
         driver = setup_driver()
     except WebDriverException as e:
-        logging.error(f"Selenium driver setup failed: {e}")
+        logging.error(f"Selenium setup failed: {e}")
         return None
 
     try:
         logging.info(f"Fetching content from: {url}")
         driver.get(url)
-        time.sleep(10)  # Allow time for the page to load
 
+        # Wait for archive.is to load iframe
+        WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, "iframe")))
+        time.sleep(3)
+
+        # Switch into the main iframe where the article lives
         try:
-            content = driver.find_element(By.CSS_SELECTOR, "article, .article__body-text, .article-content").text
-            return content.strip()
+            iframe = driver.find_element(By.ID, "DIVAL")
+            driver.switch_to.frame(iframe)
         except NoSuchElementException:
-            logging.warning("Content not found on page.")
-            return None
-        except TimeoutException:
-            logging.warning("Page load timed out.")
-            return None
+            iframes = driver.find_elements(By.TAG_NAME, "iframe")
+            if iframes:
+                driver.switch_to.frame(iframes[-1])
+            else:
+                logging.warning("No iframe found.")
+                return None
+
+        # Wait for text to appear
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        time.sleep(2)
+
+        # Try extracting article-specific sections
+        selectors = [
+            "article",
+            ".article__body-text",
+            ".article-content",
+            "main",
+            "body",
+        ]
+
+        text_blocks = []
+        for selector in selectors:
+            elements = driver.find_elements(By.CSS_SELECTOR, selector)
+            for el in elements:
+                if el.text.strip():
+                    text_blocks.append(el.text.strip())
+
+        full_text = "\n\n".join(text_blocks)
+        if not full_text:
+            logging.warning("No readable text found in iframe.")
+        return full_text or None
+
+    except TimeoutException:
+        logging.warning("Timeout waiting for article.")
+        return None
     except Exception as e:
-        logging.error(f"Unexpected error while fetching content: {e}")
+        logging.error(f"Error fetching article: {e}")
         return None
     finally:
         driver.quit()
 
 
 def fetch_items(feed_urls):
-    """Parse RSS feeds and fetch up to 20 articles."""
+    """Fetch items from multiple RSS feeds."""
     all_items = []
     count = 0
     MAX_ARTICLES = 20
@@ -90,8 +132,8 @@ def fetch_items(feed_urls):
         if count >= MAX_ARTICLES:
             break
         logging.info(f"Parsing feed: {feed_url}")
-
         feed = feedparser.parse(feed_url)
+
         for entry in feed.entries:
             if count >= MAX_ARTICLES:
                 break
@@ -100,7 +142,6 @@ def fetch_items(feed_urls):
 
             original_link = entry.link
             archive_link = ARCHIVE_PREFIX + original_link
-
             full_content = fetch_article_content(archive_link)
             if not full_content:
                 full_content = entry.get("description", "")
@@ -109,7 +150,7 @@ def fetch_items(feed_urls):
                 "title": entry.title,
                 "link": archive_link,
                 "description": full_content,
-                "pubDate": entry.get("published", datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000"))
+                "pubDate": entry.get("published", datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")),
             }
 
             all_items.append(item)
@@ -120,7 +161,7 @@ def fetch_items(feed_urls):
 
 
 def save_to_xml(items, output_file):
-    """Save all articles to combined.xml."""
+    """Save the combined feed as XML."""
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
 
@@ -133,18 +174,10 @@ def save_to_xml(items, output_file):
 
     for item in items:
         item_el = ET.SubElement(channel, "item")
-
-        title_el = ET.SubElement(item_el, "title")
-        title_el.text = item["title"]
-
-        link_el = ET.SubElement(item_el, "link")
-        link_el.text = item["link"]
-
-        desc_el = ET.SubElement(item_el, "description")
-        desc_el.text = item["description"]
-
-        pub_el = ET.SubElement(item_el, "pubDate")
-        pub_el.text = item["pubDate"]
+        ET.SubElement(item_el, "title").text = item["title"]
+        ET.SubElement(item_el, "link").text = item["link"]
+        ET.SubElement(item_el, "description").text = item["description"]
+        ET.SubElement(item_el, "pubDate").text = item["pubDate"]
 
     tree = ET.ElementTree(rss)
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
