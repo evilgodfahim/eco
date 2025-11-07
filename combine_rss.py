@@ -38,7 +38,9 @@ def fetch_items(feed_urls):
                 "description": entry.get("description", ""),
                 "pubDate": entry.get("published", datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000"))
             })
-    return all_items
+    # Sort by pubDate descending and keep latest 500
+    all_items.sort(key=lambda x: datetime.strptime(x["pubDate"], "%a, %d %b %Y %H:%M:%S +0000"), reverse=True)
+    return all_items[:500]
 
 def create_rss(items):
     rss = ET.Element("rss", version="2.0")
@@ -61,4 +63,4 @@ if __name__ == "__main__":
     rss_xml = create_rss(items)
     with open("combined.xml", "wb") as f:
         f.write(rss_xml)
-    print("Combined RSS feed created successfully.")
+    print("Combined RSS feed created successfully with a maximum of 500 latest items.")
