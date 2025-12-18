@@ -2,7 +2,7 @@ name: Update Combined Economist RSS
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            wget unzip xvfb libnss3 libxss1 libasound2 \
-            libatk1.0-0 libatk-bridge2.0-0 libcups2 \
-            libgtk-3-0 libx11-xcb1
-          # install Google Chrome
-          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo apt install -y ./google-chrome-stable_current_amd64.deb
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -32,9 +21,12 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4 selenium selenium-recaptcha-solver
+          pip install feedparser beautifulsoup4 selenium selenium-recaptcha-solver webdriver-manager
 
       - name: Run combined RSS script
+        env:
+          # optional: reduce Chrome noise
+          PYTHONUNBUFFERED: "1"
         run: |
           python lau.py
 
