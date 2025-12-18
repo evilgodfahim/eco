@@ -1,21 +1,18 @@
 #!/usr/bin/env python3
-# lau.py - Combined Economist RSS using Selenium + webdriver-manager (+ optional RecaptchaSolver)
+# lau.py - Combined Economist RSS using undetected-chromedriver for better bot evasion
 
 import feedparser
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-from selenium import webdriver
+import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
-from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 import time
 import sys
 import re
-
-from selenium_recaptcha_solver import RecaptchaSolver
+import random
 
 # CONFIG
 PER_FEED_LIMIT = 1
@@ -23,20 +20,20 @@ MAX_ITEMS = 500
 ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 RSS_FEEDS = [
     "https://www.economist.com/briefing/rss.xml",
-    "https://www.economist.com/the-economist-explains/rss.xml",
-    "https://www.economist.com/leaders/rss.xml",
-    "https://www.economist.com/asia/rss.xml",
-    "https://www.economist.com/china/rss.xml",
-    "https://www.economist.com/international/rss.xml",
-    "https://www.economist.com/united-states/rss.xml",
-    "https://www.economist.com/finance-and-economics/rss.xml",
-    "https://www.economist.com/the-world-this-week/rss.xml",
-    "https://www.economist.com/science-and-technology/rss.xml",
-    "https://www.economist.com/europe/rss.xml",
-    "https://www.economist.com/business/rss.xml",
-    "https://www.economist.com/graphic-detail/rss.xml",
-    "https://www.economist.com/rss/middle_east_and_africa_rss.xml",
-    "https://www.economist.com/the-americas/rss.xml",
+    #"https://www.economist.com/the-economist-explains/rss.xml",
+    #"https://www.economist.com/leaders/rss.xml",
+    #"https://www.economist.com/asia/rss.xml",
+    #"https://www.economist.com/china/rss.xml",
+    #"https://www.economist.com/international/rss.xml",
+    #"https://www.economist.com/united-states/rss.xml",
+    #"https://www.economist.com/finance-and-economics/rss.xml",
+    #"https://www.economist.com/the-world-this-week/rss.xml",
+    #"https://www.economist.com/science-and-technology/rss.xml",
+    #"https://www.economist.com/europe/rss.xml",
+    #"https://www.economist.com/business/rss.xml",
+    #"https://www.economist.com/graphic-detail/rss.xml",
+    #"https://www.economist.com/rss/middle_east_and_africa_rss.xml",
+    #"https://www.economist.com/the-americas/rss.xml",
 ]
 
 # Multiple XPath patterns to try
@@ -48,54 +45,104 @@ XPATH_PATTERNS = [
 ]
 
 def create_webdriver(headless=True):
-    options = webdriver.ChromeOptions()
+    """Create undetected Chrome driver with better anti-detection"""
+    options = uc.ChromeOptions()
+    
+    # Basic options
     if headless:
         options.add_argument("--headless=new")
+    
+    # Anti-detection options
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")
     options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
-    )
-    chromedriver_path = ChromeDriverManager().install()
-    service = Service(chromedriver_path)
-    driver = webdriver.Chrome(service=service, options=options)
-    return driver
-
-def solve_recaptcha_if_present(driver, solver, timeout=20):
+    
+    # Randomize user agent slightly
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    ]
+    options.add_argument(f"user-agent={random.choice(user_agents)}")
+    
     try:
-        iframe = None
-        candidates = [
-            '//iframe[contains(@src, "recaptcha")]',
-            '//iframe[contains(@title, "reCAPTCHA")]',
-            '//iframe[contains(@src, "google.com/recaptcha")]',
+        driver = uc.Chrome(options=options, version_main=None, use_subprocess=True)
+        
+        # Additional stealth measures
+        driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
+            'source': '''
+                Object.defineProperty(navigator, 'webdriver', {
+                    get: () => undefined
+                });
+                Object.defineProperty(navigator, 'plugins', {
+                    get: () => [1, 2, 3, 4, 5]
+                });
+                Object.defineProperty(navigator, 'languages', {
+                    get: () => ['en-US', 'en']
+                });
+                window.chrome = {
+                    runtime: {}
+                };
+            '''
+        })
+        
+        return driver
+    except Exception as e:
+        print(f"Error creating webdriver: {e}", file=sys.stderr)
+        raise
+
+def human_like_scroll(driver):
+    """Simulate human-like scrolling behavior"""
+    try:
+        # Get page height
+        total_height = driver.execute_script("return document.body.scrollHeight")
+        
+        # Scroll in chunks
+        current_position = 0
+        while current_position < total_height:
+            scroll_amount = random.randint(300, 700)
+            driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
+            current_position += scroll_amount
+            time.sleep(random.uniform(0.3, 0.8))
+        
+        # Scroll back to top
+        driver.execute_script("window.scrollTo(0, 0);")
+        time.sleep(random.uniform(0.5, 1.0))
+    except Exception as e:
+        print(f"Scroll error: {e}", file=sys.stderr)
+
+def check_for_captcha(driver):
+    """Check if CAPTCHA is present on the page"""
+    try:
+        # Check for common CAPTCHA indicators
+        captcha_indicators = [
+            "recaptcha",
+            "captcha",
+            "verify you are human",
+            "automated queries",
+            "Try again later"
         ]
-        for xp in candidates:
-            try:
-                iframe = driver.find_element(By.XPATH, xp)
-                if iframe:
-                    break
-            except NoSuchElementException:
-                continue
-        if not iframe:
-            return False
-        try:
-            solver.click_recaptcha_v2(iframe=iframe)
-            t0 = time.time()
-            while time.time() - t0 < timeout:
-                try:
-                    driver.find_element(By.XPATH, xp)
-                    time.sleep(1)
-                except NoSuchElementException:
-                    return True
-            return True
-        except Exception:
-            try:
-                solver.solve_recaptcha_v2_audio(iframe=iframe)
+        
+        page_text = driver.page_source.lower()
+        for indicator in captcha_indicators:
+            if indicator in page_text:
                 return True
-            except Exception:
-                return False
+        return False
+    except Exception:
+        return False
+
+def wait_for_page_load(driver, timeout=30):
+    """Wait for page to fully load"""
+    try:
+        start_time = time.time()
+        while time.time() - start_time < timeout:
+            ready_state = driver.execute_script("return document.readyState")
+            if ready_state == "complete":
+                return True
+            time.sleep(0.5)
+        return False
     except Exception:
         return False
 
@@ -132,7 +179,7 @@ def extract_article_text_from_html(html_content):
     
     soup = BeautifulSoup(html_content, "html.parser")
     paragraphs = []
-    seen_texts = set()  # Track unique texts to avoid duplicates
+    seen_texts = set()
     
     # First try to find the section element
     section = soup.find("section")
@@ -154,7 +201,6 @@ def extract_article_text_from_html(html_content):
             if isinstance(child, str):
                 text_parts.append(child.strip())
             elif child.name in ['span', 'small', 'strong', 'em', 'a']:
-                # Include text from inline elements
                 txt = child.get_text(separator=" ", strip=True)
                 if txt:
                     text_parts.append(txt)
@@ -163,11 +209,9 @@ def extract_article_text_from_html(html_content):
         
         # Filter out very short texts and check for duplicates
         if len(text) > 20 and text not in seen_texts:
-            # Avoid nested duplicates - check if this text is substring of existing
             is_duplicate = False
             for existing in seen_texts:
                 if text in existing or existing in text:
-                    # Keep the longer version
                     if len(text) > len(existing):
                         paragraphs = [p for p in paragraphs if p != existing]
                         seen_texts.discard(existing)
@@ -184,7 +228,6 @@ def extract_article_text_from_html(html_content):
         paragraphs = []
         seen_texts = set()
         
-        # Look for all divs with substantial text
         for div in all_divs:
             style = div.get("style", "")
             style_norm = normalize_style(style)
@@ -194,12 +237,9 @@ def extract_article_text_from_html(html_content):
             if div.find('figcaption'):
                 continue
             
-            # Get text
             text = div.get_text(separator=" ", strip=True)
             
-            # More permissive length check
             if len(text) > 50 and text not in seen_texts:
-                # Check it's not a navigation or UI element
                 if not any(keyword in text.lower() for keyword in ['subscribe', 'sign in', 'menu', 'share this']):
                     paragraphs.append(text)
                     seen_texts.add(text)
@@ -213,13 +253,14 @@ def fetch_node_outer_html_with_xpaths(driver, xpath_list):
             node = driver.find_element(By.XPATH, xpath)
             if node:
                 html = node.get_attribute("outerHTML")
-                if html and len(html) > 100:  # Ensure we got substantial content
+                if html and len(html) > 100:
                     return html
         except Exception:
             continue
     return ""
 
 def parse_pubdate(entry):
+    """Parse publication date from RSS entry"""
     published = entry.get("published") or entry.get("updated") or ""
     if published:
         try:
@@ -232,64 +273,120 @@ def parse_pubdate(entry):
     return datetime.now(timezone.utc)
 
 def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
+    """Fetch and process RSS feed items"""
     items = []
-    driver = create_webdriver(headless=True)
-    solver = RecaptchaSolver(driver=driver)
-
+    driver = None
+    
     try:
+        driver = create_webdriver(headless=True)
+        
         for feed_url in feed_urls:
+            print(f"\n{'='*60}", file=sys.stderr)
             print(f"Processing feed: {feed_url}", file=sys.stderr)
+            print(f"{'='*60}", file=sys.stderr)
+            
             feed = feedparser.parse(feed_url)
             count = 0
+            
             for entry in feed.entries:
                 if count >= per_feed_limit:
                     break
+                    
                 link = entry.get("link")
                 if not link:
                     continue
+                    
                 original_link = link
                 archive_link = ARCHIVE_PREFIX + original_link
 
                 article_text = ""
-                try:
-                    print(f"Fetching: {archive_link}", file=sys.stderr)
+                retry_count = 0
+                max_retries = 2
+                
+                while retry_count < max_retries and not article_text:
                     try:
-                        driver.set_page_load_timeout(40)
+                        print(f"\n[{count + 1}/{per_feed_limit}] Fetching: {archive_link}", file=sys.stderr)
+                        
+                        # Random delay before fetching
+                        delay = random.uniform(5, 10)
+                        print(f"Waiting {delay:.1f}s before request...", file=sys.stderr)
+                        time.sleep(delay)
+                        
+                        # Set timeout and navigate
+                        driver.set_page_load_timeout(90)
                         driver.get(archive_link)
+                        
+                        # Wait for page to load
+                        print("Waiting for page to load...", file=sys.stderr)
+                        wait_for_page_load(driver, timeout=15)
+                        time.sleep(random.uniform(3, 5))
+                        
+                        # Check for CAPTCHA
+                        if check_for_captcha(driver):
+                            print("⚠️  CAPTCHA detected! Waiting longer...", file=sys.stderr)
+                            time.sleep(random.uniform(15, 25))
+                            
+                            if check_for_captcha(driver):
+                                print("❌ CAPTCHA still present, skipping article", file=sys.stderr)
+                                retry_count += 1
+                                continue
+                        
+                        # Simulate human behavior
+                        human_like_scroll(driver)
+                        time.sleep(random.uniform(1, 2))
+                        
+                        # Try multiple XPath patterns
+                        outer_html = fetch_node_outer_html_with_xpaths(driver, XPATH_PATTERNS)
+                        
+                        if outer_html:
+                            print(f"✓ Extracted HTML fragment: {len(outer_html)} bytes", file=sys.stderr)
+                            article_text = extract_article_text_from_html(outer_html)
+                        
+                        # Fallback to full page source
+                        if not article_text or len(article_text) < 500:
+                            print("Using fallback to page source", file=sys.stderr)
+                            page_src = driver.page_source
+                            article_text = extract_article_text_from_html(page_src)
+                        
+                        print(f"✓ Extracted {len(article_text)} characters", file=sys.stderr)
+                        
+                        # Check if extraction was successful
+                        if len(article_text) < 500:
+                            print(f"⚠️  Short article text ({len(article_text)} chars)", file=sys.stderr)
+                            
+                            # Save debug info
+                            if retry_count == 0:
+                                debug_file = f"debug_{count}_{retry_count}.html"
+                                with open(debug_file, "w", encoding="utf-8") as f:
+                                    f.write(driver.page_source)
+                                print(f"Debug file saved: {debug_file}", file=sys.stderr)
+                            
+                            retry_count += 1
+                            if retry_count < max_retries:
+                                print(f"Retrying... (attempt {retry_count + 1}/{max_retries})", file=sys.stderr)
+                                time.sleep(random.uniform(10, 15))
+                        else:
+                            break  # Success, exit retry loop
+                            
                     except TimeoutException:
-                        pass
-                    time.sleep(2)
+                        print("⚠️  Page load timeout", file=sys.stderr)
+                        retry_count += 1
+                        if retry_count < max_retries:
+                            time.sleep(random.uniform(10, 15))
+                    except Exception as e:
+                        print(f"❌ Error extracting article: {repr(e)}", file=sys.stderr)
+                        retry_count += 1
+                        if retry_count < max_retries:
+                            time.sleep(random.uniform(10, 15))
 
-                    # Attempt recaptcha solve if present
-                    try:
-                        solve_recaptcha_if_present(driver, solver)
-                    except Exception:
-                        pass
-
-                    # Try multiple XPath patterns
-                    outer_html = fetch_node_outer_html_with_xpaths(driver, XPATH_PATTERNS)
-                    
-                    if outer_html:
-                        article_text = extract_article_text_from_html(outer_html)
-                    
-                    # Fallback to full page source if XPaths didn't work
-                    if not article_text or len(article_text) < 200:
-                        print("Using fallback to page source", file=sys.stderr)
-                        page_src = driver.page_source
-                        article_text = extract_article_text_from_html(page_src)
-                    
-                    print(f"Extracted {len(article_text)} characters", file=sys.stderr)
-                    
-                except Exception as e:
-                    print(f"Error extracting article: {repr(e)}", file=sys.stderr)
-                    article_text = ""
-
+                # Extract image
                 image_url = None
                 if hasattr(entry, "media_content") and entry.media_content:
                     image_url = entry.media_content[0].get("url")
                 elif hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
                     image_url = entry.media_thumbnail[0].get("url")
 
+                # Parse publication date
                 pub_dt = parse_pubdate(entry)
                 pub_str = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
@@ -304,22 +401,31 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                 })
 
                 count += 1
-                time.sleep(1)
+                
+    except KeyboardInterrupt:
+        print("\n\n⚠️  Interrupted by user", file=sys.stderr)
+    except Exception as e:
+        print(f"\n❌ Fatal error: {repr(e)}", file=sys.stderr)
+        raise
     finally:
-        try:
-            driver.quit()
-        except Exception:
-            pass
+        if driver:
+            try:
+                print("\nClosing browser...", file=sys.stderr)
+                driver.quit()
+            except Exception:
+                pass
 
+    # Sort by date and limit
     items.sort(key=lambda x: x["pub_dt"], reverse=True)
     return items[:MAX_ITEMS]
 
 def create_rss(items, outpath="combined.xml"):
+    """Create RSS XML file from items"""
     rss = ET.Element("rss", version="2.0", attrib={"xmlns:media": "http://search.yahoo.com/mrss/"})
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "Combined Economist RSS Feed"
     ET.SubElement(channel, "link").text = "https://yourusername.github.io/combined.xml"
-    ET.SubElement(channel, "description").text = "Combined Economist feed with full article text (Selenium)."
+    ET.SubElement(channel, "description").text = "Combined Economist feed with full article text."
 
     for it in items:
         i = ET.SubElement(channel, "item")
@@ -337,9 +443,18 @@ def create_rss(items, outpath="combined.xml"):
 
 if __name__ == "__main__":
     try:
+        print("=" * 60, file=sys.stderr)
+        print("Starting Economist RSS Scraper", file=sys.stderr)
+        print("=" * 60, file=sys.stderr)
+        
         items = fetch_items(RSS_FEEDS, PER_FEED_LIMIT)
         create_rss(items)
-        print(f"combined.xml written with {len(items)} items")
+        
+        print("\n" + "=" * 60, file=sys.stderr)
+        print(f"✓ SUCCESS: combined.xml written with {len(items)} items", file=sys.stderr)
+        print("=" * 60, file=sys.stderr)
     except Exception as e:
-        print("ERROR:", repr(e), file=sys.stderr)
+        print("\n" + "=" * 60, file=sys.stderr)
+        print(f"❌ ERROR: {repr(e)}", file=sys.stderr)
+        print("=" * 60, file=sys.stderr)
         raise
