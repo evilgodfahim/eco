@@ -12,6 +12,7 @@ import time
 FLARESOLVERR_URL = "http://localhost:8191/v1"
 ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 MAX_ITEMS = 500
+PER_FEED_LIMIT = 10
 
 rss_feeds = [
     "https://www.economist.com/briefing/rss.xml",
@@ -74,13 +75,17 @@ def extract_article_text(html_content):
 # ------------------------------
 # RSS ITEM FETCH
 # ------------------------------
-def fetch_items(feed_urls):
+def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
     all_items = []
 
     for feed_url in feed_urls:
         feed = feedparser.parse(feed_url)
+        count = 0
 
         for entry in feed.entries:
+            if count >= per_feed_limit:
+                break
+
             if not hasattr(entry, "link"):
                 continue
 
@@ -110,6 +115,7 @@ def fetch_items(feed_urls):
                 "image": image_url
             })
 
+            count += 1
             time.sleep(1)
 
     all_items.sort(
@@ -171,4 +177,4 @@ if __name__ == "__main__":
     with open("combined.xml", "wb") as f:
         f.write(rss_xml)
 
-    print("Combined RSS feed created with FlareSolverr-rendered full text.")
+    print("Combined RSS feed created with FlareSolverr-rendered full text and per-feed limit applied.")
