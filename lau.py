@@ -18,7 +18,7 @@ import re
 from selenium_recaptcha_solver import RecaptchaSolver
 
 # CONFIG
-PER_FEED_LIMIT = 10
+PER_FEED_LIMIT = 1
 MAX_ITEMS = 500
 ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 RSS_FEEDS = [
