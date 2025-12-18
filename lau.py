@@ -1,18 +1,19 @@
 #!/usr/bin/env python3
-# lau.py - Combined Economist RSS using undetected-chromedriver for better bot evasion
+# lau.py - Combined Economist RSS using pyppeteer-stealth + GoogleRecaptchaBypass
 
 import feedparser
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-import undetected_chromedriver as uc
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
 from bs4 import BeautifulSoup
+import asyncio
 import time
 import sys
 import re
 import random
+from pyppeteer import launch
+from pyppeteer_stealth import stealth
+from GoogleRecaptchaBypass import AsyncBypass
 
 # CONFIG
 PER_FEED_LIMIT = 1
@@ -36,116 +37,6 @@ RSS_FEEDS = [
     #"https://www.economist.com/the-americas/rss.xml",
 ]
 
-# Multiple XPath patterns to try
-XPATH_PATTERNS = [
-    "/html/body/center/div[4]/div/div[1]/div/div/div[1]/div/div/div[3]/div/main/article/div/div[1]/div[3]/div/section",
-    "//article//section",
-    "//main//article//section",
-    "//article",
-]
-
-def create_webdriver(headless=True):
-    """Create undetected Chrome driver with better anti-detection"""
-    options = uc.ChromeOptions()
-    
-    # Basic options
-    if headless:
-        options.add_argument("--headless=new")
-    
-    # Anti-detection options
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920,1080")
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    
-    # Randomize user agent slightly
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-    ]
-    options.add_argument(f"user-agent={random.choice(user_agents)}")
-    
-    try:
-        driver = uc.Chrome(options=options, version_main=None, use_subprocess=True)
-        
-        # Additional stealth measures
-        driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
-            'source': '''
-                Object.defineProperty(navigator, 'webdriver', {
-                    get: () => undefined
-                });
-                Object.defineProperty(navigator, 'plugins', {
-                    get: () => [1, 2, 3, 4, 5]
-                });
-                Object.defineProperty(navigator, 'languages', {
-                    get: () => ['en-US', 'en']
-                });
-                window.chrome = {
-                    runtime: {}
-                };
-            '''
-        })
-        
-        return driver
-    except Exception as e:
-        print(f"Error creating webdriver: {e}", file=sys.stderr)
-        raise
-
-def human_like_scroll(driver):
-    """Simulate human-like scrolling behavior"""
-    try:
-        # Get page height
-        total_height = driver.execute_script("return document.body.scrollHeight")
-        
-        # Scroll in chunks
-        current_position = 0
-        while current_position < total_height:
-            scroll_amount = random.randint(300, 700)
-            driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
-            current_position += scroll_amount
-            time.sleep(random.uniform(0.3, 0.8))
-        
-        # Scroll back to top
-        driver.execute_script("window.scrollTo(0, 0);")
-        time.sleep(random.uniform(0.5, 1.0))
-    except Exception as e:
-        print(f"Scroll error: {e}", file=sys.stderr)
-
-def check_for_captcha(driver):
-    """Check if CAPTCHA is present on the page"""
-    try:
-        # Check for common CAPTCHA indicators
-        captcha_indicators = [
-            "recaptcha",
-            "captcha",
-            "verify you are human",
-            "automated queries",
-            "Try again later"
-        ]
-        
-        page_text = driver.page_source.lower()
-        for indicator in captcha_indicators:
-            if indicator in page_text:
-                return True
-        return False
-    except Exception:
-        return False
-
-def wait_for_page_load(driver, timeout=30):
-    """Wait for page to fully load"""
-    try:
-        start_time = time.time()
-        while time.time() - start_time < timeout:
-            ready_state = driver.execute_script("return document.readyState")
-            if ready_state == "complete":
-                return True
-            time.sleep(0.5)
-        return False
-    except Exception:
-        return False
-
 def normalize_style(style_str):
     """Normalize style string by removing all whitespace"""
     if not style_str:
@@ -154,19 +45,15 @@ def normalize_style(style_str):
 
 def is_content_div(div, style_norm):
     """Check if a div contains article content based on style"""
-    # Skip if display:none
     if 'display:none' in style_norm:
         return False
     
-    # Skip figcaptions
     if div.find('figcaption'):
         return False
     
-    # Look for content indicators - line-height is key
     if 'line-height:28px' in style_norm or 'line-height:24px' in style_norm:
         return True
     
-    # Also check font-size as indicator
     if ('font-size:20px' in style_norm or 'font-size:17px' in style_norm) and 'line-height' in style_norm:
         return True
     
@@ -181,11 +68,9 @@ def extract_article_text_from_html(html_content):
     paragraphs = []
     seen_texts = set()
     
-    # First try to find the section element
     section = soup.find("section")
     search_root = section if section else soup
     
-    # Find all divs in the content area
     all_divs = search_root.find_all("div", recursive=True)
     
     for div in all_divs:
@@ -195,7 +80,6 @@ def extract_article_text_from_html(html_content):
         if not is_content_div(div, style_norm):
             continue
         
-        # Get direct text from this div (not from nested elements)
         text_parts = []
         for child in div.children:
             if isinstance(child, str):
@@ -207,7 +91,6 @@ def extract_article_text_from_html(html_content):
         
         text = " ".join(text_parts).strip()
         
-        # Filter out very short texts and check for duplicates
         if len(text) > 20 and text not in seen_texts:
             is_duplicate = False
             for existing in seen_texts:
@@ -223,7 +106,6 @@ def extract_article_text_from_html(html_content):
                 paragraphs.append(text)
                 seen_texts.add(text)
     
-    # If we didn't find much, try a more permissive approach
     if len(paragraphs) < 3:
         paragraphs = []
         seen_texts = set()
@@ -246,18 +128,88 @@ def extract_article_text_from_html(html_content):
     
     return "\n\n".join(paragraphs).strip()
 
-def fetch_node_outer_html_with_xpaths(driver, xpath_list):
-    """Try multiple XPath patterns to find the content"""
-    for xpath in xpath_list:
+async def check_for_recaptcha(page):
+    """Check if reCAPTCHA is present on the page"""
+    try:
+        # Check for reCAPTCHA iframe
+        frames = page.frames
+        for frame in frames:
+            if 'recaptcha' in frame.url.lower():
+                return True
+    except:
+        pass
+    
+    try:
+        # Check page content for CAPTCHA indicators
+        content = await page.content()
+        captcha_indicators = [
+            "recaptcha",
+            "captcha",
+            "verify you are human",
+            "automated queries",
+            "Try again later"
+        ]
+        
+        content_lower = content.lower()
+        for indicator in captcha_indicators:
+            if indicator in content_lower:
+                return True
+    except:
+        pass
+    
+    return False
+
+async def solve_recaptcha_with_bypass(page, max_attempts=3):
+    """Attempt to solve reCAPTCHA using GoogleRecaptchaBypass"""
+    for attempt in range(max_attempts):
         try:
-            node = driver.find_element(By.XPATH, xpath)
-            if node:
-                html = node.get_attribute("outerHTML")
-                if html and len(html) > 100:
-                    return html
-        except Exception:
-            continue
-    return ""
+            print(f"  Attempting reCAPTCHA solve (attempt {attempt + 1}/{max_attempts})...", file=sys.stderr)
+            
+            # Wait a bit for reCAPTCHA to fully load
+            await asyncio.sleep(random.uniform(2, 4))
+            
+            # Initialize GoogleRecaptchaBypass
+            bypass = AsyncBypass(page)
+            
+            # Attempt to solve the reCAPTCHA
+            result = await bypass.bypass()
+            
+            if result:
+                print("  ✓ reCAPTCHA solved successfully!", file=sys.stderr)
+                await asyncio.sleep(random.uniform(2, 4))
+                return True
+            else:
+                print(f"  ✗ Solve attempt {attempt + 1} failed", file=sys.stderr)
+                await asyncio.sleep(random.uniform(3, 6))
+                
+        except Exception as e:
+            print(f"  ✗ Error solving reCAPTCHA: {e}", file=sys.stderr)
+            await asyncio.sleep(random.uniform(3, 6))
+    
+    return False
+
+async def human_like_scroll(page):
+    """Simulate human-like scrolling behavior"""
+    try:
+        await page.evaluate("""
+            async () => {
+                const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+                const scrollHeight = document.body.scrollHeight;
+                let currentPosition = 0;
+                
+                while (currentPosition < scrollHeight) {
+                    const scrollAmount = Math.floor(Math.random() * 400) + 300;
+                    window.scrollBy(0, scrollAmount);
+                    currentPosition += scrollAmount;
+                    await delay(Math.random() * 500 + 300);
+                }
+                
+                window.scrollTo(0, 0);
+                await delay(500);
+            }
+        """)
+    except Exception as e:
+        print(f"  Scroll error: {e}", file=sys.stderr)
 
 def parse_pubdate(entry):
     """Parse publication date from RSS entry"""
@@ -272,13 +224,56 @@ def parse_pubdate(entry):
             pass
     return datetime.now(timezone.utc)
 
-def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
-    """Fetch and process RSS feed items"""
+async def fetch_items_async(feed_urls, per_feed_limit=PER_FEED_LIMIT):
+    """Fetch and process RSS feed items using Pyppeteer with stealth"""
     items = []
-    driver = None
+    
+    # Launch browser with stealth mode
+    browser = await launch(
+        headless=True,
+        args=[
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-blink-features=AutomationControlled',
+            '--disable-infobars',
+            '--window-size=1920,1080',
+            '--disable-extensions',
+            '--disable-gpu',
+        ],
+        ignoreHTTPSErrors=True,
+    )
     
     try:
-        driver = create_webdriver(headless=True)
+        page = await browser.newPage()
+        
+        # Apply stealth mode
+        await stealth(page)
+        
+        # Set viewport and user agent
+        await page.setViewport({'width': 1920, 'height': 1080})
+        await page.setUserAgent(
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+            '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+        )
+        
+        # Additional stealth measures
+        await page.evaluateOnNewDocument("""
+            () => {
+                Object.defineProperty(navigator, 'webdriver', {
+                    get: () => undefined
+                });
+                Object.defineProperty(navigator, 'plugins', {
+                    get: () => [1, 2, 3, 4, 5]
+                });
+                Object.defineProperty(navigator, 'languages', {
+                    get: () => ['en-US', 'en']
+                });
+                window.chrome = {
+                    runtime: {}
+                };
+            }
+        """)
         
         for feed_url in feed_urls:
             print(f"\n{'='*60}", file=sys.stderr)
@@ -291,14 +286,14 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
             for entry in feed.entries:
                 if count >= per_feed_limit:
                     break
-                    
+                
                 link = entry.get("link")
                 if not link:
                     continue
-                    
+                
                 original_link = link
                 archive_link = ARCHIVE_PREFIX + original_link
-
+                
                 article_text = ""
                 retry_count = 0
                 max_retries = 2
@@ -310,43 +305,50 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                         # Random delay before fetching
                         delay = random.uniform(5, 10)
                         print(f"Waiting {delay:.1f}s before request...", file=sys.stderr)
-                        time.sleep(delay)
+                        await asyncio.sleep(delay)
                         
-                        # Set timeout and navigate
-                        driver.set_page_load_timeout(90)
-                        driver.get(archive_link)
+                        # Navigate to page
+                        try:
+                            await page.goto(archive_link, {
+                                'waitUntil': 'networkidle2',
+                                'timeout': 90000
+                            })
+                        except Exception as e:
+                            print(f"  Navigation error: {e}", file=sys.stderr)
+                            await page.goto(archive_link, {
+                                'waitUntil': 'domcontentloaded',
+                                'timeout': 90000
+                            })
                         
-                        # Wait for page to load
                         print("Waiting for page to load...", file=sys.stderr)
-                        wait_for_page_load(driver, timeout=15)
-                        time.sleep(random.uniform(3, 5))
+                        await asyncio.sleep(random.uniform(3, 5))
                         
                         # Check for CAPTCHA
-                        if check_for_captcha(driver):
-                            print("⚠️  CAPTCHA detected! Waiting longer...", file=sys.stderr)
-                            time.sleep(random.uniform(15, 25))
+                        if await check_for_recaptcha(page):
+                            print("⚠️  CAPTCHA detected! Attempting to solve...", file=sys.stderr)
                             
-                            if check_for_captcha(driver):
+                            # Try to solve with GoogleRecaptchaBypass
+                            solved = await solve_recaptcha_with_bypass(page, max_attempts=3)
+                            
+                            if not solved:
                                 print("❌ CAPTCHA still present, skipping article", file=sys.stderr)
                                 retry_count += 1
+                                await asyncio.sleep(random.uniform(15, 25))
                                 continue
+                            else:
+                                # Wait after solving
+                                await asyncio.sleep(random.uniform(3, 5))
                         
                         # Simulate human behavior
-                        human_like_scroll(driver)
-                        time.sleep(random.uniform(1, 2))
+                        await human_like_scroll(page)
+                        await asyncio.sleep(random.uniform(1, 2))
                         
-                        # Try multiple XPath patterns
-                        outer_html = fetch_node_outer_html_with_xpaths(driver, XPATH_PATTERNS)
+                        # Get page content
+                        content = await page.content()
                         
-                        if outer_html:
-                            print(f"✓ Extracted HTML fragment: {len(outer_html)} bytes", file=sys.stderr)
-                            article_text = extract_article_text_from_html(outer_html)
-                        
-                        # Fallback to full page source
-                        if not article_text or len(article_text) < 500:
-                            print("Using fallback to page source", file=sys.stderr)
-                            page_src = driver.page_source
-                            article_text = extract_article_text_from_html(page_src)
+                        if content:
+                            print(f"✓ Extracted HTML: {len(content)} bytes", file=sys.stderr)
+                            article_text = extract_article_text_from_html(content)
                         
                         print(f"✓ Extracted {len(article_text)} characters", file=sys.stderr)
                         
@@ -358,26 +360,21 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                             if retry_count == 0:
                                 debug_file = f"debug_{count}_{retry_count}.html"
                                 with open(debug_file, "w", encoding="utf-8") as f:
-                                    f.write(driver.page_source)
+                                    f.write(content)
                                 print(f"Debug file saved: {debug_file}", file=sys.stderr)
                             
                             retry_count += 1
                             if retry_count < max_retries:
                                 print(f"Retrying... (attempt {retry_count + 1}/{max_retries})", file=sys.stderr)
-                                time.sleep(random.uniform(10, 15))
+                                await asyncio.sleep(random.uniform(10, 15))
                         else:
                             break  # Success, exit retry loop
                             
-                    except TimeoutException:
-                        print("⚠️  Page load timeout", file=sys.stderr)
-                        retry_count += 1
-                        if retry_count < max_retries:
-                            time.sleep(random.uniform(10, 15))
                     except Exception as e:
                         print(f"❌ Error extracting article: {repr(e)}", file=sys.stderr)
                         retry_count += 1
                         if retry_count < max_retries:
-                            time.sleep(random.uniform(10, 15))
+                            await asyncio.sleep(random.uniform(10, 15))
 
                 # Extract image
                 image_url = None
@@ -408,16 +405,17 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
         print(f"\n❌ Fatal error: {repr(e)}", file=sys.stderr)
         raise
     finally:
-        if driver:
-            try:
-                print("\nClosing browser...", file=sys.stderr)
-                driver.quit()
-            except Exception:
-                pass
+        await browser.close()
 
     # Sort by date and limit
     items.sort(key=lambda x: x["pub_dt"], reverse=True)
     return items[:MAX_ITEMS]
+
+def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
+    """Synchronous wrapper for async fetch_items_async"""
+    return asyncio.get_event_loop().run_until_complete(
+        fetch_items_async(feed_urls, per_feed_limit)
+    )
 
 def create_rss(items, outpath="combined.xml"):
     """Create RSS XML file from items"""
