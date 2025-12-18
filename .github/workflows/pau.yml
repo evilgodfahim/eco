@@ -2,7 +2,7 @@ name: Update Combined Economist RSS
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
 
 jobs:
@@ -13,37 +13,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            wget unzip xvfb libnss3 libxss1 libasound2 \
+            libatk1.0-0 libatk-bridge2.0-0 libcups2 \
+            libgtk-3-0 libx11-xcb1
+          # install Google Chrome
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install -y ./google-chrome-stable_current_amd64.deb
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip xvfb libxi6 libgconf-2-4 ffmpeg
-
-      - name: Install Google Chrome
-        run: |
-          wget -q -O google-chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo apt install -y ./google-chrome.deb
-          google-chrome --version
-
-      - name: Install ChromeDriver
-        run: |
-          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
-          wget -q "https://chromedriver.storage.googleapis.com/$CHROME_VERSION/chromedriver_linux64.zip"
-          unzip chromedriver_linux64.zip
-          sudo mv chromedriver /usr/bin/chromedriver
-          sudo chmod +x /usr/bin/chromedriver
-          chromedriver --version
-
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser beautifulsoup4 selenium selenium-recaptcha-solver lxml
+          pip install feedparser requests beautifulsoup4 selenium selenium-recaptcha-solver
 
-      - name: Generate combined RSS
+      - name: Run combined RSS script
         run: |
           python lau.py
 
