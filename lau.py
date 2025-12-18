@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-# lau.py - Combined Economist RSS using Selenium + selenium-recaptcha-solver
-# Requires: selenium, selenium-recaptcha-solver, beautifulsoup4, feedparser, requests
-# Run in an environment with Chrome and chromedriver installed.
+# lau.py - Combined Economist RSS using Selenium + webdriver-manager (+ optional RecaptchaSolver)
 
 import feedparser
 import xml.etree.ElementTree as ET
@@ -9,15 +7,18 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import (
-    TimeoutException,
-    NoSuchElementException,
-    WebDriverException,
-)
-from selenium_recaptcha_solver import RecaptchaSolver
+from selenium.webdriver.chrome.service import Service
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
+from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 import time
 import sys
+
+# Try to import RecaptchaSolver; proceed without it if not usable in environment
+try:
+    from selenium_recaptcha_solver import RecaptchaSolver
+except Exception:
+    RecaptchaSolver = None
 
 # CONFIG
 PER_FEED_LIMIT = 10
@@ -46,67 +47,61 @@ PRIMARY_XPATH = (
     "div/main/article/div/div[1]/div[3]/div/section/div"
 )
 
-# Non-headless-looking user-agent (avoid obvious HeadlessChrome)
-DEFAULT_UA = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-)
-
-# WEBDRIVER
-def create_webdriver(headless=True, ua=DEFAULT_UA):
-    opts = webdriver.ChromeOptions()
+# Create Chrome webdriver using webdriver-manager to fetch matching chromedriver
+def create_webdriver(headless=True):
+    options = webdriver.ChromeOptions()
     if headless:
-        # use new headless mode where available
-        opts.add_argument("--headless=new")
-    opts.add_argument("--no-sandbox")
-    opts.add_argument("--disable-dev-shm-usage")
-    opts.add_argument("--disable-blink-features=AutomationControlled")
-    opts.add_argument(f"--user-agent={ua}")
-    # optional: reduce logging
-    opts.add_experimental_option("excludeSwitches", ["enable-logging"])
-    return webdriver.Chrome(options=opts)
+        # use modern headless mode if available
+        options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    # optional UA to reduce detection footprint
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    )
+    # install driver that matches installed Chrome
+    chromedriver_path = ChromeDriverManager().install()
+    service = Service(chromedriver_path)
+    driver = webdriver.Chrome(service=service, options=options)
+    return driver
 
-# RECAPTCHA SOLVING (if present)
+# Attempt to detect and solve reCAPTCHA using solver (if available)
 def solve_recaptcha_if_present(driver, solver, timeout=20):
-    """
-    Detect a reCAPTCHA iframe and attempt to solve it using the solver.
-    Returns True if a solve was attempted, False otherwise.
-    """
+    if solver is None:
+        return False
     try:
-        # common iframe patterns
-        iframe_xpath_candidates = [
+        # search for common recaptcha iframe patterns
+        iframe = None
+        candidates = [
             '//iframe[contains(@src, "recaptcha")]',
-            '//iframe[@title="reCAPTCHA"]',
             '//iframe[contains(@title, "reCAPTCHA")]',
             '//iframe[contains(@src, "google.com/recaptcha")]',
         ]
-        iframe = None
-        for xp in iframe_xpath_candidates:
+        for xp in candidates:
             try:
                 iframe = driver.find_element(By.XPATH, xp)
                 if iframe:
                     break
             except NoSuchElementException:
                 continue
-
         if not iframe:
             return False
-
-        # click checkbox / trigger solver (library provides click_recaptcha_v2)
+        # click checkbox flow (library helper)
         try:
             solver.click_recaptcha_v2(iframe=iframe)
-            # give time for the challenge to resolve
+            # wait a bit for challenge to clear
             t0 = time.time()
             while time.time() - t0 < timeout:
-                # if recaptcha removed or iframe no longer present, assume solved
                 try:
-                    _ = driver.find_element(By.XPATH, xp)
+                    # re-check presence
+                    driver.find_element(By.XPATH, xp)
                     time.sleep(1)
                 except NoSuchElementException:
-                    break
+                    return True
             return True
         except Exception:
-            # attempt audio-based solve if click_recaptcha_v2 failed
             try:
                 solver.solve_recaptcha_v2_audio(iframe=iframe)
                 return True
@@ -115,19 +110,17 @@ def solve_recaptcha_if_present(driver, solver, timeout=20):
     except Exception:
         return False
 
-# EXTRACTION: XPath via Selenium first, then section+line-height fallback via BeautifulSoup
-def extract_article_text_from_driver_html(html_fragment_or_page_source):
+# Extract article text: prefer XPath fragment if provided, else use section + line-height filter
+def extract_article_text_from_html(html_fragment_or_page_source):
     if not html_fragment_or_page_source:
         return ""
-
     soup = BeautifulSoup(html_fragment_or_page_source, "html.parser")
 
-    # If the content is a full page, try to find the precise section
-    section_node = soup.find("section")
+    # Try section-based extraction first
+    section = soup.find("section")
     paragraphs = []
-
-    if section_node:
-        for div in section_node.find_all("div", style=True):
+    if section:
+        for div in section.find_all("div", style=True):
             style = (div.get("style") or "").replace(" ", "").lower()
             if "line-height:28px" in style and "display:none" not in style:
                 if div.find("figcaption"):
@@ -136,9 +129,8 @@ def extract_article_text_from_driver_html(html_fragment_or_page_source):
                 if text:
                     paragraphs.append(text)
 
-    # If nothing found with section method, attempt permissive div scan on the fragment/page
+    # Fallback: permissive scan
     if not paragraphs:
-        # collect divs that look like article paragraphs
         for div in soup.find_all("div"):
             style = (div.get("style") or "").replace(" ", "").lower()
             if "display:none" in style:
@@ -151,7 +143,7 @@ def extract_article_text_from_driver_html(html_fragment_or_page_source):
                     continue
                 paragraphs.append(text)
 
-    # Dedupe small consecutive duplicates and return
+    # Deduplicate consecutive duplicates
     cleaned = []
     prev = None
     for p in paragraphs:
@@ -162,19 +154,14 @@ def extract_article_text_from_driver_html(html_fragment_or_page_source):
 
     return "\n\n".join(cleaned).strip()
 
-# Try to fetch node via Selenium XPath; return outerHTML on success
 def fetch_node_outer_html_if_xpath_matches(driver, xpath):
     try:
         node = driver.find_element(By.XPATH, xpath)
         if node:
-            outer = node.get_attribute("outerHTML")
-            return outer or ""
-    except NoSuchElementException:
-        return ""
-    except WebDriverException:
+            return node.get_attribute("outerHTML") or ""
+    except Exception:
         return ""
 
-# DATE PARSING
 def parse_pubdate(entry):
     published = entry.get("published") or entry.get("updated") or ""
     if published:
@@ -187,82 +174,65 @@ def parse_pubdate(entry):
             pass
     return datetime.now(timezone.utc)
 
-# MAIN FETCH LOOP
 def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
     items = []
-    driver = None
+    driver = create_webdriver(headless=True)
     solver = None
+    if RecaptchaSolver is not None:
+        try:
+            solver = RecaptchaSolver(driver=driver)
+        except Exception:
+            solver = None
+
     try:
-        driver = create_webdriver(headless=True)
-        solver = RecaptchaSolver(driver=driver)
-    except Exception as e:
-        # if solver init fails, still try without solver
-        solver = None
-        if driver is None:
-            # critical failure creating webdriver
-            raise
+        for feed_url in feed_urls:
+            feed = feedparser.parse(feed_url)
+            count = 0
+            for entry in feed.entries:
+                if count >= per_feed_limit:
+                    break
+                link = entry.get("link")
+                if not link:
+                    continue
+                original_link = link
+                archive_link = ARCHIVE_PREFIX + original_link
 
-    for feed_url in feed_urls:
-        feed = feedparser.parse(feed_url)
-        count = 0
-        for entry in feed.entries:
-            if count >= per_feed_limit:
-                break
-            link = entry.get("link")
-            if not link:
-                continue
-
-            original_link = link
-            archive_link = ARCHIVE_PREFIX + original_link
-
-            # Attempt: open original page with Selenium (precise), solve recaptcha if necessary
-            article_text = ""
-            try:
-                try:
-                    driver.set_page_load_timeout(40)
-                    driver.get(original_link)
-                except TimeoutException:
-                    # proceed with whatever loaded
-                    pass
-                time.sleep(2)  # let JS settle
-
-                # if recaptcha present, try to solve
-                solved = False
-                if solver:
-                    try:
-                        solved = solve_recaptcha_if_present(driver, solver)
-                    except Exception:
-                        solved = False
-
-                # try primary XPath on rendered DOM via Selenium
-                outer = ""
-                try:
-                    outer = fetch_node_outer_html_if_xpath_matches(driver, PRIMARY_XPATH)
-                except Exception:
-                    outer = ""
-
-                if outer:
-                    article_text = extract_article_text_from_driver_html(outer)
-                else:
-                    # fallback: get full page source and extract section paragraphs
-                    page_src = driver.page_source
-                    article_text = extract_article_text_from_driver_html(page_src)
-
-            except Exception:
                 article_text = ""
+                try:
+                    try:
+                        driver.set_page_load_timeout(40)
+                        driver.get(original_link)
+                    except TimeoutException:
+                        pass
+                    time.sleep(2)
 
-            # image extraction from feed entry if available
-            image_url = None
-            if hasattr(entry, "media_content") and entry.media_content:
-                image_url = entry.media_content[0].get("url")
-            elif hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
-                image_url = entry.media_thumbnail[0].get("url")
+                    # attempt recaptcha solve if present
+                    if solver:
+                        try:
+                            solve_recaptcha_if_present(driver, solver)
+                        except Exception:
+                            pass
 
-            pub_dt = parse_pubdate(entry)
-            pub_str = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+                    # try primary XPath fragment first
+                    outer = fetch_node_outer_html_if_xpath_matches(driver, PRIMARY_XPATH)
+                    if outer:
+                        article_text = extract_article_text_from_html(outer)
+                    else:
+                        page_src = driver.page_source
+                        article_text = extract_article_text_from_html(page_src)
+                except Exception:
+                    article_text = ""
 
-            items.append(
-                {
+                image_url = None
+                if hasattr(entry, "media_content") and entry.media_content:
+                    image_url = entry.media_content[0].get("url")
+                elif hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+                    image_url = entry.media_thumbnail[0].get("url")
+
+                pub_dt = parse_pubdate(entry)
+                pub_str = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+                items.append({
                     "title": entry.get("title", "").strip(),
                     "link": archive_link,
                     "original_link": original_link,
@@ -270,29 +240,25 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                     "pubDate": pub_str,
                     "pub_dt": pub_dt,
                     "image": image_url,
-                }
-            )
+                })
 
-            count += 1
-            time.sleep(1)
-
-    # cleanup webdriver
-    try:
-        if driver:
+                count += 1
+                time.sleep(1)
+    finally:
+        try:
             driver.quit()
-    except Exception:
-        pass
+        except Exception:
+            pass
 
     items.sort(key=lambda x: x["pub_dt"], reverse=True)
     return items[:MAX_ITEMS]
 
-# RSS CREATION
 def create_rss(items, outpath="combined.xml"):
     rss = ET.Element("rss", version="2.0", attrib={"xmlns:media": "http://search.yahoo.com/mrss/"})
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "Combined Economist RSS Feed"
     ET.SubElement(channel, "link").text = "https://yourusername.github.io/combined.xml"
-    ET.SubElement(channel, "description").text = "Combined Economist feed with full article text (Selenium + RecaptchaSolver)."
+    ET.SubElement(channel, "description").text = "Combined Economist feed with full article text (Selenium)."
 
     for it in items:
         i = ET.SubElement(channel, "item")
@@ -308,17 +274,11 @@ def create_rss(items, outpath="combined.xml"):
     with open(outpath, "wb") as f:
         f.write(xml_bytes)
 
-# RUN
 if __name__ == "__main__":
     try:
         items = fetch_items(RSS_FEEDS, PER_FEED_LIMIT)
         create_rss(items)
     except Exception as e:
-        # minimal error output (no extra words)
         print("ERROR:", repr(e), file=sys.stderr)
-        try:
-            # ensure driver quits on fatal error
-            pass
-        finally:
-            raise
+        raise
     print("combined.xml written")
