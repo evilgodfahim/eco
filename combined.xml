@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Seen from above, el-Fasher is a ghost town</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2025/12/18/seen-from-above-el-fasher-is-a-ghost-town</link>
+      <description>Satellite imagery reveals how North Darfur’s capital has been abandoned after its fall</description>
+      <pubDate>Thu, 18 Dec 2025 17:51:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Your Well Informed guide to surviving Christmas</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/your-well-informed-guide-to-surviving-christmas</link>
       <description>Drink slowly, eat cake and remember that fun is good for you, too</description>
@@ -135,6 +141,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/18/meet-the-american-investors-rushing-into-congo</link>
       <description>They are taking on war, corruption and China</description>
       <pubDate>Thu, 18 Dec 2025 10:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the young can make sense of the news</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/how-the-young-can-make-sense-of-the-news</link>
+      <description>With your help, the Economist Educational Foundation can teach children to think critically</description>
+      <pubDate>Thu, 18 Dec 2025 10:23:54 +0000</pubDate>
     </item>
     <item>
       <title>This Christmas, raise a glass to concentrated market returns</title>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/10/30/what-will-it-cost-to-make-vladimir-putin-stop</link>
       <description>Europe must offer Ukraine a big enough financial package to deter the Kremlin</description>
       <pubDate>Thu, 30 Oct 2025 10:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>As new jobs in finance dry up, New York City’s fiscal model is wilting</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/10/30/as-new-jobs-in-finance-dry-up-new-york-citys-fiscal-model-is-wilting</link>
-      <description>High taxes irk the rich and high prices plague everyone else</description>
-      <pubDate>Thu, 30 Oct 2025 10:21:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zohran Mamdani wants to make New York great again</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/zohran-mamdani-wants-to-make-new-york-great-again</link>
-      <description>Donald Trump is not the only politician nostalgic for a different America</description>
-      <pubDate>Thu, 30 Oct 2025 10:21:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
