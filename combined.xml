@@ -5,6 +5,84 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Your Well Informed guide to surviving Christmas</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/your-well-informed-guide-to-surviving-christmas</link>
+      <description>Drink slowly, eat cake and remember that fun is good for you, too</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Economist’s country of the year for 2025</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/the-economists-country-of-the-year-for-2025</link>
+      <description>Which country improved the most this year?</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Novo Nordisk, OpenAI and Pop Mart have in common</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/what-novo-nordisk-openai-and-pop-mart-have-in-common</link>
+      <description>All three have suffered the curse of overnight success</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two months in, the Gaza ceasefire is floundering</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/two-months-in-the-gaza-ceasefire-is-floundering</link>
+      <description>The consequences will ripple beyond the Middle East</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>China proved its strengths in 2025—and Donald Trump helped</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/china-proved-its-strengths-in-2025-and-donald-trump-helped</link>
+      <description>It was a good year for Xi Jinping</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>A vote against gerrymandering shows why political courage is rare</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/a-vote-against-gerrymandering-shows-why-political-courage-is-rare</link>
+      <description>Yet it is particularly valuable now</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>More schools in America are adopting a four-day week</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/more-schools-in-america-are-adopting-a-four-day-week</link>
+      <description>Teachers and parents like it, but results for pupils are middling</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toll roads are spreading in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america</link>
+      <description>The decline of petrol taxes is to blame</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/18/the-weekly-cartoon</link>
+      <description></description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world this year 2025</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/18/the-world-this-year-2025</link>
+      <description></description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to conduct a job interview</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/18/how-to-conduct-a-job-interview</link>
+      <description>The worst way to select people, except for all the others</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luxury handbags may be shoddier than you think</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/18/luxury-handbags-may-be-shoddier-than-you-think</link>
+      <description>Complaints about quality are a growing worry for brands from Chanel to Prada</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just 74 intensive-care beds remain in Gaza</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/18/just-74-intensive-care-beds-remain-in-gaza</link>
+      <description>The health-care system is shattered and no one is rebuilding it</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Watch who you’re calling childless</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/18/watch-who-youre-calling-childless</link>
       <description>Women in America are having as many babies over their lifetimes as they did two decades ago</description>
@@ -2925,84 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/10/29/a-bloody-police-raid-in-rio-was-the-deadliest-in-brazils-history</link>
       <description>Brazil’s conservatives are keener on such raids than its left-wing government</description>
       <pubDate>Wed, 29 Oct 2025 19:36:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>America is upgrading GPS to catch up with rivals</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/10/29/america-is-upgrading-gps-to-catch-up-with-rivals</link>
-      <description>The system should soon become harder to jam or fool</description>
-      <pubDate>Wed, 29 Oct 2025 19:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javier Milei’s chance to transform Argentina and teach the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/10/29/javier-mileis-chance-to-transform-argentina-and-teach-the-world</link>
-      <description>Lessons in public finance from the original sinner</description>
-      <pubDate>Wed, 29 Oct 2025 18:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tear gas and Halloween costumes in America’s third-largest city</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/29/tear-gas-and-halloween-costumes-in-americas-third-largest-city</link>
-      <description>Operation Midway Blitz in Chicago is out of hand</description>
-      <pubDate>Wed, 29 Oct 2025 18:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s trade power is vast, but self-defeating</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/10/28/donald-trumps-trade-power-is-vast-but-self-defeating</link>
-      <description>The view from Canada, as Trumpian threats fly</description>
-      <pubDate>Tue, 28 Oct 2025 19:21:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How pig-organ transplants might soon save lives</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/10/28/how-pig-organ-transplants-might-soon-save-lives</link>
-      <description>After a man lives nearly nine months with a pig kidney, two American firms are preparing clinical trials</description>
-      <pubDate>Tue, 28 Oct 2025 18:42:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>What the Trump-Xi meeting can and can’t solve</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/10/28/what-the-trump-xi-meeting-can-and-cant-solve</link>
-      <description>Expect the outcome of the meeting to be a truce—not a treaty</description>
-      <pubDate>Tue, 28 Oct 2025 18:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hurricane Melissa is one of the strongest storms ever recorded</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2025/10/28/hurricane-melissa-is-one-of-the-strongest-storms-ever-recorded</link>
-      <description>Jamaica and Cuba batten down the hatches</description>
-      <pubDate>Tue, 28 Oct 2025 18:04:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weight-loss drugs are spreading across the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/10/28/weight-loss-drugs-are-spreading-across-the-world</link>
-      <description>The expiry of patents in China, India and elsewhere will boost uptake dramatically</description>
-      <pubDate>Tue, 28 Oct 2025 17:35:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A political drama for the ages, opening soon in New York City</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/28/a-political-drama-for-the-ages-opening-soon-in-new-york-city</link>
-      <description>Zohran Mamdani v Donald Trump. What could go wrong?</description>
-      <pubDate>Tue, 28 Oct 2025 17:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is backing Russia’s war to keep America distracted, says Kaja Kallas</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/10/28/china-is-backing-russias-war-to-keep-america-distracted-says-kaja-kallas</link>
-      <description>China’s rulers want to show it is in their people’s interests to keep America focused on Europe, according to the EU’s foreign-policy chief</description>
-      <pubDate>Tue, 28 Oct 2025 16:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Boletín newsletter: The fallout from Javier Milei’s big win</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/10/27/el-boletin-newsletter-the-fallout-from-javier-mileis-big-win</link>
-      <description>Kinley Salmon, our Latin America correspondent, looks at Argentina’s midterm elections</description>
-      <pubDate>Mon, 27 Oct 2025 19:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why big oil is missing out on the AI energy bonanza</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/10/27/why-big-oil-is-missing-out-on-the-ai-energy-bonanza</link>
-      <description>A looming supply glut is weighing on giants from ExxonMobil to Shell</description>
-      <pubDate>Mon, 27 Oct 2025 19:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xi Jinping’s latest purge: paranoid or purposeful?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/10/27/xi-jinpings-latest-purge-paranoid-or-purposeful</link>
-      <description>What the biggest military crackdown in decades says about his strength</description>
-      <pubDate>Mon, 27 Oct 2025 18:52:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
