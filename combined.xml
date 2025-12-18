@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Chinese cars are beating European tariffs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/18/how-chinese-cars-are-beating-european-tariffs</link>
+      <description>Carmakers are adapting to Europe’s EV barriers</description>
+      <pubDate>Thu, 18 Dec 2025 19:52:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Seen from above, el-Fasher is a ghost town</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2025/12/18/seen-from-above-el-fasher-is-a-ghost-town</link>
       <description>Satellite imagery reveals how North Darfur’s capital has been abandoned after its fall</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/10/30/america-and-china-have-only-holstered-their-trade-weapons</link>
       <description>Neither country wants decoupling or confrontation—at least, not yet</description>
       <pubDate>Thu, 30 Oct 2025 10:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>What will it cost to make Vladimir Putin stop?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/10/30/what-will-it-cost-to-make-vladimir-putin-stop</link>
-      <description>Europe must offer Ukraine a big enough financial package to deter the Kremlin</description>
-      <pubDate>Thu, 30 Oct 2025 10:40:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
