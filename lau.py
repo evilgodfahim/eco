@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
+from lxml import html
 import json
 import time
 
@@ -55,22 +56,30 @@ def fetch_html_via_flaresolverr(url):
 # ARTICLE TEXT EXTRACTION
 # ------------------------------
 def extract_article_text(html_content):
-    soup = BeautifulSoup(html_content, "html.parser")
-
-    section = soup.find("section")
-    if not section:
+    # Parse with lxml for XPath
+    tree = html.fromstring(html_content)
+    
+    # Full XPath to main container
+    section_nodes = tree.xpath('/html/body/center/div[4]/div/div[1]/div/div/div[1]/div/div/div[3]/div/main/article/div/div[1]/div[3]/div/section/div')
+    
+    if not section_nodes:
         return ""
+    
+    # Convert to HTML string for BeautifulSoup parsing
+    section_html = html.tostring(section_nodes[0], encoding='unicode', method='html')
+    soup = BeautifulSoup(section_html, 'html.parser')
 
-    paragraphs = section.find_all(
-        "div",
-        style=lambda x: x and "line-height: 28px" in x
-    )
+    # Extract paragraphs based on line-height
+    paragraphs = []
+    for div in soup.find_all("div", style=True):
+        style = div.get("style")
+        if "line-height: 28px" in style and "display: none" not in style:
+            if div.find("figcaption") is None:
+                text = div.get_text(separator=" ", strip=True)
+                if text:
+                    paragraphs.append(text)
 
-    full_text = ""
-    for p in paragraphs:
-        full_text += p.get_text(separator=" ", strip=True) + "\n\n"
-
-    return full_text.strip()
+    return "\n\n".join(paragraphs).strip()
 
 # ------------------------------
 # RSS ITEM FETCH
@@ -99,8 +108,8 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                 image_url = entry.media_thumbnail[0].get("url")
 
             try:
-                html = fetch_html_via_flaresolverr(archive_link)
-                article_text = extract_article_text(html)
+                html_data = fetch_html_via_flaresolverr(archive_link)
+                article_text = extract_article_text(html_data)
             except Exception:
                 article_text = ""
 
