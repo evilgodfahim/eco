@@ -252,10 +252,10 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
 
                 article_text = ""
                 try:
-                    print(f"Fetching: {original_link}", file=sys.stderr)
+                    print(f"Fetching: {archive_link}", file=sys.stderr)
                     try:
                         driver.set_page_load_timeout(40)
-                        driver.get(original_link)
+                        driver.get(archive_link)
                     except TimeoutException:
                         pass
                     time.sleep(2)
