@@ -47,8 +47,8 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install setuptools  # Provides distutils for Python 3.12+
-          pip install feedparser beautifulsoup4 lxml undetected-chromedriver
+          pip install feedparser beautifulsoup4 lxml pyppeteer pyppeteer-stealth
+          pip install git+https://github.com/sarperavci/GoogleRecaptchaBypass.git
       
       - name: Run combined RSS script
         env:
