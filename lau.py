@@ -9,32 +9,42 @@ from bs4 import BeautifulSoup
 import asyncio
 import time
 import sys
+import os
 import re
 import random
 from pyppeteer import launch
 from pyppeteer_stealth import stealth
-from GoogleRecaptchaBypass import AsyncBypass
+
+# Add GoogleRecaptchaBypass to path
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'GoogleRecaptchaBypass'))
+
+try:
+    from RecaptchaBypass import RecaptchaBypass
+    BYPASS_AVAILABLE = True
+except ImportError:
+    print("⚠️  GoogleRecaptchaBypass not available, will skip CAPTCHA solving", file=sys.stderr)
+    BYPASS_AVAILABLE = False
 
 # CONFIG
-PER_FEED_LIMIT = 1
+PER_FEED_LIMIT = 10
 MAX_ITEMS = 500
 ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 RSS_FEEDS = [
     "https://www.economist.com/briefing/rss.xml",
-    #"https://www.economist.com/the-economist-explains/rss.xml",
-    #"https://www.economist.com/leaders/rss.xml",
-    #"https://www.economist.com/asia/rss.xml",
-    #"https://www.economist.com/china/rss.xml",
-    #"https://www.economist.com/international/rss.xml",
-    #"https://www.economist.com/united-states/rss.xml",
-    #"https://www.economist.com/finance-and-economics/rss.xml",
-    #"https://www.economist.com/the-world-this-week/rss.xml",
-    #"https://www.economist.com/science-and-technology/rss.xml",
-    #"https://www.economist.com/europe/rss.xml",
-    #"https://www.economist.com/business/rss.xml",
-    #"https://www.economist.com/graphic-detail/rss.xml",
-    #"https://www.economist.com/rss/middle_east_and_africa_rss.xml",
-    #"https://www.economist.com/the-americas/rss.xml",
+    "https://www.economist.com/the-economist-explains/rss.xml",
+    "https://www.economist.com/leaders/rss.xml",
+    "https://www.economist.com/asia/rss.xml",
+    "https://www.economist.com/china/rss.xml",
+    "https://www.economist.com/international/rss.xml",
+    "https://www.economist.com/united-states/rss.xml",
+    "https://www.economist.com/finance-and-economics/rss.xml",
+    "https://www.economist.com/the-world-this-week/rss.xml",
+    "https://www.economist.com/science-and-technology/rss.xml",
+    "https://www.economist.com/europe/rss.xml",
+    "https://www.economist.com/business/rss.xml",
+    "https://www.economist.com/graphic-detail/rss.xml",
+    "https://www.economist.com/rss/middle_east_and_africa_rss.xml",
+    "https://www.economist.com/the-americas/rss.xml",
 ]
 
 def normalize_style(style_str):
@@ -161,6 +171,10 @@ async def check_for_recaptcha(page):
 
 async def solve_recaptcha_with_bypass(page, max_attempts=3):
     """Attempt to solve reCAPTCHA using GoogleRecaptchaBypass"""
+    if not BYPASS_AVAILABLE:
+        print("  ⚠️  Bypass not available, skipping", file=sys.stderr)
+        return False
+    
     for attempt in range(max_attempts):
         try:
             print(f"  Attempting reCAPTCHA solve (attempt {attempt + 1}/{max_attempts})...", file=sys.stderr)
@@ -168,11 +182,11 @@ async def solve_recaptcha_with_bypass(page, max_attempts=3):
             # Wait a bit for reCAPTCHA to fully load
             await asyncio.sleep(random.uniform(2, 4))
             
-            # Initialize GoogleRecaptchaBypass
-            bypass = AsyncBypass(page)
+            # Initialize GoogleRecaptchaBypass (it works with pyppeteer page objects)
+            bypass = RecaptchaBypass(page)
             
             # Attempt to solve the reCAPTCHA
-            result = await bypass.bypass()
+            result = await bypass.solve()
             
             if result:
                 print("  ✓ reCAPTCHA solved successfully!", file=sys.stderr)
