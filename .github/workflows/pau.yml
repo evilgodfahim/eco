@@ -1,39 +1,50 @@
 name: Update Combined Economist RSS
-
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"  # Every hour
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
+      
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            chromium-browser \
+            chromium-chromedriver \
+            xvfb
+      
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4 selenium selenium-recaptcha-solver webdriver-manager
-
+      
       - name: Run combined RSS script
         env:
-          # optional: reduce Chrome noise
           PYTHONUNBUFFERED: "1"
+          # Ensure Chrome runs in headless mode
+          DISPLAY: ":99"
         run: |
+          # Start virtual display for Chrome
+          Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 &
+          sleep 2
           python lau.py
-
+      
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add combined.xml
-          git commit -m "Auto-update combined Economist RSS" || exit 0
+          git diff --staged --quiet || git commit -m "Auto-update combined Economist RSS [$(date +'%Y-%m-%d %H:%M:%S UTC')]"
           git push
