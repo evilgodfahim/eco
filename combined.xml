@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: Illustrating our Christmas issue</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/19/cover-story-newsletter-illustrating-our-christmas-issue</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 19 Dec 2025 12:24:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe finds €90bn for Ukraine—but not from Russia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/19/europe-finds-90bn-for-ukraine-but-not-from-russia</link>
+      <description>An EU “reparations loan” using frozen Russian money collapses</description>
+      <pubDate>Fri, 19 Dec 2025 10:51:21 +0000</pubDate>
+    </item>
+    <item>
       <title>How Chinese cars are beating European tariffs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/18/how-chinese-cars-are-beating-european-tariffs</link>
       <description>Carmakers are adapting to Europe’s EV barriers</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/10/30/why-funding-ukraine-is-a-giant-opportunity-for-europe</link>
       <description>The bill will be huge. It is also a historic bargain</description>
       <pubDate>Thu, 30 Oct 2025 10:46:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asia adapts to Donald Trump’s transactional diplomacy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/10/30/asia-adapts-to-donald-trumps-transactional-diplomacy</link>
-      <description>But it is paying a high price for continued uncertainty</description>
-      <pubDate>Thu, 30 Oct 2025 10:44:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>America and China have only holstered their trade weapons</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/10/30/america-and-china-have-only-holstered-their-trade-weapons</link>
-      <description>Neither country wants decoupling or confrontation—at least, not yet</description>
-      <pubDate>Thu, 30 Oct 2025 10:42:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
