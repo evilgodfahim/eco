@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The five biggest market developments of 2025</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025</link>
+      <description>Looking back on a rollercoaster year for investors</description>
+      <pubDate>Sun, 21 Dec 2025 13:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>What pain at the edge of America’s labour market signals</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/what-pain-at-the-edge-of-americas-labour-market-signals</link>
+      <description>In the past it has foretold wider weakness. This time may be different</description>
+      <pubDate>Sun, 21 Dec 2025 13:03:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: How Donald Trump has maximised his power</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/19/checks-and-balance-newsletter-how-donald-trump-has-maximised-his-power</link>
       <description>Charlotte Howard, our New York bureau chief, reflects on the first year of the president’s second term</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/10/30/investors-will-help-jamaica-recover-from-hurricane-melissa</link>
       <description>The country is in line for a pay-out from catastrophe bonds</description>
       <pubDate>Thu, 30 Oct 2025 11:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new globalisation paradox</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/10/30/the-new-globalisation-paradox</link>
-      <description>In the age of Donald Trump, national autonomy requires deeper integration. Brazil shows why</description>
-      <pubDate>Thu, 30 Oct 2025 11:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump and Xi Jinping agree to a trade truce</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/10/30/donald-trump-and-xi-jinping-agree-to-a-trade-truce</link>
-      <description>Though much remains to be resolved in the world’s most important relationship</description>
-      <pubDate>Thu, 30 Oct 2025 11:11:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
