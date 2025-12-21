@@ -5,14 +5,20 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Canada’s first Christmas without the Hudson’s Bay Company</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/21/canadas-first-christmas-without-the-hudsons-bay-company</link>
+      <description>From fur-trading outpost to department-store giant, founding a country along the way</description>
+      <pubDate>Sun, 21 Dec 2025 14:33:52 +0000</pubDate>
+    </item>
+    <item>
       <title>The five biggest market developments of 2025</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025</link>
       <description>Looking back on a rollercoaster year for investors</description>
       <pubDate>Sun, 21 Dec 2025 13:18:27 +0000</pubDate>
     </item>
     <item>
-      <title>What pain at the edge of America’s labour market signals</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/what-pain-at-the-edge-of-americas-labour-market-signals</link>
+      <title>How to interpret the pain at the edge of America’s labour market</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/how-to-interpret-the-pain-at-the-edge-of-americas-labour-market</link>
       <description>In the past it has foretold wider weakness. This time may be different</description>
       <pubDate>Sun, 21 Dec 2025 13:03:31 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/10/30/jamaicas-nightmare-comes-true</link>
       <description>A record-breaking hurricane strikes</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors will help Jamaica recover from Hurricane Melissa</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/10/30/investors-will-help-jamaica-recover-from-hurricane-melissa</link>
-      <description>The country is in line for a pay-out from catastrophe bonds</description>
-      <pubDate>Thu, 30 Oct 2025 11:22:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
