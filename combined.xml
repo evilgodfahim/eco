@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Baltic is becoming a battleground between NATO and Russia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/23/the-baltic-is-becoming-a-battleground-between-nato-and-russia</link>
+      <description>Poland, Sweden and others are buying subs to protect pipelines</description>
+      <pubDate>Tue, 23 Dec 2025 16:26:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Does anyone still want to help the Uyghurs?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/23/does-anyone-still-want-to-help-the-uyghurs</link>
       <description>Chinese pressure and migration backlashes may result in many being sent back to China</description>
@@ -2996,12 +3002,6 @@
       <title>LinkedIn and the art of self-promotion</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/10/30/linkedin-and-the-art-of-self-promotion</link>
       <description>Everyone does it. It’s still appalling. #HornTooted</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sweden’s leading business dynasty prepares for succession</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/10/30/swedens-leading-business-dynasty-prepares-for-succession</link>
-      <description>The sixth generation of Wallenbergs is stepping up</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
