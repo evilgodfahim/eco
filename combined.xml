@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>MAGA is eating itself</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/23/maga-is-eating-itself</link>
+      <description>Fighting among conservative influencers reveals broader rifts within the Republican Party</description>
+      <pubDate>Tue, 23 Dec 2025 12:54:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why fewer Americans are giving than before</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/23/why-fewer-americans-are-giving-than-before</link>
+      <description>The decline of philanthropy is not about Donald Trump</description>
+      <pubDate>Tue, 23 Dec 2025 11:45:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Who was the best CEO of 2025?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/22/who-was-the-best-ceo-of-2025</link>
       <description>We assess the superstars of the c-suite</description>
@@ -2990,18 +3002,6 @@
       <title>An Egyptian comedian makes a (virtual) comeback</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/10/30/an-egyptian-comedian-makes-a-virtual-comeback</link>
       <description>Bassem Youssef’s new persona is less of a threat to the powers that be</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The next stage of the Trump peace plan for Gaza is stalling</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/10/30/the-next-stage-of-the-trump-peace-plan-for-gaza-is-stalling</link>
-      <description>As fighting flares between Israel and Hamas, no one wants to pledge peacekeeping troops</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Darfur’s besieged capital falls to the Rapid Support Forces</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/10/30/darfurs-besieged-capital-falls-to-the-rapid-support-forces</link>
-      <description>Satellite imagery suggests a killing spree is under way</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
