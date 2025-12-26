@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The economics of megachurches</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/26/the-economics-of-megachurches</link>
+      <description>Why America’s fastest-growing churches don’t get political</description>
+      <pubDate>Fri, 26 Dec 2025 17:44:38 +0000</pubDate>
+    </item>
+    <item>
       <title>What is the best way to train for a marathon?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/26/what-is-the-best-way-to-train-for-a-marathon</link>
       <description>Most people train too fast</description>
@@ -2996,12 +3002,6 @@
       <title>France’s finance minister on how to pass a budget</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/10/30/frances-finance-minister-on-how-to-pass-a-budget</link>
       <description>Compromise is the price of stability, says Roland Lescure</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s need for green electricity is blowing fuses</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/10/30/europes-need-for-green-electricity-is-blowing-fuses</link>
-      <description>Grid operators plan to spend hundreds of billions to keep up</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
