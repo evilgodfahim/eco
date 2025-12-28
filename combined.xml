@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>As Warren Buffett retires, uncertainty looms for Berkshire Hathaway</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/28/as-warren-buffett-retires-uncertainty-looms-for-berkshire-hathaway</link>
+      <description>What direction will his anointed successor take?</description>
+      <pubDate>Sun, 28 Dec 2025 16:51:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Brazil’s general election will be all about Lula—again</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/28/brazils-general-election-will-be-all-about-lula-again</link>
       <description>The left-wing stalwart has emerged as the favourite; the right is in disarray</description>
@@ -2996,12 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/10/30/politics</link>
       <description></description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Finnish lifestyle philosophy that could save Europe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/10/30/the-finnish-lifestyle-philosophy-that-could-save-europe</link>
-      <description>Sisu, or grit in the face of adversity, is just what the continent needs</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
