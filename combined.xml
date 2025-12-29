@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Supreme Court has taken the National Guard away from Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/29/the-supreme-court-has-taken-the-national-guard-away-from-donald-trump</link>
+      <description>His remaining options for sending in the troops are legally fraught</description>
+      <pubDate>Mon, 29 Dec 2025 19:58:11 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI faces a make-or-break year in 2026</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/29/openai-faces-a-make-or-break-year-in-2026</link>
       <description>One of the fastest-growing companies in history is in a perilous position</description>
@@ -2996,12 +3002,6 @@
       <title>Could Donald Trump become president again in 2028?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/could-donald-trump-become-president-again-in-2028</link>
       <description>There is a legal case for a third term—but it is strewn with obstacles</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Led by Nvidia, the AI industry has plans to reindustrialise America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/led-by-nvidia-the-ai-industry-has-plans-to-reindustrialise-america</link>
-      <description>They go beyond genuflecting to Donald Trump</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
