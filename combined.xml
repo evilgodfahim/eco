@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>OpenAI faces a make-or-break year in 2026</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/29/openai-faces-a-make-or-break-year-in-2026</link>
+      <description>One of the fastest-growing companies in history is in a perilous position</description>
+      <pubDate>Mon, 29 Dec 2025 17:56:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>A fragile thaw at the top of the world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/29/a-fragile-thaw-at-the-top-of-the-world</link>
+      <description>The Economist gained rare access to India’s tense border with China</description>
+      <pubDate>Mon, 29 Dec 2025 17:53:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wanted: a new business writer</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/usbusinesswriter</link>
+      <description>An opportunity to join the staff of The Economist</description>
+      <pubDate>Mon, 29 Dec 2025 17:39:19 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: Mega edition—you ask, I answer</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/29/the-war-room-newsletter-mega-edition-you-ask-i-answer</link>
       <description>Shashank Joshi, our defence editor, answers your questions in the final edition of 2025</description>
@@ -2984,24 +3002,6 @@
       <title>Led by Nvidia, the AI industry has plans to reindustrialise America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/led-by-nvidia-the-ai-industry-has-plans-to-reindustrialise-america</link>
       <description>They go beyond genuflecting to Donald Trump</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crunching the numbers on every NYC marathon finisher since 2021</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/crunching-the-numbers-on-every-nyc-marathon-finisher-since-2021</link>
-      <description>As races fill with amateurs, speed matters less than spirit</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A basketball scandal highlights vulnerabilities in sports betting</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/a-basketball-scandal-highlights-vulnerabilities-in-sports-betting</link>
-      <description>“Player prop” bets and misaligned incentives increase the risk of foul play</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The data-centre backlash is brewing in America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/10/30/the-data-centre-backlash-is-brewing-in-america</link>
-      <description>But don’t blame them for higher electricity bills—at least, not yet</description>
       <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
