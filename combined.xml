@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The New Year health-insurance shock facing millions of Americans</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/30/the-new-year-health-insurance-shock-facing-millions-of-americans</link>
+      <description>Four charts show the effects of expiring subsidies</description>
+      <pubDate>Tue, 30 Dec 2025 15:38:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Britain and the EU should be bolder in getting closer</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/30/britain-and-the-eu-should-be-bolder-in-getting-closer</link>
       <description>How post-Brexit Britain should approach relations with its nearest and biggest market</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/05/was-the-pacific-palisades-blaze-a-zombie-fire</link>
       <description>Fires can linger underground in the Arctic. Might they do the same in California?</description>
       <pubDate>Wed, 05 Nov 2025 17:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats risk drawing the wrong lessons from one good day</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/05/democrats-risk-drawing-the-wrong-lessons-from-one-good-day</link>
-      <description>Moderate governors offer a better model than a charming socialist in New York</description>
-      <pubDate>Wed, 05 Nov 2025 17:09:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
