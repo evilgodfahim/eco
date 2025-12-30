@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Israel recognises Somaliland</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/30/israel-recognises-somaliland</link>
+      <description>That may exacerbate regional rivalries</description>
+      <pubDate>Tue, 30 Dec 2025 11:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netanyahu wins bigly from his meeting with Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/30/netanyahu-wins-bigly-from-his-meeting-with-trump</link>
+      <description>The gains for Israel are less clear</description>
+      <pubDate>Tue, 30 Dec 2025 11:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>A lightning advance by separatists has reshaped Yemen’s civil war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/30/a-lightning-advance-by-separatists-has-reshaped-yemens-civil-war</link>
+      <description>It has also deepened the rift between the Saudis and Emiratis</description>
+      <pubDate>Tue, 30 Dec 2025 11:56:15 +0000</pubDate>
+    </item>
+    <item>
       <title>The truth about affordability</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/30/the-truth-about-affordability</link>
       <description>Voters in rich countries are angry about prices. Politicians could make things worse</description>
@@ -451,7 +469,7 @@
     <item>
       <title>An oil boom where the Amazon meets the Atlantic</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/15/an-oil-boom-where-the-amazon-meets-the-atlantic</link>
-      <description>Despite is green bona fides, Brazil cannot resist a second run at oil riches</description>
+      <description>Despite its green bona fides, Brazil cannot resist a second run at oil riches</description>
       <pubDate>Mon, 15 Dec 2025 18:20:57 +0000</pubDate>
     </item>
     <item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/10/31/can-a-dopamine-detox-reset-your-brain</link>
       <description>Taken literally, the idea makes no sense. But it might still be good for you</description>
       <pubDate>Fri, 31 Oct 2025 13:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many people are already being killed by climate change?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/10/30/how-many-people-are-already-being-killed-by-climate-change</link>
-      <description>New research shows which countries are most affected by heat, wildfires and disease</description>
-      <pubDate>Thu, 30 Oct 2025 22:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump administration’s approach to global health is flawed but fixable</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/10/30/the-trump-administrations-approach-to-global-health-is-flawed-but-fixable</link>
-      <description>America First need not put Africans last</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How East Asian pop culture is inspiring Gen Z protests</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/10/30/how-east-asian-pop-culture-is-inspiring-gen-z-protests</link>
-      <description>K-pop and anime are the sound and symbols of the resistance</description>
-      <pubDate>Thu, 30 Oct 2025 13:49:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
