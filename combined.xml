@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The angst over affordability</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/31/cover-story-newsletter-the-angst-over-affordability</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Wed, 31 Dec 2025 14:09:18 +0000</pubDate>
+    </item>
+    <item>
       <title>The New Year health-insurance shock facing millions of Americans</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/30/the-new-year-health-insurance-shock-facing-millions-of-americans</link>
       <description>Four charts show the effects of expiring subsidies</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/05/investors-are-telling-britain-to-cheer-up-a-bit</link>
       <description>The country’s economic problems are real, but its assets are doing surprisingly well</description>
       <pubDate>Wed, 05 Nov 2025 19:58:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Was the Pacific Palisades blaze a “zombie fire”?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/05/was-the-pacific-palisades-blaze-a-zombie-fire</link>
-      <description>Fires can linger underground in the Arctic. Might they do the same in California?</description>
-      <pubDate>Wed, 05 Nov 2025 17:53:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
