@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can high-intensity interval training get you fit in a hurry?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/02/can-high-intensity-interval-training-get-you-fit-in-a-hurry</link>
+      <description>Yes, but be prepared to suffer</description>
+      <pubDate>Fri, 02 Jan 2026 10:42:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The angst over affordability</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/31/cover-story-newsletter-the-angst-over-affordability</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/05/universal-child-care-can-harm-children</link>
       <description>Its growing popularity in America is a concern</description>
       <pubDate>Wed, 05 Nov 2025 20:27:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors are telling Britain to cheer up a bit</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/05/investors-are-telling-britain-to-cheer-up-a-bit</link>
-      <description>The country’s economic problems are real, but its assets are doing surprisingly well</description>
-      <pubDate>Wed, 05 Nov 2025 19:58:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
