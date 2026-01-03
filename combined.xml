@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The United States has captured Venezuela’s dictator, Nicolás Maduro</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/the-united-states-has-captured-venezuelas-dictator-nicolas-maduro</link>
+      <description>After months of military build up, an overnight bombing campaign and helicopter raid has deposed Venezuela’s strongman</description>
+      <pubDate>Sat, 03 Jan 2026 10:23:37 +0000</pubDate>
+    </item>
+    <item>
       <title>How will the mass protests that are convulsing Iran unfold?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/02/how-will-the-mass-protests-that-are-convulsing-iran-unfold</link>
       <description>Binyamin Netanyahu and Donald Trump may shape how the regime reacts to new unrest</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/05/why-palantirs-success-will-outlast-ai-exuberance</link>
       <description>Its valuation looks bonkers. Its business isn’t</description>
       <pubDate>Wed, 05 Nov 2025 23:14:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Golden Dome is one of the most ambitious military projects ever</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2025/11/05/golden-dome-is-one-of-the-most-ambitious-military-projects-ever</link>
-      <description>Even a modest missile shield could upset the balance between nuclear powers</description>
-      <pubDate>Wed, 05 Nov 2025 21:48:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
