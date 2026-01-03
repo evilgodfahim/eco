@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How the Pentagon snatched Nicolás Maduro</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/how-the-pentagon-snatched-nicolas-maduro</link>
+      <description>Operation Absolute Resolve was a textbook success</description>
+      <pubDate>Sat, 03 Jan 2026 21:16:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump wants to run Venezuela, and dominate the western hemisphere</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/donald-trump-wants-to-run-venezuela-and-dominate-the-western-hemisphere</link>
       <description>Snatching Nicolás Maduro and attempting to take control of Venezuela and its oil is an extraordinary display of the new “Donroe doctrine”</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/06/all-over-the-rich-world-fewer-people-are-hooking-up-and-shacking-up</link>
       <description>Social media, dating apps and political polarisation all play a part</description>
       <pubDate>Thu, 06 Nov 2025 10:19:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Supreme Court seems sceptical of Donald Trump’s tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/05/the-supreme-court-seems-sceptical-of-donald-trumps-tariffs</link>
-      <description>Some of his levies may soon be toast</description>
-      <pubDate>Wed, 05 Nov 2025 23:43:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
