@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump wants to run Venezuela, and dominate the western hemisphere</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/donald-trump-wants-to-run-venezuela-and-dominate-the-western-hemisphere</link>
+      <description>Snatching Nicolás Maduro and attempting to take control of Venezuela and its oil is an extraordinary display of the new “Donroe doctrine”</description>
+      <pubDate>Sat, 03 Jan 2026 20:26:48 +0000</pubDate>
+    </item>
+    <item>
       <title>The United States has captured Venezuela’s dictator, Nicolás Maduro</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/the-united-states-has-captured-venezuelas-dictator-nicolas-maduro</link>
       <description>After months of military build up, an overnight bombing campaign and helicopter raid has deposed Venezuela’s strongman</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/05/the-supreme-court-seems-sceptical-of-donald-trumps-tariffs</link>
       <description>Some of his levies may soon be toast</description>
       <pubDate>Wed, 05 Nov 2025 23:43:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Palantir’s success will outlast AI exuberance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/05/why-palantirs-success-will-outlast-ai-exuberance</link>
-      <description>Its valuation looks bonkers. Its business isn’t</description>
-      <pubDate>Wed, 05 Nov 2025 23:14:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
