@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>There are many risks to Donald Trump’s plans to run Venezuela</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/04/there-are-many-risks-to-donald-trumps-plans-to-run-venezuela</link>
+      <description>The regime that was led by Nicolás Maduro may well prove tricky to control</description>
+      <pubDate>Sun, 04 Jan 2026 10:23:53 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Pentagon snatched Nicolás Maduro</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/how-the-pentagon-snatched-nicolas-maduro</link>
       <description>Operation Absolute Resolve was a textbook success</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/06/a-new-industry-of-ai-companions-is-emerging</link>
       <description>It may have profound implications for society and what it means to be human</description>
       <pubDate>Thu, 06 Nov 2025 10:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>All over the rich world, fewer people are hooking up and shacking up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/06/all-over-the-rich-world-fewer-people-are-hooking-up-and-shacking-up</link>
-      <description>Social media, dating apps and political polarisation all play a part</description>
-      <pubDate>Thu, 06 Nov 2025 10:19:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
