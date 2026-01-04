@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Burundi is running out of space</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/04/burundi-is-running-out-of-space</link>
+      <description>The African Great Lakes are becoming one of the most crowded places in the world</description>
+      <pubDate>Sun, 04 Jan 2026 17:15:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine’s power grid is struggling under Russia’s blitz</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/04/ukraines-power-grid-is-struggling-under-russias-blitz</link>
       <description>Putin is trying ever harder to freeze Kyiv into submission</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/06/dont-blame-ai-for-your-job-woes</link>
       <description>The white-collar chill has more to do with the economy than with tech</description>
       <pubDate>Thu, 06 Nov 2025 10:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s clean-energy revolution will reshape markets and politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/chinas-clean-energy-revolution-will-reshape-markets-and-politics</link>
-      <description>The world’s biggest manufacturer now has an interest in the world decarbonising</description>
-      <pubDate>Thu, 06 Nov 2025 10:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
