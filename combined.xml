@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ukraine’s power grid is struggling under Russia’s blitz</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/04/ukraines-power-grid-is-struggling-under-russias-blitz</link>
+      <description>Putin is trying ever harder to freeze Kyiv into submission</description>
+      <pubDate>Sun, 04 Jan 2026 13:28:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s great Venezuelan oil gamble</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/04/donald-trumps-great-venezuelan-oil-gamble</link>
       <description>The country has the world’s largest petroleum reserves. Getting them out of the ground will be tortuous</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/chinas-clean-energy-revolution-will-reshape-markets-and-politics</link>
       <description>The world’s biggest manufacturer now has an interest in the world decarbonising</description>
       <pubDate>Thu, 06 Nov 2025 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>The rise of singlehood is reshaping the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/the-rise-of-singlehood-is-reshaping-the-world</link>
-      <description>In good ways and bad</description>
-      <pubDate>Thu, 06 Nov 2025 10:20:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
