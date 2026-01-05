@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>After Venezuela, Donald Trump points a finger at Greenland</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/05/after-venezuela-donald-trump-points-a-finger-at-greenland</link>
+      <description>Leaders in Greenland and Denmark are in shock. Is the president serious?</description>
+      <pubDate>Mon, 05 Jan 2026 19:34:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Why is Japan souring on foreign workers and tourists?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/05/why-is-japan-souring-on-foreign-workers-and-tourists</link>
       <description>It is a dangerous attitude for an ageing country that needs more immigrants</description>
@@ -2996,12 +3002,6 @@
       <title>Will anything—or anyone—stop the slaughter in Sudan?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/06/will-anything-or-anyone-stop-the-slaughter-in-sudan</link>
       <description>As a killing spree unfolds in Darfur, an end to the civil war looks remote</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>War looms in Venezuela as Trump tests an “Americas First” doctrine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/06/war-looms-in-venezuela-as-trump-tests-an-americas-first-doctrine</link>
-      <description>A gathering armada risks repeating the mistakes of the “war on terror”</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
