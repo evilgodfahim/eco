@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s raid on Venezuela reveals the limits of China’s reach</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/05/americas-raid-on-venezuela-reveals-the-limits-of-chinas-reach</link>
+      <description>It is not a template for Taiwan but a reality check on China’s global power</description>
+      <pubDate>Mon, 05 Jan 2026 16:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>An AI revolution in drugmaking is under way</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way</link>
+      <description>It will transform how medicines are made—and the industry itself</description>
+      <pubDate>Mon, 05 Jan 2026 16:05:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Cuba’s regime is now in Donald Trump’s sights</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/05/cubas-regime-is-now-in-donald-trumps-sights</link>
       <description>Excited Cuban exiles are comparing the capture of Nicolás Maduro to the fall of the Berlin Wall</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/06/south-asias-water-wars</link>
       <description>Climate change and rising energy demand could worsen conflict over rivers</description>
       <pubDate>Thu, 06 Nov 2025 11:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>What explains India’s peculiar stability?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/06/what-explains-indias-peculiar-stability</link>
-      <description>In a tricky neighbourhood the country remains calm</description>
-      <pubDate>Thu, 06 Nov 2025 11:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>America should not push other countries to adopt the dollar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/america-should-not-push-other-countries-to-adopt-the-dollar</link>
-      <description>More dollarisation would be a double-edged sword</description>
-      <pubDate>Thu, 06 Nov 2025 10:51:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
