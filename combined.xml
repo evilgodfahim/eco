@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why is Japan souring on foreign workers and tourists?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/05/why-is-japan-souring-on-foreign-workers-and-tourists</link>
+      <description>It is a dangerous attitude for an ageing country that needs more immigrants</description>
+      <pubDate>Mon, 05 Jan 2026 17:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venezuelan immigrants in America are trapped in policy purgatory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/05/venezuelan-immigrants-in-america-are-trapped-in-policy-purgatory</link>
+      <description>In Florida Nicolás Maduro’s arrest brings cheers and chills</description>
+      <pubDate>Mon, 05 Jan 2026 16:45:54 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s raid on Venezuela reveals the limits of China’s reach</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/05/americas-raid-on-venezuela-reveals-the-limits-of-chinas-reach</link>
       <description>It is not a template for Taiwan but a reality check on China’s global power</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/06/war-looms-in-venezuela-as-trump-tests-an-americas-first-doctrine</link>
       <description>A gathering armada risks repeating the mistakes of the “war on terror”</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s women win the cricket World Cup</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/06/indias-women-win-the-cricket-world-cup</link>
-      <description>Their victory is a welcome boost for women’s sport—and for Indian women in general</description>
-      <pubDate>Thu, 06 Nov 2025 11:37:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Asia’s water wars</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/06/south-asias-water-wars</link>
-      <description>Climate change and rising energy demand could worsen conflict over rivers</description>
-      <pubDate>Thu, 06 Nov 2025 11:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
