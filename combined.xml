@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Latin America fears what comes next after the Venezuela raid</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/06/latin-america-fears-what-comes-next-after-the-venezuela-raid</link>
+      <description>The tactical success of his operation in Caracas appears to have whetted Donald Trump’s appetite for intervention</description>
+      <pubDate>Tue, 06 Jan 2026 14:30:45 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: Inside the mission that snatched Maduro</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/05/the-war-room-newsletter-inside-the-mission-that-snatched-maduro</link>
       <description>Shashank Joshi, our defence editor, digs into the details</description>
@@ -2996,12 +3002,6 @@
       <title>Donald Trump says he may strike Nigeria to save Christians. Really?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/06/donald-trump-says-he-may-strike-nigeria-to-save-christians-really</link>
       <description>The reality behind the American president’s latest threats</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tanzania has its Tiananmen moment</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/06/tanzania-has-its-tiananmen-moment</link>
-      <description>A post-election crackdown that killed hundreds has changed the country for ever</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
