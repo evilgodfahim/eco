@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Venezuela presents a big headache for big oil</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/06/venezuela-presents-a-big-headache-for-big-oil</link>
+      <description>It has been decades since the industry relished foreign-policy entanglements</description>
+      <pubDate>Tue, 06 Jan 2026 20:53:06 +0000</pubDate>
+    </item>
+    <item>
       <title>A rash of Baltic cable-cutting raises fears of sabotage</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/06/a-rash-of-baltic-cable-cutting-raises-fears-of-sabotage</link>
       <description>But Russian grey-zone attacks may not be the only reason for outages</description>
@@ -2996,12 +3002,6 @@
       <title>Ukraine’s valiant defence of Pokrovsk is nearing its end</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/06/ukraines-valiant-defence-of-pokrovsk-is-nearing-its-end</link>
       <description>Russia suffers huge casualties, but its new drone-powered assault is working</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Czech shift to the right is worrying news for Ukraine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/06/a-czech-shift-to-the-right-is-worrying-news-for-ukraine</link>
-      <description>But the new prime minister will probably not join Viktor Orban’s efforts to block aid</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
