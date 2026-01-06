@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Analysing Africa newsletter: Life and death in an illegal gold mine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/06/analysing-africa-newsletter-life-and-death-in-an-illegal-gold-mine</link>
+      <description>Liam Taylor, a contributor in Africa, reflects on his time at a site of gold—and tragedy</description>
+      <pubDate>Tue, 06 Jan 2026 17:52:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump still has no clear plan for Venezuela</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/06/donald-trump-still-has-no-clear-plan-for-venezuela</link>
+      <description>Some Republicans fret about a quagmire, and the president’s contempt for democracy</description>
+      <pubDate>Tue, 06 Jan 2026 17:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s missing manufacturing renaissance</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/06/americas-missing-manufacturing-renaissance</link>
+      <description>Donald Trump’s tariffs have hurt the factories they were meant to protect</description>
+      <pubDate>Tue, 06 Jan 2026 17:10:37 +0000</pubDate>
+    </item>
+    <item>
       <title>The Venezuelan regime is rapidly consolidating its grip on power</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/06/the-venezuelan-regime-is-rapidly-consolidating-its-grip-on-power</link>
       <description>The democratic opposition is left out in the cold</description>
@@ -2984,24 +3002,6 @@
       <title>China’s life-sciences industry is turning American</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/06/chinas-life-sciences-industry-is-turning-american</link>
       <description>Meanwhile, America is abandoning its winning formula</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s furniture-makers exemplify the folly of tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/06/americas-furniture-makers-exemplify-the-folly-of-tariffs</link>
-      <description>Donald Trump is pushing up costs to rescue an industry that has already adapted to globalisation</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should facial analysis help determine whom companies hire?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire</link>
-      <description>A new paper suggests a photo can tell a recruiter much about an applicant’s personality</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iraq’s election may ensure stability but leave militias in control</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/06/iraqs-election-may-ensure-stability-but-leave-militias-in-control</link>
-      <description>This may come at the cost of weakening civil society and wider freedoms</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
