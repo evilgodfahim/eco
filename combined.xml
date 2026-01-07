@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is it better to rent or buy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy</link>
+      <description>Much depends on long-term interest rates</description>
+      <pubDate>Wed, 07 Jan 2026 12:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The radical honesty of Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/07/the-radical-honesty-of-donald-trump</link>
+      <description>Why the world will miss hypocrisy in American foreign policy</description>
+      <pubDate>Wed, 07 Jan 2026 12:36:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Venezuela presents a big headache for big oil</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/06/venezuela-presents-a-big-headache-for-big-oil</link>
       <description>It has been decades since the industry relished foreign-policy entanglements</description>
@@ -2990,18 +3002,6 @@
       <title>Pope Leo XIV is infuriating MAGA Catholics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/06/pope-leo-xiv-is-infuriating-maga-catholics</link>
       <description>Concern for the poor and the planet rubs some the wrong way</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why moderates are reclaiming Europe’s national flags</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/06/why-moderates-are-reclaiming-europes-national-flags</link>
-      <description>Populists and nativists have usurped them</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s valiant defence of Pokrovsk is nearing its end</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/06/ukraines-valiant-defence-of-pokrovsk-is-nearing-its-end</link>
-      <description>Russia suffers huge casualties, but its new drone-powered assault is working</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
