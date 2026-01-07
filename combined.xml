@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Nicolás Maduro is unlikely to beat his rap</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/07/nicolas-maduro-is-unlikely-to-beat-his-rap</link>
+      <description>He has credible legal defences but diplomacy may be his best shot</description>
+      <pubDate>Wed, 07 Jan 2026 15:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine now has the fortress belt it wishes it had in 2022</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/07/ukraine-now-has-the-fortress-belt-it-wishes-it-had-in-2022</link>
+      <description>But American-led peace proposals threaten to hand it to Russia</description>
+      <pubDate>Wed, 07 Jan 2026 15:10:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Our polling with YouGov shows what MAGA-land thinks about Venezuela</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/07/our-polling-with-yougov-shows-what-maga-land-thinks-about-venezuela</link>
       <description>Comparing polls before and after the capture of Nicolás Maduro reveals a sharp turn in Donald Trump’s base</description>
@@ -2989,18 +3001,6 @@
     <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/06/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/06/business</link>
-      <description></description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/06/politics</link>
       <description></description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
