@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Our polling with YouGov shows what MAGA-land thinks about Venezuela</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/07/our-polling-with-yougov-shows-what-maga-land-thinks-about-venezuela</link>
+      <description>Comparing polls before and after the capture of Nicolás Maduro reveals a sharp turn in Donald Trump’s base</description>
+      <pubDate>Wed, 07 Jan 2026 14:09:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Is it better to rent or buy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy</link>
       <description>Much depends on long-term interest rates</description>
@@ -2996,12 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/06/politics</link>
       <description></description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Leo XIV is infuriating MAGA Catholics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/06/pope-leo-xiv-is-infuriating-maga-catholics</link>
-      <description>Concern for the poor and the planet rubs some the wrong way</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
