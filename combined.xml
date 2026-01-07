@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Venezuela’s astoundingly messy debts are about to get messier</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/venezuelas-astoundingly-messy-debts-are-about-to-get-messier</link>
+      <description>Oil majors, hedge funds, Chinese lenders—all have a stake</description>
+      <pubDate>Wed, 07 Jan 2026 19:36:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Canada’s armed forces are now planning for threats from America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/07/canadas-armed-forces-are-now-planning-for-threats-from-america</link>
       <description>They started rebuilding in 2025, before Donald Trump’s most recent bid for hemispheric dominance</description>
@@ -2996,12 +3002,6 @@
       <title>Queen Sirikit’s death shows changing Thai views of the monarchy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/06/queen-sirikits-death-shows-changing-thai-views-of-the-monarchy</link>
       <description>Her mercurial son, as king, does not help</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesia raids its rainy-day pot</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/06/indonesia-raids-its-rainy-day-pot</link>
-      <description>And foreign investors head for the airport</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
