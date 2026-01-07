@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Where should predators hang out if there are no watering holes?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/where-should-predators-hang-out-if-there-are-no-watering-holes</link>
+      <description>Salt licks are a good option</description>
+      <pubDate>Wed, 07 Jan 2026 17:28:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Real flying saucers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/real-flying-saucers</link>
+      <description>The latest satellites are flat and circular</description>
+      <pubDate>Wed, 07 Jan 2026 17:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>A way to expand Earth’s arable land</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/a-way-to-expand-earths-arable-land</link>
+      <description>Make the semi-desert bloom by enridging it</description>
+      <pubDate>Wed, 07 Jan 2026 17:24:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump chases down Venezuela’s shadow fleet</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/07/donald-trump-chases-down-venezuelas-shadow-fleet</link>
       <description>America seizes two of its oil tankers, including one flying a Russian flag</description>
@@ -167,9 +185,9 @@
       <pubDate>Sat, 03 Jan 2026 10:23:37 +0000</pubDate>
     </item>
     <item>
-      <title>How will the mass protests that are convulsing Iran unfold?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/02/how-will-the-mass-protests-that-are-convulsing-iran-unfold</link>
-      <description>Binyamin Netanyahu and Donald Trump may shape how the regime reacts to new unrest</description>
+      <title>Facing protests at home and threats abroad, the Iranian regime looks rattled</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/02/facing-protests-at-home-and-threats-abroad-the-iranian-regime-looks-rattled</link>
+      <description>America’s raid in Venezuela has some officials in Tehran wondering if their country will be next</description>
       <pubDate>Fri, 02 Jan 2026 16:59:01 +0000</pubDate>
     </item>
     <item>
@@ -2984,24 +3002,6 @@
       <title>Hong Kongers support gay marriage. Their leaders, not so much</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/06/hong-kongers-support-gay-marriage-their-leaders-not-so-much</link>
       <description>The city has rejected reform even as other places in Asia embrace it</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a leaked transcript reveals about China’s muscular statecraft</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/06/what-a-leaked-transcript-reveals-about-chinas-muscular-statecraft</link>
-      <description>It is determined to protect pipelines and rare-earth mines in Myanmar</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s health-care costs are shooting up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/06/americas-health-care-costs-are-shooting-up</link>
-      <description>One big reason is that people are seeking more treatment</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The rise and fall of America’s model mobile crisis service</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/06/the-rise-and-fall-of-americas-model-mobile-crisis-service</link>
-      <description>What went wrong with a scheme started by hippies and praised by Zohran Mamdani</description>
       <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
