@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ethnic conflict festers on India’s eastern frontier</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/08/ethnic-conflict-festers-on-indias-eastern-frontier</link>
+      <description>Manipur is a warning for the rest of the country</description>
+      <pubDate>Thu, 08 Jan 2026 12:25:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>What “Pluribus” reveals about economics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/08/what-pluribus-reveals-about-economics</link>
+      <description>A hit Apple TV show offers useful lessons</description>
+      <pubDate>Thu, 08 Jan 2026 11:56:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Do not mistake a resilient global economy for populist success</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success</link>
       <description>Protectionism is failing to revive manufacturing</description>
@@ -78,8 +90,8 @@
     </item>
     <item>
       <title>Donald Trump chases down the shadow fleet serving Venezuela</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/07/donald-trump-chases-down-the-shadow-fleet-serving-venezuela</link>
-      <description>America seizes two oil tankers, including one flying a Russian flag</description>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/07/donald-trump-chases-down-the-shadow-fleet-serving-venezuela</link>
+      <description>America is determined to enforce its oil blockade</description>
       <pubDate>Wed, 07 Jan 2026 16:59:14 +0000</pubDate>
     </item>
     <item>
@@ -89,9 +101,9 @@
       <pubDate>Wed, 07 Jan 2026 15:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine’s defiant front</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/07/ukraines-defiant-front</link>
-      <description>The country’s defensive cordon could yet be bargained away</description>
+      <title>Ukraine now has the fortress belt it wishes it had in 2022</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/07/ukraine-now-has-the-fortress-belt-it-wishes-it-had-in-2022</link>
+      <description>But American-led peace proposals threaten to hand it to Russia</description>
       <pubDate>Wed, 07 Jan 2026 15:10:30 +0000</pubDate>
     </item>
     <item>
@@ -245,8 +257,8 @@
       <pubDate>Sat, 03 Jan 2026 10:23:37 +0000</pubDate>
     </item>
     <item>
-      <title>Facing protests at home and threats abroad, the Iranian regime looks rattled</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/02/facing-protests-at-home-and-threats-abroad-the-iranian-regime-looks-rattled</link>
+      <title>With protests at home and threats abroad, Iran’s regime looks rattled</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/02/with-protests-at-home-and-threats-abroad-irans-regime-looks-rattled</link>
       <description>America’s raid in Venezuela has some officials in Tehran wondering if their country will be next</description>
       <pubDate>Fri, 02 Jan 2026 16:59:01 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/09/checks-and-balance-newsletter-how-donald-trump-became-joe-biden</link>
       <description>Charlotte Howard, our executive editor and New York bureau chief, considers the parallelisms between the two men</description>
       <pubDate>Sun, 09 Nov 2025 09:47:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The great relationship recession</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/07/cover-story-newsletter-the-great-relationship-recession</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 07 Nov 2025 19:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s $1trn pay deal is a troubling display of corporate capture</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/07/elon-musks-1trn-pay-deal-is-a-troubling-display-of-corporate-capture</link>
-      <description>He has Tesla and its board wrapped around his finger</description>
-      <pubDate>Fri, 07 Nov 2025 18:11:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
