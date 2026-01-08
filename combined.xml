@@ -5,8 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>ICE’s deportation campaign turns deadly</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/ices-deportation-campaign-turns-deadly</link>
+      <title>Donald Trump asserts control over Venezuela—and all the Americas</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/08/donald-trump-asserts-control-over-venezuela-and-all-the-americas</link>
+      <description>But the president’s claim of dominance over the western hemisphere may backfire</description>
+      <pubDate>Thu, 08 Jan 2026 10:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vietnam’s growth is fast—but fragile</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/08/vietnams-growth-is-fast-but-fragile</link>
+      <description>The economy is unduly reliant on a handful of conglomerates</description>
+      <pubDate>Thu, 08 Jan 2026 10:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Europe’s biggest pension funds are dumping government bonds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/08/why-europes-biggest-pension-funds-are-dumping-government-bonds</link>
+      <description>Dutch reforms will push up borrowing costs across the continent</description>
+      <pubDate>Thu, 08 Jan 2026 10:27:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The “terrorist” killed by ICE was a mum in her SUV</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/the-terrorist-killed-by-ice-was-a-mum-in-her-suv</link>
       <description>A killing in Minneapolis is part of a dangerous pattern</description>
       <pubDate>Thu, 08 Jan 2026 01:24:04 +0000</pubDate>
     </item>
@@ -163,7 +181,7 @@
     <item>
       <title>An AI revolution in drugmaking is under way</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way</link>
-      <description>It will transform how medicines are made—and the industry itself</description>
+      <description>It will transform how medicines are created—and the industry itself</description>
       <pubDate>Mon, 05 Jan 2026 16:05:44 +0000</pubDate>
     </item>
     <item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/11/07/zohran-mamdani-lost-in-parts-of-nyc-that-look-most-like-america</link>
       <description>Our analysis shows why his victory is no model for Democrats elsewhere</description>
       <pubDate>Fri, 07 Nov 2025 17:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hemedti: warlord, power-broker and the new sultan of Darfur</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/07/hemedti-warlord-power-broker-and-the-new-sultan-of-darfur</link>
-      <description>Now in control of his own statelet, the paramilitary leader will determine the future of Sudan’s devastating civil war</description>
-      <pubDate>Fri, 07 Nov 2025 17:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Climate Issue newsletter: China, the climate superpower</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/07/the-climate-issue-newsletter-china-the-climate-superpower</link>
-      <description>Oli Morton, a senior editor at The Economist, puts the country’s astonishing green growth into context</description>
-      <pubDate>Fri, 07 Nov 2025 15:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s plans for a Golden Dome are dangerously obscure</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/americas-plans-for-a-golden-dome-are-dangerously-obscure</link>
-      <description>Without clarity, the missile shield risks becoming a costly, destabilising white elephant</description>
-      <pubDate>Thu, 06 Nov 2025 17:36:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
