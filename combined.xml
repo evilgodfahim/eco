@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Do not mistake a resilient global economy for populist success</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success</link>
+      <description>Protectionism is failing to revive manufacturing</description>
+      <pubDate>Thu, 08 Jan 2026 11:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Donald Trump’s world, the strong take what they can</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/in-donald-trumps-world-the-strong-take-what-they-can</link>
+      <description>That will be bad for America—and everyone else</description>
+      <pubDate>Thu, 08 Jan 2026 11:36:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump asserts control over Venezuela—and all the Americas</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/08/donald-trump-asserts-control-over-venezuela-and-all-the-americas</link>
       <description>But the president’s claim of dominance over the western hemisphere may backfire</description>
@@ -77,9 +89,9 @@
       <pubDate>Wed, 07 Jan 2026 15:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine now has the fortress belt it wishes it had in 2022</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/07/ukraine-now-has-the-fortress-belt-it-wishes-it-had-in-2022</link>
-      <description>But American-led peace proposals threaten to hand it to Russia</description>
+      <title>Ukraine’s defiant front</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/07/ukraines-defiant-front</link>
+      <description>The country’s defensive cordon could yet be bargained away</description>
       <pubDate>Wed, 07 Jan 2026 15:10:30 +0000</pubDate>
     </item>
     <item>
@@ -203,9 +215,9 @@
       <pubDate>Sun, 04 Jan 2026 13:28:56 +0000</pubDate>
     </item>
     <item>
-      <title>Donald Trump’s great Venezuelan oil gamble</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/04/donald-trumps-great-venezuelan-oil-gamble</link>
-      <description>The country has the world’s largest petroleum reserves. Getting them out of the ground will be tortuous</description>
+      <title>An American oil empire is a deeply flawed idea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/04/an-american-oil-empire-is-a-deeply-flawed-idea</link>
+      <description>Donald Trump’s ambitions are expansive. His plans are limited</description>
       <pubDate>Sun, 04 Jan 2026 12:38:53 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/07/elon-musks-1trn-pay-deal-is-a-troubling-display-of-corporate-capture</link>
       <description>He has Tesla and its board wrapped around his finger</description>
       <pubDate>Fri, 07 Nov 2025 18:11:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can peptides give you superpowers?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/07/can-peptides-give-you-superpowers</link>
-      <description>The “Wolverine stack” is supposed to boost healing and recovery</description>
-      <pubDate>Fri, 07 Nov 2025 18:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zohran Mamdani lost in parts of NYC that look most like America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/11/07/zohran-mamdani-lost-in-parts-of-nyc-that-look-most-like-america</link>
-      <description>Our analysis shows why his victory is no model for Democrats elsewhere</description>
-      <pubDate>Fri, 07 Nov 2025 17:13:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
