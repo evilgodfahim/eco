@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why overdose deaths are falling in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america</link>
+      <description>Researchers point to a grocers’ favourite</description>
+      <pubDate>Thu, 08 Jan 2026 19:02:00 +0000</pubDate>
+    </item>
+    <item>
       <title>France is paralysed, and everyone is to blame</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/france-is-paralysed-and-everyone-is-to-blame</link>
       <description>The budgetary impasse is just one symptom of collective political uselessness</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/12/gazas-zombie-ceasefire</link>
       <description>Neither an Arab reconstruction plan nor an American one have much chance of success</description>
       <pubDate>Wed, 12 Nov 2025 21:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The seven deadly sins of corporate exuberance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/12/the-seven-deadly-sins-of-corporate-exuberance</link>
-      <description>A frenzy of financial innovation has ensnared America Inc. What could go wrong?</description>
-      <pubDate>Wed, 12 Nov 2025 20:57:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
