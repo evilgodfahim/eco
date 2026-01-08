@@ -5,6 +5,84 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>France is paralysed, and everyone is to blame</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/france-is-paralysed-and-everyone-is-to-blame</link>
+      <description>The budgetary impasse is just one symptom of collective political uselessness</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is transforming the pharma industry for the better</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/ai-is-transforming-the-pharma-industry-for-the-better</link>
+      <description>It is changing the way drugs are discovered and tested</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does Japan have a “foreigner problem”?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/does-japan-have-a-foreigner-problem</link>
+      <description>Yes—but it is not what populist politicians say it is</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social media are making it easier for cults to recruit and control members</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/08/social-media-are-making-it-easier-for-cults-to-recruit-and-control-members</link>
+      <description>The internet has replaced door-to-door evangelists with online influencers</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Europe is rediscovering the virtues of cash</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/08/why-europe-is-rediscovering-the-virtues-of-cash</link>
+      <description>In a world of payment apps and digital euros, the coin is staging a modest comeback</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latvia is needlessly alienating its Russian-speakers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/08/latvia-is-needlessly-alienating-its-russian-speakers</link>
+      <description>Shutting down Russian-language broadcasting is a gift to the Kremlin</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energetic abroad, Emmanuel Macron faces a mess at home</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/08/energetic-abroad-emmanuel-macron-faces-a-mess-at-home</link>
+      <description>France’s sorry spectacle of another year without a budget</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kosovo’s election shows its democracy is solid</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/08/kosovos-election-shows-its-democracy-is-solid</link>
+      <description>Albin Kurti’s win improves relations with the EU, though not with Serbia</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Russian drone has revived a Ukrainian nuclear nightmare</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/08/a-russian-drone-has-revived-a-ukrainian-nuclear-nightmare</link>
+      <description>But who is prepared to pour even more money into making the country safe?</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The problem with promotions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/08/the-problem-with-promotions</link>
+      <description>The Peter principle is alive and well</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI frenzy is creating a big problem for consumer electronics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/08/the-ai-frenzy-is-creating-a-big-problem-for-consumer-electronics</link>
+      <description>Prices are rocketing for an essential component</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the age of the vodcast</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/08/welcome-to-the-age-of-the-vodcast</link>
+      <description>Audio shows are switching on their cameras in search of new audiences</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany’s industrial conglomerates are breaking up to stay alive</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/08/germanys-industrial-conglomerates-are-breaking-up-to-stay-alive</link>
+      <description>Economic woes are accelerating a trend of divestments</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Ethnic conflict festers on India’s eastern frontier</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/08/ethnic-conflict-festers-on-indias-eastern-frontier</link>
       <description>Manipur is a warning for the rest of the country</description>
@@ -2925,84 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/11/old-folk-are-seized-by-stockmarket-mania</link>
       <description>Investing in equities may make sense for individuals—but it could also exacerbate a crash</description>
       <pubDate>Tue, 11 Nov 2025 19:04:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beijing insiders’ plan to play Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/11/beijing-insiders-plan-to-play-donald-trump</link>
-      <description>They see America’s president as a golden opportunity for China</description>
-      <pubDate>Tue, 11 Nov 2025 18:51:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Despite claims, foreign students have not yet been put off America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/11/11/despite-claims-foreign-students-have-not-yet-been-put-off-america</link>
-      <description>Our analysis shows that a reported dip in arrivals this year may be a mirage</description>
-      <pubDate>Tue, 11 Nov 2025 15:17:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Syria’s ex-jihadist president, now Donald Trump’s new bestie</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/11/syrias-ex-jihadist-president-now-donald-trumps-new-bestie</link>
-      <description>But some in Ahmed al-Sharaa’s ranks still sympathise with the jihadists</description>
-      <pubDate>Tue, 11 Nov 2025 12:35:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Nuremberg 80 years on, a reckoning</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/11/the-war-room-newsletter-nuremberg-80-years-on-a-reckoning</link>
-      <description>Rosie Blau, co-host of “The Intelligence”, examines post-war accountability and retribution</description>
-      <pubDate>Tue, 11 Nov 2025 10:40:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making Mexico less of a gangster’s paradise</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/10/making-mexico-less-of-a-gangsters-paradise</link>
-      <description>Murders have fallen under a steely new crime tsar</description>
-      <pubDate>Mon, 10 Nov 2025 21:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recessions have become ultra-rare. That is storing up trouble</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/10/recessions-have-become-ultra-rare-that-is-storing-up-trouble</link>
-      <description>Continuous growth can make economies fat and slow</description>
-      <pubDate>Mon, 10 Nov 2025 19:33:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>How HR took over the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/10/how-hr-took-over-the-world</link>
-      <description>The profession has rocketed in size and stature. Will AI shrink it?</description>
-      <pubDate>Mon, 10 Nov 2025 18:32:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new project aims to predict how quickly AI will progress</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress</link>
-      <description>Superforecasters weigh in on the subject</description>
-      <pubDate>Mon, 10 Nov 2025 14:45:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four charts explain why Donald Trump is in trouble</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/11/09/four-charts-explain-why-donald-trump-is-in-trouble</link>
-      <description>America’s last elections before next year’s midterms have given Democrats hope</description>
-      <pubDate>Sun, 09 Nov 2025 18:33:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Georgia is dousing the last embers of democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/09/georgia-is-dousing-the-last-embers-of-democracy</link>
-      <description>An oligarchic party outlaws the opposition and turns towards Russia</description>
-      <pubDate>Sun, 09 Nov 2025 16:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The problem with America’s shutdown economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/09/the-problem-with-americas-shutdown-economy</link>
-      <description>Gridlock in Washington has prevented official data releases. And unofficial ones disagree</description>
-      <pubDate>Sun, 09 Nov 2025 15:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea’s new president is fixing relations with America, Japan and China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/09/south-koreas-new-president-is-fixing-relations-with-america-japan-and-china</link>
-      <description>A refreshing burst of pragmatism after a turbulent time</description>
-      <pubDate>Sun, 09 Nov 2025 10:54:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: How Donald Trump became Joe Biden</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/09/checks-and-balance-newsletter-how-donald-trump-became-joe-biden</link>
-      <description>Charlotte Howard, our executive editor and New York bureau chief, considers the parallelisms between the two men</description>
-      <pubDate>Sun, 09 Nov 2025 09:47:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
