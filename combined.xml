@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>ICE’s deportation campaign turns deadly</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/ices-deportation-campaign-turns-deadly</link>
+      <description>A killing in Minneapolis is part of a dangerous pattern</description>
+      <pubDate>Thu, 08 Jan 2026 01:24:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Venezuela’s astoundingly messy debts are about to get messier</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/venezuelas-astoundingly-messy-debts-are-about-to-get-messier</link>
       <description>Oil majors, hedge funds, Chinese lenders—all have a stake</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/americas-plans-for-a-golden-dome-are-dangerously-obscure</link>
       <description>Without clarity, the missile shield risks becoming a costly, destabilising white elephant</description>
       <pubDate>Thu, 06 Nov 2025 17:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigel Farage’s newfound fiscal prudence is welcome, if unproven</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/06/nigel-farages-newfound-fiscal-prudence-is-welcome-if-unproven</link>
-      <description>Britain’s leading populist says he won’t cut taxes dramatically after all</description>
-      <pubDate>Thu, 06 Nov 2025 14:01:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
