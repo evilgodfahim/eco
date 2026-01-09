@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Millennials spend more time than past generations with their children</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/09/millennials-spend-more-time-than-past-generations-with-their-children</link>
+      <description>America’s child-care gender gap is narrowing rapidly</description>
+      <pubDate>Fri, 09 Jan 2026 16:04:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The Donroe Delusion</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/09/cover-story-newsletter-the-donroe-delusion</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/which-is-indias-superstar-state</link>
       <description>We pit two heavyweights against each other</description>
       <pubDate>Thu, 13 Nov 2025 10:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kerala can teach India a thing or two about social welfare</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/kerala-can-teach-india-a-thing-or-two-about-social-welfare</link>
-      <description>But it also has plenty to learn about economic dynamism</description>
-      <pubDate>Thu, 13 Nov 2025 10:10:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
