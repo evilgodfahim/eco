@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Binyamin Netanyahu’s plan to win Israeli—and global—hearts and minds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/09/binyamin-netanyahus-plan-to-win-israeli-and-global-hearts-and-minds</link>
+      <description>Israel’s longest-serving prime minister is determined to regain his nation’s trust and restore its image abroad</description>
+      <pubDate>Fri, 09 Jan 2026 17:34:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Millennials spend more time than past generations with their children</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/09/millennials-spend-more-time-than-past-generations-with-their-children</link>
       <description>America’s child-care gender gap is narrowing rapidly</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/13/taiwans-amazing-economic-achievements-are-yielding-alarming-strains</link>
       <description>It has the world’s most undervalued currency and one of its biggest trade surpluses</description>
       <pubDate>Thu, 13 Nov 2025 10:57:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which is India’s superstar state?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/which-is-indias-superstar-state</link>
-      <description>We pit two heavyweights against each other</description>
-      <pubDate>Thu, 13 Nov 2025 10:14:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
