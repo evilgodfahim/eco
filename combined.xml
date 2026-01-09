@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Do RFK junior’s new dietary guidelines make sense?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/09/do-rfk-juniors-new-dietary-guidelines-make-sense</link>
+      <description>We break them down for you</description>
+      <pubDate>Fri, 09 Jan 2026 18:57:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Binyamin Netanyahu’s plan to win Israeli—and global—hearts and minds</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/09/binyamin-netanyahus-plan-to-win-israeli-and-global-hearts-and-minds</link>
       <description>Israel’s longest-serving prime minister is determined to regain his nation’s trust and restore its image abroad</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/13/the-hidden-risks-in-taiwans-boom</link>
       <description>A weak-currency policy is punishing consumers and storing up financial risk</description>
       <pubDate>Thu, 13 Nov 2025 10:58:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan’s amazing economic achievements are yielding alarming strains</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/13/taiwans-amazing-economic-achievements-are-yielding-alarming-strains</link>
-      <description>It has the world’s most undervalued currency and one of its biggest trade surpluses</description>
-      <pubDate>Thu, 13 Nov 2025 10:57:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
