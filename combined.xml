@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The Donroe Delusion</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/09/cover-story-newsletter-the-donroe-delusion</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 09 Jan 2026 15:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venezuela’s new dictator is a regime loyalist—and America’s hostage</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/09/venezuelas-new-dictator-is-a-regime-loyalist-and-americas-hostage</link>
+      <description>Delcy Rodríguez called building a socialist state her “personal revenge”. Now Donald Trump wants to “run” her country</description>
+      <pubDate>Fri, 09 Jan 2026 15:27:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Why overdose deaths are falling in America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america</link>
       <description>Researchers point to a grocers’ favourite</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/kerala-can-teach-india-a-thing-or-two-about-social-welfare</link>
       <description>But it also has plenty to learn about economic dynamism</description>
       <pubDate>Thu, 13 Nov 2025 10:10:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>A bombing in Delhi raises tensions in the region</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/a-bombing-in-delhi-raises-tensions-in-the-region</link>
-      <description>But India’s restrained response suggests that is little immediate risk of hostilities with Pakistan</description>
-      <pubDate>Thu, 13 Nov 2025 10:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gaza’s zombie ceasefire</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/12/gazas-zombie-ceasefire</link>
-      <description>Neither an Arab reconstruction plan nor an American one have much chance of success</description>
-      <pubDate>Wed, 12 Nov 2025 21:54:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
