@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance: A chilling week in Minnesota</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/09/checks-and-balance-a-chilling-week-in-minnesota</link>
+      <description>The shooting of an American citizen by an ICE agent raises grave questions, argues Charlotte Howard, our New York bureau chief</description>
+      <pubDate>Fri, 09 Jan 2026 23:42:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Do RFK junior’s new dietary guidelines make sense?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/09/do-rfk-juniors-new-dietary-guidelines-make-sense</link>
       <description>We break them down for you</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/13/how-markets-could-topple-the-global-economy</link>
       <description>If the AI bubble bursts, an unusual recession could follow</description>
       <pubDate>Thu, 13 Nov 2025 11:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI is breaking cover letters</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/13/how-ai-is-breaking-cover-letters</link>
-      <description>And leading to lower pay</description>
-      <pubDate>Thu, 13 Nov 2025 11:03:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
