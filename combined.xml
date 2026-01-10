@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s Venezuela oil deal is already up and running</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/10/donald-trumps-venezuela-oil-deal-is-already-up-and-running</link>
+      <description>It seems more collaborative than coercive. That will worry the democratic opposition</description>
+      <pubDate>Sat, 10 Jan 2026 15:46:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance: A chilling week in Minnesota</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/09/checks-and-balance-a-chilling-week-in-minnesota</link>
       <description>The shooting of an American citizen by an ICE agent raises grave questions, argues Charlotte Howard, our New York bureau chief</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/13/tree-murders-and-the-economics-of-crime</link>
       <description>Rich people can’t stop cutting down each other’s woodland</description>
       <pubDate>Thu, 13 Nov 2025 11:47:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>How markets could topple the global economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/13/how-markets-could-topple-the-global-economy</link>
-      <description>If the AI bubble bursts, an unusual recession could follow</description>
-      <pubDate>Thu, 13 Nov 2025 11:35:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
