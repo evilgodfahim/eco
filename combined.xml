@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Job applicants are winning the AI arms race against recruiters</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/job-applicants-are-winning-the-ai-arms-race-against-recruiters</link>
+      <description>Companies have been hit by a wave of chatbot-generated applications</description>
+      <pubDate>Mon, 12 Jan 2026 18:18:53 +0000</pubDate>
+    </item>
+    <item>
       <title>How Iran’s regime has hidden its brutal crackdown</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/12/how-irans-regime-has-hidden-its-brutal-crackdown</link>
       <description>It has cut off communication, but outsiders might help Iranians get back online</description>
@@ -2996,12 +3002,6 @@
       <title>Half a century after the death of Franco, Spain is a far better place</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/13/half-a-century-after-the-death-of-franco-spain-is-a-far-better-place</link>
       <description>But new problems risk undermining its success</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s $1trn pay deal highlights companies’ superstar dilemma</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/13/elon-musks-1trn-pay-deal-highlights-companies-superstar-dilemma</link>
-      <description>Can firms hedge against losing key talent?</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
