@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: Is Iran’s regime about to fall?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/12/the-war-room-newsletter-is-irans-regime-about-to-fall</link>
+      <description>Shashank Joshi, our defence editor, examines the country’s steady decay</description>
+      <pubDate>Mon, 12 Jan 2026 15:39:32 +0000</pubDate>
+    </item>
+    <item>
       <title>China obsesses over America’s “kill line”</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/12/china-obsesses-over-americas-kill-line</link>
       <description>It is easier to talk about American harshness than Chinese malaise</description>
@@ -2996,12 +3002,6 @@
       <title>Elon Musk’s $1trn pay deal highlights companies’ superstar dilemma</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/13/elon-musks-1trn-pay-deal-highlights-companies-superstar-dilemma</link>
       <description>Can firms hedge against losing key talent?</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 10-4 rule for interacting with customers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/13/the-10-4-rule-for-interacting-with-customers</link>
-      <description>Is Target’s new policy bonkers, businesslike or a bit of both?</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
