@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Which countries are adopting AI the fastest?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/12/which-countries-are-adopting-ai-the-fastest</link>
+      <description>Rich populations and tech-friendly governments help</description>
+      <pubDate>Mon, 12 Jan 2026 18:42:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Job applicants are winning the AI arms race against recruiters</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/job-applicants-are-winning-the-ai-arms-race-against-recruiters</link>
       <description>Companies have been hit by a wave of chatbot-generated applications</description>
@@ -335,8 +341,8 @@
       <pubDate>Wed, 07 Jan 2026 17:25:50 +0000</pubDate>
     </item>
     <item>
-      <title>A way to expand Earth’s arable land</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/a-way-to-expand-earths-arable-land</link>
+      <title>A clever idea that could help the world grow a lot more food</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/a-clever-idea-that-could-help-the-world-grow-a-lot-more-food</link>
       <description>Make the semi-desert bloom by enridging it</description>
       <pubDate>Wed, 07 Jan 2026 17:24:43 +0000</pubDate>
     </item>
@@ -2996,12 +3002,6 @@
       <title>How Italy’s mafia uses social media to recruit new blood</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/13/how-italys-mafia-uses-social-media-to-recruit-new-blood</link>
       <description>TikTok is struggling to contain it</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Half a century after the death of Franco, Spain is a far better place</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/13/half-a-century-after-the-death-of-franco-spain-is-a-far-better-place</link>
-      <description>But new problems risk undermining its success</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
