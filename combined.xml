@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Middle East Dispatch newsletter: Iran’s bloody crackdown</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/middle-east-dispatch-newsletter-irans-bloody-crackdown</link>
+      <description>Nicolas Pelham writes about the terror unfolding across the country</description>
+      <pubDate>Tue, 13 Jan 2026 17:25:25 +0000</pubDate>
+    </item>
+    <item>
       <title>A new generation of Chinese companies is expanding around the world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/a-new-generation-of-chinese-companies-is-expanding-around-the-world</link>
       <description>They are following a different playbook from that of their elders</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/13/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/13/business</link>
       <description></description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
