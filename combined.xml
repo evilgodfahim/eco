@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Without democracy, Donald Trump’s Venezuelan oil quest will fail</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/13/without-democracy-donald-trumps-venezuelan-oil-quest-will-fail</link>
+      <description>Sidelining the democratic opposition and its leader, María Corina Machado, would be a mistake</description>
+      <pubDate>Tue, 13 Jan 2026 13:36:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Who will cash in on Venezuelan oil?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/who-will-cash-in-on-venezuelan-oil</link>
       <description>Big rewards will require taking big risks</description>
@@ -2996,12 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/13/politics</link>
       <description></description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe is cracking down on Russian tourists</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/13/europe-is-cracking-down-on-russian-tourists</link>
-      <description>That is partly necessary—and partly alarming</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
