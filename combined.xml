@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russia’s slow advance now threatens Zaporizhia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/13/russias-slow-advance-now-threatens-zaporizhia</link>
+      <description>Ukraine’s gradual retreat is not only in Donbas</description>
+      <pubDate>Tue, 13 Jan 2026 19:44:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Arab states are silent about Iran’s unrest</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/why-arab-states-are-silent-about-irans-unrest</link>
       <description>They might welcome the Islamic Republic’s collapse but dread what would follow</description>
@@ -2996,12 +3002,6 @@
       <title>Florida is running a radical experiment in education</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/13/florida-is-running-a-radical-experiment-in-education</link>
       <description>State cash and “unbundled” schools offer parents wide choices</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the Democrats may lose again to Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/13/why-the-democrats-may-lose-again-to-donald-trump</link>
-      <description>One congressman’s choice not to run again is a dire signal for them, and about politics in general</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
