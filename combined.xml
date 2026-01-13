@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why Arab states are silent about Iran’s unrest</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/why-arab-states-are-silent-about-irans-unrest</link>
+      <description>They might welcome the Islamic Republic’s collapse but dread what would follow</description>
+      <pubDate>Tue, 13 Jan 2026 18:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venezuelans believe Donald Trump has offered them a better future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/13/venezuelans-believe-donald-trump-has-offered-them-a-better-future</link>
+      <description>An exclusive poll for The Economist also reveals an overwhelming desire for democracy</description>
+      <pubDate>Tue, 13 Jan 2026 18:08:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch newsletter: Iran’s bloody crackdown</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/middle-east-dispatch-newsletter-irans-bloody-crackdown</link>
       <description>Nicolas Pelham writes about the terror unfolding across the country</description>
@@ -2990,18 +3002,6 @@
       <title>Why the Democrats may lose again to Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/13/why-the-democrats-may-lose-again-to-donald-trump</link>
       <description>One congressman’s choice not to run again is a dire signal for them, and about politics in general</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>One of the poorest states in America introduces free child care</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/13/one-of-the-poorest-states-in-america-introduces-free-child-care</link>
-      <description>Can New Mexico’s experiment work where others have failed?</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/13/the-weekly-cartoon</link>
-      <description></description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
