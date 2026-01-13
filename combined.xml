@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump used to be risk-averse. Is that changing?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/13/donald-trump-used-to-be-risk-averse-is-that-changing</link>
+      <description>America’s president suddenly seems like a man in a hurry</description>
+      <pubDate>Tue, 13 Jan 2026 20:32:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk’s chatbot, Grok, comes under fire for nude deepfakes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/elon-musks-chatbot-grok-comes-under-fire-for-nude-deepfakes</link>
+      <description>The real power to discipline it, though, lies outside governments</description>
+      <pubDate>Tue, 13 Jan 2026 20:17:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia’s slow advance now threatens Zaporizhia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/13/russias-slow-advance-now-threatens-zaporizhia</link>
       <description>Ukraine’s gradual retreat is not only in Donbas</description>
@@ -2990,18 +3002,6 @@
       <title>China’s creepiest export surge</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/13/chinas-creepiest-export-surge</link>
       <description>Countries are queuing to buy the tools and techniques of the CCP’s security state</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parents on e-bikes are transforming the school run</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/13/parents-on-e-bikes-are-transforming-the-school-run</link>
-      <description>They’re smug, snug and often faster than drivers</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florida is running a radical experiment in education</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/13/florida-is-running-a-radical-experiment-in-education</link>
-      <description>State cash and “unbundled” schools offer parents wide choices</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
