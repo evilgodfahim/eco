@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A new generation of Chinese companies is expanding around the world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/a-new-generation-of-chinese-companies-is-expanding-around-the-world</link>
+      <description>They are following a different playbook from that of their elders</description>
+      <pubDate>Tue, 13 Jan 2026 16:29:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Without democracy, Donald Trump’s Venezuelan oil quest will fail</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/13/without-democracy-donald-trumps-venezuelan-oil-quest-will-fail</link>
       <description>Sidelining the democratic opposition and its leader, María Corina Machado, would be a mistake</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/13/business</link>
-      <description></description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/13/politics</link>
       <description></description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
