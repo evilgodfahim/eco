@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>To power up growth, India must be rewired</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/14/to-power-up-growth-india-must-be-rewired</link>
+      <description>Soon it will need as much electricity as Europe</description>
+      <pubDate>Wed, 14 Jan 2026 17:30:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Spain’s judiciary is caught up in a bitter political war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/14/spains-judiciary-is-caught-up-in-a-bitter-political-war</link>
       <description>The government decries charges of corruption as “lawfare”</description>
@@ -2996,12 +3002,6 @@
       <title>How to avoid Africa’s next war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/13/how-to-avoid-africas-next-war</link>
       <description>Pressure from America and its allies can prevent a return to fighting</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japanese women are wrestling with sumo’s boundaries</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/japanese-women-are-wrestling-with-sumos-boundaries</link>
-      <description>Might a female prime minister break a long-standing taboo on entering the ring? Don’t count on it</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
