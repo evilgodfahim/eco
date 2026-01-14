@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Same-sex sexual behaviour in primates is a survival strategy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/same-sex-sexual-behaviour-in-primates-is-a-survival-strategy</link>
+      <description>It promotes harmony among those living in harsh environments, says new study</description>
+      <pubDate>Wed, 14 Jan 2026 18:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hotter still, and hotter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/hotter-still-and-hotter</link>
+      <description>More worrying news about the climate</description>
+      <pubDate>Wed, 14 Jan 2026 18:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why child prodigies rarely become elite performers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers</link>
+      <description>Hot-housing promising youngsters works—but not as well as you might think</description>
+      <pubDate>Wed, 14 Jan 2026 18:57:18 +0000</pubDate>
+    </item>
+    <item>
       <title>It’s not just the Fed. Politics looms over central banks everywhere</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/its-not-just-the-fed-politics-looms-over-central-banks-everywhere</link>
       <description>But can the public stomach higher inflation?</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/15/checks-and-balance-newsletter-a-positive-scenario-for-america-in-2026</link>
       <description>John Prideaux, our US editor, offers hopeful predictions for the year ahead</description>
       <pubDate>Sat, 15 Nov 2025 12:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: How markets could topple the economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/14/cover-story-newsletter-how-markets-could-topple-the-economy</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 14 Nov 2025 18:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do women need testosterone supplements?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/14/do-women-need-testosterone-supplements</link>
-      <description>It can be helpful in some cases, but it’s no fountain of youth</description>
-      <pubDate>Fri, 14 Nov 2025 13:37:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mexico’s surprising record on murder</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/13/mexicos-surprising-record-on-murder</link>
-      <description>Claudia Sheinbaum’s security strategy is working. She has a mountain to climb</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
