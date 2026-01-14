@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Jerome Powell punches back</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/jerome-powell-punches-back</link>
+      <description>The administration’s latest attack on America’s central bank has not gone well</description>
+      <pubDate>Wed, 14 Jan 2026 22:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s crusade against usury reaches Wall Street</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/donald-trumps-crusade-against-usury-reaches-wall-street</link>
+      <description>His fight against high interest rates could get messy</description>
+      <pubDate>Wed, 14 Jan 2026 22:09:39 +0000</pubDate>
+    </item>
+    <item>
       <title>How Saks Fifth Avenue’s owner went bust</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/14/how-saks-fifth-avenues-owner-went-bust</link>
       <description>The posh department-store group has itself to blame</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/17/europe-sees-china-as-a-rival-china-sees-europe-as-a-has-been</link>
       <description>Yet China may be underestimating Europe’s willingness to push back</description>
       <pubDate>Mon, 17 Nov 2025 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shut up, or suck up? How CEOs are dealing with Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/17/shut-up-or-suck-up-how-ceos-are-dealing-with-donald-trump</link>
-      <description>Chief executives are learning to live with a unique commander-in-chief</description>
-      <pubDate>Mon, 17 Nov 2025 18:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>For Israel a psychological reckoning is the cost of bloody victory</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/16/for-israel-a-psychological-reckoning-is-the-cost-of-bloody-victory</link>
-      <description>Trauma, rebellion and emigration surge alongside military ascendancy</description>
-      <pubDate>Sun, 16 Nov 2025 17:11:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
