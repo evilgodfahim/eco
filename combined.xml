@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Supreme Court seems friendly towards trans bans in women’s sports</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/14/the-supreme-court-seems-friendly-towards-trans-bans-in-womens-sports</link>
+      <description>But some justices sound hesitant to impose the rule nationwide</description>
+      <pubDate>Wed, 14 Jan 2026 08:57:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump is a man in a hurry</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/13/donald-trump-is-a-man-in-a-hurry</link>
       <description>America’s president used to be risk-averse. Is that changing?</description>
@@ -129,6 +135,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/10/donald-trumps-venezuela-oil-deal-is-already-up-and-running</link>
       <description>It seems more collaborative than coercive. That will worry the democratic opposition</description>
       <pubDate>Sat, 10 Jan 2026 15:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checks and Balance newsletter: A chilling week in Minnesota</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/09/checks-and-balance-newsletter-a-chilling-week-in-minnesota</link>
+      <description>The shooting of an American citizen by an ICE agent raises grave questions, argues Charlotte Howard, our New York bureau chief</description>
+      <pubDate>Fri, 09 Jan 2026 23:42:11 +0000</pubDate>
     </item>
     <item>
       <title>Do RFK junior’s new dietary guidelines make sense?</title>
@@ -2990,18 +3002,6 @@
       <title>China’s growing global fan club</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/13/chinas-growing-global-fan-club</link>
       <description>Our new poll shows global opinion is swinging its way</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The way Uyghurs speak Mandarin is now a joke</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/13/the-way-uyghurs-speak-mandarin-is-now-a-joke</link>
-      <description>For many it’s not funny, given the political heat around language choices</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s creepiest export surge</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/13/chinas-creepiest-export-surge</link>
-      <description>Countries are queuing to buy the tools and techniques of the CCP’s security state</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
