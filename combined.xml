@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cuba’s regime is in dire straits</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/14/cubas-regime-is-in-dire-straits</link>
+      <description>After the capture of Nicolás Maduro, the regime which controls the island is particularly vulnerable</description>
+      <pubDate>Wed, 14 Jan 2026 10:55:50 +0000</pubDate>
+    </item>
+    <item>
       <title>The Supreme Court seems friendly towards trans bans in women’s sports</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/14/the-supreme-court-seems-friendly-towards-trans-bans-in-womens-sports</link>
       <description>But some justices sound hesitant to impose the rule nationwide</description>
@@ -2996,12 +3002,6 @@
       <title>Asia’s most treacherous sailing season</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/asias-most-treacherous-sailing-season</link>
       <description>Rohingya refugees are risking their lives in perilous sea crossings. Some do not make it</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s growing global fan club</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/13/chinas-growing-global-fan-club</link>
-      <description>Our new poll shows global opinion is swinging its way</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
