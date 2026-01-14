@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Spain’s judiciary is caught up in a bitter political war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/14/spains-judiciary-is-caught-up-in-a-bitter-political-war</link>
+      <description>The government decries charges of corruption as “lawfare”</description>
+      <pubDate>Wed, 14 Jan 2026 16:59:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Cuba’s regime is in dire straits</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/14/cubas-regime-is-in-dire-straits</link>
       <description>After the capture of Nicolás Maduro, the regime which controls the island is particularly vulnerable</description>
@@ -2996,12 +3002,6 @@
       <title>Japanese women are wrestling with sumo’s boundaries</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/japanese-women-are-wrestling-with-sumos-boundaries</link>
       <description>Might a female prime minister break a long-standing taboo on entering the ring? Don’t count on it</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asia’s most treacherous sailing season</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/13/asias-most-treacherous-sailing-season</link>
-      <description>Rohingya refugees are risking their lives in perilous sea crossings. Some do not make it</description>
       <pubDate>Thu, 13 Nov 2025 14:00:55 +0000</pubDate>
     </item>
   </channel>
