@@ -5,15 +5,33 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Saks Fifth Avenue’s owner went bust</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/14/how-saks-fifth-avenues-owner-went-bust</link>
+      <description>The posh department-store group has itself to blame</description>
+      <pubDate>Wed, 14 Jan 2026 21:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is passive investment inflating a stockmarket bubble?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble</link>
+      <description>A widely circulated working paper suggests so</description>
+      <pubDate>Wed, 14 Jan 2026 21:02:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A private memo from central banks to governments</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/14/a-private-memo-from-central-banks-to-governments</link>
+      <description>You come at the king (of finance), you best not miss</description>
+      <pubDate>Wed, 14 Jan 2026 20:49:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Same-sex sexual behaviour in primates is a survival strategy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/same-sex-sexual-behaviour-in-primates-is-a-survival-strategy</link>
       <description>It promotes harmony among those living in harsh environments, says new study</description>
       <pubDate>Wed, 14 Jan 2026 18:59:41 +0000</pubDate>
     </item>
     <item>
-      <title>Hotter still, and hotter</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/hotter-still-and-hotter</link>
-      <description>More worrying news about the climate</description>
+      <title>2025 was third hottest year on record</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/2025-was-third-hottest-year-on-record</link>
+      <description>It should have been a relatively cool year; it was anything but</description>
       <pubDate>Wed, 14 Jan 2026 18:58:12 +0000</pubDate>
     </item>
     <item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/16/for-israel-a-psychological-reckoning-is-the-cost-of-bloody-victory</link>
       <description>Trauma, rebellion and emigration surge alongside military ascendancy</description>
       <pubDate>Sun, 16 Nov 2025 17:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is this the end of the scorching gold rally?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/16/is-this-the-end-of-the-scorching-gold-rally</link>
-      <description>As bullish stories get tested, investors should worry</description>
-      <pubDate>Sun, 16 Nov 2025 15:15:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Donald Trump deploy the National Guard whenever he likes?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/16/can-donald-trump-deploy-the-national-guard-whenever-he-likes</link>
-      <description>The Supreme Court seems likely to say no</description>
-      <pubDate>Sun, 16 Nov 2025 09:38:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: A positive scenario for America in 2026</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/15/checks-and-balance-newsletter-a-positive-scenario-for-america-in-2026</link>
-      <description>John Prideaux, our US editor, offers hopeful predictions for the year ahead</description>
-      <pubDate>Sat, 15 Nov 2025 12:55:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
