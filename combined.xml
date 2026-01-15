@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Europe has three options for defending Greenland</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/14/europe-has-three-options-for-defending-greenland</link>
+      <description>Fending off Donald Trump may yet prove agonisingly difficult</description>
+      <pubDate>Wed, 14 Jan 2026 23:41:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Jerome Powell punches back</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/jerome-powell-punches-back</link>
       <description>The administration’s latest attack on America’s central bank has not gone well</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/17/the-war-room-newsletter-ukraines-war-needs-more-than-drones</link>
       <description>Shashank Joshi, our defence editor, says survival on the front line is anything but simple</description>
       <pubDate>Mon, 17 Nov 2025 19:12:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe sees China as a rival. China sees Europe as a has-been</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/17/europe-sees-china-as-a-rival-china-sees-europe-as-a-has-been</link>
-      <description>Yet China may be underestimating Europe’s willingness to push back</description>
-      <pubDate>Mon, 17 Nov 2025 18:13:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
