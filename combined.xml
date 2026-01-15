@@ -5,6 +5,60 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why Go is going nowhere</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/15/why-go-is-going-nowhere</link>
+      <description>Three masters, one game, zero consensus</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>China is testing South Korea in the Yellow Sea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/15/china-is-testing-south-korea-in-the-yellow-sea</link>
+      <description>Could it become the next big maritime flashpoint?</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will the army hold up Vietnam’s big reforms?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/15/will-the-army-hold-up-vietnams-big-reforms</link>
+      <description>Two visions for the country will collide at a five-yearly congress</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The best way to see Hong Kong is on its trams</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/15/the-best-way-to-see-hong-kong-is-on-its-trams</link>
+      <description>It’s an inexpensive way to see an expensive city</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The battle for blue skies over Beijing leaves farmers cold</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/15/the-battle-for-blue-skies-over-beijing-leaves-farmers-cold</link>
+      <description>Banned from burning coal, they can’t afford gas heating</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/15/the-weekly-cartoon</link>
+      <description></description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/15/politics</link>
+      <description></description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/15/business</link>
+      <description></description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home-grown firms are helping Nigeria’s oil industry to rebound</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/15/home-grown-firms-are-helping-nigerias-oil-industry-to-rebound</link>
+      <description>But they will struggle to find the capital to sustain it</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
       <title>What the collapse of Iran’s regime would mean</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/15/what-the-collapse-of-irans-regime-would-mean</link>
       <description>Thousands have died and America has threatened to strike back against the horror there</description>
@@ -89,9 +143,9 @@
       <pubDate>Wed, 14 Jan 2026 18:59:41 +0000</pubDate>
     </item>
     <item>
-      <title>2025 was third hottest year on record</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/2025-was-third-hottest-year-on-record</link>
-      <description>It should have been a relatively cool year; it was anything but</description>
+      <title>Hotter still, and hotter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/hotter-still-and-hotter</link>
+      <description>More worrying news about the climate</description>
       <pubDate>Wed, 14 Jan 2026 18:58:12 +0000</pubDate>
     </item>
     <item>
@@ -131,9 +185,9 @@
       <pubDate>Wed, 14 Jan 2026 08:57:12 +0000</pubDate>
     </item>
     <item>
-      <title>Donald Trump is a man in a hurry</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/13/donald-trump-is-a-man-in-a-hurry</link>
-      <description>America’s president used to be risk-averse. Is that changing?</description>
+      <title>Donald Trump used to be risk-averse. Is that changing?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/13/donald-trump-used-to-be-risk-averse-is-that-changing</link>
+      <description>America’s president suddenly seems like a man in a hurry</description>
       <pubDate>Tue, 13 Jan 2026 20:32:19 +0000</pubDate>
     </item>
     <item>
@@ -2949,60 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/19/a-better-way-to-look-for-signs-of-ancient-biology</link>
       <description>It could also be useful in finding life on other planets</description>
       <pubDate>Wed, 19 Nov 2025 17:54:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geothermal kit can help make the power grid flexible</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/19/geothermal-kit-can-help-make-the-power-grid-flexible</link>
-      <description>It is potentially cheaper and longer-lasting than lithium batteries</description>
-      <pubDate>Wed, 19 Nov 2025 17:53:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech billionaires want to make gene-edited babies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/19/tech-billionaires-want-to-make-gene-edited-babies</link>
-      <description>Widespread bans don’t seem to be a hindrance</description>
-      <pubDate>Wed, 19 Nov 2025 17:18:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The use of a rare wood pits violinists against environmentalists</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/19/the-use-of-a-rare-wood-pits-violinists-against-environmentalists</link>
-      <description>Pernambuco has been used for centuries because of its unique sound</description>
-      <pubDate>Wed, 19 Nov 2025 17:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China has too many university grads and too few jobs for them</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/19/china-has-too-many-university-grads-and-too-few-jobs-for-them</link>
-      <description>It wants to push youngsters towards vocational colleges instead</description>
-      <pubDate>Wed, 19 Nov 2025 14:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Donald Trump preparing to strike Venezuela or lining up a deal?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/19/is-donald-trump-preparing-to-strike-venezuela-or-lining-up-a-deal</link>
-      <description>The answer is both</description>
-      <pubDate>Wed, 19 Nov 2025 12:38:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The loneliness of America’s model ally</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/18/the-loneliness-of-americas-model-ally</link>
-      <description>Donald Trump has no desire to play global cop. That is tough on Denmark, a loyal sheriff’s deputy</description>
-      <pubDate>Tue, 18 Nov 2025 22:05:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto got everything it wanted. Now it’s sinking</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking</link>
-      <description>The slump could spread across financial markets</description>
-      <pubDate>Tue, 18 Nov 2025 21:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marjorie Taylor Greene’s big MAGA break-up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/18/marjorie-taylor-greenes-big-maga-break-up</link>
-      <description>Defying the president over the Epstein files is her latest bust-up with the Republican Party</description>
-      <pubDate>Tue, 18 Nov 2025 20:17:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geothermal’s time has finally come</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come</link>
-      <description>This source of energy could become bigger than nuclear</description>
-      <pubDate>Tue, 18 Nov 2025 18:11:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
