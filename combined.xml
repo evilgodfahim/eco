@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The economics of regime change</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/15/the-economics-of-regime-change</link>
+      <description>Lessons from history for Venezuela and Iran</description>
+      <pubDate>Thu, 15 Jan 2026 10:28:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe has three options for defending Greenland</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/14/europe-has-three-options-for-defending-greenland</link>
       <description>Fending off Donald Trump may yet prove agonisingly difficult</description>
@@ -115,6 +121,12 @@
     <item>
       <title>Venezuelans believe Donald Trump has offered them a better future</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/13/venezuelans-believe-donald-trump-has-offered-them-a-better-future</link>
+      <description>An exclusive poll for The Economist also reveals an overwhelming desire for democracy</description>
+      <pubDate>Tue, 13 Jan 2026 18:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venezuelans believe Donald Trump has offered them a better future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/13/venezuelans-believe-donald-trump-has-offered-them-a-better-future</link>
       <description>An exclusive poll for The Economist also reveals an overwhelming desire for democracy</description>
       <pubDate>Tue, 13 Jan 2026 18:08:36 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/11/17/dont-cheer-the-end-of-americas-obesity-crisis-just-yet</link>
       <description>The evidence so far is weak</description>
       <pubDate>Mon, 17 Nov 2025 20:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s militant bloggers are clashing with their own regime</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/17/russias-militant-bloggers-are-clashing-with-their-own-regime</link>
-      <description>Bashing the army for failing to crush Ukraine can land you in jail</description>
-      <pubDate>Mon, 17 Nov 2025 19:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Ukraine’s war needs more than drones</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/17/the-war-room-newsletter-ukraines-war-needs-more-than-drones</link>
-      <description>Shashank Joshi, our defence editor, says survival on the front line is anything but simple</description>
-      <pubDate>Mon, 17 Nov 2025 19:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
