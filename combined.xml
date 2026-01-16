@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The most useful indicator of your overall health</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/16/the-most-useful-indicator-of-your-overall-health</link>
+      <description>“Heart-rate variability” has been decades in the making</description>
+      <pubDate>Fri, 16 Jan 2026 17:26:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The return of gunboat capitalism</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/16/cover-story-newsletter-the-return-of-gunboat-capitalism</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -245,9 +251,9 @@
       <pubDate>Wed, 14 Jan 2026 18:59:41 +0000</pubDate>
     </item>
     <item>
-      <title>Hotter still, and hotter</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/hotter-still-and-hotter</link>
-      <description>More worrying news about the climate</description>
+      <title>2025 was the third hottest year on record</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record</link>
+      <description>It should have been a relatively cool year; it was anything but</description>
       <pubDate>Wed, 14 Jan 2026 18:58:12 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/20/mortgage-lending-in-america-is-seizing-up-how-to-revive-it</link>
       <description>Some rules introduced after the financial crisis have gone too far</description>
       <pubDate>Thu, 20 Nov 2025 11:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indians are getting more fashionable</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/20/indians-are-getting-more-fashionable</link>
-      <description>Cheap data, cheaper clothes and improving logistics have made trends more accessible</description>
-      <pubDate>Thu, 20 Nov 2025 11:30:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
