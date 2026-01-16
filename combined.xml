@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The return of gunboat capitalism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/16/cover-story-newsletter-the-return-of-gunboat-capitalism</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 16 Jan 2026 15:50:53 +0000</pubDate>
+    </item>
+    <item>
       <title>America has coped with worse things than Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/15/america-has-coped-with-worse-things-than-donald-trump</link>
       <description>Lessons from history for the next three years</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/20/indians-are-getting-more-fashionable</link>
       <description>Cheap data, cheaper clothes and improving logistics have made trends more accessible</description>
       <pubDate>Thu, 20 Nov 2025 11:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why governments should stop raising the minimum wage</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/20/why-governments-should-stop-raising-the-minimum-wage</link>
-      <description>After a decade of rises, there are now far better tools for fighting poverty</description>
-      <pubDate>Thu, 20 Nov 2025 11:28:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
