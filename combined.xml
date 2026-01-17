@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s hunger for Greenland is tearing NATO apart</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/17/americas-hunger-for-greenland-is-tearing-nato-apart</link>
+      <description>Donald Trump could gain an island and lose a continent</description>
+      <pubDate>Sat, 17 Jan 2026 20:47:38 +0000</pubDate>
+    </item>
+    <item>
       <title>The most useful indicator of your overall health</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/16/the-most-useful-indicator-of-your-overall-health</link>
       <description>“Heart-rate variability” has been decades in the making</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/20/the-charts-that-show-how-much-money-china-lends-to-the-rich-world</link>
       <description>Many of the loans look harmless. But some are raising eyebrows</description>
       <pubDate>Thu, 20 Nov 2025 12:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mortgage lending in America is seizing up. How to revive it</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/20/mortgage-lending-in-america-is-seizing-up-how-to-revive-it</link>
-      <description>Some rules introduced after the financial crisis have gone too far</description>
-      <pubDate>Thu, 20 Nov 2025 11:37:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
