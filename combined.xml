@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why America’s bond market just keeps winning</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/18/why-americas-bond-market-just-keeps-winning</link>
+      <description>Vigilantes have shrugged off ballooning debt and attacks on the Fed</description>
+      <pubDate>Sun, 18 Jan 2026 11:18:18 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s hunger for Greenland is tearing NATO apart</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/17/americas-hunger-for-greenland-is-tearing-nato-apart</link>
       <description>Donald Trump could gain an island and lose a continent</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/20/africas-other-debt-crisis</link>
       <description>It is not just loans from China and Western financiers. Domestic borrowing is surging</description>
       <pubDate>Thu, 20 Nov 2025 12:34:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The charts that show how much money China lends to the rich world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/20/the-charts-that-show-how-much-money-china-lends-to-the-rich-world</link>
-      <description>Many of the loans look harmless. But some are raising eyebrows</description>
-      <pubDate>Thu, 20 Nov 2025 12:11:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
