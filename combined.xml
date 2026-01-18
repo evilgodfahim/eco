@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>African trade has been vastly underestimated</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/18/african-trade-has-been-vastly-underestimated</link>
+      <description>The continent’s food markets are more dynamic than commonly thought</description>
+      <pubDate>Sun, 18 Jan 2026 13:28:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Why America’s bond market just keeps winning</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/18/why-americas-bond-market-just-keeps-winning</link>
       <description>Vigilantes have shrugged off ballooning debt and attacks on the Fed</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/20/how-to-save-the-galapagos-from-its-visitors</link>
       <description>The higher entry fee may be helping</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa’s other debt crisis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/20/africas-other-debt-crisis</link>
-      <description>It is not just loans from China and Western financiers. Domestic borrowing is surging</description>
-      <pubDate>Thu, 20 Nov 2025 12:34:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
