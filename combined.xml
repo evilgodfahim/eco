@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China hits its GDP target—in a weird way</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way</link>
+      <description>Strong exports make up for weak investment</description>
+      <pubDate>Mon, 19 Jan 2026 15:02:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Treatment of a teenager with an ultra-rare condition is a medical milestone</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/19/treatment-of-a-teenager-with-an-ultra-rare-condition-is-a-medical-milestone</link>
       <description>It will change regulators’ rule books</description>
@@ -2996,12 +3002,6 @@
       <title>How do you replace a CEO like Tim Cook or Warren Buffett?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/20/how-do-you-replace-a-ceo-like-tim-cook-or-warren-buffett</link>
       <description>Some shoes seem just too big to fill</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>When companies lose their way</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/20/when-companies-lose-their-way</link>
-      <description>Refounding is the process of rediscovering a firm’s essential character</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
