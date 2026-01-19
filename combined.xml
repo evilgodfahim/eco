@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Xi Jinping is carrying Deng Xiaoping’s authoritarian torch in China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/19/xi-jinping-is-carrying-deng-xiaopings-authoritarian-torch-in-china</link>
+      <description>Many see China’s leader as a counter-reformer. But he is really an heir</description>
+      <pubDate>Mon, 19 Jan 2026 16:38:44 +0000</pubDate>
+    </item>
+    <item>
       <title>China hits its GDP target—in a weird way</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way</link>
       <description>Strong exports make up for weak investment</description>
@@ -2996,12 +3002,6 @@
       <title>Russian bombing leaves no time to search for keepsakes</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/20/russian-bombing-leaves-no-time-to-search-for-keepsakes</link>
       <description>In Ukraine, the wreckage is often gone before victims can recover their effects</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How do you replace a CEO like Tim Cook or Warren Buffett?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/20/how-do-you-replace-a-ceo-like-tim-cook-or-warren-buffett</link>
-      <description>Some shoes seem just too big to fill</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
