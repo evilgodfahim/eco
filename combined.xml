@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Popular music is getting sadder and angstier</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/19/popular-music-is-getting-sadder-and-angstier</link>
+      <description>Analyses of top-charting songs find a rise in blue moods</description>
+      <pubDate>Mon, 19 Jan 2026 13:11:39 +0000</pubDate>
+    </item>
+    <item>
       <title>As divisions over Greenland grow, Europe examines its options</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/18/as-divisions-over-greenland-grow-europe-examines-its-options</link>
       <description>Donald Trump’s tariff threats force Europeans to count their arrows</description>
@@ -339,12 +345,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/why-arab-states-are-silent-about-irans-unrest</link>
       <description>They might welcome the Islamic Republic’s collapse but dread what would follow</description>
       <pubDate>Tue, 13 Jan 2026 18:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuelans believe Donald Trump has offered them a better future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/13/venezuelans-believe-donald-trump-has-offered-them-a-better-future</link>
-      <description>An exclusive poll for The Economist also reveals an overwhelming desire for democracy</description>
-      <pubDate>Tue, 13 Jan 2026 18:08:36 +0000</pubDate>
     </item>
     <item>
       <title>Venezuelans believe Donald Trump has offered them a better future</title>
