@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>After Iran’s massacres, tensions grow inside the regime</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/19/after-irans-massacres-tensions-grow-inside-the-regime</link>
+      <description>The country and some of its rulers are unsettled by mounting evidence of an immensely bloody crackdown</description>
+      <pubDate>Mon, 19 Jan 2026 19:50:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Xi Jinping is carrying Deng Xiaoping’s authoritarian torch</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/19/xi-jinping-is-carrying-deng-xiaopings-authoritarian-torch</link>
       <description>Many see China’s leader as a counter-reformer. But he is really an heir</description>
@@ -2996,12 +3002,6 @@
       <title>Vineyards are disappearing in France</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/20/vineyards-are-disappearing-in-france</link>
       <description>As wine-drinking slows, farmers are uprooting vines</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian bombing leaves no time to search for keepsakes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/20/russian-bombing-leaves-no-time-to-search-for-keepsakes</link>
-      <description>In Ukraine, the wreckage is often gone before victims can recover their effects</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
