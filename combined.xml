@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Western leaders navigate a lonely world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/20/western-leaders-navigate-a-lonely-world</link>
+      <description>China cannot and will not save mid-size American allies from Donald Trump</description>
+      <pubDate>Tue, 20 Jan 2026 22:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian soldiers have been carrying out Donald Trump’s orders</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/20/canadian-soldiers-have-been-carrying-out-donald-trumps-orders</link>
+      <description>As the American president becomes more aggressive, this is becoming a problem</description>
+      <pubDate>Tue, 20 Jan 2026 20:32:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Why the beauty industry is booming</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/20/why-the-beauty-industry-is-booming</link>
       <description>Plain bottles with clinical labels are part of the secret</description>
@@ -2990,18 +3002,6 @@
       <title>The politicians protecting huge criminal networks</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/20/the-politicians-protecting-huge-criminal-networks</link>
       <description>Investigations are growing, but change is unlikely</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Chinese underground banks became the world’s biggest money-launderers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/20/how-chinese-underground-banks-became-the-worlds-biggest-money-launderers</link>
-      <description>They connect rich Chinese, drug cartels and North Korean hackers—without anyone meeting</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is accelerating a tech backlash in American classrooms</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms</link>
-      <description>Handwritten and oral exams are making a comeback</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
