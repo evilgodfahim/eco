@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why the beauty industry is booming</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/20/why-the-beauty-industry-is-booming</link>
+      <description>Plain bottles with clinical labels are part of the secret</description>
+      <pubDate>Tue, 20 Jan 2026 19:35:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s bullying is irritating his European populist chums</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/20/donald-trumps-bullying-is-irritating-his-european-populist-chums</link>
       <description>French and German nationalists are not happy with America’s grab for Greenland</description>
@@ -13,12 +19,6 @@
     <item>
       <title>Denmark braces for Donald Trump’s Greenland tariffs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/20/denmark-braces-for-donald-trumps-greenland-tariffs</link>
-      <description>The economy is well prepared, but more exposed than it used to be</description>
-      <pubDate>Tue, 20 Jan 2026 18:25:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Denmark braces for Donald Trump’s Greenland tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/20/denmark-braces-for-donald-trumps-greenland-tariffs</link>
       <description>The economy is well prepared, but more exposed than it used to be</description>
       <pubDate>Tue, 20 Jan 2026 18:25:26 +0000</pubDate>
     </item>
