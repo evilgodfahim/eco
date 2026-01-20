@@ -5,9 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s adventurism is unsettling China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/20/donald-trumps-adventurism-is-unsettling-china</link>
+      <description>Pushing back could threaten a trade deal and progress on Taiwan</description>
+      <pubDate>Tue, 20 Jan 2026 17:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most Americans oppose military action in Greenland</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/20/most-americans-oppose-military-action-in-greenland</link>
+      <description>Our polling with YouGov shows interventions in Iran and Venezuela had far more support</description>
+      <pubDate>Tue, 20 Jan 2026 17:28:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Mexico’s mighty left-wing government is floundering</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/20/mexicos-mighty-left-wing-government-is-floundering</link>
-      <description>The strongest left-wing party in the democratic world is struggling to deliver security or economic growth</description>
+      <description>The strongest leftist party in the democratic world is struggling to provide security or economic growth</description>
       <pubDate>Tue, 20 Jan 2026 16:51:18 +0000</pubDate>
     </item>
     <item>
@@ -2990,18 +3002,6 @@
       <title>How to lower America’s soaring health-care costs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/20/how-to-lower-americas-soaring-health-care-costs</link>
       <description>As politicians debate populist schemes, they ignore impactful changes in plain sight</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/20/business</link>
-      <description></description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/20/the-weekly-cartoon</link>
-      <description></description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
