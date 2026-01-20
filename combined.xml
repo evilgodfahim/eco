@@ -5,8 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>Donald Trump’s adventurism is unsettling China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/20/donald-trumps-adventurism-is-unsettling-china</link>
+      <title>Donald Trump’s bullying is irritating his European populist chums</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/20/donald-trumps-bullying-is-irritating-his-european-populist-chums</link>
+      <description>French and German nationalists are not happy with America’s grab for Greenland</description>
+      <pubDate>Tue, 20 Jan 2026 18:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark braces for Donald Trump’s Greenland tariffs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/20/denmark-braces-for-donald-trumps-greenland-tariffs</link>
+      <description>The economy is well prepared, but more exposed than it used to be</description>
+      <pubDate>Tue, 20 Jan 2026 18:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark braces for Donald Trump’s Greenland tariffs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/20/denmark-braces-for-donald-trumps-greenland-tariffs</link>
+      <description>The economy is well prepared, but more exposed than it used to be</description>
+      <pubDate>Tue, 20 Jan 2026 18:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s adventurism is unsettling China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/20/americas-adventurism-is-unsettling-china</link>
       <description>Pushing back could threaten a trade deal and progress on Taiwan</description>
       <pubDate>Tue, 20 Jan 2026 17:35:27 +0000</pubDate>
     </item>
@@ -2984,24 +3002,6 @@
       <title>AI is accelerating a tech backlash in American classrooms</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms</link>
       <description>Handwritten and oral exams are making a comeback</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release the Epstein files!</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/20/release-the-epstein-files</link>
-      <description>What Congress has actually voted to make public</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Donald Trump is turning into Joe Biden</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/20/how-donald-trump-is-turning-into-joe-biden</link>
-      <description>It’s about more than denying inflation</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to lower America’s soaring health-care costs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/20/how-to-lower-americas-soaring-health-care-costs</link>
-      <description>As politicians debate populist schemes, they ignore impactful changes in plain sight</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
