@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mexico’s mighty left-wing government is floundering</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/20/mexicos-mighty-left-wing-government-is-floundering</link>
+      <description>The strongest left-wing party in the democratic world is struggling to deliver security or economic growth</description>
+      <pubDate>Tue, 20 Jan 2026 16:51:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s Greenland tariffs are no great blow to Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe</link>
       <description>An escalating trade war would be another matter, however</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/20/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/20/politics</link>
       <description></description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
