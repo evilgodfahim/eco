@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The true danger posed by Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/21/the-true-danger-posed-by-donald-trump</link>
+      <description>Despite a tactical retreat, great risks remain</description>
+      <pubDate>Wed, 21 Jan 2026 21:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s grab for Greenland makes no sense</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/21/donald-trumps-grab-for-greenland-makes-no-sense</link>
+      <description>It would harm America’s security and its economy</description>
+      <pubDate>Wed, 21 Jan 2026 21:13:48 +0000</pubDate>
+    </item>
+    <item>
       <title>TikTok is still a danger. America no longer cares</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/21/tiktok-is-still-a-danger-america-no-longer-cares</link>
       <description>The app will be owned by allies of the president but retain ties to China</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/22/cop30-ends-with-a-whimper</link>
       <description>The climate conference acknowledged that more climate action is needed, then failed to provide it</description>
       <pubDate>Sat, 22 Nov 2025 23:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s peace plan would be bad for Ukraine, Europe and America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/22/donald-trumps-peace-plan-would-be-bad-for-ukraine-europe-and-america</link>
-      <description>It is a sad mix of naked opportunism and strategic myopia</description>
-      <pubDate>Sat, 22 Nov 2025 14:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Donald Trump, Jamie Dimon and the aesthetics of power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/22/checks-and-balance-newsletter-donald-trump-jamie-dimon-and-the-aesthetics-of-power</link>
-      <description>Charlotte Howard, our executive editor and New York bureau chief, reflects on the architectural exploits of two very different leaders</description>
-      <pubDate>Sat, 22 Nov 2025 13:22:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
