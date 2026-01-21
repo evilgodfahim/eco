@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>American decay versus American dynamism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/21/american-decay-versus-american-dynamism</link>
+      <description>Only a decline in corporate America’s vigour will dent the country’s dominance of financial markets</description>
+      <pubDate>Wed, 21 Jan 2026 20:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Minneapolis is at the centre of Donald Trump’s immigration crackdown</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/21/why-minneapolis-is-at-the-centre-of-donald-trumps-immigration-crackdown</link>
+      <description>The administration is tormenting, and testing, a unique political culture</description>
+      <pubDate>Wed, 21 Jan 2026 19:35:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Satellites encased in wood are in the works</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works</link>
       <description>Timber is cheaper and better than alloys, and may be less polluting</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/21/america-has-dumped-a-messy-sordid-peace-plan-on-ukraine</link>
       <description>Volodymyr Zelensky has no choice but to play along and try to improve it</description>
       <pubDate>Fri, 21 Nov 2025 19:38:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Erik Prince, America’s most notorious mercenary, spies opportunity in chaos</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/21/erik-prince-americas-most-notorious-mercenary-spies-opportunity-in-chaos</link>
-      <description>The return of the Blackwater founder is a sign of the times</description>
-      <pubDate>Fri, 21 Nov 2025 16:57:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should adults take colostrum supplements?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/21/should-adults-take-colostrum-supplements</link>
-      <description>Claims for “first milk” have been exaggerated, but trials point to some benefits</description>
-      <pubDate>Fri, 21 Nov 2025 12:56:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
