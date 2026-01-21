@@ -6,6 +6,12 @@
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
       <title>Western leaders navigate a lonely world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/20/western-leaders-navigate-a-lonely-world</link>
+      <description>China cannot and will not save mid-size American allies from Donald Trump</description>
+      <pubDate>Tue, 20 Jan 2026 22:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Western leaders navigate a lonely world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/20/western-leaders-navigate-a-lonely-world</link>
       <description>China cannot and will not save mid-size American allies from Donald Trump</description>
       <pubDate>Tue, 20 Jan 2026 22:15:38 +0000</pubDate>
@@ -2996,12 +3002,6 @@
       <title>How will Japan’s defences evolve under its hawkish new leader?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/20/how-will-japans-defences-evolve-under-its-hawkish-new-leader</link>
       <description>Takaichi Sanae wants bigger budgets, better spooks and a stronger arms industry</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The politicians protecting huge criminal networks</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/20/the-politicians-protecting-huge-criminal-networks</link>
-      <description>Investigations are growing, but change is unlikely</description>
       <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
