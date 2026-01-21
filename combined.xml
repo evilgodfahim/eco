@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Satellites encased in wood are in the works</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works</link>
+      <description>Timber is cheaper and better than alloys, and may be less polluting</description>
+      <pubDate>Wed, 21 Jan 2026 18:48:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>To disperse their spores, truffles rely on animals eating other animals</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/21/to-disperse-their-spores-truffles-rely-on-animals-eating-other-animals</link>
+      <description>It is a gruesome business</description>
+      <pubDate>Wed, 21 Jan 2026 18:36:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new study highlights the brain’s role in immune health</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/21/a-new-study-highlights-the-brains-role-in-immune-health</link>
+      <description>It truly is a question of mind over matter</description>
+      <pubDate>Wed, 21 Jan 2026 18:32:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The remarkable recovery of Narendra Modi</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/21/the-remarkable-recovery-of-narendra-modi</link>
+      <description>Despite an electoral reverse in 2024, the prime minister now seems as dominant as ever</description>
+      <pubDate>Wed, 21 Jan 2026 18:24:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Japan’s bond-market tremble reflects a fiscal-monetary clash</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/21/japans-bond-market-tremble-reflects-a-fiscal-monetary-clash</link>
       <description>As investors worry about budgetary laxity, the central bank prepares for more rate hikes</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/21/should-adults-take-colostrum-supplements</link>
       <description>Claims for “first milk” have been exaggerated, but trials point to some benefits</description>
       <pubDate>Fri, 21 Nov 2025 12:56:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transcript: An interview with Abbas Araghchi</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/20/transcript-an-interview-with-abbas-araghchi</link>
-      <description>The Economist speaks to Iran’s foreign minister</description>
-      <pubDate>Thu, 20 Nov 2025 18:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>An interview with Iran’s foreign minister</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/20/an-interview-with-irans-foreign-minister</link>
-      <description>Abbas Araghchi tells The Economist he wants a nuclear deal with America</description>
-      <pubDate>Thu, 20 Nov 2025 18:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>To glimpse Indonesia’s future, look to its president’s view of the past</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/20/to-glimpse-indonesias-future-look-to-its-presidents-view-of-the-past</link>
-      <description>Why Prabowo Subianto is rehabilitating the late Suharto</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where being antediluvian pays</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/20/where-being-antediluvian-pays</link>
-      <description>Acting ahead of looming natural disasters can be a powerful tool</description>
-      <pubDate>Thu, 20 Nov 2025 14:14:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
