@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Lisa Cook’s job at the Federal Reserve looks safe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/21/lisa-cooks-job-at-the-federal-reserve-looks-safe</link>
+      <description>The justices sound sceptical about Donald Trump’s move to dismiss her</description>
+      <pubDate>Wed, 21 Jan 2026 21:58:05 +0000</pubDate>
+    </item>
+    <item>
       <title>The true danger posed by Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/21/the-true-danger-posed-by-donald-trump</link>
       <description>Despite a tactical retreat, great risks remain</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/23/why-investors-are-increasingly-fatalistic</link>
       <description>Everyone knows share prices have a long way to fall. Even so, getting out now might be a mistake</description>
       <pubDate>Sun, 23 Nov 2025 12:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>COP30 ends with a whimper</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/22/cop30-ends-with-a-whimper</link>
-      <description>The climate conference acknowledged that more climate action is needed, then failed to provide it</description>
-      <pubDate>Sat, 22 Nov 2025 23:49:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
