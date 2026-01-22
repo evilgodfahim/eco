@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s expansionist itch has undermined global security</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/22/donald-trumps-expansionist-itch-has-undermined-global-security</link>
+      <description>He has suspended his predation of Greenland, but he cannot retract the mistrust it generated</description>
+      <pubDate>Thu, 22 Jan 2026 10:30:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump’s Board of Peace is a distraction from the real work in Gaza</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/22/trumps-board-of-peace-is-a-distraction-from-the-real-work-in-gaza</link>
       <description>America’s president has unusual power to impose peace; he must continue to use it</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/23/chinese-pharma-is-on-the-cusp-of-going-global</link>
       <description>Its fast-moving, cut-price drugmakers stand to make more money abroad than at home</description>
       <pubDate>Sun, 23 Nov 2025 16:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI tokens are surging, but are profits?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/23/ai-tokens-are-surging-but-are-profits</link>
-      <description>The tech world’s new favourite measure comes with several caveats</description>
-      <pubDate>Sun, 23 Nov 2025 16:41:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
