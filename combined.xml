@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Trump’s Board of Peace is a distraction from the real work in Gaza</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/22/trumps-board-of-peace-is-a-distraction-from-the-real-work-in-gaza</link>
+      <description>America’s president has unusual power to impose peace; he must continue to use it</description>
+      <pubDate>Thu, 22 Jan 2026 09:17:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Lisa Cook’s job at the Federal Reserve looks safe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/21/lisa-cooks-job-at-the-federal-reserve-looks-safe</link>
       <description>The justices sound sceptical about Donald Trump’s move to dismiss her</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/23/ai-tokens-are-surging-but-are-profits</link>
       <description>The tech world’s new favourite measure comes with several caveats</description>
       <pubDate>Sun, 23 Nov 2025 16:41:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why investors are increasingly fatalistic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/23/why-investors-are-increasingly-fatalistic</link>
-      <description>Everyone knows share prices have a long way to fall. Even so, getting out now might be a mistake</description>
-      <pubDate>Sun, 23 Nov 2025 12:19:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
