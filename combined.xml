@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What’s a good man worth in China’s marriage market?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/22/whats-a-good-man-worth-in-chinas-marriage-market</link>
+      <description>A viral social-media post reveals uncomfortable realities</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which Chinese provinces splash their cash?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/22/which-chinese-provinces-splash-their-cash</link>
+      <description>The misers and spendthrifts are surprising</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uganda’s opposition leader is on the run</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/22/ugandas-opposition-leader-is-on-the-run</link>
+      <description>After a disputed election, Bobi Wine is getting death threats from the president’s son</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Kurds lost control of north-eastern Syria</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/22/how-the-kurds-lost-control-of-north-eastern-syria</link>
+      <description>Once America’s ally, a Kurdish-led militia is no longer considered useful</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s grandiose peace plans may spell more pain for Gaza</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/22/trumps-grandiose-peace-plans-may-spell-more-pain-for-gaza</link>
+      <description>A new technocratic government for Gaza has not even been allowed to enter the strip</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
       <title>The US in Brief: Thaw over Greenland</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/22/the-us-in-brief-thaw-over-greenland</link>
       <description>Our daily political update, featuring the stories that matter</description>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/25/californias-latest-gold-rush</link>
       <description>The high gold price is luring prospectors to the mountains</description>
       <pubDate>Tue, 25 Nov 2025 18:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Bolton thinks America is past “peak Trump”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/25/john-bolton-thinks-america-is-past-peak-trump</link>
-      <description>Donald Trump’s former national security adviser speaks to The Economist</description>
-      <pubDate>Tue, 25 Nov 2025 18:38:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colombia’s armed groups are experimenting with deadly drones</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/25/colombias-armed-groups-are-experimenting-with-deadly-drones</link>
-      <description>Drone warfare is becoming Latin America’s latest criminal innovation</description>
-      <pubDate>Tue, 25 Nov 2025 18:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The killing of a Hizbullah commander shows how fragile truces are</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/25/the-killing-of-a-hizbullah-commander-shows-how-fragile-truces-are</link>
-      <description>Israel’s ceasefire agreements in Gaza and Iran and are shaky, too</description>
-      <pubDate>Tue, 25 Nov 2025 17:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>There’s more to cholesterol than simply “good” or “bad”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/25/theres-more-to-cholesterol-than-simply-good-or-bad</link>
-      <description>Standard health tests may miss those at most risk</description>
-      <pubDate>Tue, 25 Nov 2025 16:50:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The self-driving taxi revolution begins at last</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/24/the-self-driving-taxi-revolution-begins-at-last</link>
-      <description>It’s Waymo complicated than it looks</description>
-      <pubDate>Mon, 24 Nov 2025 20:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
