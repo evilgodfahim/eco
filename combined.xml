@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Who is ahead in the race for Japan’s next parliament</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026-japan-election</link>
+      <description>Prime Minister Takaichi Sanae has gambled on an early election</description>
+      <pubDate>Fri, 23 Jan 2026 18:22:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to get power naps right</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/23/how-to-get-power-naps-right</link>
       <description>It’s all in the timing</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/27/what-china-will-dominate-next</link>
       <description>The country’s high-speed innovation holds lessons for the world</description>
       <pubDate>Thu, 27 Nov 2025 11:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-driving cars will transform urban economies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/27/self-driving-cars-will-transform-urban-economies</link>
-      <description>A robotaxi boom is coming. The impacts might be broader than you expect</description>
-      <pubDate>Thu, 27 Nov 2025 11:41:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
