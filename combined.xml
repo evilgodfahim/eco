@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to get power naps right</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/23/how-to-get-power-naps-right</link>
+      <description>It’s all in the timing</description>
+      <pubDate>Fri, 23 Jan 2026 15:56:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Britain’s good idea for custom genetic medicines</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/22/britains-good-idea-for-custom-genetic-medicines</link>
       <description>A way to tackle the tricky economics of drugs designed for one person</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/27/self-driving-cars-will-transform-urban-economies</link>
       <description>A robotaxi boom is coming. The impacts might be broader than you expect</description>
       <pubDate>Thu, 27 Nov 2025 11:41:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s property market is (somehow) worsening</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/27/chinas-property-market-is-somehow-worsening</link>
-      <description>Government remedies are not up to the job</description>
-      <pubDate>Thu, 27 Nov 2025 11:37:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
