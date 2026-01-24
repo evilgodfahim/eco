@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Europe remains dangerously reliant on American arms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/24/europe-remains-dangerously-reliant-on-american-arms</link>
+      <description>Defence spending is rising, but strategic autonomy is years away</description>
+      <pubDate>Sat, 24 Jan 2026 03:48:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story: The true danger posed by Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/23/cover-story-the-true-danger-posed-by-donald-trump</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2996,12 +3002,6 @@
       <title>Armed men take power in Guinea-Bissau, again</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/11/27/armed-men-take-power-in-guinea-bissau-again</link>
       <description>But not everyone is convinced the latest putsch is a real one</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s indigenous-style prisons are designed to right historical wrongs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/11/27/canadas-indigenous-style-prisons-are-designed-to-right-historical-wrongs</link>
-      <description>When rehabilitation is the focus, reoffending rates drop</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
