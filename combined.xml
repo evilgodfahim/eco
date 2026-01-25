@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Will the smartphone survive the AI age?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age</link>
+      <description>The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon</description>
+      <pubDate>Sun, 25 Jan 2026 18:41:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Mark Carney understands the new world, but can he survive it?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/25/mark-carney-understands-the-new-world-but-can-he-survive-it</link>
       <description>Canada’s leader must navigate a host of competing, fiendishly difficult, challenges</description>
@@ -2996,12 +3002,6 @@
       <title>Europe is struggling to compete in the second space race</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/27/europe-is-struggling-to-compete-in-the-second-space-race</link>
       <description>Its governments are starting to take action</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observed in the wild: office snackers and foragers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/27/observed-in-the-wild-office-snackers-and-foragers</link>
-      <description>From the snack cupboard to the coffee machine</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
