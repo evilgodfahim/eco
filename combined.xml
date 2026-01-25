@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Europe is about to sign a long-awaited free-trade deal with India</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/25/europe-is-about-to-sign-a-long-awaited-free-trade-deal-with-india</link>
+      <description>One way to show America and China that also-rans have options, too</description>
+      <pubDate>Sun, 25 Jan 2026 19:25:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Will the smartphone survive the AI age?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age</link>
       <description>The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon</description>
@@ -17,8 +23,8 @@
       <pubDate>Sun, 25 Jan 2026 14:49:22 +0000</pubDate>
     </item>
     <item>
-      <title>Why Congress won’t restrain Trump’s assault on allies over Greenland</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/why-congress-wont-restrain-trumps-assault-on-allies-over-greenland</link>
+      <title>Why Congress won’t restrain Donald Trump’s assault on allies</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/why-congress-wont-restrain-donald-trumps-assault-on-allies</link>
       <description>Republicans either fear the president’s ire, or want to strengthen his bargaining position</description>
       <pubDate>Sun, 25 Jan 2026 13:01:43 +0000</pubDate>
     </item>
@@ -2996,12 +3002,6 @@
       <title>American consumers are miserable. But they keep spending</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/27/american-consumers-are-miserable-but-they-keep-spending</link>
       <description>Consumer sentiment and retail sales have decoupled</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe is struggling to compete in the second space race</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/11/27/europe-is-struggling-to-compete-in-the-second-space-race</link>
-      <description>Its governments are starting to take action</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
