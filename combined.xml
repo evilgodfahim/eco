@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can Minnesota prosecute federal agents for using excessive force?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/26/can-minnesota-prosecute-federal-agents-for-using-excessive-force</link>
+      <description>The “supremacy clause” is at issue</description>
+      <pubDate>Mon, 26 Jan 2026 20:23:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why AI won’t wipe out white-collar jobs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs</link>
+      <description>The technology will expand their scope and raise their value</description>
+      <pubDate>Mon, 26 Jan 2026 20:16:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Ryanair might be the world’s most successful airline</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/26/ryanair-might-be-the-worlds-most-successful-airline</link>
       <description>The low-cost carrier is flying high</description>
@@ -2989,18 +3001,6 @@
     <item>
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/27/business</link>
-      <description></description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/27/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/27/politics</link>
       <description></description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
