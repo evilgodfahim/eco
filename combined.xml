@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ryanair might be the world’s most successful airline</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/26/ryanair-might-be-the-worlds-most-successful-airline</link>
+      <description>The low-cost carrier is flying high</description>
+      <pubDate>Mon, 26 Jan 2026 19:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Three ways Donald Trump could strike Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/26/the-war-room-newsletter-three-ways-donald-trump-could-strike-iran</link>
+      <description>Shashank Joshi, our defence editor, analyses America’s options</description>
+      <pubDate>Mon, 26 Jan 2026 19:01:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Hizbullah, Iran’s most powerful proxy, has been humbled</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/26/hizbullah-irans-most-powerful-proxy-has-been-humbled</link>
       <description>The militia is still a force in Lebanese politics, but its ability to menace abroad has been severely weakened</description>
@@ -2990,18 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/27/politics</link>
       <description></description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>If the fighting ends in Ukraine, the infighting in Europe will begin</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/27/if-the-fighting-ends-in-ukraine-the-infighting-in-europe-will-begin</link>
-      <description>Beware Europe’s great de-galvanisation</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Macron, Merz and Starmer are forming a new trilateral leadership</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/27/macron-merz-and-starmer-are-forming-a-new-trilateral-leadership</link>
-      <description>Three leaders struggling at home, but vigorous abroad</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
