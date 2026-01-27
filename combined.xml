@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Lots of world leaders are attacking Europe. Why?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/27/lots-of-world-leaders-are-attacking-europe-why</link>
+      <description>Often, Europe-bashing is best explained by domestic politics in America, China and beyond</description>
+      <pubDate>Tue, 27 Jan 2026 22:23:48 +0000</pubDate>
+    </item>
+    <item>
       <title>How Congress can rein in ICE—and start to redeem itself</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/how-congress-can-rein-in-ice-and-start-to-redeem-itself</link>
       <description>Senator Susan Collins of Maine has a historic chance to lead</description>
@@ -445,12 +451,6 @@
     <item>
       <title>Western leaders navigate a lonely world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/20/western-leaders-navigate-a-lonely-world</link>
-      <description>China cannot and will not save mid-size American allies from Donald Trump</description>
-      <pubDate>Tue, 20 Jan 2026 22:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Western leaders navigate a lonely world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/20/western-leaders-navigate-a-lonely-world</link>
       <description>China cannot and will not save mid-size American allies from Donald Trump</description>
       <pubDate>Tue, 20 Jan 2026 22:15:38 +0000</pubDate>
     </item>
