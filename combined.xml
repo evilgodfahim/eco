@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Congress can rein in ICE—and start to redeem itself</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/how-congress-can-rein-in-ice-and-start-to-redeem-itself</link>
+      <description>Senator Susan Collins of Maine has a historic chance to lead</description>
+      <pubDate>Tue, 27 Jan 2026 20:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The West and Ukraine are capsizing Russia’s shadow fleet</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet</link>
+      <description>And sinking its oil revenues in the process</description>
+      <pubDate>Tue, 27 Jan 2026 20:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republicans are waking up to the awful optics in Minneapolis</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/republicans-are-waking-up-to-the-awful-optics-in-minneapolis</link>
+      <description>A partial government shutdown over the president’s immigration campaign looks likely</description>
+      <pubDate>Tue, 27 Jan 2026 20:17:17 +0000</pubDate>
+    </item>
+    <item>
       <title>How porn stars can survive in the age of AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/27/how-porn-stars-can-survive-in-the-age-of-ai</link>
       <description>A dispatch from the world’s premier porn conference</description>
@@ -2984,24 +3002,6 @@
       <title>America’s oldest ally in Asia is drawing closer to China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/27/americas-oldest-ally-in-asia-is-drawing-closer-to-china</link>
       <description>Thailand increasingly depends on its bigger neighbour for trade and security</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dr Chatbot is popping up all over China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/27/dr-chatbot-is-popping-up-all-over-china</link>
-      <description>What the country learns as a result could change treatments everywhere</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>A terrible inferno kills dozens in Hong Kong</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/11/27/a-terrible-inferno-kills-dozens-in-hong-kong</link>
-      <description>Hundreds are still missing</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is upending the porn industry</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry</link>
-      <description>Synthetic smut will soon be flooding the internet, bringing new opportunities and perils</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
