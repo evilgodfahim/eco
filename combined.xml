@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Immigration agents have become Donald Trump’s personal posse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/28/immigration-agents-have-become-donald-trumps-personal-posse</link>
+      <description>That is a liability for America and, increasingly, for him</description>
+      <pubDate>Wed, 28 Jan 2026 21:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley wades into a trade spat with South Korea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/28/silicon-valley-wades-into-a-trade-spat-with-south-korea</link>
+      <description>Coupang’s data breach is turning into a diplomatic row</description>
+      <pubDate>Wed, 28 Jan 2026 21:12:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Is America about to attack Iran?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/28/is-america-about-to-attack-iran</link>
       <description>Donald Trump says he is willing to negotiate. He might be bluffing</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/28/does-taping-your-mouth-while-you-sleep-have-benefits</link>
       <description>Proponents say it improves sleep and oral health</description>
       <pubDate>Fri, 28 Nov 2025 15:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s work-from-home capitals are in a sorry state</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/11/27/americas-work-from-home-capitals-are-in-a-sorry-state</link>
-      <description>Remote-work cities show signs of strain</description>
-      <pubDate>Thu, 27 Nov 2025 16:26:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Many Israelis believe another war with Iran is coming</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/27/many-israelis-believe-another-war-with-iran-is-coming</link>
-      <description>The only question is whether it will be sooner or later</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
