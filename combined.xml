@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Xi Jinping is immensely powerful. Why can’t he stamp out corruption?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption</link>
+      <description>His purge of the top brass is part of a wider campaign</description>
+      <pubDate>Wed, 28 Jan 2026 22:10:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Immigration agents have become Donald Trump’s personal posse</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/28/immigration-agents-have-become-donald-trumps-personal-posse</link>
       <description>That is a liability for America and, increasingly, for him</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/28/cover-story-newsletter-what-china-will-dominate-next</link>
       <description>How we chose this week’s image</description>
       <pubDate>Fri, 28 Nov 2025 17:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does taping your mouth while you sleep have benefits?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/11/28/does-taping-your-mouth-while-you-sleep-have-benefits</link>
-      <description>Proponents say it improves sleep and oral health</description>
-      <pubDate>Fri, 28 Nov 2025 15:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
