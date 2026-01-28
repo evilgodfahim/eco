@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Near the front line, Russians are growing tired of war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/28/near-the-front-line-russians-are-growing-tired-of-war</link>
+      <description>A report from Belgorod, where not all residents see Ukrainians as enemies</description>
+      <pubDate>Wed, 28 Jan 2026 16:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>For the first time in 54 years there are no pandas in Japan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/28/for-the-first-time-in-54-years-there-are-no-pandas-in-japan</link>
+      <description>It is a sign of worsening relations with China</description>
+      <pubDate>Wed, 28 Jan 2026 16:47:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Lots of world leaders are attacking Europe. Why?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/27/lots-of-world-leaders-are-attacking-europe-why</link>
       <description>Europe-bashing is often explained by domestic politics in America, China and beyond</description>
@@ -2990,18 +3002,6 @@
       <title>Iran’s reformists extend a hand</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/27/irans-reformists-extend-a-hand</link>
       <description>The West should heed Iran’s call to restart nuclear talks</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>When is a Malaysian footballer not a Malaysian footballer?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/27/when-is-a-malaysian-footballer-not-a-malaysian-footballer</link>
-      <description>The country is accused of handing out passports to foreign players</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s oldest ally in Asia is drawing closer to China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/11/27/americas-oldest-ally-in-asia-is-drawing-closer-to-china</link>
-      <description>Thailand increasingly depends on its bigger neighbour for trade and security</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
