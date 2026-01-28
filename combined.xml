@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is America about to attack Iran?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/28/is-america-about-to-attack-iran</link>
+      <description>Donald Trump says he is willing to negotiate. He might be bluffing</description>
+      <pubDate>Wed, 28 Jan 2026 20:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Haters on the right and left are wrong about London</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/28/haters-on-the-right-and-left-are-wrong-about-london</link>
+      <description>It’s a hub, not a hellhole. Labour should give it more love</description>
+      <pubDate>Wed, 28 Jan 2026 20:25:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Near the front line, Russians are growing tired of war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/28/near-the-front-line-russians-are-growing-tired-of-war</link>
       <description>A report from Belgorod, where not all residents see Ukrainians as enemies</description>
@@ -2990,18 +3002,6 @@
       <title>Many Israelis believe another war with Iran is coming</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/27/many-israelis-believe-another-war-with-iran-is-coming</link>
       <description>The only question is whether it will be sooner or later</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Iran is making surprising overtures to America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/11/27/why-iran-is-making-surprising-overtures-to-america</link>
-      <description>Its clerical regime appears to be adapting to survive</description>
-      <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s reformists extend a hand</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/11/27/irans-reformists-extend-a-hand</link>
-      <description>The West should heed Iran’s call to restart nuclear talks</description>
       <pubDate>Thu, 27 Nov 2025 14:06:34 +0000</pubDate>
     </item>
   </channel>
