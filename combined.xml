@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Inside the movement challenging—and disrupting—ICE</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/inside-the-movement-challenging-and-disrupting-ice</link>
+      <description>A non-violent network of activists is forming across America</description>
+      <pubDate>Thu, 29 Jan 2026 00:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just how debased is the dollar?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar</link>
+      <description>Not nearly as much as it could be</description>
+      <pubDate>Wed, 28 Jan 2026 23:18:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Xi Jinping is immensely powerful. Why can’t he stamp out corruption?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption</link>
       <description>His purge of the top brass is part of a wider campaign</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/11/29/checks-and-balance-newsletter-giving-thanks-in-moscow</link>
       <description>John Prideaux, our US editor, considers the implications of a leaked phone call between American and Russian officials</description>
       <pubDate>Sat, 29 Nov 2025 11:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>A corruption scandal costs Volodymyr Zelensky his top aide</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/28/a-corruption-scandal-costs-volodymyr-zelensky-his-top-aide</link>
-      <description>Andriy Yermak amassed enormous power and lots of enemies</description>
-      <pubDate>Fri, 28 Nov 2025 19:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: What China will dominate next</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/11/28/cover-story-newsletter-what-china-will-dominate-next</link>
-      <description>How we chose this week’s image</description>
-      <pubDate>Fri, 28 Nov 2025 17:30:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
