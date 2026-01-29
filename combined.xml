@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The too-slow change of Indian agriculture</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/29/the-too-slow-change-of-indian-agriculture</link>
+      <description>It should be the next target of Narendra Modi’s reform drive</description>
+      <pubDate>Thu, 29 Jan 2026 11:55:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Africa’s two biggest economies may be turning the corner</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/africas-two-biggest-economies-may-be-turning-the-corner</link>
       <description>As Nigeria and South Africa revive, the continent’s growth may outpace Asia’s in 2026</description>
@@ -127,7 +133,7 @@
     <item>
       <title>How porn stars can survive in the age of AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/27/how-porn-stars-can-survive-in-the-age-of-ai</link>
-      <description>A dispatch from the world’s premier porn conference</description>
+      <description>A dispatch from the world’s premier adult-entertainment conference</description>
       <pubDate>Tue, 27 Jan 2026 18:53:00 +0000</pubDate>
     </item>
     <item>
@@ -241,7 +247,7 @@
     <item>
       <title>What Xi Jinping’s purge of China’s most senior general reveals</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/24/what-xi-jinpings-purge-of-chinas-most-senior-general-reveals</link>
-      <description>The president has swept away military leaders on a scale unseen since Mao—raising doubts about the country’s war readiness</description>
+      <description>A purge of the high command, unmatched since Mao’s death, may affect China’s ability to fight</description>
       <pubDate>Sat, 24 Jan 2026 15:57:51 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/01/lessons-from-the-frontiers-of-ai-adoption</link>
       <description>Why coders and call-centre agents are especially vulnerable to the technology</description>
       <pubDate>Mon, 01 Dec 2025 18:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Sleepwalking into Africa’s next war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/01/the-war-room-newsletter-sleepwalking-into-africas-next-war</link>
-      <description>Tom Gardner, our Africa correspondent, explores lessons from 20th-century Europe for the Horn of Africa</description>
-      <pubDate>Mon, 01 Dec 2025 18:42:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
