@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: An overlooked year in American history</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/checks-and-balance-newsletter-an-overlooked-year-in-american-history</link>
+      <description>Jon Fasman, our senior culture correspondent, on the Boston Massacre, and how it changed relations between the colonists and Britain forever</description>
+      <pubDate>Thu, 29 Jan 2026 13:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xi Jinping’s purge should worry the world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/xi-jinpings-purge-should-worry-the-world</link>
+      <description>Installing his yes-men to lead the army could be dangerous for Taiwan</description>
+      <pubDate>Thu, 29 Jan 2026 12:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan’s new opposition leader wants to talk to Xi Jinping</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/29/taiwans-new-opposition-leader-wants-to-talk-to-xi-jinping</link>
+      <description>Cheng Li-wun tells The Economist she hopes to meet China’s president early this year</description>
+      <pubDate>Thu, 29 Jan 2026 12:13:32 +0000</pubDate>
+    </item>
+    <item>
       <title>The too-slow change of Indian agriculture</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/29/the-too-slow-change-of-indian-agriculture</link>
       <description>It should be the next target of Narendra Modi’s reform drive</description>
@@ -197,9 +215,9 @@
       <pubDate>Mon, 26 Jan 2026 17:21:01 +0000</pubDate>
     </item>
     <item>
-      <title>Thailand’s liberals face a difficult election</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/26/thailands-liberals-face-a-difficult-election</link>
-      <description>The momentum is now with the energetic new prime minister</description>
+      <title>Thailand’s liberals face a tricky election</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/26/thailands-liberals-face-a-tricky-election</link>
+      <description>The momentum is with the energetic new prime minister</description>
       <pubDate>Mon, 26 Jan 2026 17:11:09 +0000</pubDate>
     </item>
     <item>
@@ -215,8 +233,8 @@
       <pubDate>Mon, 26 Jan 2026 12:27:30 +0000</pubDate>
     </item>
     <item>
-      <title>Europe is aiming to sign a long-awaited free-trade deal with India</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/25/europe-is-aiming-to-sign-a-long-awaited-free-trade-deal-with-india</link>
+      <title>Europe’s long-awaited free-trade deal with India</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/25/europes-long-awaited-free-trade-deal-with-india</link>
       <description>One way to show America and China that also-rans have options, too</description>
       <pubDate>Sun, 25 Jan 2026 19:25:06 +0000</pubDate>
     </item>
@@ -233,9 +251,9 @@
       <pubDate>Sun, 25 Jan 2026 14:49:22 +0000</pubDate>
     </item>
     <item>
-      <title>Why Congress won’t restrain Donald Trump’s assault on allies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/why-congress-wont-restrain-donald-trumps-assault-on-allies</link>
-      <description>Republicans either fear the president’s ire, or want to strengthen his bargaining position</description>
+      <title>How Congress viewed Donald Trump’s Greenland grab</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/how-congress-viewed-donald-trumps-greenland-grab</link>
+      <description>The crisis has subsided. For now</description>
       <pubDate>Sun, 25 Jan 2026 13:01:43 +0000</pubDate>
     </item>
     <item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/02/america-is-foolishly-waving-goodbye-to-thousands-of-chinese-boffins</link>
       <description>Hostile policies and attacks on science are driving them back into China’s arms</description>
       <pubDate>Tue, 02 Dec 2025 12:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to spot a bubble bursting</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/01/how-to-spot-a-bubble-bursting</link>
-      <description>Forget valuations. Look out for search-engine hits and fund managers getting fired</description>
-      <pubDate>Mon, 01 Dec 2025 19:49:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaf blowers are the latest thing dividing Americans</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/01/leaf-blowers-are-the-latest-thing-dividing-americans</link>
-      <description>An argument that pitches neighbour against neighbour</description>
-      <pubDate>Mon, 01 Dec 2025 19:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from the frontiers of AI adoption</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/01/lessons-from-the-frontiers-of-ai-adoption</link>
-      <description>Why coders and call-centre agents are especially vulnerable to the technology</description>
-      <pubDate>Mon, 01 Dec 2025 18:50:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
