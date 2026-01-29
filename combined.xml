@@ -5,10 +5,40 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Africa’s two biggest economies may be turning the corner</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/africas-two-biggest-economies-may-be-turning-the-corner</link>
+      <description>As Nigeria and South Africa revive, the continent’s growth may outpace Asia’s in 2026</description>
+      <pubDate>Thu, 29 Jan 2026 10:16:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Nigeria’s economy may be back from the brink</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/29/nigerias-economy-may-be-back-from-the-brink</link>
       <description>A spate of painful reforms is beginning to show results</description>
       <pubDate>Thu, 29 Jan 2026 10:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weak yen and the weakening dollar are signs of financial fragility</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/the-weak-yen-and-the-weakening-dollar-are-signs-of-financial-fragility</link>
+      <description>But neither Japan nor America should meddle with exchange rates</description>
+      <pubDate>Thu, 29 Jan 2026 10:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fate of Japan’s $6trn foreign portfolio rattles global markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets</link>
+      <description>The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching</description>
+      <pubDate>Thu, 29 Jan 2026 10:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why is the yen still so weak?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/why-is-the-yen-still-so-weak</link>
+      <description>Newly alluring yields on Japanese bonds have not propped up the currency</description>
+      <pubDate>Thu, 29 Jan 2026 10:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>It isn’t just Japan: Asia’s other big currencies also look cheap</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/it-isnt-just-japan-asias-other-big-currencies-also-look-cheap</link>
+      <description>Our latest quarterly order of burgernomics</description>
+      <pubDate>Thu, 29 Jan 2026 10:00:43 +0000</pubDate>
     </item>
     <item>
       <title>ICE’s impunity is a formula for more violence</title>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/01/the-war-room-newsletter-sleepwalking-into-africas-next-war</link>
       <description>Tom Gardner, our Africa correspondent, explores lessons from 20th-century Europe for the Horn of Africa</description>
       <pubDate>Mon, 01 Dec 2025 18:42:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe is going on a huge military spending spree</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/01/europe-is-going-on-a-huge-military-spending-spree</link>
-      <description>But with America now an unreliable ally, will it be enough to counter Russia?</description>
-      <pubDate>Mon, 01 Dec 2025 18:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mormonism’s surprising boom in Africa</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/01/mormonisms-surprising-boom-in-africa</link>
-      <description>The American sect has come a long way from being “the white people’s church”</description>
-      <pubDate>Mon, 01 Dec 2025 17:57:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>European pensions are in dire need of reform</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/01/european-pensions-are-in-dire-need-of-reform</link>
-      <description>Some countries are much better prepared for ageing than others</description>
-      <pubDate>Mon, 01 Dec 2025 16:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Switzerland votes decisively against inheritance tax</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/11/30/switzerland-votes-decisively-against-inheritance-tax</link>
-      <description>But its billionaires threaten to flee if there is another attempt to fleece them</description>
-      <pubDate>Sun, 30 Nov 2025 18:28:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why worries about American job losses are overstated</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/11/30/why-worries-about-american-job-losses-are-overstated</link>
-      <description>Bosses, investors, policymakers—all are fearful of a jobs-pocalypse</description>
-      <pubDate>Sun, 30 Nov 2025 15:27:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
