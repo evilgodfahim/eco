@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is a matcha latte better for you than a builder’s brew?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/30/is-a-matcha-latte-better-for-you-than-a-builders-brew</link>
+      <description>We spill the tea</description>
+      <pubDate>Fri, 30 Jan 2026 16:17:38 +0000</pubDate>
+    </item>
+    <item>
       <title>How to avoid common AI pitfalls in the workplace</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/29/how-to-avoid-common-ai-pitfalls-in-the-workplace</link>
       <description>Advice from our latest season of “Boss Class”</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/patrick-drahi-has-bested-his-lenders-yet-again</link>
       <description>The world’s messiest debt restructuring just got even uglier</description>
       <pubDate>Thu, 04 Dec 2025 12:27:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI is rewiring childhood</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood</link>
-      <description>The technology presents dazzling opportunities—and ominous risks</description>
-      <pubDate>Thu, 04 Dec 2025 11:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
