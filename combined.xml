@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: What American democracy looks like up close</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/31/checks-and-balance-newsletter-what-american-democracy-looks-like-up-close</link>
+      <description>John Prideaux, our US editor, reports from the road on why local politics still works</description>
+      <pubDate>Sat, 31 Jan 2026 16:30:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Peace negotiations give freezing Kyiv a hint of hope</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/30/peace-negotiations-give-freezing-kyiv-a-hint-of-hope</link>
       <description>Talks with Russia in Abu Dhabi could point towards a compromise</description>
@@ -2996,12 +3002,6 @@
       <title>An insurgency may be brewing against Syria’s new leaders</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/04/an-insurgency-may-be-brewing-against-syrias-new-leaders</link>
       <description>Alawites close to the former Assad regime are increasingly unhappy</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Syria uneasily celebrates a year of liberation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/04/syria-uneasily-celebrates-a-year-of-liberation</link>
-      <description>The flaws of Ahmed al-Sharaa’s rule are beginning to show</description>
       <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
