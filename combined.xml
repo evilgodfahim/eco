@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>AI is not the only threat menacing big tech</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/02/ai-is-not-the-only-threat-menacing-big-tech</link>
+      <description>Are Meta and Google ads really recession-proof?</description>
+      <pubDate>Mon, 02 Feb 2026 19:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>An election that hopes to bring democracy back to Bangladesh</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/02/an-election-that-hopes-to-bring-democracy-back-to-bangladesh</link>
+      <description>But voters are having to pick between Islamists and a tainted party from the past</description>
+      <pubDate>Mon, 02 Feb 2026 19:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The right to die spreads in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/02/the-right-to-die-spreads-in-america</link>
+      <description>States that are home to a third of Americans could soon allow it</description>
+      <pubDate>Mon, 02 Feb 2026 18:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s opacity brings Pekingology back into vogue</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/02/chinas-opacity-brings-pekingology-back-into-vogue</link>
+      <description>What, for example, is behind Xi Jinping’s sweeping military purge?</description>
+      <pubDate>Mon, 02 Feb 2026 18:14:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside the hopeless effort to quash cocaine by force</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/02/inside-the-hopeless-effort-to-quash-cocaine-by-force</link>
       <description>Commando raids in the Colombian jungle are little better than whack-a-mole</description>
@@ -2978,30 +3002,6 @@
       <title>Greece is teaching Germany how to get government online</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/greece-is-teaching-germany-how-to-get-government-online</link>
       <description>A legendary bureaucracy is making Olympian efforts at digitalisation</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hague is coping with the decline of international courts</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/the-hague-is-coping-with-the-decline-of-international-courts</link>
-      <description>A loss of prestige for global criminal justice, and for its capital</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italy’s populist right stalls a sexual-consent law</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/italys-populist-right-stalls-a-sexual-consent-law</link>
-      <description>Despite harsher penalties for femicide, Italian machismo is not over</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s peace initiative has stalled in Moscow</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/americas-peace-initiative-has-stalled-in-moscow</link>
-      <description>Volodymyr Zelensky faces a political crisis over corruption</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will the mega-merger wave destroy value for shareholders?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/will-the-mega-merger-wave-destroy-value-for-shareholders</link>
-      <description>It’s a coin toss</description>
       <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
