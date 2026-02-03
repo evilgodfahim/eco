@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>An America-China nuclear race beckons</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/03/an-america-china-nuclear-race-beckons</link>
+      <description>Blame a lapsing cold-war arms treaty</description>
+      <pubDate>Tue, 03 Feb 2026 21:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Bob Iger departs, Disney’s new boss faces a tricky balancing act</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/03/as-bob-iger-departs-disneys-new-boss-faces-a-tricky-balancing-act</link>
+      <description>Josh D’Amaro must not forget the creative magic on which the company relies</description>
+      <pubDate>Tue, 03 Feb 2026 20:48:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world is more equal than you think</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think</link>
+      <description>Rich and poor consumers are seeing their spending patterns converge</description>
+      <pubDate>Tue, 03 Feb 2026 19:57:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Thank God for Melania Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/03/thank-god-for-melania-trump</link>
       <description>Imagine the harm her husband could do with an Evita by his side</description>
@@ -2984,24 +3002,6 @@
       <title>Western armed forces have struggled to fill their ranks to deter Russia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/04/western-armed-forces-have-struggled-to-fill-their-ranks-to-deter-russia</link>
       <description>More sensible recruiting policies could help</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>What will your child’s Trump Account be worth?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/04/what-will-your-childs-trump-account-be-worth</link>
-      <description>The president has cribbed a signature policy from an unlikely source</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some cocaine-smuggling presidents are more innocent than others</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/04/some-cocaine-smuggling-presidents-are-more-innocent-than-others</link>
-      <description>As Donald Trump revives the Monroe Doctrine, he is bewildering America’s neighbours about what it stands for</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>A special election puts Democrats on track to flip the House</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/04/a-special-election-puts-democrats-on-track-to-flip-the-house</link>
-      <description>Though the predictive power of these contests has shrunk of late</description>
       <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
