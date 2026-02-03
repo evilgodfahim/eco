@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The evil and the good in the American civil war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-evil-and-the-good-in-the-american-civil-war</link>
+      <description>Our report from 1861</description>
+      <pubDate>Tue, 03 Feb 2026 16:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk’s mega-merger makes little business sense</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/03/elon-musks-mega-merger-makes-little-business-sense</link>
+      <description>The AI economy’s dealmaking keeps getting wilder</description>
+      <pubDate>Tue, 03 Feb 2026 15:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The assassination of Mr Lincoln</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-assassination-of-mr-lincoln</link>
+      <description>Our report from 1865</description>
+      <pubDate>Tue, 03 Feb 2026 14:55:23 +0000</pubDate>
+    </item>
+    <item>
       <title>A long-awaited trade truce between America and India</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/02/a-long-awaited-trade-truce-between-america-and-india</link>
       <description>Will it last?</description>
@@ -2984,24 +3002,6 @@
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/04/the-weekly-cartoon</link>
       <description></description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/04/politics</link>
-      <description></description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/04/business</link>
-      <description></description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why a small corruption scandal is a big problem for the EU</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/why-a-small-corruption-scandal-is-a-big-problem-for-the-eu</link>
-      <description>Diplomats at the trough in Brussels</description>
       <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
