@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>An Israeli visit to the site of the Bondi attack tests Australia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/04/an-israeli-visit-to-the-site-of-the-bondi-attack-tests-australia</link>
+      <description>The prime minister, Anthony Albanese, is under most pressure</description>
+      <pubDate>Wed, 04 Feb 2026 17:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump wants to end America’s half-century conflict with Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/04/donald-trump-wants-to-end-americas-half-century-conflict-with-iran</link>
+      <description>His showdown with Iran’s supreme leader will shape the region for a generation</description>
+      <pubDate>Wed, 04 Feb 2026 17:29:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Why so many Colombians fight in foreign wars</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/04/why-so-many-colombians-fight-in-foreign-wars</link>
       <description>The ways a booming mercenary market pulls veteran soldiers abroad</description>
@@ -2990,18 +3002,6 @@
       <title>Kyrgyzstan is losing its status as Central Asia’s only democracy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/kyrgyzstan-is-losing-its-status-as-central-asias-only-democracy</link>
       <description>The president is muffling the opposition and consolidating power</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from Japan’s efforts to wean itself off Chinese rare earths</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/lessons-from-japans-efforts-to-wean-itself-off-chinese-rare-earths</link>
-      <description>Numbers one, two and three: it’s a lot harder than it sounds</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>South-East Asia and Sri Lanka are reeling from storms and flooding</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/south-east-asia-and-sri-lanka-are-reeling-from-storms-and-flooding</link>
-      <description>Cyclones close to the equator are rare and dangerous</description>
       <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
