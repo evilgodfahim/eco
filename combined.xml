@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How an art restorer sneaked Giorgia Meloni into a church fresco</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/04/how-an-art-restorer-sneaked-giorgia-meloni-into-a-church-fresco</link>
+      <description>Romans noticed a winged figure’s odd resemblance to their prime minister</description>
+      <pubDate>Wed, 04 Feb 2026 20:35:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Can emerging markets’ stellar run continue?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/04/can-emerging-markets-stellar-run-continue</link>
       <description>There is a lot more going for them than “sell America”</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/06/checks-and-balance-newsletter-dont-count-on-congress-to-restrain-donald-trump</link>
       <description>Charlotte Howard, our New York bureau chief, on the president’s efforts to stretch America’s war powers—and lawmakers’ reluctance to stop him</description>
       <pubDate>Sat, 06 Dec 2025 20:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: How AI is rewiring childhood</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/06/cover-story-newsletter-how-ai-is-rewiring-childhood</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Sat, 06 Dec 2025 13:28:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
