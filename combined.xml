@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why so many Colombians fight in foreign wars</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/04/why-so-many-colombians-fight-in-foreign-wars</link>
+      <description>The ways a booming mercenary market pulls veteran soldiers abroad</description>
+      <pubDate>Wed, 04 Feb 2026 12:31:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Anger is deadly to moderate politicians</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians</link>
       <description>AI-driven disruption is about to make the world a more resentful place</description>
@@ -2996,12 +3002,6 @@
       <title>After a terrible fire in Hong Kong, public fury smoulders</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/04/after-a-terrible-fire-in-hong-kong-public-fury-smoulders</link>
       <description>The government is determined to suppress protest</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The general who refused to crush Tiananmen’s protesters</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters</link>
-      <description>A leaked video of his court-martial has suddenly appeared</description>
       <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
