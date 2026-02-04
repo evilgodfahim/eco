@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can emerging markets’ stellar run continue?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/04/can-emerging-markets-stellar-run-continue</link>
+      <description>There is a lot more going for them than “sell America”</description>
+      <pubDate>Wed, 04 Feb 2026 18:41:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>In America science-sceptics are now in charge</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/in-america-science-sceptics-are-now-in-charge</link>
+      <description>The Trump administration seems to want less clean energy and more preventable diseases</description>
+      <pubDate>Wed, 04 Feb 2026 18:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than a third of cancers arise from preventable risks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/more-than-a-third-of-cancers-arise-from-preventable-risks</link>
+      <description>Smoking, infections and alcohol are the top causes</description>
+      <pubDate>Wed, 04 Feb 2026 18:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Trump administration is eroding vital climate data</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/the-trump-administration-is-eroding-vital-climate-data</link>
+      <description>American citizens are left vulnerable</description>
+      <pubDate>Wed, 04 Feb 2026 18:03:05 +0000</pubDate>
+    </item>
+    <item>
       <title>An Israeli visit to the site of the Bondi attack tests Australia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/04/an-israeli-visit-to-the-site-of-the-bondi-attack-tests-australia</link>
       <description>The prime minister, Anthony Albanese, is under most pressure</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/06/cover-story-newsletter-how-ai-is-rewiring-childhood</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Sat, 06 Dec 2025 13:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why hangovers get worse as you get older</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/05/why-hangovers-get-worse-as-you-get-older</link>
-      <description>But there are things you can do to help</description>
-      <pubDate>Fri, 05 Dec 2025 15:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s bleak, incoherent foreign-policy strategy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/05/donald-trumps-bleak-incoherent-foreign-policy-strategy</link>
-      <description>Allies may panic; despots will cheer</description>
-      <pubDate>Fri, 05 Dec 2025 12:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A transition that has gone better than expected</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/04/a-transition-that-has-gone-better-than-expected</link>
-      <description>The president has been a deft diplomat, but must do more to reassure Syrians</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kyrgyzstan is losing its status as Central Asia’s only democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/kyrgyzstan-is-losing-its-status-as-central-asias-only-democracy</link>
-      <description>The president is muffling the opposition and consolidating power</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
