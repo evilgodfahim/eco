@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Elon Musk is betting the future of his business empire on AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/04/elon-musk-is-betting-the-future-of-his-business-empire-on-ai</link>
+      <description>The fates of xAI, SpaceX and Tesla are increasingly intertwined</description>
+      <pubDate>Wed, 04 Feb 2026 22:24:39 +0000</pubDate>
+    </item>
+    <item>
       <title>How an art restorer sneaked Giorgia Meloni into a church fresco</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/04/how-an-art-restorer-sneaked-giorgia-meloni-into-a-church-fresco</link>
       <description>Romans noticed a winged figure’s odd resemblance to their prime minister</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/07/a-giant-iron-ore-mine-could-bring-guinea-riches-or-ruin</link>
       <description>It all depends on how the country’s junta uses the windfall</description>
       <pubDate>Sun, 07 Dec 2025 13:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Don’t count on Congress to restrain Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/06/checks-and-balance-newsletter-dont-count-on-congress-to-restrain-donald-trump</link>
-      <description>Charlotte Howard, our New York bureau chief, on the president’s efforts to stretch America’s war powers—and lawmakers’ reluctance to stop him</description>
-      <pubDate>Sat, 06 Dec 2025 20:21:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
