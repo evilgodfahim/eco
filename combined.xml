@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America may be reaching peak Spanish</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/06/america-may-be-reaching-peak-spanish</link>
+      <description>Bad Bunny’s Super Bowl show may mark a ceiling for the language he performs in</description>
+      <pubDate>Fri, 06 Feb 2026 19:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawsuits over transgender medicine for minors could be huge</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/06/lawsuits-over-transgender-medicine-for-minors-could-be-huge</link>
+      <description>One detransitioner was awarded $2m. As America’s guidelines change, more will follow</description>
+      <pubDate>Fri, 06 Feb 2026 18:30:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Does being induced lead to a medicalised birth?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/06/does-being-induced-lead-to-a-medicalised-birth</link>
       <description>It might actually prevent it</description>
@@ -2990,18 +3002,6 @@
       <title>Donald Trump has not ended conflict between Congo and Rwanda</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/donald-trump-has-not-ended-conflict-between-congo-and-rwanda</link>
       <description>But making money may not require making peace</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigeria’s kidnapping crisis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/nigerias-kidnapping-crisis</link>
-      <description>Donald Trump’s ire has drawn attention to appalling security failures</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>José Antonio Kast is Chile’s probable next president. How will he govern?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/11/jose-antonio-kast-is-chiles-probable-next-president-how-will-he-govern</link>
-      <description>With a hyper-conservative president the country may be a test case for deportations, security crackdowns and spending cuts</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
