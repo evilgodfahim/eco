@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Does being induced lead to a medicalised birth?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/06/does-being-induced-lead-to-a-medicalised-birth</link>
+      <description>It might actually prevent it</description>
+      <pubDate>Fri, 06 Feb 2026 17:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the leader of Japan’s hard-right populist movement</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/06/meet-the-leader-of-japans-hard-right-populist-movement</link>
+      <description>Kamiya Sohei’s party has mobilised disaffected voters</description>
+      <pubDate>Fri, 06 Feb 2026 16:33:34 +0000</pubDate>
+    </item>
+    <item>
       <title>How democracies are using autocratic tools to muzzle journalism</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/05/how-democracies-are-using-autocratic-tools-to-muzzle-journalism</link>
       <description>As scrutiny of government withers, corruption thrives</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/11/jose-antonio-kast-is-chiles-probable-next-president-how-will-he-govern</link>
       <description>With a hyper-conservative president the country may be a test case for deportations, security crackdowns and spending cuts</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle and the hard truths about software</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/11/oracle-and-the-hard-truths-about-software</link>
-      <description>Running a giant digital business is not as fun as it used to be</description>
-      <pubDate>Thu, 11 Dec 2025 11:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s Supreme Court should strike down Donald Trump’s tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/americas-supreme-court-should-strike-down-donald-trumps-tariffs</link>
-      <description>The judges’ credibility is at stake</description>
-      <pubDate>Thu, 11 Dec 2025 11:16:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
