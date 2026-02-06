@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The dangerous dollar</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/06/cover-story-newsletter-the-dangerous-dollar</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 06 Feb 2026 20:53:46 +0000</pubDate>
+    </item>
+    <item>
       <title>America may be reaching peak Spanish</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/06/america-may-be-reaching-peak-spanish</link>
       <description>Bad Bunny’s Super Bowl show may mark a ceiling for the language he performs in</description>
@@ -2996,12 +3002,6 @@
       <title>A window of opportunity for reform in Lebanon is closing</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/a-window-of-opportunity-for-reform-in-lebanon-is-closing</link>
       <description>Elections are looming, war drums are beating and the prime minister will soon be a lame duck</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump has not ended conflict between Congo and Rwanda</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/donald-trump-has-not-ended-conflict-between-congo-and-rwanda</link>
-      <description>But making money may not require making peace</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
