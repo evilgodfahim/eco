@@ -5,10 +5,28 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: The danger of prediction markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/07/checks-and-balance-newsletter-the-danger-of-prediction-markets</link>
+      <description>Charlotte Howard, our New York bureau chief, on the cultural and political risks of turning everything into a bet</description>
+      <pubDate>Sat, 07 Feb 2026 09:30:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The dangerous dollar</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/06/cover-story-newsletter-the-dangerous-dollar</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Fri, 06 Feb 2026 20:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>America may be reaching peak Spanish</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/06/america-may-be-reaching-peak-spanish</link>
+      <description>Bad Bunny’s Super Bowl show may mark a ceiling for the language he performs in</description>
+      <pubDate>Fri, 06 Feb 2026 19:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawsuits over transgender medicine for minors could be huge</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/06/lawsuits-over-transgender-medicine-for-minors-could-be-huge</link>
+      <description>One detransitioner was awarded $2m. As America’s guidelines change, more will follow</description>
+      <pubDate>Fri, 06 Feb 2026 18:30:32 +0000</pubDate>
     </item>
     <item>
       <title>Does being induced lead to a medicalised birth?</title>
@@ -74,6 +92,24 @@
       <title>China’s graduates face a whole new set of gruelling tests</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/05/chinas-graduates-face-a-whole-new-set-of-gruelling-tests</link>
       <description>They prefer certainty to good pay</description>
+      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voting rights and wrongs in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/05/voting-rights-and-wrongs-in-america</link>
+      <description>Squabbles over the Voting Rights Act could boost black turnout</description>
+      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Federal prosecutors in Minnesota are cracking down on dissent</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/05/federal-prosecutors-in-minnesota-are-cracking-down-on-dissent</link>
+      <description>But the pursuit of serious criminals has slackened off</description>
+      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the brains who explain Trumpism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/05/meet-the-brains-who-explain-trumpism</link>
+      <description>The Californian think-tank that applies intellectual gloss to MAGA</description>
       <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
     </item>
     <item>
@@ -263,6 +299,12 @@
       <pubDate>Wed, 04 Feb 2026 12:31:18 +0000</pubDate>
     </item>
     <item>
+      <title>A 5% wealth tax would drive billionaires out of California</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/04/a-5-wealth-tax-would-drive-billionaires-out-of-california</link>
+      <description>The Golden State’s Democrats are divided over a golden-goose grab</description>
+      <pubDate>Wed, 04 Feb 2026 12:14:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Anger is deadly to moderate politicians</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians</link>
       <description>AI-driven disruption is about to make the world a more resentful place</description>
@@ -287,16 +329,34 @@
       <pubDate>Tue, 03 Feb 2026 19:57:16 +0000</pubDate>
     </item>
     <item>
+      <title>Thank God for Melania Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/03/thank-god-for-melania-trump</link>
+      <description>Imagine the harm her husband could do with an Evita by his side</description>
+      <pubDate>Tue, 03 Feb 2026 18:14:33 +0000</pubDate>
+    </item>
+    <item>
       <title>The Economist’s science and technology internship</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/03/the-economists-science-and-technology-internship</link>
       <description>We invite applications for the 2026 Richard Casement internship</description>
       <pubDate>Tue, 03 Feb 2026 17:31:47 +0000</pubDate>
     </item>
     <item>
+      <title>The evil and the good in the American civil war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-evil-and-the-good-in-the-american-civil-war</link>
+      <description>Our report from 1861</description>
+      <pubDate>Tue, 03 Feb 2026 16:13:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Elon Musk’s mega-merger makes little business sense</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/03/elon-musks-mega-merger-makes-little-business-sense</link>
       <description>The AI economy’s dealmaking keeps getting wilder</description>
       <pubDate>Tue, 03 Feb 2026 15:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The assassination of Mr Lincoln</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-assassination-of-mr-lincoln</link>
+      <description>Our report from 1865</description>
+      <pubDate>Tue, 03 Feb 2026 14:55:23 +0000</pubDate>
     </item>
     <item>
       <title>America and India strike a long-awaited trade truce</title>
@@ -315,6 +375,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/02/an-election-will-decide-whether-democracy-returns-to-bangladesh</link>
       <description>But voters are having to pick between Islamists and a tainted party from the past</description>
       <pubDate>Mon, 02 Feb 2026 19:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The right to die is spreading in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/02/the-right-to-die-is-spreading-in-america</link>
+      <description>States that are home to a third of the population could soon allow assisted dying</description>
+      <pubDate>Mon, 02 Feb 2026 18:31:40 +0000</pubDate>
     </item>
     <item>
       <title>What is behind Xi Jinping’s sweeping military purge?</title>
@@ -371,6 +437,12 @@
       <pubDate>Sun, 01 Feb 2026 11:20:08 +0000</pubDate>
     </item>
     <item>
+      <title>Checks and Balance newsletter: What American democracy looks like up close</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/31/checks-and-balance-newsletter-what-american-democracy-looks-like-up-close</link>
+      <description>John Prideaux, our US editor, reports from the road on why local politics still works</description>
+      <pubDate>Sat, 31 Jan 2026 16:30:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Peace negotiations give freezing Kyiv a hint of hope</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/30/peace-negotiations-give-freezing-kyiv-a-hint-of-hope</link>
       <description>Talks with Russia in Abu Dhabi could point towards a compromise</description>
@@ -416,6 +488,18 @@
       <title>Takaichi Sanae relies on her keenest fans in Japan</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/29/takaichi-sanae-relies-on-her-keenest-fans-in-japan</link>
       <description>The prime minister’s hopes for her snap election depend on their ardour</description>
+      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knocking down social housing helped poor children prosper</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/knocking-down-social-housing-helped-poor-children-prosper</link>
+      <description>New research shows the impact of mixed-income developments</description>
+      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republican states are censoring universities</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/republican-states-are-censoring-universities</link>
+      <description>New laws restrict what professors can teach</description>
       <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
     </item>
     <item>
@@ -515,6 +599,12 @@
       <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
     </item>
     <item>
+      <title>Checks and Balance newsletter: An overlooked year in American history</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/checks-and-balance-newsletter-an-overlooked-year-in-american-history</link>
+      <description>Jon Fasman, our senior culture correspondent, on the Boston Massacre, and how it changed relations between the colonists and Britain forever</description>
+      <pubDate>Thu, 29 Jan 2026 13:01:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Xi Jinping’s purge should worry the world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/xi-jinpings-purge-should-worry-the-world</link>
       <description>Installing his yes-men to lead China’s army could be dangerous for Taiwan</description>
@@ -575,6 +665,12 @@
       <pubDate>Thu, 29 Jan 2026 09:32:10 +0000</pubDate>
     </item>
     <item>
+      <title>Inside the movement challenging—and disrupting—ICE</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/inside-the-movement-challenging-and-disrupting-ice</link>
+      <description>A non-violent network of activists is forming across America</description>
+      <pubDate>Thu, 29 Jan 2026 00:13:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Just how debased is the dollar?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar</link>
       <description>Not nearly as much as it could be</description>
@@ -629,10 +725,22 @@
       <pubDate>Tue, 27 Jan 2026 22:23:48 +0000</pubDate>
     </item>
     <item>
+      <title>How Congress can rein in ICE—and start to redeem itself</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/how-congress-can-rein-in-ice-and-start-to-redeem-itself</link>
+      <description>Senator Susan Collins of Maine has a historic chance to lead</description>
+      <pubDate>Tue, 27 Jan 2026 20:25:41 +0000</pubDate>
+    </item>
+    <item>
       <title>The West and Ukraine are capsizing Russia’s shadow fleet</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet</link>
       <description>And sinking its oil revenues in the process</description>
       <pubDate>Tue, 27 Jan 2026 20:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republicans are waking up to the awful optics in Minneapolis</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/republicans-are-waking-up-to-the-awful-optics-in-minneapolis</link>
+      <description>A partial government shutdown over the president’s immigration campaign looks likely</description>
+      <pubDate>Tue, 27 Jan 2026 20:17:17 +0000</pubDate>
     </item>
     <item>
       <title>How porn stars can survive in the age of AI</title>
@@ -663,6 +771,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/27/what-is-driving-golds-relentless-rally</link>
       <description>The ancient asset is attracting new investors</description>
       <pubDate>Tue, 27 Jan 2026 12:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Minnesota prosecute federal agents for using excessive force?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/26/can-minnesota-prosecute-federal-agents-for-using-excessive-force</link>
+      <description>The “supremacy clause” is at issue</description>
+      <pubDate>Mon, 26 Jan 2026 20:23:23 +0000</pubDate>
     </item>
     <item>
       <title>Why AI won’t wipe out white-collar jobs</title>
@@ -707,6 +821,12 @@
       <pubDate>Mon, 26 Jan 2026 14:50:42 +0000</pubDate>
     </item>
     <item>
+      <title>Checks and Balance newsletter: Can US attorneys answer to the president and the law?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/26/checks-and-balance-newsletter-can-us-attorneys-answer-to-the-president-and-the-law</link>
+      <description>The clash over Donald Trump’s appointees risks becoming a circus, says Charlotte Howard, our New York bureau chief</description>
+      <pubDate>Mon, 26 Jan 2026 12:27:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s long-awaited free-trade deal with India</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/25/europes-long-awaited-free-trade-deal-with-india</link>
       <description>One way to show America and China that also-rans have options, too</description>
@@ -723,6 +843,18 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/25/mark-carney-understands-the-new-world-but-can-he-survive-it</link>
       <description>Canada’s leader must navigate a host of competing, fiendishly difficult, challenges</description>
       <pubDate>Sun, 25 Jan 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Congress viewed Donald Trump’s Greenland grab</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/how-congress-viewed-donald-trumps-greenland-grab</link>
+      <description>The crisis has subsided. For now</description>
+      <pubDate>Sun, 25 Jan 2026 13:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another horrifying shooting by federal agents in Minneapolis</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/24/another-horrifying-shooting-by-federal-agents-in-minneapolis</link>
+      <description>What happens when armed men are given impunity</description>
+      <pubDate>Sat, 24 Jan 2026 20:52:54 +0000</pubDate>
     </item>
     <item>
       <title>What Xi Jinping’s purge of China’s most senior general reveals</title>
@@ -782,6 +914,24 @@
       <title>Which Chinese provinces splash their cash?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/22/which-chinese-provinces-splash-their-cash</link>
       <description>The misers and spendthrifts are surprising</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ed tech is profitable. It is also mostly useless</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless</link>
+      <description>Independent research identifies few learning gains</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the wild world of skijoring</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/22/welcome-to-the-wild-world-of-skijoring</link>
+      <description>A growing sport in the Mountain West has Olympic aspirations</description>
+      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s siege in Minneapolis is floundering</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/22/donald-trumps-siege-in-minneapolis-is-floundering</link>
+      <description>Violence is alienating even some supporters</description>
       <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
     </item>
     <item>
@@ -941,6 +1091,12 @@
       <pubDate>Thu, 22 Jan 2026 09:17:52 +0000</pubDate>
     </item>
     <item>
+      <title>Lisa Cook’s job at the Federal Reserve looks safe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/21/lisa-cooks-job-at-the-federal-reserve-looks-safe</link>
+      <description>The justices sound sceptical about Donald Trump’s move to dismiss her</description>
+      <pubDate>Wed, 21 Jan 2026 21:58:05 +0000</pubDate>
+    </item>
+    <item>
       <title>The true danger posed by Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/21/the-true-danger-posed-by-donald-trump</link>
       <description>Despite a tactical retreat, great risks remain</description>
@@ -963,6 +1119,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/21/american-decay-versus-american-dynamism</link>
       <description>Only a decline in corporate America’s vigour will dent the country’s dominance of financial markets</description>
       <pubDate>Wed, 21 Jan 2026 20:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Minneapolis is at the centre of Donald Trump’s immigration crackdown</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/21/why-minneapolis-is-at-the-centre-of-donald-trumps-immigration-crackdown</link>
+      <description>The administration is tormenting, and testing, a unique political culture</description>
+      <pubDate>Wed, 21 Jan 2026 19:35:07 +0000</pubDate>
     </item>
     <item>
       <title>Satellites encased in wood are in the works</title>
@@ -1047,6 +1209,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe</link>
       <description>An escalating trade war would be another matter, however</description>
       <pubDate>Mon, 19 Jan 2026 21:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The meaning of “America First” is in flux</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/19/the-meaning-of-america-first-is-in-flux</link>
+      <description>MAGA will have to confront divisions in its approach to foreign policy</description>
+      <pubDate>Mon, 19 Jan 2026 21:04:07 +0000</pubDate>
     </item>
     <item>
       <title>After Iran’s massacres, tensions grow inside the regime</title>
@@ -1169,6 +1337,42 @@
       <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
     </item>
     <item>
+      <title>Like Donald Trump, Zohran Mamdani promises “a new approach to power”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/like-donald-trump-zohran-mamdani-promises-a-new-approach-to-power</link>
+      <description>How he uses it will set the terms for left-wing populism</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ICE officer who killed Renee Good may yet be charged</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/the-ice-officer-who-killed-renee-good-may-yet-be-charged</link>
+      <description>What the “supremacy clause” does and does not say</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>A naval strategy that needs rethinking</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/a-naval-strategy-that-needs-rethinking</link>
+      <description>Donald Trump’s plan for a “Golden Fleet” does not add up</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-science Republicans are fending off cuts to funding</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/pro-science-republicans-are-fending-off-cuts-to-funding</link>
+      <description>This year’s budget will probably restore much of what the White House sought to eliminate</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should America’s police ever be criminally liable for failing to stop crimes?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/should-americas-police-ever-be-criminally-liable-for-failing-to-stop-crimes</link>
+      <description>A trial in Texas could set an extraordinary precedent</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why America’s corporate landlords are not villains</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/why-americas-corporate-landlords-are-not-villains</link>
+      <description>Restricting ownership will probably make housing less rather than more affordable</description>
+      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
+    </item>
+    <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/15/the-weekly-cartoon</link>
       <description></description>
@@ -1271,6 +1475,12 @@
       <pubDate>Thu, 15 Jan 2026 11:12:57 +0000</pubDate>
     </item>
     <item>
+      <title>MAGA wants a moratorium on legal migration, too</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/15/maga-wants-a-moratorium-on-legal-migration-too</link>
+      <description>The most committed members of the base mean to impose an unpopular litmus test</description>
+      <pubDate>Thu, 15 Jan 2026 11:12:08 +0000</pubDate>
+    </item>
+    <item>
       <title>The economics of regime change</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/15/the-economics-of-regime-change</link>
       <description>Lessons from history for Venezuela and Iran</description>
@@ -1353,6 +1563,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/14/cubas-regime-is-in-dire-straits</link>
       <description>After the capture of Nicolás Maduro, the regime which controls the island is particularly vulnerable</description>
       <pubDate>Wed, 14 Jan 2026 10:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Supreme Court seems friendly towards trans bans in women’s sports</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/14/the-supreme-court-seems-friendly-towards-trans-bans-in-womens-sports</link>
+      <description>But some justices sound hesitant to impose the rule nationwide</description>
+      <pubDate>Wed, 14 Jan 2026 08:57:12 +0000</pubDate>
     </item>
     <item>
       <title>Donald Trump used to be risk-averse. Is that changing?</title>
@@ -1481,6 +1697,12 @@
       <pubDate>Sat, 10 Jan 2026 15:46:07 +0000</pubDate>
     </item>
     <item>
+      <title>Checks and Balance newsletter: A chilling week in Minnesota</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/09/checks-and-balance-newsletter-a-chilling-week-in-minnesota</link>
+      <description>The shooting of an American citizen by an ICE agent raises grave questions, argues Charlotte Howard, our New York bureau chief</description>
+      <pubDate>Fri, 09 Jan 2026 23:42:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Do RFK junior’s new dietary guidelines make sense?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/09/do-rfk-juniors-new-dietary-guidelines-make-sense</link>
       <description>We break them down for you</description>
@@ -1515,6 +1737,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/09/venezuelas-new-dictator-is-a-regime-loyalist-and-americas-hostage</link>
       <description>Delcy Rodríguez called building a socialist state her “personal revenge”. Now Donald Trump wants to “run” her country</description>
       <pubDate>Fri, 09 Jan 2026 15:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why overdose deaths are falling in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america</link>
+      <description>Researchers point to a grocers’ favourite</description>
+      <pubDate>Thu, 08 Jan 2026 19:02:00 +0000</pubDate>
     </item>
     <item>
       <title>France is paralysed, and everyone is to blame</title>
@@ -1562,6 +1790,18 @@
       <title>Social media are helping cults to recruit and control members</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/08/social-media-are-helping-cults-to-recruit-and-control-members</link>
       <description>The internet has replaced door-to-door evangelists with online influencers</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>What John Thune is for</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/what-john-thune-is-for</link>
+      <description>The Republican majority leader in the Senate is under pressure</description>
+      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s most novel train project is too deadly</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/americas-most-novel-train-project-is-too-deadly</link>
+      <description>The government may be more responsible than the operator</description>
       <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
     </item>
     <item>
@@ -1691,6 +1931,12 @@
       <pubDate>Thu, 08 Jan 2026 10:27:47 +0000</pubDate>
     </item>
     <item>
+      <title>The “terrorist” killed by ICE was a mum in her SUV</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/the-terrorist-killed-by-ice-was-a-mum-in-her-suv</link>
+      <description>A killing in Minneapolis is part of a dangerous pattern</description>
+      <pubDate>Thu, 08 Jan 2026 01:24:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Venezuela’s astoundingly messy debts are about to get messier</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/venezuelas-astoundingly-messy-debts-are-about-to-get-messier</link>
       <description>Oil majors, hedge funds, Chinese lenders—all have a stake</description>
@@ -1733,10 +1979,22 @@
       <pubDate>Wed, 07 Jan 2026 16:59:14 +0000</pubDate>
     </item>
     <item>
+      <title>Nicolás Maduro is unlikely to beat his rap</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/07/nicolas-maduro-is-unlikely-to-beat-his-rap</link>
+      <description>He has credible legal defences but diplomacy may be his best shot</description>
+      <pubDate>Wed, 07 Jan 2026 15:26:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine now has the fortress belt it wishes it had in 2022</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/07/ukraine-now-has-the-fortress-belt-it-wishes-it-had-in-2022</link>
       <description>But American-led peace proposals threaten to hand it to Russia</description>
       <pubDate>Wed, 07 Jan 2026 15:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>America at 250</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/america-at-250</link>
+      <description>From the Declaration of Independence to the rise of Donald Trump, we assess America’s complicated relationship with its founding ideals</description>
+      <pubDate>Wed, 07 Jan 2026 14:16:42 +0000</pubDate>
     </item>
     <item>
       <title>Our polling with YouGov shows what MAGA-land thinks about Venezuela</title>
@@ -1749,6 +2007,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy</link>
       <description>Much depends on long-term interest rates</description>
       <pubDate>Wed, 07 Jan 2026 12:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The radical honesty of Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/07/the-radical-honesty-of-donald-trump</link>
+      <description>Why the world will miss hypocrisy in American foreign policy</description>
+      <pubDate>Wed, 07 Jan 2026 12:36:04 +0000</pubDate>
     </item>
     <item>
       <title>Venezuela presents a big headache for big oil</title>
@@ -1767,6 +2031,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/06/analysing-africa-newsletter-life-and-death-in-an-illegal-gold-mine</link>
       <description>Liam Taylor, a contributor in Africa, reflects on his time at a site of gold—and tragedy</description>
       <pubDate>Tue, 06 Jan 2026 17:52:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump still has no clear plan for Venezuela</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/06/donald-trump-still-has-no-clear-plan-for-venezuela</link>
+      <description>Some Republicans fret about a quagmire, and the president’s contempt for democracy</description>
+      <pubDate>Tue, 06 Jan 2026 17:37:53 +0000</pubDate>
     </item>
     <item>
       <title>America’s missing manufacturing renaissance</title>
@@ -1803,6 +2073,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/05/why-is-japan-souring-on-foreign-workers-and-tourists</link>
       <description>It is a dangerous attitude for an ageing country that needs more immigrants</description>
       <pubDate>Mon, 05 Jan 2026 17:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venezuelan immigrants in America are trapped in policy purgatory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/05/venezuelan-immigrants-in-america-are-trapped-in-policy-purgatory</link>
+      <description>In Florida Nicolás Maduro’s arrest brings cheers and chills</description>
+      <pubDate>Mon, 05 Jan 2026 16:45:54 +0000</pubDate>
     </item>
     <item>
       <title>America’s raid on Venezuela reveals the limits of China’s reach</title>
@@ -1946,6 +2222,18 @@
       <title>A half-planet-size gap in global governance is about to get plugged</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/30/a-half-planet-size-gap-in-global-governance-is-about-to-get-plugged</link>
       <description>A new treaty offers hope of curbing the destruction of the oceans</description>
+      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los Angeles after the flames</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2025/12/30/los-angeles-after-the-flames</link>
+      <description>A year after the city burned, the recovery has just begun</description>
+      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s most successful mayor stands down</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/30/americas-most-successful-mayor-stands-down</link>
+      <description>Having fixed Detroit, Mike Duggan now wants to fix partisanship</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
     <item>
@@ -2099,6 +2387,12 @@
       <pubDate>Tue, 30 Dec 2025 11:41:57 +0000</pubDate>
     </item>
     <item>
+      <title>The Supreme Court has taken the National Guard away from Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/29/the-supreme-court-has-taken-the-national-guard-away-from-donald-trump</link>
+      <description>His remaining options for sending in the troops are legally fraught</description>
+      <pubDate>Mon, 29 Dec 2025 19:58:11 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI faces a make-or-break year in 2026</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/29/openai-faces-a-make-or-break-year-in-2026</link>
       <description>One of the fastest-growing companies in history is in a perilous position</description>
@@ -2147,6 +2441,12 @@
       <pubDate>Sun, 28 Dec 2025 14:36:10 +0000</pubDate>
     </item>
     <item>
+      <title>The economics of megachurches</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/26/the-economics-of-megachurches</link>
+      <description>Why America’s fastest-growing churches don’t get political</description>
+      <pubDate>Fri, 26 Dec 2025 17:44:38 +0000</pubDate>
+    </item>
+    <item>
       <title>What is the best way to train for a marathon?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/26/what-is-the-best-way-to-train-for-a-marathon</link>
       <description>Most people train too fast</description>
@@ -2165,6 +2465,12 @@
       <pubDate>Wed, 24 Dec 2025 16:38:41 +0000</pubDate>
     </item>
     <item>
+      <title>Donald Trump has it in for Brutalism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/24/donald-trump-has-it-in-for-brutalism</link>
+      <description>This time the president has the capital’s developers on his side, and possibly public opinion too</description>
+      <pubDate>Wed, 24 Dec 2025 12:10:44 +0000</pubDate>
+    </item>
+    <item>
       <title>The Baltic is becoming a battleground between NATO and Russia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/23/the-baltic-is-becoming-a-battleground-between-nato-and-russia</link>
       <description>Poland, Sweden and others are buying subs to protect pipelines</description>
@@ -2175,6 +2481,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/23/does-anyone-still-want-to-help-the-uyghurs</link>
       <description>Chinese pressure and migration backlashes may result in many being sent back to China</description>
       <pubDate>Tue, 23 Dec 2025 13:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAGA is eating itself</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/23/maga-is-eating-itself</link>
+      <description>Fighting among conservative influencers reveals broader rifts within the Republican Party</description>
+      <pubDate>Tue, 23 Dec 2025 12:54:44 +0000</pubDate>
     </item>
     <item>
       <title>Why fewer Americans are giving than before</title>
@@ -2223,6 +2535,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/how-to-interpret-the-pain-at-the-edge-of-americas-labour-market</link>
       <description>In the past it has foretold wider weakness. This time may be different</description>
       <pubDate>Sun, 21 Dec 2025 13:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checks and Balance newsletter: How Donald Trump has maximised his power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/19/checks-and-balance-newsletter-how-donald-trump-has-maximised-his-power</link>
+      <description>Charlotte Howard, our New York bureau chief, reflects on the first year of the president’s second term</description>
+      <pubDate>Fri, 19 Dec 2025 22:36:25 +0000</pubDate>
     </item>
     <item>
       <title>Cover Story newsletter: Illustrating our Christmas issue</title>
@@ -2300,6 +2618,24 @@
       <title>Ditch textbooks and learn how to use a wrench to AI-proof your job?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/18/ditch-textbooks-and-learn-how-to-use-a-wrench-to-ai-proof-your-job</link>
       <description>Generation Z is becoming less invested in university and more interested in skilled trades</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>A vote against gerrymandering shows why political courage is rare</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/a-vote-against-gerrymandering-shows-why-political-courage-is-rare</link>
+      <description>Yet it is particularly valuable now</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>More schools in America are adopting a four-day week</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/more-schools-in-america-are-adopting-a-four-day-week</link>
+      <description>Teachers and parents like it, but results for pupils are middling</description>
+      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toll roads are spreading in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america</link>
+      <description>The decline of petrol taxes is to blame</description>
       <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
     <item>
@@ -2447,6 +2783,12 @@
       <pubDate>Tue, 16 Dec 2025 18:35:36 +0000</pubDate>
     </item>
     <item>
+      <title>The race for an AI Jesus is on</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/16/the-race-for-an-ai-jesus-is-on</link>
+      <description>A chatbot offers personalised counsel on faith</description>
+      <pubDate>Tue, 16 Dec 2025 16:45:29 +0000</pubDate>
+    </item>
+    <item>
       <title>America gives Ukraine reason to hope, just</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/16/america-gives-ukraine-reason-to-hope-just</link>
       <description>The latest peace proposals are only a bit closer to what Ukraine and Europe need</description>
@@ -2511,6 +2853,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/14/jimmy-lais-judgment-day</link>
       <description>The tycoon’s conviction speaks to the state of Hong Kong’s civil liberties</description>
       <pubDate>Sun, 14 Dec 2025 10:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will California try to block Hollywood’s next megadeal?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/12/will-california-try-to-block-hollywoods-next-megadeal</link>
+      <description>States are beefing up their antitrust enforcement</description>
+      <pubDate>Fri, 12 Dec 2025 20:38:19 +0000</pubDate>
     </item>
     <item>
       <title>Cover Story newsletter: Can anyone stop Europe’s populist right?</title>
@@ -2579,6 +2927,24 @@
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
     <item>
+      <title>American doctors are rich and miserable</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/11/american-doctors-are-rich-and-miserable</link>
+      <description>A recent study shows they are world leaders in burnout</description>
+      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How much does America know about its boat-strike targets?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/11/how-much-does-america-know-about-its-boat-strike-targets</link>
+      <description>Controversies about the lethal strikes touch on intelligence operations</description>
+      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>All hail “The President of Peace”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/11/all-hail-the-president-of-peace</link>
+      <description>But hold the prizes until Donald Trump actually delivers on his new branding</description>
+      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
+    </item>
+    <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/11/the-weekly-cartoon</link>
       <description></description>
@@ -2637,372 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/israel-refuses-to-withdraw-from-syria</link>
       <description>That may create more enemies for the Jewish state</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A window of opportunity for reform in Lebanon is closing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/a-window-of-opportunity-for-reform-in-lebanon-is-closing</link>
-      <description>Elections are looming, war drums are beating and the prime minister will soon be a lame duck</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump has not ended conflict between Congo and Rwanda</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/donald-trump-has-not-ended-conflict-between-congo-and-rwanda</link>
-      <description>But making money may not require making peace</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigeria’s kidnapping crisis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/nigerias-kidnapping-crisis</link>
-      <description>Donald Trump’s ire has drawn attention to appalling security failures</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>José Antonio Kast is Chile’s probable next president. How will he govern?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/11/jose-antonio-kast-is-chiles-probable-next-president-how-will-he-govern</link>
-      <description>With a hyper-conservative president the country may be a test case for deportations, security crackdowns and spending cuts</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle and the hard truths about software</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/11/oracle-and-the-hard-truths-about-software</link>
-      <description>Running a giant digital business is not as fun as it used to be</description>
-      <pubDate>Thu, 11 Dec 2025 11:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s Supreme Court should strike down Donald Trump’s tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/americas-supreme-court-should-strike-down-donald-trumps-tariffs</link>
-      <description>The judges’ credibility is at stake</description>
-      <pubDate>Thu, 11 Dec 2025 11:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany has a lawyer problem</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/11/germany-has-a-lawyer-problem</link>
-      <description>Its endless bureaucratic rules trap would-be reformers</description>
-      <pubDate>Thu, 11 Dec 2025 11:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a stiff drink says about China’s economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/11/what-a-stiff-drink-says-about-chinas-economy</link>
-      <description>The baijiu business is the latest to be struck by “involution”</description>
-      <pubDate>Thu, 11 Dec 2025 11:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s bond market is quiet—almost too quiet</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/11/americas-bond-market-is-quiet-almost-too-quiet</link>
-      <description>Scott Bessent has a cunning plan</description>
-      <pubDate>Thu, 11 Dec 2025 11:10:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wall Street is drooling over bank mergers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/11/wall-street-is-drooling-over-bank-mergers</link>
-      <description>The world’s most fragmented financial industry faces dramatic change</description>
-      <pubDate>Thu, 11 Dec 2025 11:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can anyone stop Europe’s populist right?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/can-anyone-stop-europes-populist-right</link>
-      <description>Apocalyptic warnings by mainstream politicians are doomed to fail</description>
-      <pubDate>Thu, 11 Dec 2025 11:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The populists of Reform UK, already topping the polls, may climb higher</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/12/11/the-populists-of-reform-uk-already-topping-the-polls-may-climb-higher</link>
-      <description>Claims that it has hit a ceiling are probably wishful thinking</description>
-      <pubDate>Thu, 11 Dec 2025 11:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Once a pariah, the National Rally is now France’s most popular party</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/12/11/once-a-pariah-the-national-rally-is-now-frances-most-popular-party</link>
-      <description>It could win the presidency in 2027 or parliamentary power even sooner</description>
-      <pubDate>Thu, 11 Dec 2025 11:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Alternative for Germany is the leading party in some German polls</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2025/12/11/the-alternative-for-germany-is-the-leading-party-in-some-german-polls</link>
-      <description>Despite retaining its far-right positions</description>
-      <pubDate>Thu, 11 Dec 2025 11:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How did one airline bring Indian aviation to its knees?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/11/how-did-one-airline-bring-indian-aviation-to-its-knees</link>
-      <description>The blame is widely shared</description>
-      <pubDate>Thu, 11 Dec 2025 10:12:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why many Asian megacities are miserable places</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places</link>
-      <description>And why Shanghai and Tokyo are not</description>
-      <pubDate>Thu, 11 Dec 2025 10:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t fear China’s trillion-dollar trade surplus</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/dont-fear-chinas-trillion-dollar-trade-surplus</link>
-      <description>It is a problem not for the rest of the world, but for China</description>
-      <pubDate>Thu, 11 Dec 2025 05:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia is not as resilient as it wants you to think</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/10/russia-is-not-as-resilient-as-it-wants-you-to-think</link>
-      <description>But Vladimir Putin will keep fighting, and claiming victory prematurely</description>
-      <pubDate>Wed, 10 Dec 2025 21:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>From social media to porn, age checks are spreading across the web</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/10/from-social-media-to-porn-age-checks-are-spreading-across-the-web</link>
-      <description>Australia is not the only country introducing stricter controls</description>
-      <pubDate>Wed, 10 Dec 2025 21:38:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The meaning of China’s record-high trade surplus</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/10/the-meaning-of-chinas-record-high-trade-surplus</link>
-      <description>The country is too complacent about its export dependence</description>
-      <pubDate>Wed, 10 Dec 2025 20:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asia’s inexpensive AI stocks should worry American investors</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors</link>
-      <description>Tech mania looks very different in Japan, South Korea and Taiwan</description>
-      <pubDate>Wed, 10 Dec 2025 19:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The next version of the web will be built for machines, not humans</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2025/12/10/the-next-version-of-the-web-will-be-built-for-machines-not-humans</link>
-      <description>AI will surf, shop and act on your behalf</description>
-      <pubDate>Wed, 10 Dec 2025 17:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Humans were lighting fires from scratch a lot earlier than previously thought</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/10/humans-were-lighting-fires-from-scratch-a-lot-earlier-than-previously-thought</link>
-      <description>A 400,000-year-old tinderbox is found in eastern England</description>
-      <pubDate>Wed, 10 Dec 2025 17:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the “Donroe Doctrine” is changing Puerto Rico</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/10/how-the-donroe-doctrine-is-changing-puerto-rico</link>
-      <description>The island is central to efforts by the United States to project power throughout its hemisphere</description>
-      <pubDate>Wed, 10 Dec 2025 15:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iain Douglas-Hamilton, the scientist who saved the elephants</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/09/iain-douglas-hamilton-the-scientist-who-saved-the-elephants</link>
-      <description>The beasts have lost their stoutest defender</description>
-      <pubDate>Tue, 09 Dec 2025 22:22:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s worse for innovation: MAGA or Mao?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/09/whats-worse-for-innovation-maga-or-mao</link>
-      <description>Donald Trump and Xi Jinping share a dangerous nostalgia</description>
-      <pubDate>Tue, 09 Dec 2025 20:53:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s flawed plan to get China hooked on Nvidia chips</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/09/donald-trumps-flawed-plan-to-get-china-hooked-on-nvidia-chips</link>
-      <description>The president is tearing up America’s export-control policy</description>
-      <pubDate>Tue, 09 Dec 2025 18:19:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGA’s man in LatAm</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/09/magas-man-in-latam</link>
-      <description>Fernando Cerimedo has run right-wing campaigns across Latin America, forging close ties with MAGA and Donald Trump</description>
-      <pubDate>Tue, 09 Dec 2025 17:29:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix and Paramount are battling for more than Warner Bros</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/09/netflix-and-paramount-are-battling-for-more-than-warner-bros</link>
-      <description>They present rival visions for the future of entertainment</description>
-      <pubDate>Tue, 09 Dec 2025 13:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI is disrupting shopping</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping</link>
-      <description>Looking for Christmas gifts? Just ask a chatbot</description>
-      <pubDate>Mon, 08 Dec 2025 21:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fighting between Thailand and Cambodia breaks out again</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/08/fighting-between-thailand-and-cambodia-breaks-out-again</link>
-      <description>Hundreds of thousands of refugees are back on the move</description>
-      <pubDate>Mon, 08 Dec 2025 20:04:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>China knows how to punish countries that offend it</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/08/china-knows-how-to-punish-countries-that-offend-it</link>
-      <description>It is skilful in the dark arts of economic leverage</description>
-      <pubDate>Mon, 08 Dec 2025 18:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe bans Russia’s gas exports, but still buys its gas-based fertiliser</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/08/europe-bans-russias-gas-exports-but-still-buys-its-gas-based-fertiliser</link>
-      <description>The EU’s rising tariffs may not solve the problem</description>
-      <pubDate>Mon, 08 Dec 2025 17:58:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>A crisis over using frozen Russian assets to help Ukraine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/07/a-crisis-over-using-frozen-russian-assets-to-help-ukraine</link>
-      <description>It’s an old-style Euro punch-up in a deadly new context</description>
-      <pubDate>Sun, 07 Dec 2025 18:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which economy did best in 2025?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/07/which-economy-did-best-in-2025</link>
-      <description>Our annual ranking returns</description>
-      <pubDate>Sun, 07 Dec 2025 15:34:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>A giant iron-ore mine could bring Guinea riches or ruin</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/07/a-giant-iron-ore-mine-could-bring-guinea-riches-or-ruin</link>
-      <description>It all depends on how the country’s junta uses the windfall</description>
-      <pubDate>Sun, 07 Dec 2025 13:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: How AI is rewiring childhood</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/06/cover-story-newsletter-how-ai-is-rewiring-childhood</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Sat, 06 Dec 2025 13:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why hangovers get worse as you get older</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/05/why-hangovers-get-worse-as-you-get-older</link>
-      <description>But there are things you can do to help</description>
-      <pubDate>Fri, 05 Dec 2025 15:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>A transition that has gone better than expected</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/04/a-transition-that-has-gone-better-than-expected</link>
-      <description>The president has been a deft diplomat, but must do more to reassure Syrians</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kyrgyzstan is losing its status as Central Asia’s only democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/kyrgyzstan-is-losing-its-status-as-central-asias-only-democracy</link>
-      <description>The president is muffling the opposition and consolidating power</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from Japan’s efforts to wean itself off Chinese rare earths</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/lessons-from-japans-efforts-to-wean-itself-off-chinese-rare-earths</link>
-      <description>Numbers one, two and three: it’s a lot harder than it sounds</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>South-East Asia and Sri Lanka are reeling from storms and flooding</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/04/south-east-asia-and-sri-lanka-are-reeling-from-storms-and-flooding</link>
-      <description>Cyclones close to the equator are rare and dangerous</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>After a terrible fire in Hong Kong, public fury smoulders</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/04/after-a-terrible-fire-in-hong-kong-public-fury-smoulders</link>
-      <description>The government is determined to suppress protest</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The general who refused to crush Tiananmen’s protesters</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters</link>
-      <description>A leaked video of his court-martial has suddenly appeared</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Western armed forces have struggled to fill their ranks to deter Russia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/04/western-armed-forces-have-struggled-to-fill-their-ranks-to-deter-russia</link>
-      <description>More sensible recruiting policies could help</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/04/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/04/politics</link>
-      <description></description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/04/business</link>
-      <description></description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why a small corruption scandal is a big problem for the EU</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/why-a-small-corruption-scandal-is-a-big-problem-for-the-eu</link>
-      <description>Diplomats at the trough in Brussels</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Greece is teaching Germany how to get government online</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/greece-is-teaching-germany-how-to-get-government-online</link>
-      <description>A legendary bureaucracy is making Olympian efforts at digitalisation</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hague is coping with the decline of international courts</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/the-hague-is-coping-with-the-decline-of-international-courts</link>
-      <description>A loss of prestige for global criminal justice, and for its capital</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italy’s populist right stalls a sexual-consent law</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/italys-populist-right-stalls-a-sexual-consent-law</link>
-      <description>Despite harsher penalties for femicide, Italian machismo is not over</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s peace initiative has stalled in Moscow</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/04/americas-peace-initiative-has-stalled-in-moscow</link>
-      <description>Volodymyr Zelensky faces a political crisis over corruption</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will the mega-merger wave destroy value for shareholders?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/will-the-mega-merger-wave-destroy-value-for-shareholders</link>
-      <description>It’s a coin toss</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many hours should employees work?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/how-many-hours-should-employees-work</link>
-      <description>A question that reveals something about every boss</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>To halt their decline, VW and others are turning Chinese</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/to-halt-their-decline-vw-and-others-are-turning-chinese</link>
-      <description>Foreign carmakers are localising their operations in the country</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even Europe’s penmakers are under threat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/even-europes-penmakers-are-under-threat</link>
-      <description>But one quirky Italian brand is thriving</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s unlikely new entertainment capital</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/04/chinas-unlikely-new-entertainment-capital</link>
-      <description>Zhengzhou is emerging as the Hollywood of micro-dramas</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa needs to generate more electricity</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/04/africa-needs-to-generate-more-electricity</link>
-      <description>It also has to create more demand for it</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binyamin Netanyahu has asked for a presidential pardon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/04/binyamin-netanyahu-has-asked-for-a-presidential-pardon</link>
-      <description>Why has he chosen now to do so?</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s dodgy plan for a pipeline in Congo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/04/russias-dodgy-plan-for-a-pipeline-in-congo</link>
-      <description>If it is built, it will probably benefit Russia rather than ordinary Congolese</description>
-      <pubDate>Thu, 04 Dec 2025 14:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
