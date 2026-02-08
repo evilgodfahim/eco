@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to hedge a bubble, AI edition</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition</link>
+      <description>Protecting your portfolio from a crash looks harder than ever</description>
+      <pubDate>Sun, 08 Feb 2026 14:23:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The danger of prediction markets</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/07/checks-and-balance-newsletter-the-danger-of-prediction-markets</link>
       <description>Charlotte Howard, our New York bureau chief, on the cultural and political risks of turning everything into a bet</description>
@@ -2996,12 +3002,6 @@
       <title>Vietnam’s EV champion is bleeding cash</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/11/vietnams-ev-champion-is-bleeding-cash</link>
       <description>VinFast is seeking salvation in foreign markets</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel refuses to withdraw from Syria</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2025/12/11/israel-refuses-to-withdraw-from-syria</link>
-      <description>That may create more enemies for the Jewish state</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
