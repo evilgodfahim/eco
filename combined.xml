@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Thailand’s conservatives win a shock big victory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/09/thailands-conservatives-win-a-shock-big-victory</link>
+      <description>Prime Minister Anutin Charnvirakul has revived the Thai right’s electoral fortunes</description>
+      <pubDate>Mon, 09 Feb 2026 11:49:04 +0000</pubDate>
+    </item>
+    <item>
       <title>At the last open crossing, Ukrainians flee Russia’s annexation</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/08/at-the-last-open-crossing-ukrainians-flee-russias-annexation</link>
       <description>A checkpoint in Belarus provides a path from occupied territories back to Ukraine</description>
@@ -2996,12 +3002,6 @@
       <title>Ukraine struggles to cope with America’s destructive peace plans</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/11/ukraine-struggles-to-cope-with-americas-destructive-peace-plans</link>
       <description>The latest manoeuvres by Donald Trump are familiar</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Talks stall between Turkey’s government and the Kurds</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/11/talks-stall-between-turkeys-government-and-the-kurds</link>
-      <description>The prize is the ending of four decades of war between the army and the PKK</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
