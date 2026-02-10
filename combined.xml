@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Led by a Marxist, battered by a storm, Sri Lanka is doing better</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/10/led-by-a-marxist-battered-by-a-storm-sri-lanka-is-doing-better</link>
+      <description>India’s growing involvement in its neighbouring country is one factor</description>
+      <pubDate>Tue, 10 Feb 2026 15:40:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Emmanuel Macron declares a European state of emergency</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/10/emmanuel-macron-declares-a-european-state-of-emergency</link>
       <description>He urges the EU to move fast or be swept aside</description>
@@ -2996,12 +3002,6 @@
       <title>All hail “The President of Peace”</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/11/all-hail-the-president-of-peace</link>
       <description>But hold the prizes until Donald Trump actually delivers on his new branding</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/11/the-weekly-cartoon</link>
-      <description></description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
