@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Emmanuel Macron declares a European state of emergency</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/10/emmanuel-macron-declares-a-european-state-of-emergency</link>
+      <description>He urges the EU to move fast or be swept aside</description>
+      <pubDate>Tue, 10 Feb 2026 06:00:48 +0000</pubDate>
+    </item>
+    <item>
       <title>China once stole foreign ideas. Now it wants to protect its own</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own</link>
       <description>The country’s courts are inundated with intellectual-property cases</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/11/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/11/business</link>
       <description></description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
