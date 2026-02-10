@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Are liberal values a luxury the West cannot afford?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/10/are-liberal-values-a-luxury-the-west-cannot-afford</link>
+      <description>Yes, China has impressive high-speed trains. That is no reason for the West to adopt iron-fisted rule</description>
+      <pubDate>Tue, 10 Feb 2026 22:28:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Should you rent or buy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/02/10/should-i-rent-or-buy</link>
       <description>Our interactive map shows where in America homeownership is becoming more appealing</description>
@@ -2996,12 +3002,6 @@
       <title>Hedging against Trump, Canada reconsiders ties with China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/11/hedging-against-trump-canada-reconsiders-ties-with-china</link>
       <description>How far it can go will depend on America</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why do so many Chinese still smoke?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/11/why-do-so-many-chinese-still-smoke</link>
-      <description>One reason: China’s tobacco industry has massive clout</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
