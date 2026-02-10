@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Should you rent or buy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/02/10/should-i-rent-or-buy</link>
+      <description>Our interactive map shows where in America homeownership is becoming more appealing</description>
+      <pubDate>Tue, 10 Feb 2026 19:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who wrangled the best trade deal from Donald Trump?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump</link>
+      <description>The agreements look one-sided. Their consequences may not be</description>
+      <pubDate>Tue, 10 Feb 2026 19:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Saudis feel squeezed even as the economy booms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/10/why-saudis-feel-squeezed-even-as-the-economy-booms</link>
+      <description>Young people grousing about service jobs and high rents sound like their peers in the West</description>
+      <pubDate>Tue, 10 Feb 2026 19:02:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Why this is the coldest crypto winter yet</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/10/why-this-is-the-coldest-crypto-winter-yet</link>
       <description>An asset class that is all about vibes suddenly has awful vibes</description>
@@ -2984,24 +3002,6 @@
       <title>Why do so many Chinese still smoke?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/11/why-do-so-many-chinese-still-smoke</link>
       <description>One reason: China’s tobacco industry has massive clout</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the fight for MAGA’s foreign policy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/11/inside-the-fight-for-magas-foreign-policy</link>
-      <description>Donald Trump’s court squabbles over the future of American power</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>American doctors are rich and miserable</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/11/american-doctors-are-rich-and-miserable</link>
-      <description>A recent study shows they are world leaders in burnout</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How much does America know about its boat-strike targets?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/11/how-much-does-america-know-about-its-boat-strike-targets</link>
-      <description>Controversies about the lethal strikes touch on intelligence operations</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
