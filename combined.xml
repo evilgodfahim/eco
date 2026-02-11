@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Robots with human-inspired eyes have better vision</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision</link>
+      <description>Their reaction times can even surpass their makers’</description>
+      <pubDate>Wed, 11 Feb 2026 18:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>What drives the wage gap between men and women?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/11/what-drives-the-wage-gap-between-men-and-women</link>
+      <description>Surprise: it’s still motherhood</description>
+      <pubDate>Wed, 11 Feb 2026 17:27:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Democrats aim to curb ICE without losing votes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/11/how-democrats-aim-to-curb-ice-without-losing-votes</link>
+      <description>Its brutal tactics are unpopular with Americans. But so is border insecurity</description>
+      <pubDate>Wed, 11 Feb 2026 17:22:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Entrenched interests are throttling Brazil’s economy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/11/entrenched-interests-are-throttling-brazils-economy</link>
       <description>The country should be faring much better</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/12/an-american-oil-blockade-would-devastate-the-venezuelan-regime</link>
       <description>The regime of Nicolás Maduro relies on dodgy oil exports</description>
       <pubDate>Fri, 12 Dec 2025 10:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why more American seniors are getting high</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/11/why-more-american-seniors-are-getting-high</link>
-      <description>No age group is taking up cannabis faster</description>
-      <pubDate>Thu, 11 Dec 2025 22:51:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The battle for Warner Bros is a prelude to the real streaming war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/the-battle-for-warner-bros-is-a-prelude-to-the-real-streaming-war</link>
-      <description>Professionally made shows face tough competition from independent makers</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>More reasons for America’s friends to plan for the worst</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/more-reasons-for-americas-friends-to-plan-for-the-worst</link>
-      <description>A strategy that scorns Europe, bullies Latin America and is vague on Asia</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
