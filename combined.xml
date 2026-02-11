@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Entrenched interests are throttling Brazil’s economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/11/entrenched-interests-are-throttling-brazils-economy</link>
+      <description>The country should be faring much better</description>
+      <pubDate>Wed, 11 Feb 2026 15:57:05 +0000</pubDate>
+    </item>
+    <item>
       <title>The Epstein files are sullying Norway’s squeaky-clean image</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/11/the-epstein-files-are-sullying-norways-squeaky-clean-image</link>
       <description>The sex offender corresponded with diplomats, politicians and royals</description>
@@ -2996,12 +3002,6 @@
       <title>More reasons for America’s friends to plan for the worst</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/11/more-reasons-for-americas-friends-to-plan-for-the-worst</link>
       <description>A strategy that scorns Europe, bullies Latin America and is vague on Asia</description>
-      <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia’s hard right is resurgent</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/11/australias-hard-right-is-resurgent</link>
-      <description>It includes actual Nazis</description>
       <pubDate>Thu, 11 Dec 2025 14:00:15 +0000</pubDate>
     </item>
   </channel>
