@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A European fighter-jet partnership is verging on a break-up</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up</link>
+      <description>Germans and Spaniards say France’s Dassault has made collaboration impossible</description>
+      <pubDate>Wed, 11 Feb 2026 18:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asia’s capitalists will need to fight for their revolution</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/11/asias-capitalists-will-need-to-fight-for-their-revolution</link>
+      <description>They cannot rely on politicians alone to fix the region’s abysmal corporate governance</description>
+      <pubDate>Wed, 11 Feb 2026 18:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Humans are not the only animals that treat each other’s injuries</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/11/humans-are-not-the-only-animals-that-treat-each-others-injuries</link>
+      <description>Many ant species do so too</description>
+      <pubDate>Wed, 11 Feb 2026 18:08:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Robots with human-inspired eyes have better vision</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision</link>
       <description>Their reaction times can even surpass their makers’</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/12/cover-story-newsletter-can-anyone-stop-europes-populist-right</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Fri, 12 Dec 2025 17:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are some types of sugar healthier than others?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/12/are-some-types-of-sugar-healthier-than-others</link>
-      <description>We weigh up the options</description>
-      <pubDate>Fri, 12 Dec 2025 17:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omar García Harfuch, Mexico’s “Batman” with big political ambitions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/12/omar-garcia-harfuch-mexicos-batman-with-big-political-ambitions</link>
-      <description>The country’s best security minister in years must contend with drug cartels, Donald Trump and assassins’ bullets</description>
-      <pubDate>Fri, 12 Dec 2025 14:13:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>An American oil blockade would devastate the Venezuelan regime</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/12/an-american-oil-blockade-would-devastate-the-venezuelan-regime</link>
-      <description>The regime of Nicolás Maduro relies on dodgy oil exports</description>
-      <pubDate>Fri, 12 Dec 2025 10:12:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
