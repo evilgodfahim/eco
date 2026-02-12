@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Japan’s prime minister will use her massive new mandate</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/12/how-japans-prime-minister-will-use-her-massive-new-mandate</link>
+      <description>A remarkable election victory will reshape Japanese politics for years to come</description>
+      <pubDate>Thu, 12 Feb 2026 10:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Epstein files tell a story of justice denied</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/12/the-epstein-files-tell-a-story-of-justice-denied</link>
+      <description>The slow progress of prosecutors is reprehensible</description>
+      <pubDate>Thu, 12 Feb 2026 10:04:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Britain’s predicament will get worse before it gets better</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/12/britains-predicament-will-get-worse-before-it-gets-better</link>
       <description>With Sir Keir Starmer weakened, the government will drift left</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/14/job-apocalypse-not-yet-ai-is-creating-brand-new-occupations</link>
       <description>Most needed: human skills</description>
       <pubDate>Sun, 14 Dec 2025 11:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jimmy Lai’s judgment day</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/14/jimmy-lais-judgment-day</link>
-      <description>The tycoon’s conviction speaks to the state of Hong Kong’s civil liberties</description>
-      <pubDate>Sun, 14 Dec 2025 10:36:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will California try to block Hollywood’s next megadeal?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/12/will-california-try-to-block-hollywoods-next-megadeal</link>
-      <description>States are beefing up their antitrust enforcement</description>
-      <pubDate>Fri, 12 Dec 2025 20:38:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
