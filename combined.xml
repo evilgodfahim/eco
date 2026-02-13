@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can Bangladesh’s old guard build a new democracy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/13/can-bangladeshs-old-guard-build-a-new-democracy</link>
+      <description>The country’s first real election in 18 years is won by a familiar face</description>
+      <pubDate>Fri, 13 Feb 2026 14:09:42 +0000</pubDate>
+    </item>
+    <item>
       <title>ICE’s operation in Minneapolis is about to wind down</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/12/ices-operation-in-minneapolis-is-about-to-wind-down</link>
       <description>Donald Trump’s administration claims mission accomplished</description>
@@ -2996,12 +3002,6 @@
       <title>Toll roads are spreading in America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america</link>
       <description>The decline of petrol taxes is to blame</description>
-      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/18/the-weekly-cartoon</link>
-      <description></description>
       <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
