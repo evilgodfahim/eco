@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can the shingles vaccine slow ageing?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/13/can-the-shingles-vaccine-slow-ageing</link>
+      <description>The evidence is surprisingly strong</description>
+      <pubDate>Fri, 13 Feb 2026 18:44:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Can Bangladesh’s old guard build a new democracy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/13/can-bangladeshs-old-guard-build-a-new-democracy</link>
       <description>The country’s first real election in 18 years is won by a familiar face</description>
@@ -2996,12 +3002,6 @@
       <title>More schools in America are adopting a four-day week</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/more-schools-in-america-are-adopting-a-four-day-week</link>
       <description>Teachers and parents like it, but results for pupils are middling</description>
-      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toll roads are spreading in America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america</link>
-      <description>The decline of petrol taxes is to blame</description>
       <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
