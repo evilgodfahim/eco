@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance: The death of the “endangerment finding”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/15/checks-and-balance-the-death-of-the-endangerment-finding</link>
+      <description>John Prideaux, our US editor, says the rollback of climate regulation reveals a deeper story about American governance</description>
+      <pubDate>Sun, 15 Feb 2026 15:14:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The most powerful woman in the world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/15/cover-story-newsletter-the-most-powerful-woman-in-the-world</link>
       <description>An exclusive look at how we designed this week’s covers</description>
@@ -2996,12 +3002,6 @@
       <title>Two months in, the Gaza ceasefire is floundering</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/two-months-in-the-gaza-ceasefire-is-floundering</link>
       <description>The consequences will ripple beyond the Middle East</description>
-      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>China proved its strengths in 2025—and Donald Trump helped</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/china-proved-its-strengths-in-2025-and-donald-trump-helped</link>
-      <description>It was a good year for Xi Jinping</description>
       <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
