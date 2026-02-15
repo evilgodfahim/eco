@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>India’s pollution is becoming an economic roadblock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/15/indias-pollution-is-becoming-an-economic-roadblock</link>
+      <description>The government’s inaction runs counter to its goals</description>
+      <pubDate>Sun, 15 Feb 2026 09:49:58 +0000</pubDate>
+    </item>
+    <item>
       <title>America offers Europe warmer words, but a deep chill remains</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains</link>
       <description>Marco Rubio praises NATO allies in Munich, but most remain wary</description>
@@ -2996,12 +3002,6 @@
       <title>The Christmas-industrial complex centres on Yiwu</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/18/the-christmas-industrial-complex-centres-on-yiwu</link>
       <description>How Chinese traders beat out Lapland’s elves</description>
-      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ditch textbooks and learn how to use a wrench to AI-proof your job?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/18/ditch-textbooks-and-learn-how-to-use-a-wrench-to-ai-proof-your-job</link>
-      <description>Generation Z is becoming less invested in university and more interested in skilled trades</description>
       <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
