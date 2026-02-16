@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Americans are unleashing their anger on food-delivery robots</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots</link>
+      <description>The machines don’t deserve it</description>
+      <pubDate>Mon, 16 Feb 2026 18:29:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nicaragua has so far dodged the fate of Cuba and Venezuela</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/16/nicaragua-has-so-far-dodged-the-fate-of-cuba-and-venezuela</link>
+      <description>Latin America’s other leftist autocracy has not yet come under sustained pressure from the United States</description>
+      <pubDate>Mon, 16 Feb 2026 18:13:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Why American allies are flocking to see Xi Jinping in Beijing</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing</link>
       <description>China isn’t using its considerable leverage over them—yet</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/18/how-chinese-cars-are-beating-european-tariffs</link>
       <description>Carmakers are adapting to Europe’s EV barriers</description>
       <pubDate>Thu, 18 Dec 2025 19:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seen from above, el-Fasher is a ghost town</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2025/12/18/seen-from-above-el-fasher-is-a-ghost-town</link>
-      <description>Satellite imagery reveals how North Darfur’s capital has been abandoned after its fall</description>
-      <pubDate>Thu, 18 Dec 2025 17:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Well Informed guide to surviving Christmas</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/your-well-informed-guide-to-surviving-christmas</link>
-      <description>Drink slowly, eat cake and remember that fun is good for you, too</description>
-      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
