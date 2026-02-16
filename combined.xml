@@ -5,8 +5,14 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>The crummiest job in Washington is getting worse</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/the-crummiest-job-in-washington-is-getting-worse</link>
+      <title>How governments are increasingly soaking the rich</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/16/how-governments-are-increasingly-soaking-the-rich</link>
+      <description>Tax systems are more progressive than you think</description>
+      <pubDate>Mon, 16 Feb 2026 20:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>The crummiest job in Washington—congressman—is getting worse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/the-crummiest-job-in-washington-congressman-is-getting-worse</link>
       <description>Longer hours, lower pay, more threats and less power</description>
       <pubDate>Mon, 16 Feb 2026 19:28:16 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/19/cover-story-newsletter-illustrating-our-christmas-issue</link>
       <description>An exclusive look at how we designed our cover, written by Josie Delap, our Christmas editor</description>
       <pubDate>Fri, 19 Dec 2025 12:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe finds €90bn for Ukraine—but not from Russia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/19/europe-finds-90bn-for-ukraine-but-not-from-russia</link>
-      <description>An EU “reparations loan” using frozen Russian money collapses</description>
-      <pubDate>Fri, 19 Dec 2025 10:51:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
