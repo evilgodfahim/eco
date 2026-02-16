@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The crummiest job in Washington is getting worse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/the-crummiest-job-in-washington-is-getting-worse</link>
+      <description>Longer hours, lower pay, more threats and less power</description>
+      <pubDate>Mon, 16 Feb 2026 19:28:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Americans are unleashing their anger on food-delivery robots</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots</link>
       <description>The machines don’t deserve it</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/19/europe-finds-90bn-for-ukraine-but-not-from-russia</link>
       <description>An EU “reparations loan” using frozen Russian money collapses</description>
       <pubDate>Fri, 19 Dec 2025 10:51:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Chinese cars are beating European tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/18/how-chinese-cars-are-beating-european-tariffs</link>
-      <description>Carmakers are adapting to Europe’s EV barriers</description>
-      <pubDate>Thu, 18 Dec 2025 19:52:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
