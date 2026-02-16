@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why American allies are flocking to see Xi Jinping in Beijing</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing</link>
+      <description>China isn’t using its considerable leverage over them—yet</description>
+      <pubDate>Mon, 16 Feb 2026 16:51:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Dubai’s crazy rich Chinese</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/15/dubais-crazy-rich-chinese</link>
       <description>Scrutinised at home and in the West, Chinese money is moving into the Gulf</description>
@@ -2996,12 +3002,6 @@
       <title>Your Well Informed guide to surviving Christmas</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/your-well-informed-guide-to-surviving-christmas</link>
       <description>Drink slowly, eat cake and remember that fun is good for you, too</description>
-      <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Economist’s country of the year for 2025</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/18/the-economists-country-of-the-year-for-2025</link>
-      <description>Which country improved the most this year?</description>
       <pubDate>Thu, 18 Dec 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
