@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: Is a peace deal possible?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/17/the-war-room-newsletter-is-a-peace-deal-possible</link>
+      <description>Oliver Carroll, our foreign correspondent, analyses the prospects—and pitfalls—of ending the war in Ukraine</description>
+      <pubDate>Tue, 17 Feb 2026 10:04:13 +0000</pubDate>
+    </item>
+    <item>
       <title>How governments are increasingly soaking the rich</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/16/how-governments-are-increasingly-soaking-the-rich</link>
       <description>Tax systems are more progressive than you think</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/19/checks-and-balance-newsletter-how-donald-trump-has-maximised-his-power</link>
       <description>Charlotte Howard, our New York bureau chief, reflects on the first year of the president’s second term</description>
       <pubDate>Fri, 19 Dec 2025 22:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: Illustrating our Christmas issue</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/19/cover-story-newsletter-illustrating-our-christmas-issue</link>
-      <description>An exclusive look at how we designed our cover, written by Josie Delap, our Christmas editor</description>
-      <pubDate>Fri, 19 Dec 2025 12:24:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
