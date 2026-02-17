@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Beware China’s shrinking car market</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/17/beware-chinas-shrinking-car-market</link>
+      <description>The resulting flood of exports will be good news for consumers. Less so for the world’s carmakers</description>
+      <pubDate>Tue, 17 Feb 2026 18:33:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Off the Charts newsletter: Coping with outliers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/17/off-the-charts-newsletter-coping-with-outliers</link>
+      <description>Sarah Leo, our visual data journalist, explains how to deal with unruly data points</description>
+      <pubDate>Tue, 17 Feb 2026 18:27:25 +0000</pubDate>
+    </item>
+    <item>
       <title>The flaws in India’s AI plans</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/17/the-flaws-in-indias-ai-plans</link>
       <description>Despite hosting a global summit, it is a bystander in the race to develop frontier models</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/21/canadas-first-christmas-without-the-hudsons-bay-company</link>
       <description>From fur-trading outpost to department-store giant, founding a country along the way</description>
       <pubDate>Sun, 21 Dec 2025 14:33:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The five biggest market developments of 2025</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025</link>
-      <description>Looking back on a rollercoaster year for investors</description>
-      <pubDate>Sun, 21 Dec 2025 13:18:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to interpret the pain at the edge of America’s labour market</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/21/how-to-interpret-the-pain-at-the-edge-of-americas-labour-market</link>
-      <description>In the past it has foretold wider weakness. This time may be different</description>
-      <pubDate>Sun, 21 Dec 2025 13:03:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
