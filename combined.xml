@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The financialisation of AI is just beginning</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning</link>
+      <description>Get ready for a new wave of securities, hedges and collateral</description>
+      <pubDate>Tue, 17 Feb 2026 19:16:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Beware China’s shrinking car market</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/17/beware-chinas-shrinking-car-market</link>
       <description>The resulting flood of exports will be good news for consumers. Less so for the world’s carmakers</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/21/why-chinas-spat-with-japan-could-still-get-worse</link>
       <description>Officials have held back from encouraging consumer boycotts–for now</description>
       <pubDate>Sun, 21 Dec 2025 15:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s first Christmas without the Hudson’s Bay Company</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/21/canadas-first-christmas-without-the-hudsons-bay-company</link>
-      <description>From fur-trading outpost to department-store giant, founding a country along the way</description>
-      <pubDate>Sun, 21 Dec 2025 14:33:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
