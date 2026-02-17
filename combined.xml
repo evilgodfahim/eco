@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s envoys failed to reassure Europe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/17/donald-trumps-envoys-failed-to-reassure-europe</link>
+      <description>A gathering of world leaders in Munich shows how trust has collapsed</description>
+      <pubDate>Tue, 17 Feb 2026 21:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the Gulf’s most powerful countries are at odds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/17/why-the-gulfs-most-powerful-countries-are-at-odds</link>
+      <description>A feud between Saudi Arabia and the UAE will have far-reaching consequences</description>
+      <pubDate>Tue, 17 Feb 2026 20:48:06 +0000</pubDate>
+    </item>
+    <item>
       <title>How big is the prize of reopening Russia?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/17/how-big-is-the-prize-of-reopening-russia</link>
       <description>The Kremlin is promising $12trn-worth of deals to Donald Trump’s administration</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/22/who-was-the-best-ceo-of-2025</link>
       <description>We assess the superstars of the c-suite</description>
       <pubDate>Mon, 22 Dec 2025 18:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Christmas in Caracas with Donald Trump on the doorstep</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/22/christmas-in-caracas-with-donald-trump-on-the-doorstep</link>
-      <description>Venezuelans are tiring of hope as their dictator digs in against the might of the United States</description>
-      <pubDate>Mon, 22 Dec 2025 14:22:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The quest to chart the sea</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/international/2025/12/22/the-quest-to-chart-the-sea</link>
-      <description>This map reveals what scientists care about—and what armed forces don’t want to share</description>
-      <pubDate>Mon, 22 Dec 2025 14:20:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
