@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why insider trading isn’t always bad</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/18/why-insider-trading-isnt-always-bad</link>
+      <description>At least on prediction markets</description>
+      <pubDate>Wed, 18 Feb 2026 22:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>That irritable feeling that France was right</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/18/that-irritable-feeling-that-france-was-right</link>
+      <description>Its call to urge strategic autonomy on Europe was largely ignored</description>
+      <pubDate>Wed, 18 Feb 2026 21:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea is still haunted by its disgraced ex-president</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/18/south-korea-is-still-haunted-by-its-disgraced-ex-president</link>
+      <description>A court verdict will not settle Yoon Suk Yeol’s toxic legacy</description>
+      <pubDate>Wed, 18 Feb 2026 20:51:10 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s humanoids are dazzling the world. Who will buy them?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/chinas-humanoids-are-dazzling-the-world-who-will-buy-them</link>
       <description>The market for robot dancers, alas, is limited</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/28/russia-is-blasting-odessa-to-throttle-ukraines-economy</link>
       <description>Putin’s assault aims to terrorise civilians and cripple ports</description>
       <pubDate>Sun, 28 Dec 2025 14:36:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The economics of megachurches</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/26/the-economics-of-megachurches</link>
-      <description>Why America’s fastest-growing churches don’t get political</description>
-      <pubDate>Fri, 26 Dec 2025 17:44:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is the best way to train for a marathon?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2025/12/26/what-is-the-best-way-to-train-for-a-marathon</link>
-      <description>Most people train too fast</description>
-      <pubDate>Fri, 26 Dec 2025 14:23:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/25/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 25 Dec 2025 15:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
