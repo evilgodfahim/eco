@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s humanoids are dazzling the world. Who will buy them?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/chinas-humanoids-are-dazzling-the-world-who-will-buy-them</link>
+      <description>The market for robot dancers, alas, is limited</description>
+      <pubDate>Wed, 18 Feb 2026 18:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brain-like computers could be built out of perovskites</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/brain-like-computers-could-be-built-out-of-perovskites</link>
+      <description>The long-hyped materials may have found their niche</description>
+      <pubDate>Wed, 18 Feb 2026 18:10:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Human Exposome Project will map how environmental factors shape health</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/the-human-exposome-project-will-map-how-environmental-factors-shape-health</link>
+      <description>It makes the Human Genome Project look easy</description>
+      <pubDate>Wed, 18 Feb 2026 18:07:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How ICE’s new software tools could speed up deportations</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/how-ices-new-software-tools-could-speed-up-deportations</link>
+      <description>The risk of overreach is high</description>
+      <pubDate>Wed, 18 Feb 2026 18:01:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Activists are pushing to loosen childhood-vaccine requirements</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/18/activists-are-pushing-to-loosen-childhood-vaccine-requirements</link>
       <description>West Virginia has become a front line</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/25/the-weekly-cartoon</link>
       <description></description>
       <pubDate>Thu, 25 Dec 2025 15:10:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A sham poll in Myanmar opens a new phase of military rule</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/24/a-sham-poll-in-myanmar-opens-a-new-phase-of-military-rule</link>
-      <description>The country’s rebels are on the back foot</description>
-      <pubDate>Wed, 24 Dec 2025 16:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump has it in for Brutalism</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/24/donald-trump-has-it-in-for-brutalism</link>
-      <description>This time the president has the capital’s developers on his side, and possibly public opinion too</description>
-      <pubDate>Wed, 24 Dec 2025 12:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Baltic is becoming a battleground between NATO and Russia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/23/the-baltic-is-becoming-a-battleground-between-nato-and-russia</link>
-      <description>Poland, Sweden and others are buying subs to protect pipelines</description>
-      <pubDate>Tue, 23 Dec 2025 16:26:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does anyone still want to help the Uyghurs?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/23/does-anyone-still-want-to-help-the-uyghurs</link>
-      <description>Chinese pressure and migration backlashes may result in many being sent back to China</description>
-      <pubDate>Tue, 23 Dec 2025 13:58:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
