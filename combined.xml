@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Activists are pushing to loosen childhood-vaccine requirements</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/18/activists-are-pushing-to-loosen-childhood-vaccine-requirements</link>
+      <description>West Virginia has become a front line</description>
+      <pubDate>Wed, 18 Feb 2026 17:26:12 +0000</pubDate>
+    </item>
+    <item>
       <title>How a four-year onslaught has changed Ukraine</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/18/how-a-four-year-onslaught-has-changed-ukraine</link>
       <description>The border guards who faced Russia’s tanks were changed for ever, like their country</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/23/does-anyone-still-want-to-help-the-uyghurs</link>
       <description>Chinese pressure and migration backlashes may result in many being sent back to China</description>
       <pubDate>Tue, 23 Dec 2025 13:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGA is eating itself</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/23/maga-is-eating-itself</link>
-      <description>Fighting among conservative influencers reveals broader rifts within the Republican Party</description>
-      <pubDate>Tue, 23 Dec 2025 12:54:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
