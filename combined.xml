@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How a four-year onslaught has changed Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/18/how-a-four-year-onslaught-has-changed-ukraine</link>
+      <description>The border guards who faced Russia’s tanks were changed for ever, like their country</description>
+      <pubDate>Wed, 18 Feb 2026 16:51:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia’s economy has entered the death zone</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/18/russias-economy-has-entered-the-death-zone</link>
       <description>Alexandra Prokopenko wonders how much longer it can go on metabolising its own muscle tissue</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/23/maga-is-eating-itself</link>
       <description>Fighting among conservative influencers reveals broader rifts within the Republican Party</description>
       <pubDate>Tue, 23 Dec 2025 12:54:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why fewer Americans are giving than before</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/23/why-fewer-americans-are-giving-than-before</link>
-      <description>The decline of philanthropy is not just about Donald Trump</description>
-      <pubDate>Tue, 23 Dec 2025 11:45:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
