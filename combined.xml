@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russia’s economy has entered the death zone</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/18/russias-economy-has-entered-the-death-zone</link>
+      <description>Alexandra Prokopenko wonders how much longer it can go on metabolising its own muscle tissue</description>
+      <pubDate>Wed, 18 Feb 2026 12:35:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s envoys failed to reassure Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/17/donald-trumps-envoys-failed-to-reassure-europe</link>
       <description>A gathering of world leaders in Munich shows how trust has collapsed</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/23/why-fewer-americans-are-giving-than-before</link>
       <description>The decline of philanthropy is not just about Donald Trump</description>
       <pubDate>Tue, 23 Dec 2025 11:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who was the best CEO of 2025?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/22/who-was-the-best-ceo-of-2025</link>
-      <description>We assess the superstars of the c-suite</description>
-      <pubDate>Mon, 22 Dec 2025 18:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
