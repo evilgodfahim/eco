@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Welcome to the era of anarchic antitrust</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/welcome-to-the-era-of-anarchic-antitrust</link>
+      <description>Competition enforcement in America has descended into chaos</description>
+      <pubDate>Wed, 18 Feb 2026 22:15:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Why insider trading isn’t always bad</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/18/why-insider-trading-isnt-always-bad</link>
       <description>At least on prediction markets</description>
@@ -13,7 +19,7 @@
     <item>
       <title>That irritable feeling that France was right</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/18/that-irritable-feeling-that-france-was-right</link>
-      <description>Its call to urge strategic autonomy on Europe was largely ignored</description>
+      <description>Donald Trump’s America makes Gaullism respectable again</description>
       <pubDate>Wed, 18 Feb 2026 21:31:14 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/28/brazils-general-election-will-be-all-about-lula-again</link>
       <description>The left-wing stalwart has emerged as the favourite; the right is in disarray</description>
       <pubDate>Sun, 28 Dec 2025 15:40:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia is blasting Odessa to throttle Ukraine’s economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2025/12/28/russia-is-blasting-odessa-to-throttle-ukraines-economy</link>
-      <description>Putin’s assault aims to terrorise civilians and cripple ports</description>
-      <pubDate>Sun, 28 Dec 2025 14:36:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
