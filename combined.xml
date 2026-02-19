@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A psychedelic medicine performs well against depression</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression</link>
+      <description>Regulators are now mulling the results of the late-stage trial</description>
+      <pubDate>Thu, 19 Feb 2026 16:35:36 +0000</pubDate>
+    </item>
+    <item>
       <title>How to improve American legislators’ lot</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/19/how-to-improve-american-legislators-lot</link>
       <description>Doing so would be good for members of Congress, and for democracy</description>
@@ -2996,12 +3002,6 @@
       <title>China’s property woes could last until 2030</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/30/chinas-property-woes-could-last-until-2030</link>
       <description>Despite the best efforts of its social-media censors</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedBird, a small firm doing big media deals</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/30/redbird-a-small-firm-doing-big-media-deals</link>
-      <description>Its wingspan stretches from Hollywood to AC Milan</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
