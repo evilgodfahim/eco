@@ -5,6 +5,48 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How four years of war have changed Russia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/19/how-four-years-of-war-have-changed-russia</link>
+      <description>The fighting in Ukraine has reshaped everyday life</description>
+      <pubDate>Thu, 19 Feb 2026 11:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The EU is thrashing out a more muscular set of economic policies</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/19/the-eu-is-thrashing-out-a-more-muscular-set-of-economic-policies</link>
+      <description>The bloc is done playing nicely</description>
+      <pubDate>Thu, 19 Feb 2026 10:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Did America’s war on poverty fail?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/19/did-americas-war-on-poverty-fail</link>
+      <description>Deprivation has fallen dramatically—but not necessarily because of the welfare state</description>
+      <pubDate>Thu, 19 Feb 2026 10:52:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the IMF’s newest report finds that the yuan is undervalued</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/19/why-the-imfs-newest-report-finds-that-the-yuan-is-undervalued</link>
+      <description>It says the currency is 16% cheaper than it should be</description>
+      <pubDate>Thu, 19 Feb 2026 10:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prediction markets are rife with insider betting</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting</link>
+      <description>That does not mean regulators should stamp it out</description>
+      <pubDate>Thu, 19 Feb 2026 10:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vladimir Putin is caught in a vice of his own making</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/19/vladimir-putin-is-caught-in-a-vice-of-his-own-making</link>
+      <description>Russia’s president cannot win the war, but fears peace</description>
+      <pubDate>Thu, 19 Feb 2026 10:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t go after the rich to fix broken budgets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/19/dont-go-after-the-rich-to-fix-broken-budgets</link>
+      <description>It will not work, and is wrong in principle</description>
+      <pubDate>Thu, 19 Feb 2026 10:23:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Welcome to the era of anarchic antitrust</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/welcome-to-the-era-of-anarchic-antitrust</link>
       <description>Competition enforcement in America has descended into chaos</description>
@@ -2961,48 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/29/the-supreme-court-has-taken-the-national-guard-away-from-donald-trump</link>
       <description>His remaining options for sending in the troops are legally fraught</description>
       <pubDate>Mon, 29 Dec 2025 19:58:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI faces a make-or-break year in 2026</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/29/openai-faces-a-make-or-break-year-in-2026</link>
-      <description>One of the fastest-growing companies in history is in a perilous position</description>
-      <pubDate>Mon, 29 Dec 2025 17:56:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A fragile thaw at the top of the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/29/a-fragile-thaw-at-the-top-of-the-world</link>
-      <description>The Economist gained rare access to India’s tense border with China</description>
-      <pubDate>Mon, 29 Dec 2025 17:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wanted: a new business writer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/usbusinesswriter</link>
-      <description>An opportunity to join the staff of The Economist</description>
-      <pubDate>Mon, 29 Dec 2025 17:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Mega edition—you ask, I answer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/29/the-war-room-newsletter-mega-edition-you-ask-i-answer</link>
-      <description>Shashank Joshi, our defence editor, answers your questions in the final edition of 2025</description>
-      <pubDate>Mon, 29 Dec 2025 17:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s museum boom, take two</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/29/chinas-museum-boom-take-two</link>
-      <description>Once-empty halls now heave with visitors—and treasures</description>
-      <pubDate>Mon, 29 Dec 2025 14:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Warren Buffett retires, uncertainty looms for Berkshire Hathaway</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2025/12/28/as-warren-buffett-retires-uncertainty-looms-for-berkshire-hathaway</link>
-      <description>What direction will his anointed successor take?</description>
-      <pubDate>Sun, 28 Dec 2025 16:51:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil’s general election will be all about Lula—again</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2025/12/28/brazils-general-election-will-be-all-about-lula-again</link>
-      <description>The left-wing stalwart has emerged as the favourite; the right is in disarray</description>
-      <pubDate>Sun, 28 Dec 2025 15:40:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
