@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Supreme Court strikes down Donald Trump’s tariffs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/20/the-supreme-court-strikes-down-donald-trumps-tariffs</link>
+      <description>His “emergency” levies are down, but not out</description>
+      <pubDate>Fri, 20 Feb 2026 17:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should you be fibremaxxing?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/20/should-you-be-fibremaxxing</link>
+      <description>What to make of the new dietary fad</description>
+      <pubDate>Fri, 20 Feb 2026 17:44:27 +0000</pubDate>
+    </item>
+    <item>
       <title>The moment of reckoning between America and Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/19/the-moment-of-reckoning-between-america-and-iran</link>
       <description>Donald Trump must soon choose whether to attack Iran or beat a humiliating retreat</description>
@@ -2990,18 +3002,6 @@
       <title>Los Angeles after the flames</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2025/12/30/los-angeles-after-the-flames</link>
       <description>A year after the city burned, the recovery has just begun</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s most successful mayor stands down</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2025/12/30/americas-most-successful-mayor-stands-down</link>
-      <description>Having fixed Detroit, Mike Duggan now wants to fix partisanship</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors head into 2026 remarkably optimistic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2025/12/30/investors-head-into-2026-remarkably-optimistic</link>
-      <description>Few expect a crash in the year to come</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
