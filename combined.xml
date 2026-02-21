@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Jesse Jackson and the great racial backlash</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/21/checks-and-balance-newsletter-jesse-jackson-and-the-great-racial-backlash</link>
+      <description>Daniel Knowles, our Midwest correspondent, on why the civil-rights fight feels newly urgent</description>
+      <pubDate>Sat, 21 Feb 2026 16:50:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Midwest’s remarkable turnaround</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/21/the-midwests-remarkable-turnaround</link>
+      <description>For the first time in 70 years, more Americans are coming than going</description>
+      <pubDate>Sat, 21 Feb 2026 16:36:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump answers a Supreme Court rebuke with new tariff threats</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/20/donald-trump-answers-a-supreme-court-rebuke-with-new-tariff-threats</link>
       <description>The immediate economic impact will be more uncertainty</description>
@@ -2990,18 +3002,6 @@
       <title>Patriotism tests loom for big business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/30/patriotism-tests-loom-for-big-business</link>
       <description>Economic nationalism makes it harder for multinationals to navigate the world</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>A half-planet-size gap in global governance is about to get plugged</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2025/12/30/a-half-planet-size-gap-in-global-governance-is-about-to-get-plugged</link>
-      <description>A new treaty offers hope of curbing the destruction of the oceans</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los Angeles after the flames</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2025/12/30/los-angeles-after-the-flames</link>
-      <description>A year after the city burned, the recovery has just begun</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
