@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why one corner of Europe’s car industry is still booming</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/22/why-one-corner-of-europes-car-industry-is-still-booming</link>
+      <description>The world’s most car-intensive economy draws plenty of investment, for now</description>
+      <pubDate>Sun, 22 Feb 2026 13:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI productivity boom is not here (yet)</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet</link>
+      <description>Artificial intelligence is improving fast. Its effect on output, not so much</description>
+      <pubDate>Sun, 22 Feb 2026 12:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Markets are churning furiously beneath a calm surface</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-a-calm-surface</link>
+      <description>AI is prompting investors to reassess every business model under the sun</description>
+      <pubDate>Sun, 22 Feb 2026 12:29:01 +0000</pubDate>
+    </item>
+    <item>
       <title>India’s VIP culture is out of control</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control</link>
       <description>The country’s leaders claim to be servants but act like masters</description>
@@ -2984,24 +3002,6 @@
       <title>OpenAI’s cash burn will be one of the big bubble questions of 2026</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026</link>
       <description>There is a dark side to the model-maker’s stunning growth</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cults of personality pervade all levels of Indian politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/30/cults-of-personality-pervade-all-levels-of-indian-politics</link>
-      <description>The focus is on individuals over institutions</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia’s prime minister gets booed in Bondi</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2025/12/30/australias-prime-minister-gets-booed-in-bondi</link>
-      <description>His government promises gun buybacks and stricter hate laws</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>How China’s property crisis helped crash its art market</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/30/how-chinas-property-crisis-helped-crash-its-art-market</link>
-      <description>A gold-framed view into the world of China’s wealthy</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
