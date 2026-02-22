@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>India’s VIP culture is out of control</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control</link>
+      <description>The country’s leaders claim to be servants but act like masters</description>
+      <pubDate>Sun, 22 Feb 2026 09:55:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: Putin’s forever war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/21/cover-story-newsletter-putins-forever-war</link>
       <description>An exclusive look at how we designed this week’s covers</description>
@@ -2996,12 +3002,6 @@
       <title>How China’s property crisis helped crash its art market</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/30/how-chinas-property-crisis-helped-crash-its-art-market</link>
       <description>A gold-framed view into the world of China’s wealthy</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>People of dubious character are more likely to enter public service</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2025/12/30/people-of-dubious-character-are-more-likely-to-enter-public-service</link>
-      <description>A new study shows that customs and tax officials are the dodgiest</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
