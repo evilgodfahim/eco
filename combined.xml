@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Where the DHS shutdown could start to hurt</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/23/where-the-dhs-shutdown-could-start-to-hurt</link>
+      <description>So far the budget impasse has caused little public outcry. That may soon change</description>
+      <pubDate>Mon, 23 Feb 2026 18:28:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>France’s far left reckons with the murder of a far-right activist</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/23/frances-far-left-reckons-with-the-murder-of-a-far-right-activist</link>
+      <description>Quentin Deranque’s death forces the left to confront its extremists</description>
+      <pubDate>Mon, 23 Feb 2026 17:54:41 +0000</pubDate>
+    </item>
+    <item>
       <title>The rotten tail of China’s property bust</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/23/the-rotten-tail-of-chinas-property-bust</link>
       <description>Officials want to spread the pain as widely as possible</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/02/can-high-intensity-interval-training-get-you-fit-in-a-hurry</link>
       <description>Yes, but be prepared to suffer</description>
       <pubDate>Fri, 02 Jan 2026 10:42:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The angst over affordability</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2025/12/31/cover-story-newsletter-the-angst-over-affordability</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Wed, 31 Dec 2025 14:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Year health-insurance shock facing millions of Americans</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/30/the-new-year-health-insurance-shock-facing-millions-of-americans</link>
-      <description>Four charts show the effects of expiring subsidies</description>
-      <pubDate>Tue, 30 Dec 2025 15:38:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
