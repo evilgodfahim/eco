@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The killing of Mexico’s most powerful narco will please Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/23/the-killing-of-mexicos-most-powerful-narco-will-please-donald-trump</link>
+      <description>But it risks provoking terrible violence in Mexico</description>
+      <pubDate>Mon, 23 Feb 2026 12:21:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Rejoice! Private equity is taking over America’s small businesses</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/23/rejoice-private-equity-is-taking-over-americas-small-businesses</link>
       <description>Its ghoulish reputation is ill-deserved</description>
@@ -2996,12 +3002,6 @@
       <title>Britain and the EU should be bolder in getting closer</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/30/britain-and-the-eu-should-be-bolder-in-getting-closer</link>
       <description>How post-Brexit Britain should approach relations with its nearest and biggest market</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The future of space exploration depends on better biology</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/30/the-future-of-space-exploration-depends-on-better-biology</link>
-      <description>Rockets are great, but sewage treatment is what you need for the long haul</description>
       <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
