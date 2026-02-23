@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The rotten tail of China’s property bust</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/23/the-rotten-tail-of-chinas-property-bust</link>
+      <description>The government wants to spread the pain as widely as possible</description>
+      <pubDate>Mon, 23 Feb 2026 15:18:20 +0000</pubDate>
+    </item>
+    <item>
       <title>The killing of Mexico’s most powerful narco will please Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/23/the-killing-of-mexicos-most-powerful-narco-will-please-donald-trump</link>
       <description>But it risks provoking terrible violence in Mexico</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2025/12/30/the-new-year-health-insurance-shock-facing-millions-of-americans</link>
       <description>Four charts show the effects of expiring subsidies</description>
       <pubDate>Tue, 30 Dec 2025 15:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain and the EU should be bolder in getting closer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2025/12/30/britain-and-the-eu-should-be-bolder-in-getting-closer</link>
-      <description>How post-Brexit Britain should approach relations with its nearest and biggest market</description>
-      <pubDate>Tue, 30 Dec 2025 13:48:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
