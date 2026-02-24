@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>For AI labs, Pete Hegseth’s Pentagon brings opportunities—and risks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/for-ai-labs-pete-hegseths-pentagon-brings-opportunities-and-risks</link>
+      <description>Silicon Valley’s approach to defence is back under the spotlight</description>
+      <pubDate>Tue, 24 Feb 2026 17:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing Africa newsletter: An interview with Zambia’s president</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/24/analysing-africa-newsletter-an-interview-with-zambias-president</link>
+      <description>John McDermott, our chief Africa correspondent, talks to Hakainde Hichilema</description>
+      <pubDate>Tue, 24 Feb 2026 17:12:27 +0000</pubDate>
+    </item>
+    <item>
       <title>How to get rich in modern China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/24/how-to-get-rich-in-modern-china</link>
       <description>It is now the nongchaoer making it big</description>
@@ -83,8 +95,8 @@
       <pubDate>Sun, 22 Feb 2026 12:41:33 +0000</pubDate>
     </item>
     <item>
-      <title>Markets are churning furiously beneath a calm surface</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-a-calm-surface</link>
+      <title>Markets are churning furiously beneath the surface</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface</link>
       <description>AI is prompting investors to reassess every business model under the sun</description>
       <pubDate>Sun, 22 Feb 2026 12:29:01 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/04/ukraines-power-grid-is-struggling-under-russias-blitz</link>
       <description>Putin is trying ever harder to freeze Kyiv into submission</description>
       <pubDate>Sun, 04 Jan 2026 13:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>An American oil empire is a deeply flawed idea</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/04/an-american-oil-empire-is-a-deeply-flawed-idea</link>
-      <description>Donald Trump’s ambitions are expansive. His plans are limited</description>
-      <pubDate>Sun, 04 Jan 2026 12:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The many risks to Donald Trump’s plans to “run” Venezuela</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/04/the-many-risks-to-donald-trumps-plans-to-run-venezuela</link>
-      <description>The regime that was led by Nicolás Maduro may well prove tricky to control</description>
-      <pubDate>Sun, 04 Jan 2026 10:23:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
