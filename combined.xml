@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Bosses should not hold their breath for a Trump tariff refund</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/bosses-should-not-hold-their-breath-for-a-trump-tariff-refund</link>
+      <description>The process will be slow and politically fraught</description>
+      <pubDate>Tue, 24 Feb 2026 15:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The war against PDFs is heating up</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up</link>
+      <description>Will the file type survive the AI revolution?</description>
+      <pubDate>Tue, 24 Feb 2026 14:55:45 +0000</pubDate>
+    </item>
+    <item>
       <title>How Russia’s fatalities compare with Ukraine’s</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/23/how-russias-fatalities-compare-with-ukraines</link>
       <description>After four years of fighting, our modelling reveals a grim toll</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/how-the-pentagon-snatched-nicolas-maduro</link>
       <description>Operation Absolute Resolve was a textbook success</description>
       <pubDate>Sat, 03 Jan 2026 21:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump wants to run Venezuela, and dominate the western hemisphere</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/donald-trump-wants-to-run-venezuela-and-dominate-the-western-hemisphere</link>
-      <description>Snatching Nicolás Maduro and attempting to take control of Venezuela and its oil is an extraordinary display of the new “Donroe doctrine”</description>
-      <pubDate>Sat, 03 Jan 2026 20:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>The United States has captured Venezuela’s dictator, Nicolás Maduro</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/03/the-united-states-has-captured-venezuelas-dictator-nicolas-maduro</link>
-      <description>After months of military build up, an overnight bombing campaign and helicopter raid has deposed Venezuela’s strongman</description>
-      <pubDate>Sat, 03 Jan 2026 10:23:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
