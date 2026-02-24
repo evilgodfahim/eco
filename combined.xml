@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Brazil’s high court is caught up in a vast scandal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/24/brazils-high-court-is-caught-up-in-a-vast-scandal</link>
+      <description>Some of the world’s most powerful judges have an over-cosy relationship with the business and political elite</description>
+      <pubDate>Tue, 24 Feb 2026 19:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s California’s 250th birthday, too</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/24/its-californias-250th-birthday-too</link>
+      <description>Kind of</description>
+      <pubDate>Tue, 24 Feb 2026 18:18:55 +0000</pubDate>
+    </item>
+    <item>
       <title>For AI labs, Pete Hegseth’s Pentagon brings opportunities—and risks</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/for-ai-labs-pete-hegseths-pentagon-brings-opportunities-and-risks</link>
       <description>Silicon Valley’s approach to defence is back under the spotlight</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/05/cubas-regime-is-now-in-donald-trumps-sights</link>
       <description>Excited Cuban exiles are comparing the capture of Nicolás Maduro to the fall of the Berlin Wall</description>
       <pubDate>Mon, 05 Jan 2026 11:51:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Burundi is running out of space</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/04/burundi-is-running-out-of-space</link>
-      <description>The African Great Lakes are becoming one of the most crowded places in the world</description>
-      <pubDate>Sun, 04 Jan 2026 17:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s power grid is struggling under Russia’s blitz</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/04/ukraines-power-grid-is-struggling-under-russias-blitz</link>
-      <description>Putin is trying ever harder to freeze Kyiv into submission</description>
-      <pubDate>Sun, 04 Jan 2026 13:28:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
