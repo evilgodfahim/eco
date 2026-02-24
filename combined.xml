@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A stay-calm plan to save the world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/24/a-stay-calm-plan-to-save-the-world</link>
+      <description>Alas, almost no foreign leader is as reasonable as Finland’s president, Alexander Stubb</description>
+      <pubDate>Tue, 24 Feb 2026 22:43:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Brazil’s high court is caught up in a vast scandal</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/24/brazils-high-court-is-caught-up-in-a-vast-scandal</link>
       <description>Some of the world’s most powerful judges have an over-cosy relationship with the business and political elite</description>
@@ -17,9 +23,9 @@
       <pubDate>Tue, 24 Feb 2026 18:18:55 +0000</pubDate>
     </item>
     <item>
-      <title>For AI labs, Pete Hegseth’s Pentagon brings opportunities—and risks</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/for-ai-labs-pete-hegseths-pentagon-brings-opportunities-and-risks</link>
-      <description>Silicon Valley’s approach to defence is back under the spotlight</description>
+      <title>Pete Hegseth wages war on Anthropic</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/pete-hegseth-wages-war-on-anthropic</link>
+      <description>Should AI labs unquestioningly obey the Pentagon’s orders?</description>
       <pubDate>Tue, 24 Feb 2026 17:53:39 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way</link>
       <description>It will transform how medicines are created—and the industry itself</description>
       <pubDate>Mon, 05 Jan 2026 16:05:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuba’s regime is now in Donald Trump’s sights</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/05/cubas-regime-is-now-in-donald-trumps-sights</link>
-      <description>Excited Cuban exiles are comparing the capture of Nicolás Maduro to the fall of the Berlin Wall</description>
-      <pubDate>Mon, 05 Jan 2026 11:51:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
