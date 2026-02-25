@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Investors should demand more transparency from private-markets firms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/25/investors-should-demand-more-transparency-from-private-markets-firms</link>
+      <description>Was a Blue Owl fund mismanaged, or did it reveal fundamental problems about the industry?</description>
+      <pubDate>Wed, 25 Feb 2026 23:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>A viral research note on AI gets its economics wrong</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/25/a-viral-research-note-on-ai-gets-its-economics-wrong</link>
+      <description>Too much of a good thing</description>
+      <pubDate>Wed, 25 Feb 2026 22:21:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Luxury goods are Europe’s global tax on vanity</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/25/luxury-goods-are-europes-global-tax-on-vanity</link>
       <description>How to trade cachet for dollars and yuan</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/06/venezuela-presents-a-big-headache-for-big-oil</link>
       <description>It has been decades since the industry relished foreign-policy entanglements</description>
       <pubDate>Tue, 06 Jan 2026 20:53:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A rash of Baltic cable-cutting raises fears of sabotage</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/06/a-rash-of-baltic-cable-cutting-raises-fears-of-sabotage</link>
-      <description>But Russian grey-zone attacks may not be the only reason for outages</description>
-      <pubDate>Tue, 06 Jan 2026 18:05:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysing Africa newsletter: Life and death in an illegal gold mine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/06/analysing-africa-newsletter-life-and-death-in-an-illegal-gold-mine</link>
-      <description>Liam Taylor, a contributor in Africa, reflects on his time at a site of gold—and tragedy</description>
-      <pubDate>Tue, 06 Jan 2026 17:52:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
