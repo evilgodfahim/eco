@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s bosses are being dragged into local politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/25/americas-bosses-are-being-dragged-into-local-politics</link>
+      <description>Arise, CEO-councilmen</description>
+      <pubDate>Wed, 25 Feb 2026 19:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Americans have no idea what Donald Trump wants from Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/25/americans-have-no-idea-what-donald-trump-wants-from-iran</link>
+      <description>The president himself may be among them</description>
+      <pubDate>Wed, 25 Feb 2026 19:31:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Marks left by Stone Age humans were surprisingly complex</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/marks-left-by-stone-age-humans-were-surprisingly-complex</link>
       <description>Their information density rivals the immediate predecessors of writing</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/06/americas-missing-manufacturing-renaissance</link>
       <description>Donald Trump’s tariffs have hurt the factories they were meant to protect</description>
       <pubDate>Tue, 06 Jan 2026 17:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Venezuelan regime is rapidly consolidating its grip on power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/06/the-venezuelan-regime-is-rapidly-consolidating-its-grip-on-power</link>
-      <description>The democratic opposition is left out in the cold</description>
-      <pubDate>Tue, 06 Jan 2026 15:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latin America fears what comes next after the Venezuela raid</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/06/latin-america-fears-what-comes-next-after-the-venezuela-raid</link>
-      <description>The tactical success of his operation in Caracas appears to have whetted Donald Trump’s appetite for intervention</description>
-      <pubDate>Tue, 06 Jan 2026 14:30:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
