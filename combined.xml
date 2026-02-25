@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Marks left by Stone Age humans were surprisingly complex</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/marks-left-by-stone-age-humans-were-surprisingly-complex</link>
+      <description>Their information density rivals the immediate predecessors of writing</description>
+      <pubDate>Wed, 25 Feb 2026 18:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>One-stop blood tests for multiple types of cancer are increasingly popular</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/one-stop-blood-tests-for-multiple-types-of-cancer-are-increasingly-popular</link>
+      <description>Will they improve survival rates?</description>
+      <pubDate>Wed, 25 Feb 2026 18:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>To navigate physical spaces, AIs need world models</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/to-navigate-physical-spaces-ais-need-world-models</link>
+      <description>Researchers are racing to build them</description>
+      <pubDate>Wed, 25 Feb 2026 18:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our language analysis of Donald Trump’s state-of-the-union address</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/25/our-language-analysis-of-donald-trumps-state-of-the-union-address</link>
+      <description>His record-breaking speech was light on policy and heavy on theatre</description>
+      <pubDate>Wed, 25 Feb 2026 17:47:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Modernisation is making South-East Asia more Islamic</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/25/modernisation-is-making-south-east-asia-more-islamic</link>
       <description>Economic growth in Malaysia and Indonesia has not led to secularism</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/06/latin-america-fears-what-comes-next-after-the-venezuela-raid</link>
       <description>The tactical success of his operation in Caracas appears to have whetted Donald Trump’s appetite for intervention</description>
       <pubDate>Tue, 06 Jan 2026 14:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Inside the mission that snatched Maduro</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/05/the-war-room-newsletter-inside-the-mission-that-snatched-maduro</link>
-      <description>Shashank Joshi, our defence editor, digs into the details</description>
-      <pubDate>Mon, 05 Jan 2026 19:41:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The White House weighs how to acquire Greenland</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/05/the-white-house-weighs-how-to-acquire-greenland</link>
-      <description>Leaders in Greenland and Denmark are in shock. Is the president serious?</description>
-      <pubDate>Mon, 05 Jan 2026 19:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why is Japan souring on foreign workers and tourists?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/05/why-is-japan-souring-on-foreign-workers-and-tourists</link>
-      <description>It is a dangerous attitude for an ageing country that needs more immigrants</description>
-      <pubDate>Mon, 05 Jan 2026 17:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuelan immigrants in America are trapped in policy purgatory</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/05/venezuelan-immigrants-in-america-are-trapped-in-policy-purgatory</link>
-      <description>In Florida Nicolás Maduro’s arrest brings cheers and chills</description>
-      <pubDate>Mon, 05 Jan 2026 16:45:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
