@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s unworthy state of the union</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/25/donald-trumps-unworthy-state-of-the-union</link>
+      <description>An address not fit for America’s 250th birthday</description>
+      <pubDate>Wed, 25 Feb 2026 09:57:51 +0000</pubDate>
+    </item>
+    <item>
       <title>A stay-calm plan to save the world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/24/a-stay-calm-plan-to-save-the-world</link>
       <description>Alas, almost no foreign leader is as reasonable as Finland’s president, Alexander Stubb</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/05/americas-raid-on-venezuela-reveals-the-limits-of-chinas-reach</link>
       <description>It is not a template for Taiwan but a reality check on China’s global power</description>
       <pubDate>Mon, 05 Jan 2026 16:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI revolution in drugmaking is under way</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way</link>
-      <description>It will transform how medicines are created—and the industry itself</description>
-      <pubDate>Mon, 05 Jan 2026 16:05:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
