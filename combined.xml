@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Luxury goods are Europe’s global tax on vanity</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/25/luxury-goods-are-europes-global-tax-on-vanity</link>
+      <description>How to trade cachet for dollars and yuan</description>
+      <pubDate>Wed, 25 Feb 2026 21:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic says China’s AI tigers are copycats</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/25/anthropic-says-chinas-ai-tigers-are-copycats</link>
+      <description>DeepSeek’s new model has American officials and firms on edge</description>
+      <pubDate>Wed, 25 Feb 2026 20:58:26 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s bosses are being dragged into local politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/25/americas-bosses-are-being-dragged-into-local-politics</link>
       <description>Arise, CEO-councilmen</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/06/analysing-africa-newsletter-life-and-death-in-an-illegal-gold-mine</link>
       <description>Liam Taylor, a contributor in Africa, reflects on his time at a site of gold—and tragedy</description>
       <pubDate>Tue, 06 Jan 2026 17:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump still has no clear plan for Venezuela</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/06/donald-trump-still-has-no-clear-plan-for-venezuela</link>
-      <description>Some Republicans fret about a quagmire, and the president’s contempt for democracy</description>
-      <pubDate>Tue, 06 Jan 2026 17:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s missing manufacturing renaissance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/06/americas-missing-manufacturing-renaissance</link>
-      <description>Donald Trump’s tariffs have hurt the factories they were meant to protect</description>
-      <pubDate>Tue, 06 Jan 2026 17:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
