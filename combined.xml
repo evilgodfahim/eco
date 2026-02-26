@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s new era of state-sponsored mining</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/26/americas-new-era-of-state-sponsored-mining</link>
+      <description>Desperate to break China’s grip on critical minerals, the Trump administration is splashing cash around the world</description>
+      <pubDate>Thu, 26 Feb 2026 09:49:37 +0000</pubDate>
+    </item>
+    <item>
       <title>The right response to private-market dangers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/25/the-right-response-to-private-market-dangers</link>
       <description>Was a Blue Owl fund mismanaged, or did it reveal fundamental problems about the industry?</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy</link>
       <description>Much depends on long-term interest rates</description>
       <pubDate>Wed, 07 Jan 2026 12:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The radical honesty of Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/07/the-radical-honesty-of-donald-trump</link>
-      <description>Why the world will miss hypocrisy in American foreign policy</description>
-      <pubDate>Wed, 07 Jan 2026 12:36:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
