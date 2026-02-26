@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Each year tens of thousands of Americans accidentally kill</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/26/each-year-tens-of-thousands-of-americans-accidentally-kill</link>
+      <description>The psychological toll it takes is huge—and mostly hidden</description>
+      <pubDate>Thu, 26 Feb 2026 13:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump is at risk of launching a war without purpose</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/26/donald-trump-is-at-risk-of-launching-a-war-without-purpose</link>
+      <description>Starting a war with Iran without a clear objective would be recklessly dangerous</description>
+      <pubDate>Thu, 26 Feb 2026 12:48:54 +0000</pubDate>
+    </item>
+    <item>
       <title>The fake-meat industry is in trouble</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/26/the-fake-meat-industry-is-in-trouble</link>
       <description>Business is slowing down. Time to tempt new palates</description>
@@ -101,8 +113,8 @@
       <pubDate>Wed, 25 Feb 2026 18:38:30 +0000</pubDate>
     </item>
     <item>
-      <title>AI models are being prepared for the physical world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/ai-models-are-being-prepared-for-the-physical-world</link>
+      <title>AI tools are being prepared for the physical world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/ai-tools-are-being-prepared-for-the-physical-world</link>
       <description>The race to build world models is on</description>
       <pubDate>Wed, 25 Feb 2026 18:36:29 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/where-should-predators-hang-out-if-there-are-no-watering-holes</link>
       <description>Salt licks are a good option</description>
       <pubDate>Wed, 07 Jan 2026 17:28:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Real flying saucers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/real-flying-saucers</link>
-      <description>The latest satellites are flat and circular</description>
-      <pubDate>Wed, 07 Jan 2026 17:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>A clever idea that could help the world grow a lot more food</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/07/a-clever-idea-that-could-help-the-world-grow-a-lot-more-food</link>
-      <description>Make the semi-desert bloom by enridging it</description>
-      <pubDate>Wed, 07 Jan 2026 17:24:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
