@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: Do ceasefires actually work?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/27/the-war-room-newsletter-do-ceasefires-actually-work</link>
+      <description>Richard Cockett, a senior editor, considers whether one is possible in Ukraine</description>
+      <pubDate>Fri, 27 Feb 2026 16:29:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Brazil’s almighty Supreme Court must win back public trust</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/27/brazils-almighty-supreme-court-must-win-back-public-trust</link>
       <description>Recent scandals have tarnished the image of one of Brazil’s most important democratic institutions</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/08/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/08/business</link>
       <description></description>
       <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
     </item>
