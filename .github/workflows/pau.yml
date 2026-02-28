@@ -30,61 +30,74 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      - name: Install BotBrowser & Profile
+      - name: Install BotBrowser (Proven Way)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1. Fetch Release Info (No Auth Header for Public Repo)
-          echo "Fetching latest BotBrowser release info..."
-          RELEASE_JSON=$(curl -s https://api.github.com/repos/MiddleSchoolStudent/BotBrowser/releases/latest)
-          
-          if echo "$RELEASE_JSON" | grep -q "message"; then
-            echo "❌ GitHub API Error: $(echo "$RELEASE_JSON" | jq -r '.message')"
+          # 1. Get tag and asset list using your script
+          LATEST=$(python3 get_bb_tag.py)
+          echo "BotBrowser latest release: $LATEST"
+          echo "BOTBROWSER_TAG=$LATEST" >> $GITHUB_ENV
+
+          # 2. Extract the .deb asset from the generated assets file
+          DEB_ASSET=$(grep "_x64.deb" /tmp/bb_assets.txt | head -1)
+          echo "Using deb asset: $DEB_ASSET"
+
+          if [ -z "$DEB_ASSET" ]; then
+            echo "ERROR: no x64 .deb asset found:"
+            cat /tmp/bb_assets.txt
             exit 1
           fi
 
-          # 2. Extract and Download .deb
-          DEB_URL=$(echo "$RELEASE_JSON" | jq -r '.assets[] | select(.name | endswith(".deb")) | select(.name | contains("amd64") or contains("x64")) | .browser_download_url' | head -n 1)
-          
-          if [ -z "$DEB_URL" ] || [ "$DEB_URL" = "null" ]; then
-            echo "❌ Error: Could not find compatible .deb asset."
-            exit 1
-          fi
-          
-          echo "Downloading BotBrowser: $DEB_URL"
-          curl -L "$DEB_URL" -o botbrowser.deb
+          # 3. Download and Install
+          DEB_URL="https://github.com/MiddleSchoolStudent/BotBrowser/releases/download/${LATEST}/${DEB_ASSET}"
+          echo "Downloading: $DEB_URL"
+          curl -fL -H "Authorization: Bearer $GH_TOKEN" "$DEB_URL" -o botbrowser.deb
           sudo dpkg -i botbrowser.deb || sudo apt-get install -f -y
 
-          # 3. Locate Binary and set PATH
+          # 4. Locate Binary
           BB_BIN=""
           for candidate in /usr/bin/botbrowser /opt/botbrowser/botbrowser /usr/bin/chromium-browser-stable /usr/bin/chromium-browser; do
-            if [ -x "$candidate" ]; then
+            if [ -f "$candidate" ] && [ -x "$candidate" ]; then
               BB_BIN="$candidate"
               break
             fi
           done
-          
+
           if [ -z "$BB_BIN" ]; then
-            echo "❌ Error: Binary not found."
+            echo "ERROR: could not find installed browser binary"
             exit 1
           fi
-          
-          echo "BotBrowser installed at: $BB_BIN"
+
+          echo "BotBrowser binary: $BB_BIN"
           echo "BOTBROWSER_PATH=$BB_BIN" >> $GITHUB_ENV
 
-          # 4. Extract and Download Profile
-          PROFILE_URL=$(echo "$RELEASE_JSON" | jq -r '.assets[] | select(.name | endswith(".zip")) | select(.name | contains("profile")) | .browser_download_url' | head -n 1)
-          
-          if [ -n "$PROFILE_URL" ] && [ "$PROFILE_URL" != "null" ]; then
-            echo "Downloading Profile: $PROFILE_URL"
-            curl -L "$PROFILE_URL" -o profile.zip
-            unzip -o profile.zip
-            PROFILE_FILE=$(find . -maxdepth 1 -name "*.enc" | head -n 1)
-            if [ -n "$PROFILE_FILE" ]; then
-               echo "BOTBROWSER_PROFILE=$(realpath "$PROFILE_FILE")" >> $GITHUB_ENV
-            fi
+      - name: Download BotBrowser bot-profile
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          LATEST="${{ env.BOTBROWSER_TAG }}"
+          PROFILE_ASSET=$(grep -i "linux.*enc.zip\|linux.*profile" /tmp/bb_assets.txt | head -1 || true)
+
+          if [ -z "$PROFILE_ASSET" ]; then
+            echo "No linux profile asset found — skipping"
+          else
+            PROFILE_URL="https://github.com/MiddleSchoolStudent/BotBrowser/releases/download/${LATEST}/${PROFILE_ASSET}"
+            echo "Downloading profile: $PROFILE_URL"
+            curl -fL -H "Authorization: Bearer $GH_TOKEN" "$PROFILE_URL" -o botprofile.zip \
+              && unzip -o botprofile.zip \
+              || echo "Profile download failed"
+          fi
+
+          PROFILE_FILE=$(ls *.enc 2>/dev/null | head -1 || true)
+          if [ -n "$PROFILE_FILE" ]; then
+            echo "BOTBROWSER_PROFILE=$PWD/$PROFILE_FILE" >> $GITHUB_ENV
           fi
 
       - name: Run Scraper
         env:
+          BOTBROWSER_PATH: ${{ env.BOTBROWSER_PATH }}
+          BOTBROWSER_PROFILE: ${{ env.BOTBROWSER_PROFILE }}
           BOTBROWSER_CDP_PORT: "9222"
           PYTHONUNBUFFERED: "1"
         run: |
@@ -104,13 +117,3 @@ jobs:
             git commit -m "Auto-update combined Economist RSS [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
             git push
           fi
-
-      - name: Upload debug artifacts on failure
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-files
-          path: |
-            debug_*.html
-            *.log
-          retention-days: 3
