@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America and Israel bomb Iran, aiming to topple its regime</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/28/america-and-israel-bomb-iran-aiming-to-topple-its-regime</link>
+      <description>Donald Trump calls on Iranians to rise up. War could quickly engulf the Middle East</description>
+      <pubDate>Sat, 28 Feb 2026 11:45:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump goes nuclear on Anthropic</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/28/donald-trump-goes-nuclear-on-anthropic</link>
       <description>Silicon Valley will be caught in the fallout</description>
@@ -2996,12 +3002,6 @@
       <title>It’s not just China’s total population that’s falling</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/08/its-not-just-chinas-total-population-thats-falling</link>
       <description>The number of people in China’s towns and cities is in decline</description>
-      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>China and Taiwan both see lessons in America’s raid on Venezuela</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/08/china-and-taiwan-both-see-lessons-in-americas-raid-on-venezuela</link>
-      <description>It won’t change China’s calculus but is a case study for “decapitation” strikes</description>
       <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
     </item>
   </channel>
