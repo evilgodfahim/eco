@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ali Khamenei may be dead, but Donald Trump has unfinished business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/01/ali-khamenei-may-be-dead-but-donald-trump-has-unfinished-business</link>
+      <description>The president has declared bombing will continue until it brings “peace”</description>
+      <pubDate>Sun, 01 Mar 2026 11:38:16 +0000</pubDate>
+    </item>
+    <item>
       <title>China hopes IVF can slow its baby bust</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/01/china-hopes-ivf-can-slow-its-baby-bust</link>
       <description>That may be overambitious</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america</link>
       <description>Researchers point to a grocers’ favourite</description>
       <pubDate>Thu, 08 Jan 2026 19:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France is paralysed, and everyone is to blame</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/08/france-is-paralysed-and-everyone-is-to-blame</link>
-      <description>The budgetary impasse is just one symptom of collective political uselessness</description>
-      <pubDate>Thu, 08 Jan 2026 13:47:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
