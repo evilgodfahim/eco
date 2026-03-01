@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>At last, reasons to be cheerful about European tech</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/01/at-last-reasons-to-be-cheerful-about-european-tech</link>
+      <description>One of which is Donald Trump</description>
+      <pubDate>Sun, 01 Mar 2026 13:41:58 +0000</pubDate>
+    </item>
+    <item>
       <title>War in Iran could cause the biggest oil shock in years</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years</link>
       <description>Prices will surge in the short run—and may stay high for a while</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/09/cover-story-newsletter-the-donroe-delusion</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Fri, 09 Jan 2026 15:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuela’s new dictator is a regime loyalist—and America’s hostage</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/09/venezuelas-new-dictator-is-a-regime-loyalist-and-americas-hostage</link>
-      <description>Delcy Rodríguez called building a socialist state her “personal revenge”. Now Donald Trump wants to “run” her country</description>
-      <pubDate>Fri, 09 Jan 2026 15:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
