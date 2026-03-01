@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Gavin Newsom wants to reintroduce himself</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/01/gavin-newsom-wants-to-reintroduce-himself</link>
+      <description>The governor has become the de facto leader of the Democratic Party</description>
+      <pubDate>Sun, 01 Mar 2026 16:09:19 +0000</pubDate>
+    </item>
+    <item>
       <title>At last, reasons to be cheerful about European tech</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/01/at-last-reasons-to-be-cheerful-about-european-tech</link>
       <description>One of which is Donald Trump</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/09/millennials-spend-more-time-than-past-generations-with-their-children</link>
       <description>America’s child-care gender gap is narrowing rapidly</description>
       <pubDate>Fri, 09 Jan 2026 16:04:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The Donroe Delusion</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/09/cover-story-newsletter-the-donroe-delusion</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 09 Jan 2026 15:46:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
