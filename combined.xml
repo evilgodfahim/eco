@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>War in Iran could cause the biggest oil shock in years</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years</link>
+      <description>Prices will surge in the short run—and may stay high for a while</description>
+      <pubDate>Sun, 01 Mar 2026 12:28:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Ali Khamenei may be dead, but Donald Trump has unfinished business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/01/ali-khamenei-may-be-dead-but-donald-trump-has-unfinished-business</link>
       <description>The president has declared bombing will continue until it brings “peace”</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/09/venezuelas-new-dictator-is-a-regime-loyalist-and-americas-hostage</link>
       <description>Delcy Rodríguez called building a socialist state her “personal revenge”. Now Donald Trump wants to “run” her country</description>
       <pubDate>Fri, 09 Jan 2026 15:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why overdose deaths are falling in America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america</link>
-      <description>Researchers point to a grocers’ favourite</description>
-      <pubDate>Thu, 08 Jan 2026 19:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
