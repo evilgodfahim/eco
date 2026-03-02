@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war is rapidly engulfing the region</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/the-iran-war-is-rapidly-engulfing-the-region</link>
+      <description>How far could each side escalate?</description>
+      <pubDate>Mon, 02 Mar 2026 22:21:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Hizbullah, the reluctant proxy, strikes at Israel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/hizbullah-the-reluctant-proxy-strikes-at-israel</link>
       <description>But the group’s limited actions suggest that it does not want to be in a war that could finish it off</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/12/the-war-room-newsletter-is-irans-regime-about-to-fall</link>
       <description>Shashank Joshi, our defence editor, examines the country’s steady decay</description>
       <pubDate>Mon, 12 Jan 2026 15:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>China obsesses over America’s “kill line”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/12/china-obsesses-over-americas-kill-line</link>
-      <description>It is easier to talk about American harshness than Chinese malaise</description>
-      <pubDate>Mon, 12 Jan 2026 14:32:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
