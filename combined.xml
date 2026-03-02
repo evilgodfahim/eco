@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>In Iran, Donald Trump is making history</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/02/in-iran-donald-trump-is-making-history</link>
+      <description>Too bad he has so little appreciation for its lessons</description>
+      <pubDate>Mon, 02 Mar 2026 02:38:45 +0000</pubDate>
+    </item>
+    <item>
       <title>War, succession and the perilous test of two myths about Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/01/war-succession-and-the-perilous-test-of-two-myths-about-iran</link>
       <description>America wagers on collapse; the regime on endurance</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/09/do-rfk-juniors-new-dietary-guidelines-make-sense</link>
       <description>We break them down for you</description>
       <pubDate>Fri, 09 Jan 2026 18:57:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>As protests surge, the Iranian regime’s options are narrowing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/09/as-protests-surge-the-iranian-regimes-options-are-narrowing</link>
-      <description>Iran’s fate depends on who has more staying power: its ruler or its people</description>
-      <pubDate>Fri, 09 Jan 2026 18:56:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
