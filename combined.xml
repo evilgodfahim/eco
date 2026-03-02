@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s ice-cold calculus over Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/02/chinas-ice-cold-calculus-over-iran</link>
+      <description>In the Middle East, it is a political weakling but an economic force</description>
+      <pubDate>Mon, 02 Mar 2026 13:24:26 +0000</pubDate>
+    </item>
+    <item>
       <title>In Iran, Donald Trump is making history</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/02/in-iran-donald-trump-is-making-history</link>
       <description>Too bad he has so little appreciation for its lessons</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/09/checks-and-balance-newsletter-a-chilling-week-in-minnesota</link>
       <description>The shooting of an American citizen by an ICE agent raises grave questions, argues Charlotte Howard, our New York bureau chief</description>
       <pubDate>Fri, 09 Jan 2026 23:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do RFK junior’s new dietary guidelines make sense?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/09/do-rfk-juniors-new-dietary-guidelines-make-sense</link>
-      <description>We break them down for you</description>
-      <pubDate>Fri, 09 Jan 2026 18:57:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
