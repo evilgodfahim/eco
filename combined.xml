@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Japan faces a post-Fukushima energy dilemma</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/02/japan-faces-a-post-fukushima-energy-dilemma</link>
+      <description>Fifteen years after the disaster, restarting the world’s largest nuclear plant will not resolve the country’s problems</description>
+      <pubDate>Mon, 02 Mar 2026 15:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: The daunting quest for critical minerals</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/02/cover-story-newsletter-the-daunting-quest-for-critical-minerals</link>
+      <description>An exclusive look at how we designed this week’s covers</description>
+      <pubDate>Mon, 02 Mar 2026 15:56:58 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s ice-cold calculus over Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/02/chinas-ice-cold-calculus-over-iran</link>
       <description>In the Middle East, it is a political weakling but an economic force</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/11/the-big-ambitions-of-chinas-private-space-industry</link>
       <description>Chinese firms race to catch up with SpaceX</description>
       <pubDate>Sun, 11 Jan 2026 15:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s Venezuela oil deal is already up and running</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/10/donald-trumps-venezuela-oil-deal-is-already-up-and-running</link>
-      <description>It seems more collaborative than coercive. That will worry the democratic opposition</description>
-      <pubDate>Sat, 10 Jan 2026 15:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: A chilling week in Minnesota</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/09/checks-and-balance-newsletter-a-chilling-week-in-minnesota</link>
-      <description>The shooting of an American citizen by an ICE agent raises grave questions, argues Charlotte Howard, our New York bureau chief</description>
-      <pubDate>Fri, 09 Jan 2026 23:42:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
