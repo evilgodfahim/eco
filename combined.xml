@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war is a jolt to Dubai’s business model</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/03/the-iran-war-is-a-jolt-to-dubais-business-model</link>
+      <description>Can the emirate keep people and investors coming?</description>
+      <pubDate>Tue, 03 Mar 2026 17:41:41 +0000</pubDate>
+    </item>
+    <item>
       <title>What France’s new nuclear-arms doctrine means for Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/03/what-frances-new-nuclear-arms-doctrine-means-for-europe</link>
       <description>Emmanuel Macron will build more warheads and include allies</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/a-new-generation-of-chinese-companies-is-expanding-around-the-world</link>
       <description>And they are doing things differently from their elders</description>
       <pubDate>Tue, 13 Jan 2026 16:29:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Without democracy, Donald Trump’s Venezuelan oil quest will fail</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/13/without-democracy-donald-trumps-venezuelan-oil-quest-will-fail</link>
-      <description>Sidelining the democratic opposition and its leader, María Corina Machado, would be a mistake</description>
-      <pubDate>Tue, 13 Jan 2026 13:36:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
