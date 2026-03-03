@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cuba’s economic divides are widening</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/03/cubas-economic-divides-are-widening</link>
+      <description>Luck and guile increasingly determine who gets how much</description>
+      <pubDate>Tue, 03 Mar 2026 14:46:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Ali Khamenei may have welcomed the nature of his death</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/03/why-ali-khamenei-may-have-welcomed-the-nature-of-his-death</link>
       <description>The ideology of martyrdom could prolong Iran’s regime—and the war</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/12/which-countries-are-adopting-ai-the-fastest</link>
       <description>Rich populations and tech-friendly governments help</description>
       <pubDate>Mon, 12 Jan 2026 18:42:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Job applicants are winning the AI arms race against recruiters</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/job-applicants-are-winning-the-ai-arms-race-against-recruiters</link>
-      <description>Companies have been hit by a wave of chatbot-generated applications</description>
-      <pubDate>Mon, 12 Jan 2026 18:18:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
