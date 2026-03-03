@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Are Gulf states running out of missile interceptors?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/03/are-gulf-states-running-out-of-missile-interceptors</link>
+      <description>Their rulers insist not but they are burning through their stockpiles fast</description>
+      <pubDate>Tue, 03 Mar 2026 19:32:42 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran war is a jolt to Dubai’s business model</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/03/the-iran-war-is-a-jolt-to-dubais-business-model</link>
       <description>Can the emirate keep people and investors coming?</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/middle-east-dispatch-newsletter-irans-bloody-crackdown</link>
       <description>Nicolas Pelham writes about the terror unfolding across the country</description>
       <pubDate>Tue, 13 Jan 2026 17:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new generation of Chinese companies is expanding around the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/a-new-generation-of-chinese-companies-is-expanding-around-the-world</link>
-      <description>And they are doing things differently from their elders</description>
-      <pubDate>Tue, 13 Jan 2026 16:29:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
