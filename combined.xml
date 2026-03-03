@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What France’s new nuclear-arms doctrine means for Europe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/03/what-frances-new-nuclear-arms-doctrine-means-for-europe</link>
+      <description>Emmanuel Macron will build more warheads and include allies</description>
+      <pubDate>Tue, 03 Mar 2026 16:41:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The new cancel culture on campuses</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/checks-and-balance-newsletter-the-new-cancel-culture-on-campuses</link>
       <description>John Prideaux, our US editor, reports on the pressures facing American universities in the Trump era</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/13/without-democracy-donald-trumps-venezuelan-oil-quest-will-fail</link>
       <description>Sidelining the democratic opposition and its leader, María Corina Machado, would be a mistake</description>
       <pubDate>Tue, 13 Jan 2026 13:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who will cash in on Venezuelan oil?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/who-will-cash-in-on-venezuelan-oil</link>
-      <description>Rewards will require taking big risks</description>
-      <pubDate>Mon, 12 Jan 2026 20:46:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
