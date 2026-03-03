@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why Ali Khamenei may have welcomed the nature of his death</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/03/why-ali-khamenei-may-have-welcomed-the-nature-of-his-death</link>
+      <description>The ideology of martyrdom could prolong Iran’s regime–and the war</description>
+      <pubDate>Tue, 03 Mar 2026 13:09:18 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran war is rapidly engulfing the region</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/the-iran-war-is-rapidly-engulfing-the-region</link>
       <description>How far could each side escalate?</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/job-applicants-are-winning-the-ai-arms-race-against-recruiters</link>
       <description>Companies have been hit by a wave of chatbot-generated applications</description>
       <pubDate>Mon, 12 Jan 2026 18:18:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Iran’s regime has hidden its brutal crackdown</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/12/how-irans-regime-has-hidden-its-brutal-crackdown</link>
-      <description>It has cut off communication, but outsiders might help Iranians get back online</description>
-      <pubDate>Mon, 12 Jan 2026 18:18:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
