@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Binyamin Netanyahu is the big winner from the Iran war, for now</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/03/binyamin-netanyahu-is-the-big-winner-from-the-iran-war-for-now</link>
+      <description>To avoid a row with Donald Trump, Western allies are endorsing Israeli theories of war</description>
+      <pubDate>Tue, 03 Mar 2026 22:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The perils of Donald Trump’s pivot from peace to war president</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/the-perils-of-donald-trumps-pivot-from-peace-to-war-president</link>
+      <description>If the war fails to pay off politically, will he cut his losses or double down?</description>
+      <pubDate>Tue, 03 Mar 2026 22:21:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Why war isn’t always good for defence stocks</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/why-war-isnt-always-good-for-defence-stocks</link>
       <description>They win only if governments want just enough weapons—but not too many</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/under-growing-pressure-elon-musk-backs-down-on-nude-deepfakes</link>
       <description>His chatbot, Grok, has incensed regulators and created commercial risks for X</description>
       <pubDate>Tue, 13 Jan 2026 20:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s slow advance now threatens Zaporizhia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/13/russias-slow-advance-now-threatens-zaporizhia</link>
-      <description>Ukraine’s gradual retreat is not only in Donbas</description>
-      <pubDate>Tue, 13 Jan 2026 19:44:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Arab states are silent about Iran’s unrest</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/why-arab-states-are-silent-about-irans-unrest</link>
-      <description>They might welcome the Islamic Republic’s collapse but dread what would follow</description>
-      <pubDate>Tue, 13 Jan 2026 18:15:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
