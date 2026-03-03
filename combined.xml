@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: The new cancel culture on campuses</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/checks-and-balance-newsletter-the-new-cancel-culture-on-campuses</link>
+      <description>John Prideaux, our US editor, reports on the pressures facing American universities in the Trump era</description>
+      <pubDate>Tue, 03 Mar 2026 16:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cuba’s economic divides are widening</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/03/cubas-economic-divides-are-widening</link>
       <description>Luck and guile increasingly determine who gets how much</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/12/who-will-cash-in-on-venezuelan-oil</link>
       <description>Rewards will require taking big risks</description>
       <pubDate>Mon, 12 Jan 2026 20:46:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which countries are adopting AI the fastest?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/12/which-countries-are-adopting-ai-the-fastest</link>
-      <description>Rich populations and tech-friendly governments help</description>
-      <pubDate>Mon, 12 Jan 2026 18:42:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
