@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why war isn’t always good for defence stocks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/why-war-isnt-always-good-for-defence-stocks</link>
+      <description>They win only if governments want just enough weapons—but not too many</description>
+      <pubDate>Tue, 03 Mar 2026 20:19:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The nightmare scenario energy markets feared is becoming reality</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-scenario-energy-markets-feared-is-becoming-reality</link>
+      <description>The longer the war in the Gulf, the harsher the global economic fallout</description>
+      <pubDate>Tue, 03 Mar 2026 20:15:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Are Gulf states running out of missile interceptors?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/03/are-gulf-states-running-out-of-missile-interceptors</link>
       <description>Their rulers insist not but they are burning through their stockpiles fast</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/why-arab-states-are-silent-about-irans-unrest</link>
       <description>They might welcome the Islamic Republic’s collapse but dread what would follow</description>
       <pubDate>Tue, 13 Jan 2026 18:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuelans believe Donald Trump has offered them a better future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/13/venezuelans-believe-donald-trump-has-offered-them-a-better-future</link>
-      <description>An exclusive poll for The Economist also reveals an overwhelming desire for democracy</description>
-      <pubDate>Tue, 13 Jan 2026 18:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Middle East Dispatch newsletter: Iran’s bloody crackdown</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/13/middle-east-dispatch-newsletter-irans-bloody-crackdown</link>
-      <description>Nicolas Pelham writes about the terror unfolding across the country</description>
-      <pubDate>Tue, 13 Jan 2026 17:25:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
