@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war has been a stunning operational success</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/04/the-iran-war-has-been-a-stunning-operational-success</link>
+      <description>Even if, at the political level, its direction is a mess</description>
+      <pubDate>Wed, 04 Mar 2026 18:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>A basket of new fruit varieties is coming your way</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way</link>
+      <description>Thank gene editing</description>
+      <pubDate>Wed, 04 Mar 2026 18:27:02 +0000</pubDate>
+    </item>
+    <item>
       <title>China needs a more ambitious growth target</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/04/china-needs-a-more-ambitious-growth-target</link>
       <description>Otherwise a fourth year of deflation awaits</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers</link>
       <description>Hot-housing promising youngsters works—but not as well as you might think</description>
       <pubDate>Wed, 14 Jan 2026 18:57:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s not just the Fed. Politics looms over central banks everywhere</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/its-not-just-the-fed-politics-looms-over-central-banks-everywhere</link>
-      <description>But can the public stomach higher inflation?</description>
-      <pubDate>Wed, 14 Jan 2026 18:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>To power up growth, India must be rewired</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/14/to-power-up-growth-india-must-be-rewired</link>
-      <description>Soon it will need as much electricity as Europe</description>
-      <pubDate>Wed, 14 Jan 2026 17:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
