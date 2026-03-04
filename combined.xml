@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>In times of chaos, Europe is the muddled power the world needs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/04/in-times-of-chaos-europe-is-the-muddled-power-the-world-needs</link>
+      <description>In praise of the dreaded European working group</description>
+      <pubDate>Wed, 04 Mar 2026 20:51:59 +0000</pubDate>
+    </item>
+    <item>
       <title>A once-proud tradition is becoming awkward for elite universities</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/04/a-once-proud-tradition-is-becoming-awkward-for-elite-universities</link>
       <description>The slow demise of the swim test</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/14/a-private-memo-from-central-banks-to-governments</link>
       <description>You come at the king (of finance), you best not miss</description>
       <pubDate>Wed, 14 Jan 2026 20:49:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Same-sex sexual behaviour in primates is a survival strategy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/14/same-sex-sexual-behaviour-in-primates-is-a-survival-strategy</link>
-      <description>It promotes harmony among those living in harsh environments, says new study</description>
-      <pubDate>Wed, 14 Jan 2026 18:59:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
