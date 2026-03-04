@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How 250 years of immigration shaped America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/04/how-250-years-of-immigration-shaped-america</link>
+      <description>Cycles of openness and restriction are as old as the country itself</description>
+      <pubDate>Wed, 04 Mar 2026 09:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Binyamin Netanyahu is the big winner from the Iran war, for now</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/04/binyamin-netanyahu-is-the-big-winner-from-the-iran-war-for-now</link>
+      <description>To avoid a row with Donald Trump, Western allies are endorsing Israeli theories of war</description>
+      <pubDate>Wed, 04 Mar 2026 09:13:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Binyamin Netanyahu is the big winner from the Iran war, for now</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/03/binyamin-netanyahu-is-the-big-winner-from-the-iran-war-for-now</link>
       <description>To avoid a row with Donald Trump, Western allies are endorsing Israeli theories of war</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/14/the-supreme-court-seems-friendly-towards-trans-bans-in-womens-sports</link>
       <description>But some justices sound hesitant to impose the rule nationwide</description>
       <pubDate>Wed, 14 Jan 2026 08:57:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump used to be risk-averse. Is that changing?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/13/donald-trump-used-to-be-risk-averse-is-that-changing</link>
-      <description>America’s president suddenly seems like a man in a hurry</description>
-      <pubDate>Tue, 13 Jan 2026 20:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Under growing pressure, Elon Musk backs down on nude deepfakes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/13/under-growing-pressure-elon-musk-backs-down-on-nude-deepfakes</link>
-      <description>His chatbot, Grok, has incensed regulators and created commercial risks for X</description>
-      <pubDate>Tue, 13 Jan 2026 20:17:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
