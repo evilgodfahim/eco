@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China needs a more ambitious growth target</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/04/china-needs-a-more-ambitious-growth-target</link>
+      <description>Otherwise a fourth year of deflation awaits</description>
+      <pubDate>Wed, 04 Mar 2026 18:19:19 +0000</pubDate>
+    </item>
+    <item>
       <title>The start of the Iran war was determined by spying success</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/04/the-start-of-the-iran-war-was-determined-by-spying-success</link>
       <description>But even when assassinations come off, the long-term consequences are unclear</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/14/to-power-up-growth-india-must-be-rewired</link>
       <description>Soon it will need as much electricity as Europe</description>
       <pubDate>Wed, 14 Jan 2026 17:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain’s judiciary is caught up in a bitter political war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/14/spains-judiciary-is-caught-up-in-a-bitter-political-war</link>
-      <description>The government decries charges of corruption as “lawfare”</description>
-      <pubDate>Wed, 14 Jan 2026 16:59:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
