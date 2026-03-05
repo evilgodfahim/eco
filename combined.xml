@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Kristi Noem’s ignoble legacy as homeland security secretary</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/05/kristi-noems-ignoble-legacy-as-homeland-security-secretary</link>
+      <description>She will not be remembered fondly by Americans or her workforce</description>
+      <pubDate>Thu, 05 Mar 2026 23:18:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Faecal transplants—a treatment for bipolar disorder?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/05/faecal-transplants-a-treatment-for-bipolar-disorder</link>
       <description>Initial results from a test are intriguing</description>
@@ -2996,12 +3002,6 @@
       <title>Will the armed forces hold up Vietnam’s big reforms?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/15/will-the-armed-forces-hold-up-vietnams-big-reforms</link>
       <description>Two visions for the country will collide at a five-yearly congress</description>
-      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best way to see Hong Kong is on its trams</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/15/the-best-way-to-see-hong-kong-is-on-its-trams</link>
-      <description>It’s an inexpensive way to see an expensive city</description>
       <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
     </item>
   </channel>
