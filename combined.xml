@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Binyamin Netanyahu has his war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/05/binyamin-netanyahu-has-his-war</link>
+      <description>If it goes wrong, he will also get the blame</description>
+      <pubDate>Thu, 05 Mar 2026 13:30:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Investigative journalism in India is under threat</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/05/investigative-journalism-in-india-is-under-threat</link>
       <description>Politicians and tycoons are tightening their grip</description>
@@ -125,9 +131,9 @@
       <pubDate>Tue, 03 Mar 2026 22:44:57 +0000</pubDate>
     </item>
     <item>
-      <title>The perils of Donald Trump’s pivot from peace to war president</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/the-perils-of-donald-trumps-pivot-from-peace-to-war-president</link>
-      <description>If the war in Iran fails to pay off politically, will he cut his losses or double down?</description>
+      <title>Donald Trump bets big on the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/donald-trump-bets-big-on-the-iran-war</link>
+      <description>If it fails to pay off politically, will he cut his losses or double down?</description>
       <pubDate>Tue, 03 Mar 2026 22:21:31 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/15/bereft-of-legitimacy-the-reeling-regime-in-iran-massacres-its-own-people</link>
       <description>It may linger for a while, but the Islamic Republic has been forever changed by weeks of protest</description>
       <pubDate>Thu, 15 Jan 2026 11:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geopolitics is warping multinationals’ commercial decisions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/15/geopolitics-is-warping-multinationals-commercial-decisions</link>
-      <description>Firms are reshaping their operations, at the expense of their profits</description>
-      <pubDate>Thu, 15 Jan 2026 11:13:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
