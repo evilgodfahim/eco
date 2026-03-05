@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russia’s Starlink shutdown is a blow to its soldiers and drones</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/05/russias-starlink-shutdown-is-a-blow-to-its-soldiers-and-drones</link>
+      <description>Launching its own satellite network is not realistic</description>
+      <pubDate>Thu, 05 Mar 2026 11:06:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>To understand why countries grow, look at their firms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/05/to-understand-why-countries-grow-look-at-their-firms</link>
+      <description>The third way in development economics</description>
+      <pubDate>Thu, 05 Mar 2026 10:36:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s time to unleash Europe’s pensions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/05/its-time-to-unleash-europes-pensions</link>
+      <description>One reform offers both security in old age and dynamism now</description>
+      <pubDate>Thu, 05 Mar 2026 10:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s economy is not as big as economists thought</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought</link>
+      <description>But it is growing faster</description>
+      <pubDate>Thu, 05 Mar 2026 10:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Americans’ electricity bills are up. Don’t blame AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai</link>
+      <description>Were it not for data centres, prices might be even higher</description>
+      <pubDate>Thu, 05 Mar 2026 10:31:41 +0000</pubDate>
+    </item>
+    <item>
       <title>European pensions are a $30trn missed opportunity</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/04/european-pensions-are-a-30trn-missed-opportunity</link>
       <description>If only more countries went Dutch</description>
@@ -89,9 +119,9 @@
       <pubDate>Tue, 03 Mar 2026 20:19:26 +0000</pubDate>
     </item>
     <item>
-      <title>The nightmare Iran energy scenario is becoming reality</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-iran-energy-scenario-is-becoming-reality</link>
-      <description>A longer war means a harsher global economic fallout</description>
+      <title>The nightmare war scenario is becoming reality in energy markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets</link>
+      <description>The longer the war in the Gulf, the harsher the global economic fallout</description>
       <pubDate>Tue, 03 Mar 2026 20:15:57 +0000</pubDate>
     </item>
     <item>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/15/the-economics-of-regime-change</link>
       <description>Lessons from history for Venezuela and Iran</description>
       <pubDate>Thu, 15 Jan 2026 10:28:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe has three options for defending Greenland</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/14/europe-has-three-options-for-defending-greenland</link>
-      <description>Fending off Donald Trump may yet prove agonisingly difficult</description>
-      <pubDate>Wed, 14 Jan 2026 23:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jerome Powell punches back</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/jerome-powell-punches-back</link>
-      <description>The administration’s latest attack on America’s central bank has not gone well</description>
-      <pubDate>Wed, 14 Jan 2026 22:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s crusade against usury reaches Wall Street</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/donald-trumps-crusade-against-usury-reaches-wall-street</link>
-      <description>His fight against high interest rates could get messy</description>
-      <pubDate>Wed, 14 Jan 2026 22:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Saks Fifth Avenue’s owner went bust</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/14/how-saks-fifth-avenues-owner-went-bust</link>
-      <description>The posh department-store group has itself to blame</description>
-      <pubDate>Wed, 14 Jan 2026 21:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is passive investment inflating a stockmarket bubble?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble</link>
-      <description>A widely circulated working paper suggests so</description>
-      <pubDate>Wed, 14 Jan 2026 21:02:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
