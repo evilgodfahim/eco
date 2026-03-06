@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Israel sees a chance to destroy Hizbullah at last</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/06/israel-sees-a-chance-to-destroy-hizbullah-at-last</link>
+      <description>Iran’s most powerful proxy, though weakened, is still in the fight</description>
+      <pubDate>Fri, 06 Mar 2026 19:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Ukraine help defeat Iran’s drone swarms?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/06/can-ukraine-help-defeat-irans-drone-swarms</link>
+      <description>Thousands of Shaheds are raining down on the Gulf</description>
+      <pubDate>Fri, 06 Mar 2026 19:44:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: A war without a strategy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/06/cover-story-newsletter-a-war-without-a-strategy</link>
       <description>An exclusive look at how we designed this week’s cover</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/16/the-most-useful-indicator-of-your-overall-health</link>
       <description>“Heart-rate variability” has been decades in the making</description>
       <pubDate>Fri, 16 Jan 2026 17:26:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The return of gunboat capitalism</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/16/cover-story-newsletter-the-return-of-gunboat-capitalism</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 16 Jan 2026 15:50:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>America has coped with worse things than Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/15/america-has-coped-with-worse-things-than-donald-trump</link>
-      <description>Lessons from history for the next three years</description>
-      <pubDate>Thu, 15 Jan 2026 13:51:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
