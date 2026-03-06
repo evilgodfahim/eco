@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war has entered a new phase</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/03/06/the-iran-war-has-entered-a-new-phase</link>
+      <description>Both sides have changed their tactics, our data analysis finds</description>
+      <pubDate>Fri, 06 Mar 2026 21:11:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel sees a chance to destroy Hizbullah at last</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/06/israel-sees-a-chance-to-destroy-hizbullah-at-last</link>
       <description>Iran’s most powerful proxy, though weakened, is still in the fight</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/17/the-presidents-hunger-for-greenland-is-tearing-nato-apart</link>
       <description>Donald Trump could gain an island and lose a continent</description>
       <pubDate>Sat, 17 Jan 2026 20:47:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The most useful indicator of your overall health</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/16/the-most-useful-indicator-of-your-overall-health</link>
-      <description>“Heart-rate variability” has been decades in the making</description>
-      <pubDate>Fri, 16 Jan 2026 17:26:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
