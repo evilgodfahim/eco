@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance: Pete Hegseth and the risks of a macho military</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/07/checks-and-balance-pete-hegseth-and-the-risks-of-a-macho-military</link>
+      <description>Charlotte Howard, our New York bureau chief, on why divisive machismo is at the core of the Trump administration’s military policy</description>
+      <pubDate>Sat, 07 Mar 2026 10:30:38 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran war has entered a new phase</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/03/06/the-iran-war-has-entered-a-new-phase</link>
       <description>Both sides have changed their tactics, our data analysis finds</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/18/why-americas-bond-market-just-keeps-winning</link>
       <description>Vigilantes have shrugged off ballooning debt and attacks on the Fed</description>
       <pubDate>Sun, 18 Jan 2026 11:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The president’s hunger for Greenland is tearing NATO apart</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/17/the-presidents-hunger-for-greenland-is-tearing-nato-apart</link>
-      <description>Donald Trump could gain an island and lose a continent</description>
-      <pubDate>Sat, 17 Jan 2026 20:47:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
