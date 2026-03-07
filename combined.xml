@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war puts Vladimir Putin in a tough spot</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/07/the-iran-war-puts-vladimir-putin-in-a-tough-spot</link>
+      <description>Higher oil prices are poor compensation for showing Russia’s weakness</description>
+      <pubDate>Sat, 07 Mar 2026 19:32:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance: Pete Hegseth and the risks of a macho military</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/07/checks-and-balance-pete-hegseth-and-the-risks-of-a-macho-military</link>
       <description>Charlotte Howard, our New York bureau chief, on why divisive machismo is at the core of the Trump administration’s military policy</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/18/african-trade-has-been-vastly-underestimated</link>
       <description>The continent’s food markets are more dynamic than commonly thought</description>
       <pubDate>Sun, 18 Jan 2026 13:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why America’s bond market just keeps winning</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/18/why-americas-bond-market-just-keeps-winning</link>
-      <description>Vigilantes have shrugged off ballooning debt and attacks on the Fed</description>
-      <pubDate>Sun, 18 Jan 2026 11:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
