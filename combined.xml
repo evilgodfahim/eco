@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is India the fourth- or fifth-biggest economy? It does not matter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/08/is-india-the-fourth-or-fifth-biggest-economy-it-does-not-matter</link>
+      <description>Policymakers should be aiming for the top spot</description>
+      <pubDate>Sun, 08 Mar 2026 10:43:40 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran war puts Vladimir Putin in a tough spot</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/07/the-iran-war-puts-vladimir-putin-in-a-tough-spot</link>
       <description>Higher oil prices are poor compensation for showing Russia’s weakness</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/18/as-divisions-over-greenland-grow-europe-examines-its-options</link>
       <description>Donald Trump’s tariff threats force Europeans to count their arrows</description>
       <pubDate>Sun, 18 Jan 2026 21:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>African trade has been vastly underestimated</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/18/african-trade-has-been-vastly-underestimated</link>
-      <description>The continent’s food markets are more dynamic than commonly thought</description>
-      <pubDate>Sun, 18 Jan 2026 13:28:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
