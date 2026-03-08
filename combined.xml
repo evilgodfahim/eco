@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Would America be in recession without the super-rich?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich</link>
+      <description>American anxieties are K-shaped. The economy is more like a backslash</description>
+      <pubDate>Sun, 08 Mar 2026 12:36:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Is India the fourth- or fifth-biggest economy? It does not matter</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/08/is-india-the-fourth-or-fifth-biggest-economy-it-does-not-matter</link>
       <description>Politicians boasting about India’s economic prowess are laying a trap for themselves</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/19/popular-music-is-getting-sadder-and-angstier</link>
       <description>Analyses of top-charting songs find a rise in blue moods</description>
       <pubDate>Mon, 19 Jan 2026 13:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>As divisions over Greenland grow, Europe examines its options</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/18/as-divisions-over-greenland-grow-europe-examines-its-options</link>
-      <description>Donald Trump’s tariff threats force Europeans to count their arrows</description>
-      <pubDate>Sun, 18 Jan 2026 21:57:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
