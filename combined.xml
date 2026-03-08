@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Germany’s Greens have come back to win in Baden-Württemberg</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/08/germanys-greens-have-come-back-to-win-in-baden-wurttemberg</link>
+      <description>The defeat of the Christian Democrats is a poor sign for Friedrich Merz</description>
+      <pubDate>Sun, 08 Mar 2026 21:32:10 +0000</pubDate>
+    </item>
+    <item>
       <title>What a second week of war will bring</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/08/what-a-second-week-of-war-will-bring</link>
       <description>The conflict is turning into a test of will between Iran and its adversaries</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way</link>
       <description>Strong exports make up for weak investment</description>
       <pubDate>Mon, 19 Jan 2026 15:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Treatment of a teenager with an ultra-rare condition is a medical milestone</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/19/treatment-of-a-teenager-with-an-ultra-rare-condition-is-a-medical-milestone</link>
-      <description>It will change regulators’ rule books</description>
-      <pubDate>Mon, 19 Jan 2026 14:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
