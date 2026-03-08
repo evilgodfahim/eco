@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war has put Asia on the brink of an energy panic</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-has-put-asia-on-the-brink-of-an-energy-panic</link>
+      <description>Stranded Gulf supplies are choking off the region’s economies</description>
+      <pubDate>Sun, 08 Mar 2026 17:48:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Would America be in recession without the super-rich?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich</link>
       <description>American anxieties are K-shaped. The economy is more like a backslash</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/19/the-war-room-newsletter-trumps-recklessness-imperils-europe-and-the-west</link>
       <description>The American president’s pursuit of Greenland is “fraught with danger”, Shashank Joshi writes</description>
       <pubDate>Mon, 19 Jan 2026 14:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular music is getting sadder and angstier</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/19/popular-music-is-getting-sadder-and-angstier</link>
-      <description>Analyses of top-charting songs find a rise in blue moods</description>
-      <pubDate>Mon, 19 Jan 2026 13:11:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
