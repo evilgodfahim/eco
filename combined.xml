@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>There are 56 ethnicities in China—and 55 are getting squashed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/09/there-are-56-ethnicities-in-china-and-55-are-getting-squashed</link>
+      <description>China wants its minorities decorative, but not distinct</description>
+      <pubDate>Mon, 09 Mar 2026 16:39:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Iran’s defiant regime picks a new supreme leader</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/08/irans-defiant-regime-picks-a-new-supreme-leader</link>
       <description>The appointment suggests the Revolutionary Guards have the upper hand</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/19/the-meaning-of-america-first-is-in-flux</link>
       <description>MAGA will have to confront divisions in its approach to foreign policy</description>
       <pubDate>Mon, 19 Jan 2026 21:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>After Iran’s massacres, tensions grow inside the regime</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/19/after-irans-massacres-tensions-grow-inside-the-regime</link>
-      <description>Even as dissidents rally, rivalries may stymie their efforts</description>
-      <pubDate>Mon, 19 Jan 2026 19:50:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
