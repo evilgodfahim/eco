@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s AI giants are handing out cash to lure in users</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users</link>
+      <description>How long can their ferocious rivalry last?</description>
+      <pubDate>Mon, 09 Mar 2026 17:33:19 +0000</pubDate>
+    </item>
+    <item>
       <title>There are 56 ethnicities in China—and 55 are getting squashed</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/09/there-are-56-ethnicities-in-china-and-55-are-getting-squashed</link>
       <description>China wants its minorities decorative, but not distinct</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe</link>
       <description>An escalating trade war would be another matter, however</description>
       <pubDate>Mon, 19 Jan 2026 21:31:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The meaning of “America First” is in flux</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/19/the-meaning-of-america-first-is-in-flux</link>
-      <description>MAGA will have to confront divisions in its approach to foreign policy</description>
-      <pubDate>Mon, 19 Jan 2026 21:04:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
