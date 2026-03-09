@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Iran’s defiant regime picks a new supreme leader</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/08/irans-defiant-regime-picks-a-new-supreme-leader</link>
+      <description>The appointment suggests the Revolutionary Guards have the upper hand</description>
+      <pubDate>Sun, 08 Mar 2026 23:53:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Germany’s Greens have come back to win in Baden-Württemberg</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/08/germanys-greens-have-come-back-to-win-in-baden-wurttemberg</link>
       <description>The defeat of the Christian Democrats is a poor sign for Friedrich Merz</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/19/xi-jinping-is-carrying-deng-xiaopings-authoritarian-torch-in-china</link>
       <description>Many see China’s leader as a counter-reformer. But he is really an heir</description>
       <pubDate>Mon, 19 Jan 2026 16:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>China hits its GDP target—in a weird way</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way</link>
-      <description>Strong exports make up for weak investment</description>
-      <pubDate>Mon, 19 Jan 2026 15:02:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
