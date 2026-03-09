@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The view from Tehrangeles</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/09/the-view-from-tehrangeles</link>
+      <description>The Iranian diaspora cheered Khamenei’s death. They are divided over what should come next</description>
+      <pubDate>Mon, 09 Mar 2026 20:56:09 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran energy shock reverberates across financial markets</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets</link>
       <description>For investors, the war is like the invasion of Ukraine all over again</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/20/donald-trumps-adventurism-is-unsettling-china</link>
       <description>Pushing back could threaten a trade deal and progress on Taiwan</description>
       <pubDate>Tue, 20 Jan 2026 17:35:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Americans oppose intervention in Greenland</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/20/most-americans-oppose-intervention-in-greenland</link>
-      <description>Our polling with YouGov shows operations in Iran and Venezuela had far more support</description>
-      <pubDate>Tue, 20 Jan 2026 17:28:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
