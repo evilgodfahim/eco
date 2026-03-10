@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>“Trophy wives” are out of fashion</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/10/trophy-wives-are-out-of-fashion</link>
+      <description>Our analysis finds that age gaps among America’s richest couples are shrinking</description>
+      <pubDate>Tue, 10 Mar 2026 19:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine’s housing market is increasingly peculiar</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/10/ukraines-housing-market-is-increasingly-peculiar</link>
       <description>With blood in the streets, many are buying property</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/20/western-leaders-navigate-a-lonely-world</link>
       <description>China cannot and will not save mid-size American allies from Donald Trump</description>
       <pubDate>Tue, 20 Jan 2026 22:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian soldiers are subject to Donald Trump’s orders</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/20/canadian-soldiers-are-subject-to-donald-trumps-orders</link>
-      <description>As the American president becomes more aggressive, this is becoming a problem</description>
-      <pubDate>Tue, 20 Jan 2026 20:32:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
