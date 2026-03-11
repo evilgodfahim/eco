@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How America and Israel built vast military targeting machines</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/11/how-america-and-israel-built-vast-military-targeting-machines</link>
+      <description>Software is supercharging the process of finding things to bomb</description>
+      <pubDate>Wed, 11 Mar 2026 22:07:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Why corporate lawyers always win</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/11/why-corporate-lawyers-always-win</link>
       <description>The world is a pedant’s paradise</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/22/an-audacious-new-book-about-a-precocious-country</link>
       <description>There is no such thing as “the” Indian growth model</description>
       <pubDate>Thu, 22 Jan 2026 10:36:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>National job stereotypes need updating</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/22/national-job-stereotypes-need-updating</link>
-      <description>Unemployment rates in rich countries are becoming topsy-turvy</description>
-      <pubDate>Thu, 22 Jan 2026 10:34:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
