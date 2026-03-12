@@ -5,10 +5,34 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s war on Iran may bring Bahrain to its knees</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/americas-war-on-iran-may-bring-bahrain-to-its-knees</link>
+      <description>The tiny, indebted kingdom is seeing its main sources of revenue dry up</description>
+      <pubDate>Thu, 12 Mar 2026 11:38:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The damage to the world economy from the Iran war will be severe, but uneven</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/the-damage-to-the-world-economy-from-the-iran-war-will-be-severe-but-uneven</link>
+      <description>It has already caused the biggest energy supply shock in history</description>
+      <pubDate>Thu, 12 Mar 2026 11:30:55 +0000</pubDate>
+    </item>
+    <item>
       <title>In Trump’s world, companies seek insurance against political risk</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/in-trumps-world-companies-seek-insurance-against-political-risk</link>
       <description>It could soon get more expensive</description>
       <pubDate>Thu, 12 Mar 2026 11:07:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>An attack on the world economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/an-attack-on-the-world-economy</link>
+      <description>Whatever happens in the Strait of Hormuz, energy markets have been changed for ever</description>
+      <pubDate>Thu, 12 Mar 2026 10:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>There are no good options for Iran’s nuclear programme</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/there-are-no-good-options-for-irans-nuclear-programme</link>
+      <description>If America cannot eliminate the threat, what should it do?</description>
+      <pubDate>Thu, 12 Mar 2026 10:40:54 +0000</pubDate>
     </item>
     <item>
       <title>How America and Israel built vast military targeting machines</title>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/22/trumps-grandiose-peace-plans-may-spell-more-pain-for-gaza</link>
       <description>A new technocratic government for Gaza has not even been allowed to enter the strip</description>
       <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The collapse of a Brazilian bank ensnares politicians and judges</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/22/the-collapse-of-a-brazilian-bank-ensnares-politicians-and-judges</link>
-      <description>The fallout of Banco Master’s liquidation is getting ugly</description>
-      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The odd thing about Modi’s mojo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/22/the-odd-thing-about-modis-mojo</link>
-      <description>Constraints make India’s prime minister govern better</description>
-      <pubDate>Thu, 22 Jan 2026 11:07:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homegrown apps are making dating in India less awkward</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/22/homegrown-apps-are-making-dating-in-india-less-awkward</link>
-      <description>AI tools compose love poems on behalf of tongue-tied suitors</description>
-      <pubDate>Thu, 22 Jan 2026 11:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who really won the war between India and Pakistan?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/22/who-really-won-the-war-between-india-and-pakistan</link>
-      <description>The dispute over that dispute bodes ill for the next fight</description>
-      <pubDate>Thu, 22 Jan 2026 11:06:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
