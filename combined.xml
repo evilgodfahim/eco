@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How wars are adding hours to your flights</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/12/how-wars-are-adding-hours-to-your-flights</link>
+      <description>Our analysis shows which routes are getting longer</description>
+      <pubDate>Thu, 12 Mar 2026 16:32:11 +0000</pubDate>
+    </item>
+    <item>
       <title>China is wrestling with a novel phenomenon: inherited wealth</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/china-is-wrestling-with-a-novel-phenomenon-inherited-wealth</link>
       <description>Even as the economy slows and opportunity narrows, a lucky few receive big windfalls</description>
@@ -83,6 +89,12 @@
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
     <item>
+      <title>Why investors won’t know what to make of AI for a while</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while</link>
+      <description>Markets always struggle to price technological revolutions</description>
+      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/12/business</link>
       <description></description>
@@ -119,6 +131,18 @@
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
     <item>
+      <title>In praise of grunt work</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/in-praise-of-grunt-work</link>
+      <description>AI promises to eliminate drudgery. Careful what you wish for</description>
+      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Altman, Amodei and Musk fight dirty for the biggest prize in business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/altman-amodei-and-musk-fight-dirty-for-the-biggest-prize-in-business</link>
+      <description>Never before has so much money been sought from investors in a single year</description>
+      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Kenya’s ailing sugar sector is a test case for reform</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/12/kenyas-ailing-sugar-sector-is-a-test-case-for-reform</link>
       <description>Low productivity and political corruption bedevil the whole economy</description>
@@ -140,6 +164,12 @@
       <title>Who is Iran’s new leader?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/12/who-is-irans-new-leader</link>
       <description>No one knows if he will last</description>
+      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazilian cinema is having its moment</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/12/brazilian-cinema-is-having-its-moment</link>
+      <description>Thank growing competition and a more internationally minded Academy awards</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
     <item>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/24/what-xi-jinpings-purge-of-chinas-most-senior-general-reveals</link>
       <description>A purge of the high command, unmatched since Mao’s death, may affect China’s ability to fight</description>
       <pubDate>Sat, 24 Jan 2026 15:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe remains dangerously reliant on American arms</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/24/europe-remains-dangerously-reliant-on-american-arms</link>
-      <description>Defence spending is rising, but strategic autonomy is years away</description>
-      <pubDate>Sat, 24 Jan 2026 03:48:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story: The true danger posed by Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/23/cover-story-the-true-danger-posed-by-donald-trump</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 23 Jan 2026 21:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is ahead in the race for Japan’s next parliament?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026-japan-election</link>
-      <description>Takaichi Sanae, the prime minister, has gambled on an early election</description>
-      <pubDate>Fri, 23 Jan 2026 18:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to get power naps right</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/23/how-to-get-power-naps-right</link>
-      <description>It’s all in the timing</description>
-      <pubDate>Fri, 23 Jan 2026 15:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain’s good idea for custom genetic medicines</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/22/britains-good-idea-for-custom-genetic-medicines</link>
-      <description>A way to tackle the tricky economics of drugs designed for one person</description>
-      <pubDate>Thu, 22 Jan 2026 14:07:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
