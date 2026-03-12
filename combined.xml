@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>In Trump’s world, companies seek insurance against political risk</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/in-trumps-world-companies-seek-insurance-against-political-risk</link>
+      <description>It could soon get more expensive</description>
+      <pubDate>Thu, 12 Mar 2026 11:07:31 +0000</pubDate>
+    </item>
+    <item>
       <title>How America and Israel built vast military targeting machines</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/11/how-america-and-israel-built-vast-military-targeting-machines</link>
       <description>Software is supercharging the process of finding things to bomb</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/22/who-really-won-the-war-between-india-and-pakistan</link>
       <description>The dispute over that dispute bodes ill for the next fight</description>
       <pubDate>Thu, 22 Jan 2026 11:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>An audacious new book about a “precocious” country</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/22/an-audacious-new-book-about-a-precocious-country</link>
-      <description>There is no such thing as “the” Indian growth model</description>
-      <pubDate>Thu, 22 Jan 2026 10:36:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
