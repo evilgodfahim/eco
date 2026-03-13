@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Vladimir Putin enjoys a huge windfall from the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/13/vladimir-putin-enjoys-a-huge-windfall-from-the-iran-war</link>
+      <description>But the sugar high may not last</description>
+      <pubDate>Fri, 13 Mar 2026 22:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gulf states are burning through interceptors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/13/gulf-states-are-burning-through-interceptors</link>
+      <description>The pace far outstrips that seen in Ukraine. Stocks are under severe pressure</description>
+      <pubDate>Fri, 13 Mar 2026 20:00:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Gulf states are burning through interceptors</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/13/gulf-states-are-burning-through-interceptors</link>
       <description>The pace far outstrips that seen in Ukraine. Stocks are under severe pressure</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age</link>
       <description>The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon</description>
       <pubDate>Sun, 25 Jan 2026 18:41:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Carney understands the new world, but can he survive it?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/25/mark-carney-understands-the-new-world-but-can-he-survive-it</link>
-      <description>Canada’s leader must navigate a host of competing, fiendishly difficult, challenges</description>
-      <pubDate>Sun, 25 Jan 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Congress viewed Donald Trump’s Greenland grab</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/how-congress-viewed-donald-trumps-greenland-grab</link>
-      <description>The crisis has subsided. For now</description>
-      <pubDate>Sun, 25 Jan 2026 13:01:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
