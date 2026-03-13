@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Gulf states are burning through interceptors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/13/gulf-states-are-burning-through-interceptors</link>
+      <description>The pace far outstrips that seen in Ukraine. Stocks are under severe pressure</description>
+      <pubDate>Fri, 13 Mar 2026 20:00:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Should you take GLP-1 drugs for longevity?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/13/should-you-take-glp-1-drugs-for-longevity</link>
       <description>The evidence is tantalising. But that is not the same as proof</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/25/how-congress-viewed-donald-trumps-greenland-grab</link>
       <description>The crisis has subsided. For now</description>
       <pubDate>Sun, 25 Jan 2026 13:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another horrifying shooting by federal agents in Minneapolis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/24/another-horrifying-shooting-by-federal-agents-in-minneapolis</link>
-      <description>What happens when armed men are given impunity</description>
-      <pubDate>Sat, 24 Jan 2026 20:52:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
