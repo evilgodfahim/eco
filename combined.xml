@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Should you take GLP-1 drugs for longevity?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/13/should-you-take-glp-1-drugs-for-longevity</link>
+      <description>The evidence is tantalising. But that is not the same as proof</description>
+      <pubDate>Fri, 13 Mar 2026 18:07:08 +0000</pubDate>
+    </item>
+    <item>
       <title>How wars are adding hours to your flights</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/12/how-wars-are-adding-hours-to-your-flights</link>
       <description>Our analysis shows which routes are getting longer</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/24/another-horrifying-shooting-by-federal-agents-in-minneapolis</link>
       <description>What happens when armed men are given impunity</description>
       <pubDate>Sat, 24 Jan 2026 20:52:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Xi Jinping’s purge of China’s most senior general reveals</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/24/what-xi-jinpings-purge-of-chinas-most-senior-general-reveals</link>
-      <description>A purge of the high command, unmatched since Mao’s death, may affect China’s ability to fight</description>
-      <pubDate>Sat, 24 Jan 2026 15:57:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
