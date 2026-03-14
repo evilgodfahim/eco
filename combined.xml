@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Why America isn’t talking about the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/14/checks-and-balance-newsletter-why-america-isnt-talking-about-the-iran-war</link>
+      <description>John Prideaux, our US editor, on a nation that is waiting and seeing</description>
+      <pubDate>Sat, 14 Mar 2026 10:39:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Vladimir Putin enjoys a huge windfall from the Iran war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/13/vladimir-putin-enjoys-a-huge-windfall-from-the-iran-war</link>
       <description>But the sugar high may not last</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/25/europes-long-awaited-free-trade-deal-with-india</link>
       <description>One way to show America and China that also-rans have options, too</description>
       <pubDate>Sun, 25 Jan 2026 19:25:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will the smartphone survive the AI age?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/25/will-the-smartphone-survive-the-ai-age</link>
-      <description>The Apple-Android duopoly is under attack from OpenAI, Meta and Amazon</description>
-      <pubDate>Sun, 25 Jan 2026 18:41:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
