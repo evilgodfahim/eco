@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war may be about to escalate</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/15/the-iran-war-may-be-about-to-escalate</link>
+      <description>Gulf states could join the conflict</description>
+      <pubDate>Sun, 15 Mar 2026 17:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s Iran war could hand Congress to the Democrats</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/15/donald-trumps-iran-war-could-hand-congress-to-the-democrats</link>
+      <description>As the conflict drags on, Democrats are sharpening their response</description>
+      <pubDate>Sun, 15 Mar 2026 17:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trouble is brewing among America’s corporate borrowers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/15/trouble-is-brewing-among-americas-corporate-borrowers</link>
+      <description>Surging energy prices will add to fears of a wave of defaults</description>
+      <pubDate>Sun, 15 Mar 2026 17:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open-source intelligence shuts down</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down</link>
+      <description>Satellite images of the Middle East are suddenly disappearing</description>
+      <pubDate>Sun, 15 Mar 2026 17:13:37 +0000</pubDate>
+    </item>
+    <item>
       <title>What Nitish Kumar did for Bihar, India’s poorest state</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/15/what-nitish-kumar-did-for-bihar-indias-poorest-state</link>
       <description>The state’s longest-serving chief minister raised voters’ expectations of their politicians</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/26/hizbullah-irans-most-powerful-proxy-has-been-humbled</link>
       <description>The militia is still a force in Lebanese politics, but its ability to menace abroad has been severely weakened</description>
       <pubDate>Mon, 26 Jan 2026 18:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China fears a flood of unemployed workers in rural areas</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/26/china-fears-a-flood-of-unemployed-workers-in-rural-areas</link>
-      <description>Fading ambition may pose a bigger problem</description>
-      <pubDate>Mon, 26 Jan 2026 17:21:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thailand’s liberals face a tricky election</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/26/thailands-liberals-face-a-tricky-election</link>
-      <description>The momentum is with the energetic new prime minister</description>
-      <pubDate>Mon, 26 Jan 2026 17:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our latest index of Europe’s priciest cities for renters</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/01/26/our-latest-index-of-europes-priciest-cities-for-renters</link>
-      <description>The average earner struggles to afford rent in all but eight of the places we looked at</description>
-      <pubDate>Mon, 26 Jan 2026 14:50:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Can US attorneys answer to the president and the law?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/26/checks-and-balance-newsletter-can-us-attorneys-answer-to-the-president-and-the-law</link>
-      <description>The clash over Donald Trump’s appointees risks becoming a circus, says Charlotte Howard, our New York bureau chief</description>
-      <pubDate>Mon, 26 Jan 2026 12:27:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
