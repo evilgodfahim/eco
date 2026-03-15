@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What Nitish Kumar did for Bihar, India’s poorest state</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/15/what-nitish-kumar-did-for-bihar-indias-poorest-state</link>
+      <description>The state’s longest-serving chief minister raised voters’ expectations of their politicians</description>
+      <pubDate>Sun, 15 Mar 2026 14:07:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: An attack on the world economy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/14/cover-story-newsletter-an-attack-on-the-world-economy</link>
       <description>An exclusive look at how we designed this week’s cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/26/checks-and-balance-newsletter-can-us-attorneys-answer-to-the-president-and-the-law</link>
       <description>The clash over Donald Trump’s appointees risks becoming a circus, says Charlotte Howard, our New York bureau chief</description>
       <pubDate>Mon, 26 Jan 2026 12:27:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s long-awaited free-trade deal with India</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/25/europes-long-awaited-free-trade-deal-with-india</link>
-      <description>One way to show America and China that also-rans have options, too</description>
-      <pubDate>Sun, 25 Jan 2026 19:25:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
