@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Rapid-charging EV batteries are on the way</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/16/rapid-charging-ev-batteries-are-on-the-way</link>
+      <description>They can be topped up in as little time as a tank of fuel</description>
+      <pubDate>Mon, 16 Mar 2026 17:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: A conflict Trump was ill-prepared for</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/16/the-war-room-newsletter-a-conflict-trump-was-ill-prepared-for</link>
+      <description>There is no simple way to reopen the Strait of Hormuz, writes Shashank Joshi, our defence editor</description>
+      <pubDate>Mon, 16 Mar 2026 17:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Maoist survival guide to the Iranian energy crisis</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/16/a-maoist-survival-guide-to-the-iranian-energy-crisis</link>
+      <description>For a self-reliant power like China, no supplier is ever irreplaceable</description>
+      <pubDate>Mon, 16 Mar 2026 16:36:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Why the Iran crisis caught Europe flat-footed</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/15/why-the-iran-crisis-caught-europe-flat-footed</link>
       <description>The EU suffers the war’s fallout, but can do little to cut it short</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/26/can-minnesota-prosecute-federal-agents-for-using-excessive-force</link>
       <description>The “supremacy clause” is at issue</description>
       <pubDate>Mon, 26 Jan 2026 20:23:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why AI won’t wipe out white-collar jobs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs</link>
-      <description>The technology will expand their scope and raise their value</description>
-      <pubDate>Mon, 26 Jan 2026 20:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryanair might be the world’s most successful airline</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/26/ryanair-might-be-the-worlds-most-successful-airline</link>
-      <description>The low-cost carrier is flying high</description>
-      <pubDate>Mon, 26 Jan 2026 19:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Three ways Donald Trump could strike Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/26/the-war-room-newsletter-three-ways-donald-trump-could-strike-iran</link>
-      <description>Shashank Joshi, our defence editor, analyses America’s options</description>
-      <pubDate>Mon, 26 Jan 2026 19:01:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
