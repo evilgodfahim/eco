@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>War may bring lasting change to the airline business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/16/war-may-bring-lasting-change-to-the-airline-business</link>
+      <description>Western carriers will relish the chance to win some of their customers back</description>
+      <pubDate>Mon, 16 Mar 2026 20:40:50 +0000</pubDate>
+    </item>
+    <item>
       <title>The quiet recovery of Ireland’s ancient tongue</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/16/the-quiet-recovery-of-irelands-ancient-tongue</link>
       <description>In the land of St Patrick, Irish is making a steady comeback</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/27/how-to-tell-if-venezuela-is-heading-for-democracy</link>
       <description>The regime is opening up the economy, but its political moves lack credibility</description>
       <pubDate>Tue, 27 Jan 2026 16:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The case for optimism in South Africa</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/27/the-case-for-optimism-in-south-africa</link>
-      <description>After a lost decade, economic prospects may be brightening</description>
-      <pubDate>Tue, 27 Jan 2026 16:08:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
