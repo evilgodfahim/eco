@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war is roiling commodities far beyond oil</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil</link>
+      <description>Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals</description>
+      <pubDate>Mon, 16 Mar 2026 22:34:40 +0000</pubDate>
+    </item>
+    <item>
       <title>War may bring lasting change to the airline business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/16/war-may-bring-lasting-change-to-the-airline-business</link>
       <description>Western carriers will relish the chance to win some of their customers back</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/27/behind-chinas-race-to-build-aircraft-carriers</link>
       <description>It will soon have more carriers in the Pacific than America</description>
       <pubDate>Tue, 27 Jan 2026 17:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to tell if Venezuela is heading for democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/01/27/how-to-tell-if-venezuela-is-heading-for-democracy</link>
-      <description>The regime is opening up the economy, but its political moves lack credibility</description>
-      <pubDate>Tue, 27 Jan 2026 16:39:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
