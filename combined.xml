@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The quiet recovery of Ireland’s ancient tongue</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/16/the-quiet-recovery-of-irelands-ancient-tongue</link>
+      <description>In the land of St Patrick, Irish is making a steady comeback</description>
+      <pubDate>Mon, 16 Mar 2026 18:57:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Rapid-charging EV batteries are on the way</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/16/rapid-charging-ev-batteries-are-on-the-way</link>
       <description>They can be topped up in as little time as a tank of fuel</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/27/the-case-for-optimism-in-south-africa</link>
       <description>After a lost decade, economic prospects may be brightening</description>
       <pubDate>Tue, 27 Jan 2026 16:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is driving gold’s relentless rally?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/27/what-is-driving-golds-relentless-rally</link>
-      <description>The ancient asset is attracting new investors</description>
-      <pubDate>Tue, 27 Jan 2026 12:15:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
