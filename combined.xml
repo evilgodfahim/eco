@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s failing gunboat diplomacy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/17/americas-failing-gunboat-diplomacy</link>
+      <description>Like some fusty old imperialist, Donald Trump is flummoxed by foreigners</description>
+      <pubDate>Tue, 17 Mar 2026 18:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Africa’s richest man has ambitious plans for the continent</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/17/africas-richest-man-has-ambitious-plans-for-the-continent</link>
+      <description>But the tycoon also has his critics</description>
+      <pubDate>Tue, 17 Mar 2026 17:48:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Are there enough missile interceptors?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/17/are-there-enough-missile-interceptors</link>
       <description>Shortages in Israel and the Gulf could determine the war’s course</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet</link>
       <description>And sinking its oil revenues in the process</description>
       <pubDate>Tue, 27 Jan 2026 20:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Republicans are waking up to the awful optics in Minneapolis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/republicans-are-waking-up-to-the-awful-optics-in-minneapolis</link>
-      <description>A partial government shutdown over the president’s immigration campaign looks likely</description>
-      <pubDate>Tue, 27 Jan 2026 20:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>How porn stars can survive in the age of AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/27/how-porn-stars-can-survive-in-the-age-of-ai</link>
-      <description>A dispatch from the world’s premier adult-entertainment conference</description>
-      <pubDate>Tue, 27 Jan 2026 18:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
