@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Are there enough missile interceptors?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/17/are-there-enough-missile-interceptors</link>
+      <description>Shortages in Israel and the Gulf could determine the war’s course</description>
+      <pubDate>Tue, 17 Mar 2026 16:11:43 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran war is roiling commodities far beyond oil</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil</link>
       <description>Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/27/how-porn-stars-can-survive-in-the-age-of-ai</link>
       <description>A dispatch from the world’s premier adult-entertainment conference</description>
       <pubDate>Tue, 27 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind China’s race to build aircraft-carriers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/27/behind-chinas-race-to-build-aircraft-carriers</link>
-      <description>It will soon have more carriers in the Pacific than America</description>
-      <pubDate>Tue, 27 Jan 2026 17:30:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
