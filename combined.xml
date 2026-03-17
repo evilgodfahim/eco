@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China cannot escape the energy shock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/17/china-cannot-escape-the-energy-shock</link>
+      <description>Despite renewables and reserves, it will suffer</description>
+      <pubDate>Tue, 17 Mar 2026 18:58:22 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s failing gunboat diplomacy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/17/americas-failing-gunboat-diplomacy</link>
       <description>Like some fusty old imperialist, Donald Trump is flummoxed by foreigners</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/27/how-congress-can-rein-in-ice-and-start-to-redeem-itself</link>
       <description>Senator Susan Collins of Maine has a historic chance to lead</description>
       <pubDate>Tue, 27 Jan 2026 20:25:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>The West and Ukraine are capsizing Russia’s shadow fleet</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet</link>
-      <description>And sinking its oil revenues in the process</description>
-      <pubDate>Tue, 27 Jan 2026 20:23:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
