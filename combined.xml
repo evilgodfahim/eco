@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Top AI models underperform in languages other than English</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/18/top-ai-models-underperform-in-languages-other-than-english</link>
+      <description>Those turning to them for health advice are most at risk</description>
+      <pubDate>Wed, 18 Mar 2026 17:03:02 +0000</pubDate>
+    </item>
+    <item>
       <title>A dirty deal with Cuba would be better than the alternatives</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/18/a-dirty-deal-with-cuba-would-be-better-than-the-alternatives</link>
       <description>A prolonged blockade risks creating a humanitarian crisis on America’s doorstep</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/28/immigration-agents-have-become-donald-trumps-personal-posse</link>
       <description>That is a liability for America and, increasingly, for him</description>
       <pubDate>Wed, 28 Jan 2026 21:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Silicon Valley wades into a trade spat with South Korea</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/28/silicon-valley-wades-into-a-trade-spat-with-south-korea</link>
-      <description>Coupang’s data breach is turning into a diplomatic row</description>
-      <pubDate>Wed, 28 Jan 2026 21:12:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
