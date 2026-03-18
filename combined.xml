@@ -5,10 +5,28 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How the Iran war is weakening Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/18/how-the-iran-war-is-weakening-donald-trump</link>
+      <description>An unpopular conflict and costly fuel could hobble his presidency</description>
+      <pubDate>Wed, 18 Mar 2026 20:04:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Zara fought off H&amp;M and Shein</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/18/how-zara-fought-off-handm-and-shein</link>
+      <description>A touch of luxury has helped</description>
+      <pubDate>Wed, 18 Mar 2026 18:51:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Is cheap energy the key to China gaining AI supremacy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/18/is-cheap-energy-the-key-to-china-gaining-ai-supremacy</link>
       <description>It could be its biggest advantage over the West</description>
       <pubDate>Wed, 18 Mar 2026 18:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The next phase of artificial intelligence may require very different processors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/18/the-next-phase-of-artificial-intelligence-may-require-very-different-processors</link>
+      <description>The GPUs that powered the AI boom can’t handle the workload</description>
+      <pubDate>Wed, 18 Mar 2026 17:45:59 +0000</pubDate>
     </item>
     <item>
       <title>China is a serious contender in the race for fusion energy</title>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/our-big-mac-index-carries-an-asian-warning</link>
       <description>It isn’t just Japan: other currencies also look cheap</description>
       <pubDate>Thu, 29 Jan 2026 10:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICE’s impunity is a formula for more violence</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/ices-impunity-is-a-formula-for-more-violence</link>
-      <description>Is America’s president building his own paramilitary militia?</description>
-      <pubDate>Thu, 29 Jan 2026 09:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the movement challenging—and disrupting—ICE</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/inside-the-movement-challenging-and-disrupting-ice</link>
-      <description>A non-violent network of activists is forming across America</description>
-      <pubDate>Thu, 29 Jan 2026 00:13:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just how debased is the dollar?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar</link>
-      <description>Not nearly as much as it could be</description>
-      <pubDate>Wed, 28 Jan 2026 23:18:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
