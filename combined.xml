@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Iran war could sap American military power for years</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/18/the-iran-war-could-sap-american-military-power-for-years</link>
+      <description>It is devouring munitions and exhausting an already stretched navy</description>
+      <pubDate>Wed, 18 Mar 2026 21:34:20 +0000</pubDate>
+    </item>
+    <item>
       <title>What if Donald Trump decided to ban oil exports?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/18/what-if-donald-trump-decided-to-ban-oil-exports</link>
       <description>Trying to keep prices low that way could backfire spectacularly</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/the-weak-yen-and-the-weakening-dollar-are-signs-of-financial-fragility</link>
       <description>But neither Japan nor America should meddle with exchange rates</description>
       <pubDate>Thu, 29 Jan 2026 10:10:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fate of Japan’s $6trn foreign portfolio rattles global markets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets</link>
-      <description>The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching</description>
-      <pubDate>Thu, 29 Jan 2026 10:00:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
