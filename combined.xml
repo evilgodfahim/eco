@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A dirty deal with Cuba would be better than the alternatives</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/18/a-dirty-deal-with-cuba-would-be-better-than-the-alternatives</link>
+      <description>A prolonged blockade risks creating a humanitarian crisis on America’s doorstep</description>
+      <pubDate>Wed, 18 Mar 2026 15:06:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch newsletter: Iran’s mood shifts</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/18/middle-east-dispatch-newsletter-irans-mood-shifts</link>
       <description>The immediate imperative is no longer political change but personal safety, writes Nick Pelham, our Middle East correspondent</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/01/28/silicon-valley-wades-into-a-trade-spat-with-south-korea</link>
       <description>Coupang’s data breach is turning into a diplomatic row</description>
       <pubDate>Wed, 28 Jan 2026 21:12:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is America about to attack Iran?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/28/is-america-about-to-attack-iran</link>
-      <description>Donald Trump says he is willing to negotiate. He might be bluffing</description>
-      <pubDate>Wed, 28 Jan 2026 20:52:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
