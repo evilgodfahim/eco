@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What if Donald Trump decided to ban oil exports?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/18/what-if-donald-trump-decided-to-ban-oil-exports</link>
+      <description>Trying to keep prices low that way could backfire spectacularly</description>
+      <pubDate>Wed, 18 Mar 2026 20:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Ukraine and Europe got caught in a geopolitical lovers’ tiff</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/18/how-ukraine-and-europe-got-caught-in-a-geopolitical-lovers-tiff</link>
+      <description>A testing moment for steadfast allies</description>
+      <pubDate>Wed, 18 Mar 2026 20:28:20 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Iran war is weakening Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/18/how-the-iran-war-is-weakening-donald-trump</link>
       <description>An unpopular conflict and costly fuel could hobble his presidency</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets</link>
       <description>The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching</description>
       <pubDate>Thu, 29 Jan 2026 10:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why is the yen still so weak?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/why-is-the-yen-still-so-weak</link>
-      <description>Newly alluring yields on Japanese bonds have not propped up the currency</description>
-      <pubDate>Thu, 29 Jan 2026 10:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Big Mac index carries an Asian warning</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/29/our-big-mac-index-carries-an-asian-warning</link>
-      <description>It isn’t just Japan: other currencies also look cheap</description>
-      <pubDate>Thu, 29 Jan 2026 10:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
