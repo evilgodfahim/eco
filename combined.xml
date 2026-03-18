@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is cheap energy the key to China gaining AI supremacy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/18/is-cheap-energy-the-key-to-china-gaining-ai-supremacy</link>
+      <description>It could be its biggest advantage over the West</description>
+      <pubDate>Wed, 18 Mar 2026 18:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>China is a serious contender in the race for fusion energy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/18/china-is-a-serious-contender-in-the-race-for-fusion-energy</link>
+      <description>Could it be the first to build a commercial reactor?</description>
+      <pubDate>Wed, 18 Mar 2026 17:28:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Top AI models underperform in languages other than English</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/18/top-ai-models-underperform-in-languages-other-than-english</link>
       <description>Those turning to them for health advice are most at risk</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar</link>
       <description>Not nearly as much as it could be</description>
       <pubDate>Wed, 28 Jan 2026 23:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xi Jinping is immensely powerful. Why can’t he stamp out corruption?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/01/28/xi-jinping-is-immensely-powerful-why-cant-he-stamp-out-corruption</link>
-      <description>His purge of the top brass is part of a wider campaign</description>
-      <pubDate>Wed, 28 Jan 2026 22:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Immigration agents have become Donald Trump’s personal posse</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/28/immigration-agents-have-become-donald-trumps-personal-posse</link>
-      <description>That is a liability for America and, increasingly, for him</description>
-      <pubDate>Wed, 28 Jan 2026 21:48:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
