@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Elliott Management and the art of telling bosses they’re wrong</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/elliott-management-and-the-art-of-telling-bosses-theyre-wrong</link>
+      <description>The hedge fund has industrialised shareholder activism</description>
+      <pubDate>Thu, 19 Mar 2026 00:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Anglosphere is increasingly miserable</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/19/the-anglosphere-is-increasingly-miserable</link>
+      <description>The World Happiness Report shows it diverging from the rest of the world</description>
+      <pubDate>Thu, 19 Mar 2026 00:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>The Iran war could sap American military power for years</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/18/the-iran-war-could-sap-american-military-power-for-years</link>
       <description>It is devouring munitions and exhausting an already stretched navy</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/africas-two-biggest-economies-may-be-turning-the-corner</link>
       <description>As Nigeria and South Africa revive, the continent’s growth may outpace Asia’s in 2026</description>
       <pubDate>Thu, 29 Jan 2026 10:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigeria’s economy may be back from the brink</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/01/29/nigerias-economy-may-be-back-from-the-brink</link>
-      <description>A spate of painful reforms is beginning to show results</description>
-      <pubDate>Thu, 29 Jan 2026 10:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weak yen and the weakening dollar are signs of financial fragility</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/the-weak-yen-and-the-weakening-dollar-are-signs-of-financial-fragility</link>
-      <description>But neither Japan nor America should meddle with exchange rates</description>
-      <pubDate>Thu, 29 Jan 2026 10:10:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
