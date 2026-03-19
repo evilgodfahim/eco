@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Does Donald Trump even care about the midterms?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/does-donald-trump-even-care-about-the-midterms</link>
+      <description>He is more focused on dominating his party, and on his place in history</description>
+      <pubDate>Thu, 19 Mar 2026 11:07:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Elliott Management and the art of telling bosses they’re wrong</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/elliott-management-and-the-art-of-telling-bosses-theyre-wrong</link>
       <description>The hedge fund has industrialised shareholder activism</description>
@@ -35,8 +41,8 @@
       <pubDate>Wed, 18 Mar 2026 20:28:20 +0000</pubDate>
     </item>
     <item>
-      <title>How the Iran war is weakening Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/18/how-the-iran-war-is-weakening-donald-trump</link>
+      <title>How the Iran war is hurting Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/18/how-the-iran-war-is-hurting-donald-trump</link>
       <description>An unpopular conflict and costly fuel could hobble his presidency</description>
       <pubDate>Wed, 18 Mar 2026 20:04:36 +0000</pubDate>
     </item>
@@ -49,7 +55,7 @@
     <item>
       <title>Is cheap energy the key to China gaining AI supremacy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/18/is-cheap-energy-the-key-to-china-gaining-ai-supremacy</link>
-      <description>It could be its biggest advantage over the West</description>
+      <description>Leaders are hoping it will make up for its weakness in chips</description>
       <pubDate>Wed, 18 Mar 2026 18:38:18 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/29/the-too-slow-change-of-indian-agriculture</link>
       <description>It should be the next target of Narendra Modi’s reform drive</description>
       <pubDate>Thu, 29 Jan 2026 11:55:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa’s two biggest economies may be turning the corner</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/africas-two-biggest-economies-may-be-turning-the-corner</link>
-      <description>As Nigeria and South Africa revive, the continent’s growth may outpace Asia’s in 2026</description>
-      <pubDate>Thu, 29 Jan 2026 10:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
