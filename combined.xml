@@ -5,6 +5,54 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Tucker Carlson on whether Donald Trump has betrayed his base</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/tucker-carlson-on-whether-donald-trump-has-betrayed-his-base</link>
+      <description>And why MAGA must look toward Europe</description>
+      <pubDate>Thu, 19 Mar 2026 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Africa after aid is more resilient than you might think</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/19/africa-after-aid-is-more-resilient-than-you-might-think</link>
+      <description>But more needs to be done to ensure a prosperous future</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gas will not be killed off by renewables any time soon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/19/gas-will-not-be-killed-off-by-renewables-any-time-soon</link>
+      <description>But there are ways to rely less on it</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lebanon’s leaders must take on Hizbullah</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/19/lebanons-leaders-must-take-on-hizbullah</link>
+      <description>And Israel must not play the spoiler</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Life in Myanmar’s biggest city is increasingly grim</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/19/life-in-myanmars-biggest-city-is-increasingly-grim</link>
+      <description>A new rubber-stamp parliament will solve nothing</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why China’s fight on air pollution has slowed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/19/why-chinas-fight-on-air-pollution-has-slowed</link>
+      <description>Officials are now trying to take it to the next stage</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public opinion in China is hardening on America and Taiwan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/19/public-opinion-in-china-is-hardening-on-america-and-taiwan</link>
+      <description>A rare poll shows the views of ordinary Chinese are changing</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The future of Africa will be shaped by investment rather than aid</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/19/the-future-of-africa-will-be-shaped-by-investment-rather-than-aid</link>
+      <description>Foreign and African firms are giving the continent reasons for hope</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Iran war is hurting American farmers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/how-the-iran-war-is-hurting-american-farmers</link>
       <description>Surging fertiliser prices are a blow to a limping industry</description>
@@ -35,6 +83,30 @@
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
     <item>
+      <title>Viktor Orban’s pro-natalist policies are not working</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/19/viktor-orbans-pro-natalist-policies-are-not-working</link>
+      <description>Despite lavish spending on mothers, Hungary’s fertility rate is falling again</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Iran war is forcing Europe to confront its energy problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/19/the-iran-war-is-forcing-europe-to-confront-its-energy-problem</link>
+      <description>High power prices are putting the continent’s economy at risk</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The secrets to a good employee survey</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/the-secrets-to-a-good-employee-survey</link>
+      <description>Likert or not</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Iran war casts a shadow over BASF’s nascent revival</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/the-iran-war-casts-a-shadow-over-basfs-nascent-revival</link>
+      <description>The turnaround of the German chemicals giant is still a work in progress</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel contemplates a ground invasion of Lebanon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/israel-contemplates-a-ground-invasion-of-lebanon</link>
       <description>That could wreck Lebanon’s chances of taking on Hizbullah itself</description>
@@ -50,6 +122,12 @@
       <title>The war in eastern Congo is escalating far from view</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/the-war-in-eastern-congo-is-escalating-far-from-view</link>
       <description>Fighting in South Kivu is a disaster for civilians and may threaten the copper belt</description>
+      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuba’s broken economy leaves it at Donald Trump’s mercy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/19/cubas-broken-economy-leaves-it-at-donald-trumps-mercy</link>
+      <description>He seems more interested in creating a client state than a free Cuba</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
     <item>
@@ -324,7 +402,7 @@
     </item>
     <item>
       <title>Vladimir Putin enjoys a huge windfall from the Iran war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/13/vladimir-putin-enjoys-a-huge-windfall-from-the-iran-war</link>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/13/vladimir-putin-enjoys-a-huge-windfall-from-the-iran-war</link>
       <description>But the sugar high may not last</description>
       <pubDate>Fri, 13 Mar 2026 22:19:10 +0000</pubDate>
     </item>
@@ -2925,84 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/01/30/peace-negotiations-give-freezing-kyiv-a-hint-of-hope</link>
       <description>Talks with Russia in Abu Dhabi could point towards a compromise</description>
       <pubDate>Fri, 30 Jan 2026 21:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The ICE test</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/30/cover-story-newsletter-the-ice-test</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 30 Jan 2026 18:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Mission Maduro—when special ops succeed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/01/30/the-war-room-newsletter-mission-maduro-when-special-ops-succeed</link>
-      <description>Richard Cockett, a senior editor, discusses history’s best special operations with an SAS officer</description>
-      <pubDate>Fri, 30 Jan 2026 17:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>What will Kevin Warsh’s Federal Reserve look like?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like</link>
-      <description>Donald Trump’s nominee was an inflation hawk—until he wasn’t</description>
-      <pubDate>Fri, 30 Jan 2026 17:17:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is a matcha latte better for you than a builder’s brew?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/01/30/is-a-matcha-latte-better-for-you-than-a-builders-brew</link>
-      <description>We spill the tea</description>
-      <pubDate>Fri, 30 Jan 2026 16:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to avoid common AI pitfalls in the workplace</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/01/29/how-to-avoid-common-ai-pitfalls-in-the-workplace</link>
-      <description>Advice from our latest season of “Boss Class”</description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stop panicking about AI. Start preparing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/01/29/stop-panicking-about-ai-start-preparing</link>
-      <description>There is time to adapt. Use it wisely</description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Takaichi Sanae relies on her keenest fans in Japan</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/01/29/takaichi-sanae-relies-on-her-keenest-fans-in-japan</link>
-      <description>The prime minister’s hopes for her snap election depend on their ardour</description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Knocking down social housing helped poor children prosper</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/knocking-down-social-housing-helped-poor-children-prosper</link>
-      <description>New research shows the impact of mixed-income developments</description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Republican states are censoring universities</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/29/republican-states-are-censoring-universities</link>
-      <description>New laws restrict what professors can teach</description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/29/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/29/politics</link>
-      <description></description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/01/29/business</link>
-      <description></description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>For the first time in half a century, astronauts are going to the Moon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2026/01/29/for-the-first-time-in-half-a-century-astronauts-are-going-back-to-the-moon</link>
-      <description>They will not land. Others, both American and Chinese, soon may</description>
-      <pubDate>Thu, 29 Jan 2026 13:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
