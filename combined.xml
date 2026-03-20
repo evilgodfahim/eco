@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is playing music good for the brain?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/20/is-playing-music-good-for-the-brain</link>
+      <description>It would seem so, even for amateurs</description>
+      <pubDate>Fri, 20 Mar 2026 18:30:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: Operation Blind Fury</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/20/cover-story-newsletter-operation-blind-fury</link>
       <description>An exclusive look at how we designed this week’s cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/01/has-america-hit-peak-tariff</link>
       <description>Uncle Sam’s take may go downhill from here</description>
       <pubDate>Sun, 01 Feb 2026 11:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: What American democracy looks like up close</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/01/31/checks-and-balance-newsletter-what-american-democracy-looks-like-up-close</link>
-      <description>John Prideaux, our US editor, reports from the road on why local politics still works</description>
-      <pubDate>Sat, 31 Jan 2026 16:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
