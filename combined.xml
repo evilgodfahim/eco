@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why Bangalore has India’s best billionaires</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/22/why-bangalore-has-indias-best-billionaires</link>
+      <description>Its philanthropists want to do more than just give money away</description>
+      <pubDate>Sun, 22 Mar 2026 17:29:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Donald Trump is putting his face on a coin</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/22/why-donald-trump-is-putting-his-face-on-a-coin</link>
       <description>Money and power belong together</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/02/can-europe-do-nuclear-deterrence-without-america</link>
       <description>Britain and France are deepening their co-operation</description>
       <pubDate>Mon, 02 Feb 2026 17:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Why Xi keeps gutting his own army</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/02/the-war-room-newsletter-why-xi-keeps-gutting-his-own-army</link>
-      <description>Shashank Joshi, our defence editor, explores what it means for China’s military readiness</description>
-      <pubDate>Mon, 02 Feb 2026 16:41:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
