@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Westerners are fleeing their countries in record numbers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/22/westerners-are-fleeing-their-countries-in-record-numbers</link>
+      <description>This will have economic consequences for the places they leave and their destinations</description>
+      <pubDate>Sun, 22 Mar 2026 10:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even the best-case scenario for energy markets is disastrous</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous</link>
+      <description>Whatever happens, high prices will outlive the Iran war</description>
+      <pubDate>Sun, 22 Mar 2026 10:15:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Is playing music good for the brain?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/20/is-playing-music-good-for-the-brain</link>
       <description>It would seem so, even for amateurs</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/01/the-violence-in-iran-could-lead-to-civil-war</link>
       <description>As America masses an armada, the regime’s response to recent protests is radicalising Iranians</description>
       <pubDate>Sun, 01 Feb 2026 12:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>China has launched a huge free-trade experiment</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/01/china-has-launched-a-huge-free-trade-experiment</link>
-      <description>Will reforms on a big southern island kick-start changes elsewhere?</description>
-      <pubDate>Sun, 01 Feb 2026 11:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Has America hit “peak tariff”?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/01/has-america-hit-peak-tariff</link>
-      <description>Uncle Sam’s take may go downhill from here</description>
-      <pubDate>Sun, 01 Feb 2026 11:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
