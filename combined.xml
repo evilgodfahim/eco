@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ukraine’s top drone commander wants to bleed Russia’s army dry</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/22/ukraines-top-drone-commander-wants-to-bleed-russias-army-dry</link>
+      <description>“Madyar” Brovdi has pioneered unmanned warfare methods NATO is yet to learn</description>
+      <pubDate>Sun, 22 Mar 2026 19:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump has four bad options for the war in Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/22/donald-trump-has-four-bad-options-for-the-war-in-iran</link>
+      <description>None is guaranteed to end the war or ease the economic crisis it has produced</description>
+      <pubDate>Sun, 22 Mar 2026 19:08:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Bangalore has India’s best billionaires</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/22/why-bangalore-has-indias-best-billionaires</link>
       <description>Its philanthropists want to do more than just give money away</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/02/inside-the-hopeless-effort-to-quash-cocaine-by-force</link>
       <description>Commando raids in the Colombian jungle are little better than whack-a-mole</description>
       <pubDate>Mon, 02 Feb 2026 17:49:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>A social network for AI agents is full of introspection—and threats</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/02/a-social-network-for-ai-agents-is-full-of-introspection-and-threats</link>
-      <description>How worried should you be about Moltbook?</description>
-      <pubDate>Mon, 02 Feb 2026 17:25:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Europe do nuclear deterrence without America?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/02/can-europe-do-nuclear-deterrence-without-america</link>
-      <description>Britain and France are deepening their co-operation</description>
-      <pubDate>Mon, 02 Feb 2026 17:15:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
