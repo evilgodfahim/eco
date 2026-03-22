@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why Donald Trump is putting his face on a coin</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/22/why-donald-trump-is-putting-his-face-on-a-coin</link>
+      <description>Money and power belong together</description>
+      <pubDate>Sun, 22 Mar 2026 15:56:13 +0000</pubDate>
+    </item>
+    <item>
       <title>America tells private firms to “hack back”</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back</link>
       <description>Its aggressive new strategy comes as Iranian hackers threaten cyber-warfare</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/02/the-war-room-newsletter-why-xi-keeps-gutting-his-own-army</link>
       <description>Shashank Joshi, our defence editor, explores what it means for China’s military readiness</description>
       <pubDate>Mon, 02 Feb 2026 16:41:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why software stocks are getting pummelled</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled</link>
-      <description>Are investors overestimating the risk from AI?</description>
-      <pubDate>Sun, 01 Feb 2026 17:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
