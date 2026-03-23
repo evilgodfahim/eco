@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How high could global inflation go?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go</link>
+      <description>With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living</description>
+      <pubDate>Mon, 23 Mar 2026 20:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ByteDance is swallowing the internet—in China and beyond</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/23/bytedance-is-swallowing-the-internet-in-china-and-beyond</link>
+      <description>Can anything stop its stunning rise?</description>
+      <pubDate>Mon, 23 Mar 2026 20:22:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s latest climbdown suggests he may want to end the war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/donald-trumps-latest-climbdown-suggests-he-may-want-to-end-the-war</link>
       <description>The divide between Israel and America is widening</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/03/elon-musks-mega-merger-makes-little-business-sense</link>
       <description>The AI economy’s dealmaking keeps getting wilder</description>
       <pubDate>Tue, 03 Feb 2026 15:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The assassination of Mr Lincoln</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-assassination-of-mr-lincoln</link>
-      <description>Our report from 1865</description>
-      <pubDate>Tue, 03 Feb 2026 14:55:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>America and India strike a long-awaited trade truce</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/02/america-and-india-strike-a-long-awaited-trade-truce</link>
-      <description>Will it last?</description>
-      <pubDate>Mon, 02 Feb 2026 23:33:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
