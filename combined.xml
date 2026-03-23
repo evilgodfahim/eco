@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A widening divide between America and Israel over Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/a-widening-divide-between-america-and-israel-over-iran</link>
+      <description>Donald Trump’s latest climbdown suggests he may be readier than Israel to end the war</description>
+      <pubDate>Mon, 23 Mar 2026 18:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Trump is scrambling for options in Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/the-war-room-newsletter-trump-is-scrambling-for-options-in-iran</link>
+      <description>“To end the war on current terms would look like defeat [for Trump] to most of the world,” writes Shashank Joshi, our defence editor</description>
+      <pubDate>Mon, 23 Mar 2026 18:35:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Marco Rubio, the chameleon in the war room</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/23/marco-rubio-the-chameleon-in-the-war-room</link>
       <description>On Venezuela, Iran and Cuba, Donald Trump is listening to his secretary of state</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/02/america-and-india-strike-a-long-awaited-trade-truce</link>
       <description>Will it last?</description>
       <pubDate>Mon, 02 Feb 2026 23:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is not the only threat menacing big tech</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/02/ai-is-not-the-only-threat-menacing-big-tech</link>
-      <description>Are Meta and Google ads really recession-proof?</description>
-      <pubDate>Mon, 02 Feb 2026 19:34:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>An election will decide whether democracy returns to Bangladesh</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/02/an-election-will-decide-whether-democracy-returns-to-bangladesh</link>
-      <description>But voters are having to pick between Islamists and a tainted party from the past</description>
-      <pubDate>Mon, 02 Feb 2026 19:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
