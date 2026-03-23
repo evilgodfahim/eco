@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Giorgia Meloni’s big electoral setback in Italy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/23/giorgia-melonis-big-electoral-setback-in-italy</link>
+      <description>Her failed referendum gamble hints at growing dissatisfaction with her government</description>
+      <pubDate>Mon, 23 Mar 2026 21:08:38 +0000</pubDate>
+    </item>
+    <item>
       <title>How high could global inflation go?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go</link>
       <description>With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-evil-and-the-good-in-the-american-civil-war</link>
       <description>Our report from 1861</description>
       <pubDate>Tue, 03 Feb 2026 16:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s mega-merger makes little business sense</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/03/elon-musks-mega-merger-makes-little-business-sense</link>
-      <description>The AI economy’s dealmaking keeps getting wilder</description>
-      <pubDate>Tue, 03 Feb 2026 15:48:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
