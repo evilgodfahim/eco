@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why the number of Islamic schools in Canada is soaring</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/23/why-the-number-of-islamic-schools-in-canada-is-soaring</link>
+      <description>Some Muslim parents worry about their children losing touch with their faith</description>
+      <pubDate>Mon, 23 Mar 2026 16:59:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Donald Trump’s risky obsession with oil</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/23/checks-and-balance-newsletter-donald-trumps-risky-obsession-with-oil</link>
       <description>Charlotte Howard, our New York bureau chief, argues the president’s energy agenda may yet damage his legacy</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/02/the-right-to-die-is-spreading-in-america</link>
       <description>States that are home to a third of the population could soon allow assisted dying</description>
       <pubDate>Mon, 02 Feb 2026 18:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is behind Xi Jinping’s sweeping military purge?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/02/what-is-behind-xi-jinpings-sweeping-military-purge</link>
-      <description>China’s opacity brings Pekingology back into vogue</description>
-      <pubDate>Mon, 02 Feb 2026 18:14:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
