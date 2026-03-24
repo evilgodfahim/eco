@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Autonomous swarms are the future of drone warfare</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/24/autonomous-swarms-are-the-future-of-drone-warfare</link>
+      <description>Much of the innovation is being carried out in Ukraine</description>
+      <pubDate>Tue, 24 Mar 2026 20:25:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Markets are gripped by an alarming cognitive dissonance</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/24/markets-are-gripped-by-an-alarming-cognitive-dissonance</link>
       <description>Investors all seem to think everyone else is wrong</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/03/anger-is-deadly-to-moderate-politicians</link>
       <description>AI-driven disruption is about to make the world a more resentful place</description>
       <pubDate>Tue, 03 Feb 2026 22:54:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>America risks a nuclear-arms race with China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/03/america-risks-a-nuclear-arms-race-with-china</link>
-      <description>Blame an expired treaty with Russia</description>
-      <pubDate>Tue, 03 Feb 2026 21:43:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
