@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s new masterplan for its tech economy in 2030 and beyond</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/24/chinas-new-masterplan-for-its-tech-economy-in-2030-and-beyond</link>
+      <description>The Communist Party’s technological ambition is breathtaking</description>
+      <pubDate>Tue, 24 Mar 2026 14:12:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Giorgia Meloni’s big electoral setback in Italy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/23/giorgia-melonis-big-electoral-setback-in-italy</link>
       <description>Her failed referendum gamble hints at growing dissatisfaction with her government</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/03/the-economists-science-and-technology-internship</link>
       <description>We invite applications for the 2026 Richard Casement internship</description>
       <pubDate>Tue, 03 Feb 2026 17:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The evil and the good in the American civil war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/02/03/the-evil-and-the-good-in-the-american-civil-war</link>
-      <description>Our report from 1861</description>
-      <pubDate>Tue, 03 Feb 2026 16:13:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
