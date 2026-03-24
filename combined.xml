@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Markets are gripped by an alarming cognitive dissonance</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/24/markets-are-gripped-by-an-alarming-cognitive-dissonance</link>
+      <description>Investors all seem to think everyone else is wrong</description>
+      <pubDate>Tue, 24 Mar 2026 19:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s government both drives and constrains the rise of AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/24/chinas-government-both-drives-and-constrains-the-rise-of-ai</link>
+      <description>Officials want to lead the world in the new technology but are still wary of disruption</description>
+      <pubDate>Tue, 24 Mar 2026 19:03:43 +0000</pubDate>
+    </item>
+    <item>
       <title>What a battle to reopen the Strait of Hormuz would look like</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/24/what-a-battle-to-reopen-the-strait-of-hormuz-would-look-like</link>
       <description>A lot of ships, aircraft and soldiers would have to spend a long time in harm’s way for uncertain results</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/03/america-risks-a-nuclear-arms-race-with-china</link>
       <description>Blame an expired treaty with Russia</description>
       <pubDate>Tue, 03 Feb 2026 21:43:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disney’s new boss must rekindle its creative magic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/03/disneys-new-boss-must-rekindle-its-creative-magic</link>
-      <description>Josh D’Amaro has a difficult task ahead</description>
-      <pubDate>Tue, 03 Feb 2026 20:48:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The world is more equal than you think</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think</link>
-      <description>Rich and poor consumers are seeing their spending patterns converge</description>
-      <pubDate>Tue, 03 Feb 2026 19:57:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
