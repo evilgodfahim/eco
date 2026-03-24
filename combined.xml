@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Botswana prepares to take an even bigger gamble on diamonds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/24/botswana-prepares-to-take-an-even-bigger-gamble-on-diamonds</link>
+      <description>The African country wants to own more of De Beers, the firm that helped it to escape poverty</description>
+      <pubDate>Tue, 24 Mar 2026 14:32:18 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s new masterplan for its tech economy in 2030 and beyond</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/24/chinas-new-masterplan-for-its-tech-economy-in-2030-and-beyond</link>
       <description>The Communist Party’s technological ambition is breathtaking</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/03/thank-god-for-melania-trump</link>
       <description>Imagine the harm her husband could do with an Evita by his side</description>
       <pubDate>Tue, 03 Feb 2026 18:14:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Economist’s science and technology internship</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/03/the-economists-science-and-technology-internship</link>
-      <description>We invite applications for the 2026 Richard Casement internship</description>
-      <pubDate>Tue, 03 Feb 2026 17:31:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
