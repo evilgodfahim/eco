@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How much will America’s oilmen benefit from the Iran war?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/how-much-will-americas-oilmen-benefit-from-the-iran-war</link>
+      <description>Less than the Trump administration thinks</description>
+      <pubDate>Wed, 25 Mar 2026 21:42:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big food’s troubles go from bad to worse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/big-foods-troubles-go-from-bad-to-worse</link>
+      <description>High prices and healthier diets are gnawing away at sales</description>
+      <pubDate>Wed, 25 Mar 2026 21:09:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Amazon’s unprecedented gamble on AI redemption might just work</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/amazons-unprecedented-gamble-on-ai-redemption-might-just-work</link>
       <description>Call it “The Bet-Everything Store”</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/04/how-an-art-restorer-sneaked-giorgia-meloni-into-a-church-fresco</link>
       <description>Romans noticed a winged figure’s odd resemblance to their prime minister</description>
       <pubDate>Wed, 04 Feb 2026 20:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can emerging markets’ stellar run continue?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/04/can-emerging-markets-stellar-run-continue</link>
-      <description>There is a lot more going for them than “sell America”</description>
-      <pubDate>Wed, 04 Feb 2026 18:41:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>In America science-sceptics are now in charge</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/in-america-science-sceptics-are-now-in-charge</link>
-      <description>The Trump administration seems to want less clean energy and more preventable diseases</description>
-      <pubDate>Wed, 04 Feb 2026 18:23:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
