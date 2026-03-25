@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Early French winemakers had surprisingly sophisticated techniques</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/early-french-winemakers-had-surprisingly-sophisticated-techniques</link>
+      <description>Genomics suggests the country has been making wine for over 2,500 years</description>
+      <pubDate>Wed, 25 Mar 2026 14:33:34 +0000</pubDate>
+    </item>
+    <item>
       <title>The world’s most unaffordable housing is not where you think</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/25/the-worlds-most-unaffordable-housing-is-not-where-you-think</link>
       <description>Asia’s great cities will founder without more reasonably priced homes</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/04/why-so-many-colombians-fight-in-foreign-wars</link>
       <description>It has become a diplomatic problem for Colombia’s government</description>
       <pubDate>Wed, 04 Feb 2026 12:31:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>A 5% wealth tax would drive billionaires out of California</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/04/a-5-wealth-tax-would-drive-billionaires-out-of-california</link>
-      <description>The Golden State’s Democrats are divided over a golden-goose grab</description>
-      <pubDate>Wed, 04 Feb 2026 12:14:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
