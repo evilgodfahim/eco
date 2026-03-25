@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Amazon’s unprecedented gamble on AI redemption might just work</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/amazons-unprecedented-gamble-on-ai-redemption-might-just-work</link>
+      <description>Call it “The Bet-Everything Store”</description>
+      <pubDate>Wed, 25 Mar 2026 20:46:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s populist right should be outvoted rather than ostracised</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/25/europes-populist-right-should-be-outvoted-rather-than-ostracised</link>
       <description>Imagining there’s no fascists is a bad strategy</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/in-america-science-sceptics-are-now-in-charge</link>
       <description>The Trump administration seems to want less clean energy and more preventable diseases</description>
       <pubDate>Wed, 04 Feb 2026 18:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>More than a third of cancers arise from preventable risks</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/more-than-a-third-of-cancers-arise-from-preventable-risks</link>
-      <description>Smoking, infections and alcohol are the top causes</description>
-      <pubDate>Wed, 04 Feb 2026 18:10:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
