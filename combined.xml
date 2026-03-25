@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>NASA’s ambitious plans for a Moon base mark a rethinking of its future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/nasas-ambitious-plans-for-a-moon-base-mark-a-rethinking-of-its-future</link>
+      <description>The changes are welcome</description>
+      <pubDate>Wed, 25 Mar 2026 22:03:59 +0000</pubDate>
+    </item>
+    <item>
       <title>How much will America’s oilmen benefit from the Iran war?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/how-much-will-americas-oilmen-benefit-from-the-iran-war</link>
       <description>Less than the Trump administration thinks</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/04/elon-musk-is-betting-his-business-empire-on-ai</link>
       <description>The fates of xAI, SpaceX and Tesla are increasingly intertwined</description>
       <pubDate>Wed, 04 Feb 2026 22:24:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>How an art restorer sneaked Giorgia Meloni into a church fresco</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/04/how-an-art-restorer-sneaked-giorgia-meloni-into-a-church-fresco</link>
-      <description>Romans noticed a winged figure’s odd resemblance to their prime minister</description>
-      <pubDate>Wed, 04 Feb 2026 20:35:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
