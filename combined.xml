@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Revolutionary Guards are taking over Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/25/the-revolutionary-guards-are-taking-over-iran</link>
+      <description>They now appear to run both the state and the war</description>
+      <pubDate>Wed, 25 Mar 2026 18:22:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Mexico must unleash its private sector</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/25/mexico-must-unleash-its-private-sector</link>
       <description>Claudia Sheinbaum’s biggest problem is weak investment and growth, not Donald Trump</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/the-trump-administration-is-eroding-vital-climate-data</link>
       <description>American citizens are left vulnerable</description>
       <pubDate>Wed, 04 Feb 2026 18:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Israeli visit to the site of the Bondi attack tests Australia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/04/an-israeli-visit-to-the-site-of-the-bondi-attack-tests-australia</link>
-      <description>The prime minister, Anthony Albanese, is under most pressure</description>
-      <pubDate>Wed, 04 Feb 2026 17:55:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
