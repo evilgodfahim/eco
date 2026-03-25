@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Europe’s populist right should be outvoted rather than ostracised</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/25/europes-populist-right-should-be-outvoted-rather-than-ostracised</link>
+      <description>Imagining there’s no fascists is a bad strategy</description>
+      <pubDate>Wed, 25 Mar 2026 18:35:48 +0000</pubDate>
+    </item>
+    <item>
       <title>The Revolutionary Guards are taking over Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/25/the-revolutionary-guards-are-taking-over-iran</link>
       <description>They now appear to run both the state and the war</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/more-than-a-third-of-cancers-arise-from-preventable-risks</link>
       <description>Smoking, infections and alcohol are the top causes</description>
       <pubDate>Wed, 04 Feb 2026 18:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump administration is eroding vital climate data</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/04/the-trump-administration-is-eroding-vital-climate-data</link>
-      <description>American citizens are left vulnerable</description>
-      <pubDate>Wed, 04 Feb 2026 18:03:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
