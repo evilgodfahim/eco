@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mexico must unleash its private sector</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/25/mexico-must-unleash-its-private-sector</link>
+      <description>Claudia Sheinbaum’s biggest problem is weak investment and growth, not Donald Trump</description>
+      <pubDate>Wed, 25 Mar 2026 17:13:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New research uncovers more of the story of man’s best friend</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/new-research-uncovers-more-of-the-story-of-mans-best-friend</link>
+      <description>The evolutionary tale of Europe’s dogs is becoming clearer</description>
+      <pubDate>Wed, 25 Mar 2026 16:23:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Early French winemakers had surprisingly sophisticated techniques</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/early-french-winemakers-had-surprisingly-sophisticated-techniques</link>
       <description>Genomics suggests the country has been making wine for over 2,500 years</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/04/an-israeli-visit-to-the-site-of-the-bondi-attack-tests-australia</link>
       <description>The prime minister, Anthony Albanese, is under most pressure</description>
       <pubDate>Wed, 04 Feb 2026 17:55:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump wants to end America’s half-century conflict with Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/04/donald-trump-wants-to-end-americas-half-century-conflict-with-iran</link>
-      <description>His showdown with Iran’s supreme leader will shape the region for a generation</description>
-      <pubDate>Wed, 04 Feb 2026 17:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why so many Colombians fight in foreign wars</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/04/why-so-many-colombians-fight-in-foreign-wars</link>
-      <description>It has become a diplomatic problem for Colombia’s government</description>
-      <pubDate>Wed, 04 Feb 2026 12:31:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
