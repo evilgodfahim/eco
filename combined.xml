@@ -5,14 +5,50 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Advantage Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/26/advantage-iran</link>
+      <description>A month of bombing has achieved nothing. Will Donald Trump escalate, or talk?</description>
+      <pubDate>Thu, 26 Mar 2026 10:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The decline and fall of the Roman currency empire</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire</link>
+      <description>The fate of ancient coins offers uncomfortable lessons about dollar dominance</description>
+      <pubDate>Thu, 26 Mar 2026 10:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe should think twice before weakening its merger rules</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/26/europe-should-think-twice-before-weakening-its-merger-rules</link>
+      <description>A strict competition policy is not the barrier to bigger firms</description>
+      <pubDate>Thu, 26 Mar 2026 10:18:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The case against energy bail-outs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/26/the-case-against-energy-bail-outs</link>
+      <description>As war rages in Iran, governments must not repeat the mistakes of 2022</description>
+      <pubDate>Thu, 26 Mar 2026 10:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Christine Lagarde’s sober tone on the Gulf war energy shock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock</link>
+      <description>Our interview with the ECB’s president</description>
+      <pubDate>Thu, 26 Mar 2026 10:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s pro-Israel lobby is facing a backlash</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/26/americas-pro-israel-lobby-is-facing-a-backlash</link>
+      <description>As attitudes to Israel shift, AIPAC is shifting its tactics</description>
+      <pubDate>Thu, 26 Mar 2026 09:35:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Meta and Google face a reckoning over social-media addiction</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/meta-and-google-face-a-reckoning-over-social-media-addiction</link>
       <description>A landmark verdict in California could have far-reaching consequences</description>
       <pubDate>Wed, 25 Mar 2026 22:48:41 +0000</pubDate>
     </item>
     <item>
-      <title>NASA’s ambitious plans for a Moon base mark a rethinking of its future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/nasas-ambitious-plans-for-a-moon-base-mark-a-rethinking-of-its-future</link>
+      <title>NASA’s Moon-base plans mark a rethinking of its future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/nasas-moon-base-plans-mark-a-rethinking-of-its-future</link>
       <description>The changes are welcome</description>
       <pubDate>Wed, 25 Mar 2026 22:03:59 +0000</pubDate>
     </item>
@@ -107,8 +143,8 @@
       <pubDate>Tue, 24 Mar 2026 14:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>Giorgia Meloni’s big electoral setback in Italy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/23/giorgia-melonis-big-electoral-setback-in-italy</link>
+      <title>Giorgia Meloni’s big setback in Italy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/23/giorgia-melonis-big-setback-in-italy</link>
       <description>Her failed referendum gamble hints at growing dissatisfaction with her government</description>
       <pubDate>Mon, 23 Mar 2026 21:08:38 +0000</pubDate>
     </item>
@@ -187,7 +223,7 @@
     <item>
       <title>Westerners are fleeing their countries in record numbers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/22/westerners-are-fleeing-their-countries-in-record-numbers</link>
-      <description>This will have economic consequences for the places they leave and their destinations</description>
+      <description>This will have economic consequences for the places they flee and their destinations</description>
       <pubDate>Sun, 22 Mar 2026 10:41:41 +0000</pubDate>
     </item>
     <item>
@@ -2967,42 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/05/the-panama-canal-is-a-hinge-point-in-donald-trumps-new-order</link>
       <description>A recent Panamanian supreme-court ruling shows how the “Donroe doctrine” really works</description>
       <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>After years of despair, Haiti has a sliver of hope</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/05/after-years-of-despair-haiti-has-a-sliver-of-hope</link>
-      <description>The UN and America are mounting a new effort to drag the country out of the abyss</description>
-      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A booming gig economy is formalising India’s labour force</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/05/a-booming-gig-economy-is-formalising-indias-labour-force</link>
-      <description>Good news for delivery drivers</description>
-      <pubDate>Thu, 05 Feb 2026 10:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>The age of a treacherous, falling dollar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/05/the-age-of-a-treacherous-falling-dollar</link>
-      <description>Those holding American assets will have to get used to it</description>
-      <pubDate>Thu, 05 Feb 2026 10:33:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hong Kong is getting its financial mojo back</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back</link>
-      <description>The hub is attracting more deals. And more Beijing-style politics</description>
-      <pubDate>Thu, 05 Feb 2026 10:32:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Untangling the ideas of Donald Trump’s Fed nominee</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/05/untangling-the-ideas-of-donald-trumps-fed-nominee</link>
-      <description>What is Warshonomics?</description>
-      <pubDate>Thu, 05 Feb 2026 10:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the dollar may have much further to fall</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/05/why-the-dollar-may-have-much-further-to-fall</link>
-      <description>It is hard to be a safe haven when trouble starts at home</description>
-      <pubDate>Thu, 05 Feb 2026 10:28:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
