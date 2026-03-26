@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Meta and Google face a reckoning over social-media addiction</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/25/meta-and-google-face-a-reckoning-over-social-media-addiction</link>
+      <description>A landmark verdict in California could have far-reaching consequences</description>
+      <pubDate>Wed, 25 Mar 2026 22:48:41 +0000</pubDate>
+    </item>
+    <item>
       <title>NASA’s ambitious plans for a Moon base mark a rethinking of its future</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/25/nasas-ambitious-plans-for-a-moon-base-mark-a-rethinking-of-its-future</link>
       <description>The changes are welcome</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/05/why-the-dollar-may-have-much-further-to-fall</link>
       <description>It is hard to be a safe haven when trouble starts at home</description>
       <pubDate>Thu, 05 Feb 2026 10:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk is betting his business empire on AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/04/elon-musk-is-betting-his-business-empire-on-ai</link>
-      <description>The fates of xAI, SpaceX and Tesla are increasingly intertwined</description>
-      <pubDate>Wed, 04 Feb 2026 22:24:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
