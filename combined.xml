@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China is winning the AI talent race</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2026/03/25/china-is-winning-the-ai-talent-race</link>
+      <description>Its lead over the West is only set to widen</description>
+      <pubDate>Thu, 26 Mar 2026 11:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>How long will Israel stay in Lebanon?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/how-long-will-israel-stay-in-lebanon</link>
+      <description>The threat of another occupation is tearing at the fabric of Lebanese society</description>
+      <pubDate>Thu, 26 Mar 2026 10:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The end of the world’s longest-running Maoist insurgency</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/26/the-end-of-the-worlds-longest-running-maoist-insurgency</link>
+      <description>A report from one of the Naxalites’ final redoubts</description>
+      <pubDate>Thu, 26 Mar 2026 10:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump says he is close to a deal with Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/donald-trump-says-he-is-close-to-a-deal-with-iran</link>
+      <description>Almost no one believes that talks are getting anywhere</description>
+      <pubDate>Thu, 26 Mar 2026 10:40:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Advantage Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/26/advantage-iran</link>
       <description>A month of bombing has achieved nothing. Will Donald Trump escalate, or talk?</description>
@@ -33,6 +57,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock</link>
       <description>Our interview with the ECB’s president</description>
       <pubDate>Thu, 26 Mar 2026 10:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>The human toll of the Iran war, in charts and maps</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/03/26/the-human-toll-of-the-iran-war-in-charts-and-maps</link>
+      <description>Our analysis suggests that more than 22m people across the Middle East live near a reported strike</description>
+      <pubDate>Thu, 26 Mar 2026 09:57:49 +0000</pubDate>
     </item>
     <item>
       <title>America’s pro-Israel lobby is facing a backlash</title>
@@ -121,7 +151,7 @@
     <item>
       <title>China’s government both drives and constrains the rise of AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/24/chinas-government-both-drives-and-constrains-the-rise-of-ai</link>
-      <description>Officials want to lead the world in the new technology but are still wary of disruption</description>
+      <description>Officials want to lead the world in the new technology, but are still wary of disruption</description>
       <pubDate>Tue, 24 Mar 2026 19:03:43 +0000</pubDate>
     </item>
     <item>
@@ -2972,36 +3002,6 @@
       <title>Ethiopia inches ever closer to war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/05/ethiopia-inches-ever-closer-to-war</link>
       <description>The latest flare-up in Tigray shows the risk of a regional conflagration</description>
-      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds die in a mine collapse in Congo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/05/hundreds-die-in-a-mine-collapse-in-congo</link>
-      <description>The government blames rebels, but such accidents are sadly common</description>
-      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>American aid to Africa comes with more strings attached</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/05/american-aid-to-africa-comes-with-more-strings-attached</link>
-      <description>A new crop of health deals is unlikely to meet the needs of recipient countries</description>
-      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>How regional powers are thinking about a war in Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran</link>
-      <description>Further conflict could bring chaos—and opportunities</description>
-      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The reopened Rafah crossing in Gaza brings pitiful gains</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/05/the-reopened-rafah-crossing-in-gaza-brings-pitiful-gains</link>
-      <description>Gaza’s putative technocrats are still languishing in Cairo</description>
-      <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Panama Canal is a hinge point in Donald Trump’s new order</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/05/the-panama-canal-is-a-hinge-point-in-donald-trumps-new-order</link>
-      <description>A recent Panamanian supreme-court ruling shows how the “Donroe doctrine” really works</description>
       <pubDate>Thu, 05 Feb 2026 13:47:23 +0000</pubDate>
     </item>
   </channel>
