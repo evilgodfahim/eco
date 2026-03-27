@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: Advantage Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/27/cover-story-newsletter-advantage-iran</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 27 Mar 2026 19:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should you track your VO2 max?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/27/should-you-track-your-vo2-max</link>
+      <description>Treat it is a measure, not a target</description>
+      <pubDate>Fri, 27 Mar 2026 18:12:15 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: The war that shaped modern Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/27/the-war-room-newsletter-the-war-that-shaped-modern-iran</link>
       <description>Iran’s conflict with Iraq in the 1980s provides valuable lessons for today, writes Richard Cockett, a senior editor</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition</link>
       <description>Protecting your portfolio from a crash looks harder than ever</description>
       <pubDate>Sun, 08 Feb 2026 14:23:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: The danger of prediction markets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/07/checks-and-balance-newsletter-the-danger-of-prediction-markets</link>
-      <description>Charlotte Howard, our New York bureau chief, on the cultural and political risks of turning everything into a bet</description>
-      <pubDate>Sat, 07 Feb 2026 09:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The dangerous dollar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/06/cover-story-newsletter-the-dangerous-dollar</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 06 Feb 2026 20:53:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
