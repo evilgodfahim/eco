@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The nightmare scenario for global trade</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/03/27/the-nightmare-scenario-for-global-trade</link>
+      <description>There are worse blockages than the Strait of Hormuz, our analysis finds</description>
+      <pubDate>Fri, 27 Mar 2026 20:12:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: Advantage Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/27/cover-story-newsletter-advantage-iran</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/08/how-japans-prime-minister-will-use-her-massive-new-mandate</link>
       <description>A remarkable election victory that will reshape Japanese politics for years to come</description>
       <pubDate>Sun, 08 Feb 2026 17:36:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to hedge a bubble, AI edition</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition</link>
-      <description>Protecting your portfolio from a crash looks harder than ever</description>
-      <pubDate>Sun, 08 Feb 2026 14:23:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
