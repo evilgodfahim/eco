@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: The war that shaped modern Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/27/the-war-room-newsletter-the-war-that-shaped-modern-iran</link>
+      <description>Iran’s conflict with Iraq in the 1980s provides valuable lessons for today, writes Richard Cockett, a senior editor</description>
+      <pubDate>Fri, 27 Mar 2026 16:45:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Hormuz is not the only weak spot for global trade</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/26/hormuz-is-not-the-only-weak-spot-for-global-trade</link>
       <description>Many shipping routes are vulnerable, from the Strait of Malacca to the Panama Canal</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/06/cover-story-newsletter-the-dangerous-dollar</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Fri, 06 Feb 2026 20:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>America may be reaching peak Spanish</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/06/america-may-be-reaching-peak-spanish</link>
-      <description>Bad Bunny’s Super Bowl show may mark a ceiling for the language he performs in</description>
-      <pubDate>Fri, 06 Feb 2026 19:09:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
