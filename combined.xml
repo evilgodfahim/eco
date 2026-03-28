@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Three problems with Trump’s Iran strategy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/28/checks-and-balance-newsletter-three-problems-with-trumps-iran-strategy</link>
+      <description>John Prideaux, our US editor, on the risks of the president’s approach to foreign policy</description>
+      <pubDate>Sat, 28 Mar 2026 10:56:19 +0000</pubDate>
+    </item>
+    <item>
       <title>The nightmare scenario for global trade</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/03/27/the-nightmare-scenario-for-global-trade</link>
       <description>There are worse blockages than the Strait of Hormuz, our analysis finds</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/08/at-the-last-open-crossing-ukrainians-flee-russias-annexation</link>
       <description>A checkpoint in Belarus provides a path from occupied territories back to Ukraine</description>
       <pubDate>Sun, 08 Feb 2026 20:35:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Japan’s prime minister will use her massive new mandate</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/08/how-japans-prime-minister-will-use-her-massive-new-mandate</link>
-      <description>A remarkable election victory that will reshape Japanese politics for years to come</description>
-      <pubDate>Sun, 08 Feb 2026 17:36:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
