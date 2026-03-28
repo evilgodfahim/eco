@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Houthis’ attack on Israel heralds a significant escalation in the war with Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/28/the-houthis-attack-on-israel-heralds-a-significant-escalation-in-the-war-with-iran</link>
+      <description>Yemen’s Shia militia could threaten to choke the Red Sea</description>
+      <pubDate>Sat, 28 Mar 2026 21:08:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Three problems with Trump’s Iran strategy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/28/checks-and-balance-newsletter-three-problems-with-trumps-iran-strategy</link>
       <description>John Prideaux, our US editor, on the risks of the president’s approach to foreign policy</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/09/thailands-conservatives-win-a-shock-big-victory</link>
       <description>Prime Minister Anutin Charnvirakul has revived the Thai right’s electoral fortunes</description>
       <pubDate>Mon, 09 Feb 2026 11:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>At the last open crossing, Ukrainians flee Russia’s annexation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/08/at-the-last-open-crossing-ukrainians-flee-russias-annexation</link>
-      <description>A checkpoint in Belarus provides a path from occupied territories back to Ukraine</description>
-      <pubDate>Sun, 08 Feb 2026 20:35:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
