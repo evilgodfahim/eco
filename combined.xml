@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is Bollywood’s latest megahit propaganda for Narendra Modi?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/29/is-bollywoods-latest-megahit-propaganda-for-narendra-modi</link>
+      <description>“Dhurandhar: The Revenge” portrays India extracting a price for Pakistani perfidy</description>
+      <pubDate>Sun, 29 Mar 2026 16:49:13 +0000</pubDate>
+    </item>
+    <item>
       <title>The plan to make IPOs great again</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/29/the-plan-to-make-ipos-great-again</link>
       <description>America’s regulators and market operators are teaming up to rekindle public listings</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own</link>
       <description>The country’s courts are inundated with intellectual-property cases</description>
       <pubDate>Mon, 09 Feb 2026 17:18:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s sabotage campaign is becoming bolder</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/09/russias-sabotage-campaign-is-becoming-bolder</link>
-      <description>Hacks against Polish energy plants suggest the FSB is involved</description>
-      <pubDate>Mon, 09 Feb 2026 16:56:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
