@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Iran is making a mint from Donald Trump’s war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war</link>
+      <description>China is helping the Revolutionary Guards profit from Iranian crude</description>
+      <pubDate>Sun, 29 Mar 2026 11:44:15 +0000</pubDate>
+    </item>
+    <item>
       <title>The Houthis’ attack on Israel heralds escalation of the Iran war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/28/the-houthis-attack-on-israel-heralds-escalation-of-the-iran-war</link>
       <description>Yemen’s Shia militia could threaten to choke the Red Sea</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted</link>
       <description>Shashank Joshi, our defence editor, examines the targeting of Vladimir Alexeyev</description>
       <pubDate>Mon, 09 Feb 2026 16:35:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thailand’s conservatives win a shock big victory</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/09/thailands-conservatives-win-a-shock-big-victory</link>
-      <description>Prime Minister Anutin Charnvirakul has revived the Thai right’s electoral fortunes</description>
-      <pubDate>Mon, 09 Feb 2026 11:49:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
