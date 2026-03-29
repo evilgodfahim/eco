@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>All sides in the Gulf war are at risk of overplaying their hands</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/29/all-sides-in-the-gulf-war-are-at-risk-of-overplaying-their-hands</link>
+      <description>The costs of dragging out the conflict could be very high indeed</description>
+      <pubDate>Sun, 29 Mar 2026 18:10:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Is Bollywood’s latest megahit propaganda for Narendra Modi?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/29/is-bollywoods-latest-megahit-propaganda-for-narendra-modi</link>
       <description>“Dhurandhar: The Revenge” portrays India extracting a price for Pakistani perfidy</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/10/emmanuel-macron-declares-a-european-state-of-emergency</link>
       <description>He urges the EU to move fast or be swept aside</description>
       <pubDate>Tue, 10 Feb 2026 06:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>China once stole foreign ideas. Now it wants to protect its own</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/09/china-once-stole-foreign-ideas-now-it-wants-to-protect-its-own</link>
-      <description>The country’s courts are inundated with intellectual-property cases</description>
-      <pubDate>Mon, 09 Feb 2026 17:18:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
