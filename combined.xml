@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump and the art of bad diplomacy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/30/donald-trump-and-the-art-of-bad-diplomacy</link>
+      <description>One of the advisers the president ignores is his younger self</description>
+      <pubDate>Mon, 30 Mar 2026 14:48:10 +0000</pubDate>
+    </item>
+    <item>
       <title>The Venezuela Donald Trump “runs” is a land of surreal contrasts</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/30/the-venezuela-donald-trump-runs-is-a-land-of-surreal-contrasts</link>
       <description>Animal spirits are stirring. The opposition has hope. The regime’s softening of repression is uneven</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/10/the-coldest-crypto-winter-yet</link>
       <description>An asset class that is all about vibes suddenly has awful vibes</description>
       <pubDate>Tue, 10 Feb 2026 18:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Led by a Marxist, battered by a storm, Sri Lanka is doing better</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/10/led-by-a-marxist-battered-by-a-storm-sri-lanka-is-doing-better</link>
-      <description>India’s growing involvement in its neighbouring country is one factor</description>
-      <pubDate>Tue, 10 Feb 2026 15:40:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
