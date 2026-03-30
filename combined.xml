@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: Will Trump send troops into Iran?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/30/the-war-room-newsletter-will-trump-send-troops-into-iran</link>
+      <description>The president must be aware that the political costs of a land war could be “extremely high”, writes Shashank Joshi, our defence editor</description>
+      <pubDate>Mon, 30 Mar 2026 17:48:58 +0000</pubDate>
+    </item>
+    <item>
       <title>For China’s officials, the goal was once growth. Now it’s loyalty</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/30/for-chinas-officials-the-goal-was-once-growth-now-its-loyalty</link>
       <description>An obsession with GDP is replaced by an obsession with Xi Jinping</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/10/are-liberal-values-a-luxury-the-west-cannot-afford</link>
       <description>Yes, China has impressive high-speed trains. That is no reason for the West to adopt iron-fisted rule</description>
       <pubDate>Tue, 10 Feb 2026 22:28:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should you rent or buy?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/02/10/should-i-rent-or-buy</link>
-      <description>Our interactive map shows where in America homeownership is becoming more appealing</description>
-      <pubDate>Tue, 10 Feb 2026 19:25:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
