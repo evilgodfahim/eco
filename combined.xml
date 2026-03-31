@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What the Supreme Court will make of birthright citizenship</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/31/what-the-supreme-court-will-make-of-birthright-citizenship</link>
+      <description>Donald Trump’s fringe view of the 14th Amendment is about to get its day in court</description>
+      <pubDate>Tue, 31 Mar 2026 09:23:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Binyamin Netanyahu is down—but not out</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/30/binyamin-netanyahu-is-down-but-not-out</link>
       <description>Ahead of an election due in October, a divided opposition and the war could hand him a lifeline</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/11/brazils-economy-is-being-throttled-by-entrenched-interests</link>
       <description>The country should be faring much better</description>
       <pubDate>Wed, 11 Feb 2026 15:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Epstein files are sullying Norway’s squeaky-clean image</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/11/the-epstein-files-are-sullying-norways-squeaky-clean-image</link>
-      <description>The sex offender corresponded with diplomats, politicians and royals</description>
-      <pubDate>Wed, 11 Feb 2026 10:49:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
