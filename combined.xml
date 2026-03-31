@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is China covering up a violent attack at a market in Beijing?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/31/is-china-covering-up-a-violent-attack-at-a-market-in-beijing</link>
+      <description>News outlets put a premium on making the country seem harmonious</description>
+      <pubDate>Tue, 31 Mar 2026 17:08:16 +0000</pubDate>
+    </item>
+    <item>
       <title>What the Supreme Court will make of birthright citizenship</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/31/what-the-supreme-court-will-make-of-birthright-citizenship</link>
       <description>Donald Trump’s fringe view of the 14th Amendment is about to get its day in court</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/11/how-democrats-aim-to-curb-ice-without-losing-votes</link>
       <description>Its brutal tactics are unpopular with Americans. But so is border insecurity</description>
       <pubDate>Wed, 11 Feb 2026 17:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil’s economy is being throttled by entrenched interests</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/11/brazils-economy-is-being-throttled-by-entrenched-interests</link>
-      <description>The country should be faring much better</description>
-      <pubDate>Wed, 11 Feb 2026 15:57:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
