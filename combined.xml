@@ -5,8 +5,14 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>Is China covering up a violent attack at a market in Beijing?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/31/is-china-covering-up-a-violent-attack-at-a-market-in-beijing</link>
+      <title>The energy shock brings coal back into fashion</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/31/the-energy-shock-brings-coal-back-into-fashion</link>
+      <description>An LNG crunch is good news for the world’s dirtiest fuel</description>
+      <pubDate>Tue, 31 Mar 2026 17:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is China covering up a violent attack at a Beijing market?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/31/is-china-covering-up-a-violent-attack-at-a-beijing-market</link>
       <description>News outlets put a premium on making the country seem harmonious</description>
       <pubDate>Tue, 31 Mar 2026 17:08:16 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/11/what-drives-the-wage-gap-between-men-and-women</link>
       <description>Surprise: it’s still motherhood</description>
       <pubDate>Wed, 11 Feb 2026 17:27:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Democrats aim to curb ICE without losing votes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/11/how-democrats-aim-to-curb-ice-without-losing-votes</link>
-      <description>Its brutal tactics are unpopular with Americans. But so is border insecurity</description>
-      <pubDate>Wed, 11 Feb 2026 17:22:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
