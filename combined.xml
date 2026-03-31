@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The perils of a ground war in Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/31/the-perils-of-a-ground-war-in-iran</link>
+      <description>Donald Trump is deploying troops. It’s not clear he knows what to do with them</description>
+      <pubDate>Tue, 31 Mar 2026 20:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hurricane Trump threatens to blow China off course</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/31/hurricane-trump-threatens-to-blow-china-off-course</link>
+      <description>Chinese elites do not agree on who may win from the war in Iran</description>
+      <pubDate>Tue, 31 Mar 2026 19:56:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Index providers shouldn’t bend the rules for Elon Musk</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/31/index-providers-shouldnt-bend-the-rules-for-elon-musk</link>
+      <description>They will only expose ordinary investors to unnecessary risks</description>
+      <pubDate>Tue, 31 Mar 2026 19:47:28 +0000</pubDate>
+    </item>
+    <item>
       <title>The energy shock brings coal back into fashion</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/31/the-energy-shock-brings-coal-back-into-fashion</link>
       <description>An LNG crunch is good news for the world’s dirtiest fuel</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/11/asias-capitalists-will-need-to-fight-for-their-revolution</link>
       <description>They cannot rely on politicians alone to fix the region’s abysmal corporate governance</description>
       <pubDate>Wed, 11 Feb 2026 18:32:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Humans are not the only animals that treat each other’s injuries</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/11/humans-are-not-the-only-animals-that-treat-each-others-injuries</link>
-      <description>Many ant species do so too</description>
-      <pubDate>Wed, 11 Feb 2026 18:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robots with human-inspired eyes have better vision</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision</link>
-      <description>Their reaction times can even surpass their makers’</description>
-      <pubDate>Wed, 11 Feb 2026 18:07:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>What drives the wage gap between men and women?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/11/what-drives-the-wage-gap-between-men-and-women</link>
-      <description>Surprise: it’s still motherhood</description>
-      <pubDate>Wed, 11 Feb 2026 17:27:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
