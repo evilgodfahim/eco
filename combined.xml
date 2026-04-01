@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Private-credit funds are showing signs of strain</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/01/private-credit-funds-are-showing-signs-of-strain</link>
+      <description>Some panicky investors are running for the exit</description>
+      <pubDate>Wed, 01 Apr 2026 11:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Liberation Day” has reshaped trade—but not as Donald Trump hoped</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/01/liberation-day-has-reshaped-trade-but-not-as-donald-trump-hoped</link>
+      <description>In many ways, global commerce has strengthened</description>
+      <pubDate>Wed, 01 Apr 2026 11:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can a country get too rich?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/01/can-a-country-get-too-rich</link>
+      <description>Norway shows the potential pitfalls of uncommon prosperity</description>
+      <pubDate>Wed, 01 Apr 2026 10:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>“Liberation Year” has not freed American factories</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/31/liberation-year-has-not-freed-american-factories</link>
       <description>Even the winners from Donald Trump’s trade war are feeling squeezed</description>
@@ -13,7 +31,7 @@
     <item>
       <title>The perils of a ground war in Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/31/the-perils-of-a-ground-war-in-iran</link>
-      <description>Donald Trump is deploying troops. It’s not clear he knows what to do with them</description>
+      <description>Donald Trump may send in troops. Does he know what to do with them?</description>
       <pubDate>Tue, 31 Mar 2026 20:02:05 +0000</pubDate>
     </item>
     <item>
@@ -23,8 +41,8 @@
       <pubDate>Tue, 31 Mar 2026 19:56:47 +0000</pubDate>
     </item>
     <item>
-      <title>Index providers shouldn’t bend the rules for Elon Musk</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/31/index-providers-shouldnt-bend-the-rules-for-elon-musk</link>
+      <title>Index providers should not bend the rules for Elon Musk</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/31/index-providers-should-not-bend-the-rules-for-elon-musk</link>
       <description>They will only expose ordinary investors to unnecessary risks</description>
       <pubDate>Tue, 31 Mar 2026 19:47:28 +0000</pubDate>
     </item>
@@ -61,7 +79,7 @@
     <item>
       <title>For China’s officials, the goal was once growth. Now it’s loyalty</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/30/for-chinas-officials-the-goal-was-once-growth-now-its-loyalty</link>
-      <description>An obsession with GDP is replaced by an obsession with Xi Jinping</description>
+      <description>An obsession with gdp is replaced by an obsession with Xi Jinping</description>
       <pubDate>Mon, 30 Mar 2026 16:43:59 +0000</pubDate>
     </item>
     <item>
@@ -119,8 +137,8 @@
       <pubDate>Sun, 29 Mar 2026 11:44:15 +0000</pubDate>
     </item>
     <item>
-      <title>The Houthis’ attack on Israel heralds escalation of the Iran war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/28/the-houthis-attack-on-israel-heralds-escalation-of-the-iran-war</link>
+      <title>The Houthis’ attack on Israel may point to escalation in the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/28/the-houthis-attack-on-israel-may-point-to-escalation-in-the-iran-war</link>
       <description>Yemen’s Shia militia could threaten to choke the Red Sea</description>
       <pubDate>Sat, 28 Mar 2026 21:08:09 +0000</pubDate>
     </item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/12/the-worlds-most-powerful-woman</link>
       <description>Japan’s prime minister has earned a once-in-a-generation chance to remake her country. Will she seize it?</description>
       <pubDate>Thu, 12 Feb 2026 10:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Epstein files tell a story of justice denied</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/12/the-epstein-files-tell-a-story-of-justice-denied</link>
-      <description>Prosecutors have moved far too slowly</description>
-      <pubDate>Thu, 12 Feb 2026 10:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain’s predicament will get worse before it gets better</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/12/britains-predicament-will-get-worse-before-it-gets-better</link>
-      <description>With Sir Keir Starmer weakened, the government will drift left</description>
-      <pubDate>Thu, 12 Feb 2026 00:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>A European fighter-jet partnership is verging on a break-up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up</link>
-      <description>Germans and Spaniards say France’s Dassault has made collaboration impossible</description>
-      <pubDate>Wed, 11 Feb 2026 18:44:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
