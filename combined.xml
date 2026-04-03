@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: How China hopes to win from the war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/03/cover-story-newsletter-how-china-hopes-to-win-from-the-war</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 03 Apr 2026 09:34:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Pam Bondi’s loyalty only took her so far</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/02/pam-bondis-loyalty-only-took-her-so-far</link>
       <description>The president wants the impossible from his attorney-general</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/13/how-dangerous-is-donald-trumps-endangerment-decision</link>
       <description>It removes a cornerstone of climate regulation</description>
       <pubDate>Fri, 13 Feb 2026 22:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can the shingles vaccine slow ageing?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/13/can-the-shingles-vaccine-slow-ageing</link>
-      <description>The evidence is surprisingly strong</description>
-      <pubDate>Fri, 13 Feb 2026 18:44:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
