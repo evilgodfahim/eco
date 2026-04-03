@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A captive American in Iran could lead to further escalation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/03/a-captive-american-in-iran-could-lead-to-further-escalation</link>
+      <description>It could prompt Donald Trump to follow through on his worst threats</description>
+      <pubDate>Fri, 03 Apr 2026 20:31:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: How China hopes to win from the war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/03/cover-story-newsletter-how-china-hopes-to-win-from-the-war</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains</link>
       <description>Marco Rubio praises NATO allies in Munich, but most remain wary</description>
       <pubDate>Sat, 14 Feb 2026 16:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>How dangerous is Donald Trump’s “endangerment” decision?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/13/how-dangerous-is-donald-trumps-endangerment-decision</link>
-      <description>It removes a cornerstone of climate regulation</description>
-      <pubDate>Fri, 13 Feb 2026 22:11:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
