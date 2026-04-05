@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The South American petro-state profiting from the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/05/the-south-american-petro-state-profiting-from-the-iran-war</link>
+      <description>The boom is raising the risk that oil money devours the economy</description>
+      <pubDate>Sun, 05 Apr 2026 14:30:25 +0000</pubDate>
+    </item>
+    <item>
       <title>European allies are losing hope of keeping America in NATO</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/05/european-allies-are-losing-hope-of-keeping-america-in-nato</link>
       <description>Donald Trump is furious at their refusal to help his war against Iran</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy</link>
       <description>Watch out for sneaky stimulus</description>
       <pubDate>Sun, 15 Feb 2026 18:08:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance: The death of the “endangerment finding”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/15/checks-and-balance-the-death-of-the-endangerment-finding</link>
-      <description>John Prideaux, our US editor, says the rollback of climate regulation reveals a deeper story about American governance</description>
-      <pubDate>Sun, 15 Feb 2026 15:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
