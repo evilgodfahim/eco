@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Inflation or recession? The tug of war in bond markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets</link>
+      <description>Governments’ borrowing costs are being pulled in opposite directions</description>
+      <pubDate>Sun, 05 Apr 2026 08:17:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Does Donald Trump’s losing streak matter?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/04/checks-and-balance-newsletter-does-donald-trumps-losing-streak-matter</link>
       <description>Charlotte Howard, our New York bureau chief, on how to judge the president’s failures</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/15/the-battle-to-save-south-americas-skull-crushing-big-cat</link>
       <description>Farmers and villagers realise that jaguars are worth more alive than dead</description>
       <pubDate>Sun, 15 Feb 2026 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s pollution is becoming an economic roadblock</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/15/indias-pollution-is-becoming-an-economic-roadblock</link>
-      <description>The government’s inaction runs counter to its own goals</description>
-      <pubDate>Sun, 15 Feb 2026 09:49:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
