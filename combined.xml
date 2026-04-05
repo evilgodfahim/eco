@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The tumbling rupee is a big problem for Narendra Modi</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/05/the-tumbling-rupee-is-a-big-problem-for-narendra-modi</link>
+      <description>India’s prime minister knows the risks of a weak currency</description>
+      <pubDate>Sun, 05 Apr 2026 08:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why McDonald’s and KFC are growing like wildfire in China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/05/why-mcdonalds-and-kfc-are-growing-like-wildfire-in-china</link>
+      <description>Western fast-food brands are expanding into the countryside</description>
+      <pubDate>Sun, 05 Apr 2026 08:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Inflation or recession? The tug of war in bond markets</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets</link>
       <description>Governments’ borrowing costs are being pulled in opposite directions</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/02/15/cover-story-newsletter-the-most-powerful-woman-in-the-world</link>
       <description>An exclusive look at how we designed this week’s covers</description>
       <pubDate>Sun, 15 Feb 2026 13:25:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why MAGA brands have been a flop</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/15/why-maga-brands-have-been-a-flop</link>
-      <description>Conservatives are better at trashing businesses than building them</description>
-      <pubDate>Sun, 15 Feb 2026 11:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The battle to save South America’s skull-crushing big cat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/15/the-battle-to-save-south-americas-skull-crushing-big-cat</link>
-      <description>Farmers and villagers realise that jaguars are worth more alive than dead</description>
-      <pubDate>Sun, 15 Feb 2026 10:20:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
