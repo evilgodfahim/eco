@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The strange, multicultural slang of Toronto’s teenagers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/06/the-strange-multicultural-slang-of-torontos-teenagers</link>
+      <description>London rappers have an outsize influence</description>
+      <pubDate>Mon, 06 Apr 2026 13:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>As more states legalise gambling, what next for Las Vegas?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/06/as-more-states-legalise-gambling-what-next-for-las-vegas</link>
+      <description>Visitor numbers are down. But legalisation presents new opportunities</description>
+      <pubDate>Mon, 06 Apr 2026 13:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan and China are preparing for a summit, of sorts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/06/taiwan-and-china-are-preparing-for-a-summit-of-sorts</link>
+      <description>A trip to the mainland by the KMT’s leader exposes a rift in the party</description>
+      <pubDate>Mon, 06 Apr 2026 12:47:14 +0000</pubDate>
+    </item>
+    <item>
       <title>How far do the European Union’s military ambitions go?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/06/how-far-do-the-european-unions-military-ambitions-go</link>
       <description>An interview with the EU’s top military officer</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots</link>
       <description>The machines don’t deserve it</description>
       <pubDate>Mon, 16 Feb 2026 18:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nicaragua has so far dodged the fate of Cuba and Venezuela</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/16/nicaragua-has-so-far-dodged-the-fate-of-cuba-and-venezuela</link>
-      <description>Latin America’s other leftist autocracy has not yet come under sustained pressure from the United States</description>
-      <pubDate>Mon, 16 Feb 2026 18:13:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why American allies are flocking to see Xi Jinping in Beijing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing</link>
-      <description>China isn’t using its considerable leverage over them—yet</description>
-      <pubDate>Mon, 16 Feb 2026 16:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dubai’s crazy rich Chinese</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/15/dubais-crazy-rich-chinese</link>
-      <description>Scrutinised at home and in the West, Chinese money is moving into the Gulf</description>
-      <pubDate>Sun, 15 Feb 2026 18:14:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
