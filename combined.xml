@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>As Iran’s civilian economy crumbles, its military economy grows stronger</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/06/as-irans-civilian-economy-crumbles-its-military-economy-grows-stronger</link>
+      <description>War is splitting the country in two</description>
+      <pubDate>Mon, 06 Apr 2026 19:45:06 +0000</pubDate>
+    </item>
+    <item>
       <title>The strange, multicultural slang of Toronto’s teenagers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/06/the-strange-multicultural-slang-of-torontos-teenagers</link>
       <description>London rappers have an outsize influence</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/the-crummiest-job-in-washington-congressman-is-getting-worse</link>
       <description>Longer hours, lower pay, more threats and less power</description>
       <pubDate>Mon, 16 Feb 2026 19:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Americans are unleashing their anger on food-delivery robots</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots</link>
-      <description>The machines don’t deserve it</description>
-      <pubDate>Mon, 16 Feb 2026 18:29:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
