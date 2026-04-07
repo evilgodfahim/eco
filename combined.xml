@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Middle East Dispatch newsletter: A terrifying wait</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/07/middle-east-dispatch-newsletter-a-terrifying-wait</link>
+      <description>Gregg Carlstrom, our Middle East correspondent, on Donald Trump’s blood-curdling threat to erase Iran</description>
+      <pubDate>Tue, 07 Apr 2026 16:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global democracy is in better shape than you think</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/democracy-index-2025</link>
+      <description>EIU’s annual index suggests an end to the democracy recession</description>
+      <pubDate>Tue, 07 Apr 2026 16:11:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A wary rapprochement between India and China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/07/a-wary-rapprochement-between-india-and-china</link>
       <description>New Indian investment rules are a cautious start</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/17/beware-chinas-shrinking-car-market</link>
       <description>The resulting flood of exports will be good news for consumers. Less so for the world’s carmakers</description>
       <pubDate>Tue, 17 Feb 2026 18:33:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Off the Charts newsletter: Coping with outliers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/17/off-the-charts-newsletter-coping-with-outliers</link>
-      <description>Sarah Leo, our visual data journalist, explains how to deal with unruly data points</description>
-      <pubDate>Tue, 17 Feb 2026 18:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The flaws in India’s AI plans</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/17/the-flaws-in-indias-ai-plans</link>
-      <description>Despite hosting a global summit, it is a bystander in the race to develop frontier models</description>
-      <pubDate>Tue, 17 Feb 2026 15:42:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
