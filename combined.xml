@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Meet the four Democratic tribes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/07/meet-the-four-democratic-tribes</link>
+      <description>What 19,000 survey respondents reveal about rival factions on the left</description>
+      <pubDate>Tue, 07 Apr 2026 18:56:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bye, bye to the Trump trades</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/07/bye-bye-to-the-trump-trades</link>
+      <description>Markets are calling time on many Donald-adjacent bets</description>
+      <pubDate>Tue, 07 Apr 2026 18:35:51 +0000</pubDate>
+    </item>
+    <item>
       <title>A month into the war, Iran shows no sign of running out of missiles</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/07/a-month-into-the-war-iran-shows-no-sign-of-running-out-of-missiles</link>
       <description>Israel seems to have overestimated the damage done to Iran’s missile programme</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/17/why-the-gulfs-most-powerful-countries-are-at-odds</link>
       <description>A feud between Saudi Arabia and the UAE will have far-reaching consequences</description>
       <pubDate>Tue, 17 Feb 2026 20:48:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>How big is the prize of reopening Russia?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/17/how-big-is-the-prize-of-reopening-russia</link>
-      <description>The Kremlin is promising $12trn-worth of deals to Donald Trump’s administration</description>
-      <pubDate>Tue, 17 Feb 2026 20:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The financialisation of AI is just beginning</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning</link>
-      <description>Get ready for a new wave of securities, hedges and collateral</description>
-      <pubDate>Tue, 17 Feb 2026 19:16:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
