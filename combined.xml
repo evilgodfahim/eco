@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How France learned to fight Russian disinformation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/08/how-france-learned-to-fight-russian-disinformation</link>
+      <description>The EU’s most-targeted country is counterattacking against fake news</description>
+      <pubDate>Wed, 08 Apr 2026 15:31:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Iran and America agree to pause their war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/08/iran-and-america-agree-to-pause-their-war</link>
       <description>A two-week truce is a start but questions remain about a more enduring deal</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/18/the-front-line-in-americas-child-vaccine-battle</link>
       <description>How far can RFK junior push state policies? West Virginia will provide an answer</description>
       <pubDate>Wed, 18 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a four-year onslaught has changed Ukraine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/18/how-a-four-year-onslaught-has-changed-ukraine</link>
-      <description>The border guards who faced Russia’s tanks were changed for ever, like their country</description>
-      <pubDate>Wed, 18 Feb 2026 16:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
