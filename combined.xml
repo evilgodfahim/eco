@@ -5,14 +5,20 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Iran and America agree to pause their war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/08/iran-and-america-agree-to-pause-their-war</link>
+      <description>A two-week truce is a start but questions remain about a more enduring deal</description>
+      <pubDate>Wed, 08 Apr 2026 04:35:59 +0000</pubDate>
+    </item>
+    <item>
       <title>When emigration helps bad rulers survive</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/07/when-emigration-helps-bad-rulers-survive</link>
       <description>A new book finds links between mass migration and democratic backsliding worldwide</description>
       <pubDate>Tue, 07 Apr 2026 21:00:41 +0000</pubDate>
     </item>
     <item>
-      <title>The crew of Artemis II is returning to a planet they have cheered up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/07/the-crew-of-artemis-ii-is-returning-to-a-planet-they-have-cheered-up</link>
+      <title>The crew of Artemis II are returning to a planet they have cheered up</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/07/the-crew-of-artemis-ii-are-returning-to-a-planet-they-have-cheered-up</link>
       <description>The mission has recaptured some of the enthusiasm of early lunar flights</description>
       <pubDate>Tue, 07 Apr 2026 20:23:59 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/18/russias-economy-has-entered-the-death-zone</link>
       <description>Alexandra Prokopenko wonders how much longer it can go on metabolising its own muscle tissue</description>
       <pubDate>Wed, 18 Feb 2026 12:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s envoys failed to reassure Europe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/17/donald-trumps-envoys-failed-to-reassure-europe</link>
-      <description>A gathering of world leaders in Munich shows how trust has collapsed</description>
-      <pubDate>Tue, 17 Feb 2026 21:28:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
