@@ -5,9 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>The ceasefire puts Israel in an awkward spot</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/08/the-ceasefire-puts-israel-in-an-awkward-spot</link>
-      <description>Binyamin Netanyahu could yet be transformed from partner to scapegoat</description>
+      <title>The war was steadily spiralling in scope and destruction</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/04/08/the-war-was-steadily-spiralling-in-scope-and-destruction</link>
+      <description>America, Israel and Iran were striking a widening array of targets across an expanding area</description>
+      <pubDate>Wed, 08 Apr 2026 19:46:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How dangerous is Mythos, Anthropic’s new AI model?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model</link>
+      <description>Dario Amodei’s warnings should not be dismissed</description>
+      <pubDate>Wed, 08 Apr 2026 19:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partner, scapegoat or spoiler? Israel’s place in a fragile ceasefire</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/08/partner-scapegoat-or-spoiler-israels-place-in-a-fragile-ceasefire</link>
+      <description>The dealmaking between America and Iran is happening without Binyamin Netanyahu</description>
       <pubDate>Wed, 08 Apr 2026 18:11:18 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/18/south-korea-is-still-haunted-by-its-disgraced-ex-president</link>
       <description>A guilty verdict will not settle Yoon Suk Yeol’s toxic legacy</description>
       <pubDate>Wed, 18 Feb 2026 20:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s humanoids are dazzling the world. Who will buy them?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/chinas-humanoids-are-dazzling-the-world-who-will-buy-them</link>
-      <description>The market for robot dancers, alas, is limited</description>
-      <pubDate>Wed, 18 Feb 2026 18:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brain-like computers could be built out of perovskites</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/brain-like-computers-could-be-built-out-of-perovskites</link>
-      <description>The long-hyped materials may have found their niche</description>
-      <pubDate>Wed, 18 Feb 2026 18:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
