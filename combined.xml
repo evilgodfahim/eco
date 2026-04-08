@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The ceasefire puts Israel in an awkward spot</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/08/the-ceasefire-puts-israel-in-an-awkward-spot</link>
+      <description>Binyamin Netanyahu could yet be transformed from partner to scapegoat</description>
+      <pubDate>Wed, 08 Apr 2026 18:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mummified reptiles are revealing how breathing evolved</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/08/mummified-reptiles-are-revealing-how-breathing-evolved</link>
+      <description>The question had previously been up in the air</description>
+      <pubDate>Wed, 08 Apr 2026 17:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI models could offer mathematicians a common language</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/08/ai-models-could-offer-mathematicians-a-common-language</link>
+      <description>Some hope they will simplify the process of verifying proofs</description>
+      <pubDate>Wed, 08 Apr 2026 17:45:12 +0000</pubDate>
+    </item>
+    <item>
       <title>How France learned to fight Russian disinformation</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/08/how-france-learned-to-fight-russian-disinformation</link>
       <description>The EU’s most-targeted country is counterattacking against fake news</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/brain-like-computers-could-be-built-out-of-perovskites</link>
       <description>The long-hyped materials may have found their niche</description>
       <pubDate>Wed, 18 Feb 2026 18:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Human Exposome Project will map how environmental factors shape health</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/the-human-exposome-project-will-map-how-environmental-factors-shape-health</link>
-      <description>It makes the Human Genome Project look easy</description>
-      <pubDate>Wed, 18 Feb 2026 18:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How ICE’s new software tools could speed up deportations</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/18/how-ices-new-software-tools-could-speed-up-deportations</link>
-      <description>The risk of overreach is high</description>
-      <pubDate>Wed, 18 Feb 2026 18:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The front line in America’s child-vaccine battle</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/18/the-front-line-in-americas-child-vaccine-battle</link>
-      <description>How far can RFK junior push state policies? West Virginia will provide an answer</description>
-      <pubDate>Wed, 18 Feb 2026 17:26:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
