@@ -5,9 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>With the ceasefire looking shaky, the region questions its future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/08/with-the-ceasefire-looking-shaky-the-region-questions-its-future</link>
-      <description>Even as America and Iran pause, the war reveals how exposed the Gulf has become</description>
+      <title>The third Gulf war will scar energy markets for a long time yet</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/08/the-third-gulf-war-will-scar-energy-markets-for-a-long-time-yet</link>
+      <description>Residual risks and ruined infrastructure will keep prices high</description>
+      <pubDate>Wed, 08 Apr 2026 21:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Every company is now a media company—and every boss a star</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/08/every-company-is-now-a-media-company-and-every-boss-a-star</link>
+      <description>The rise of the chatter-industrial complex</description>
+      <pubDate>Wed, 08 Apr 2026 21:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>With the ceasefire looking shaky, the Gulf questions its future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/08/with-the-ceasefire-looking-shaky-the-gulf-questions-its-future</link>
+      <description>Even as America and Iran pause, the war reveals how exposed the region has become</description>
       <pubDate>Wed, 08 Apr 2026 21:12:48 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/welcome-to-the-era-of-anarchic-antitrust</link>
       <description>Competition enforcement in America has descended into chaos</description>
       <pubDate>Wed, 18 Feb 2026 22:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why insider trading isn’t always bad</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/18/why-insider-trading-isnt-always-bad</link>
-      <description>At least on prediction markets</description>
-      <pubDate>Wed, 18 Feb 2026 22:01:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>That irritating feeling that France was right</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/18/that-irritating-feeling-that-france-was-right</link>
-      <description>Donald Trump’s America makes Gaullism respectable again</description>
-      <pubDate>Wed, 18 Feb 2026 21:31:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
