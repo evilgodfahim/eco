@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump is the war’s biggest loser</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/09/donald-trump-is-the-wars-biggest-loser</link>
+      <description>There is a reason he wants an exit from Iran</description>
+      <pubDate>Thu, 09 Apr 2026 09:05:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How war has made a 33-year-old the Czech Republic’s richest man</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/09/how-war-has-made-a-33-year-old-the-czech-republics-richest-man</link>
+      <description>The rapid rise of CSG, Europe’s newest defence giant</description>
+      <pubDate>Thu, 09 Apr 2026 08:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A ceasefire will not stop the Iran war’s economic consequences</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/09/a-ceasefire-will-not-stop-the-iran-wars-economic-consequences</link>
+      <description>Even if the Strait of Hormuz reopens, expect lasting change to energy markets</description>
+      <pubDate>Thu, 09 Apr 2026 08:43:58 +0000</pubDate>
+    </item>
+    <item>
       <title>The third Gulf war will scar energy markets for a long time yet</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/08/the-third-gulf-war-will-scar-energy-markets-for-a-long-time-yet</link>
       <description>Residual risks and ruined infrastructure will keep prices high</description>
@@ -127,7 +145,7 @@
     <item>
       <title>As Iran’s civilian economy crumbles, its military economy grows stronger</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/06/as-irans-civilian-economy-crumbles-its-military-economy-grows-stronger</link>
-      <description>War is splitting the country in two</description>
+      <description>War has split the country in two</description>
       <pubDate>Mon, 06 Apr 2026 19:45:06 +0000</pubDate>
     </item>
     <item>
@@ -167,8 +185,8 @@
       <pubDate>Sun, 05 Apr 2026 11:22:44 +0000</pubDate>
     </item>
     <item>
-      <title>The tumbling rupee is a big problem for Narendra Modi</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/05/the-tumbling-rupee-is-a-big-problem-for-narendra-modi</link>
+      <title>The tumbling rupee could be a big problem for Narendra Modi</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/05/the-tumbling-rupee-could-be-a-big-problem-for-narendra-modi</link>
       <description>India’s prime minister knows the risks of a weak currency</description>
       <pubDate>Sun, 05 Apr 2026 08:52:41 +0000</pubDate>
     </item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting</link>
       <description>That does not mean regulators should stamp it out</description>
       <pubDate>Thu, 19 Feb 2026 10:33:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vladimir Putin is caught in a vice of his own making</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/19/vladimir-putin-is-caught-in-a-vice-of-his-own-making</link>
-      <description>Russia’s president cannot win the war, but fears peace</description>
-      <pubDate>Thu, 19 Feb 2026 10:24:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t go after the rich to fix broken budgets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/19/dont-go-after-the-rich-to-fix-broken-budgets</link>
-      <description>It will not work, and is wrong in principle</description>
-      <pubDate>Thu, 19 Feb 2026 10:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome to the era of anarchic antitrust</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/18/welcome-to-the-era-of-anarchic-antitrust</link>
-      <description>Competition enforcement in America has descended into chaos</description>
-      <pubDate>Wed, 18 Feb 2026 22:15:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
