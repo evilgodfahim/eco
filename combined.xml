@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Even Hungary’s skewed elections might not save Viktor Orban</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/04/09/even-hungarys-skewed-elections-might-not-save-viktor-orban</link>
+      <description>The ruling party is playing dirty. But our analysis shows the liberal opposition has a real chance of winning</description>
+      <pubDate>Thu, 09 Apr 2026 19:24:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Sir Keir Starmer is Britain’s best hope for legalising assisted dying</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/09/sir-keir-starmer-is-britains-best-hope-for-legalising-assisted-dying</link>
       <description>He should stop dawdling</description>
@@ -155,8 +161,8 @@
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
     <item>
-      <title>Recent revolts in Africa reflect anger with the status quo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/recent-revolts-in-africa-reflect-anger-with-the-status-quo</link>
+      <title>Africa’s protests span countries, classes and causes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/africas-protests-span-countries-classes-and-causes</link>
       <description>But can they bring lasting change?</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface</link>
       <description>AI is prompting investors to reassess every business model under the sun</description>
       <pubDate>Sun, 22 Feb 2026 12:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s VIP culture is out of control</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control</link>
-      <description>The country’s leaders claim to be servants but act like masters</description>
-      <pubDate>Sun, 22 Feb 2026 09:55:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
