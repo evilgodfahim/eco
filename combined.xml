@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: Donald Trump is the war’s biggest loser</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/10/cover-story-newsletter-donald-trump-is-the-wars-biggest-loser</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 10 Apr 2026 19:28:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are sugar substitutes healthier than the real thing?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing</link>
+      <description>We share some bitter truths</description>
+      <pubDate>Fri, 10 Apr 2026 18:18:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Scam Inc has a new weapon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/asia/2026/04/10/scam-inc-has-a-new-weapon</link>
       <description>For the first time, investigators have traced spyware to its physical origin—revealing new types of duplicity</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/23/rejoice-private-equity-is-taking-over-americas-small-businesses</link>
       <description>Its ghoulish reputation is ill-deserved</description>
       <pubDate>Mon, 23 Feb 2026 12:07:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>What are Donald Trump’s strike options in Iran?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/22/what-are-donald-trumps-strike-options-in-iran</link>
-      <description>An immense armada threatens the regime, but it is not yet blinking</description>
-      <pubDate>Sun, 22 Feb 2026 21:32:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why one corner of Europe’s car industry is still booming</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/22/why-one-corner-of-europes-car-industry-is-still-booming</link>
-      <description>The world’s most car-intensive economy draws plenty of investment, for now</description>
-      <pubDate>Sun, 22 Feb 2026 13:01:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
