@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Scam Inc has a new weapon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/asia/2026/04/10/scam-inc-has-a-new-weapon</link>
+      <description>For the first time, investigators have traced spyware to its physical origin—revealing new types of duplicity</description>
+      <pubDate>Fri, 10 Apr 2026 10:29:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Even Hungary’s skewed elections might not save Viktor Orban</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/04/09/even-hungarys-skewed-elections-might-not-save-viktor-orban</link>
       <description>The ruling party is playing dirty. But our analysis shows the liberal opposition has a real chance of winning</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet</link>
       <description>Artificial intelligence is improving fast. Its effect on output, not so much</description>
       <pubDate>Sun, 22 Feb 2026 12:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Markets are churning furiously beneath the surface</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface</link>
-      <description>AI is prompting investors to reassess every business model under the sun</description>
-      <pubDate>Sun, 22 Feb 2026 12:29:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
