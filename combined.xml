@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>After the war, how open will the Strait of Hormuz be?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/10/after-the-war-how-open-will-the-strait-of-hormuz-be</link>
+      <description>Access may come at a price</description>
+      <pubDate>Fri, 10 Apr 2026 20:14:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: Donald Trump is the war’s biggest loser</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/10/cover-story-newsletter-donald-trump-is-the-wars-biggest-loser</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/23/the-killing-of-mexicos-most-powerful-narco-will-please-donald-trump</link>
       <description>But it risks provoking terrible violence in Mexico</description>
       <pubDate>Mon, 23 Feb 2026 12:21:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rejoice! Private equity is taking over America’s small businesses</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/23/rejoice-private-equity-is-taking-over-americas-small-businesses</link>
-      <description>Its ghoulish reputation is ill-deserved</description>
-      <pubDate>Mon, 23 Feb 2026 12:07:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
