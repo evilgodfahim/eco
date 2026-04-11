@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America and Iran start a high-stakes negotiation to end their war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/11/america-and-iran-start-a-high-stakes-negotiation-to-end-their-war</link>
+      <description>Their best hope may be an interim deal that buys time for more talks</description>
+      <pubDate>Sat, 11 Apr 2026 18:28:05 +0000</pubDate>
+    </item>
+    <item>
       <title>The Climate Issue: The blue marble, then and now</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/11/the-climate-issue-the-blue-marble-then-and-now</link>
       <description>Our planetary-affairs editor, Oliver Morton, looks at the connection between space travel and climate science</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/23/where-the-dhs-shutdown-could-start-to-hurt</link>
       <description>So far the budget impasse has caused little public outcry. That may soon change</description>
       <pubDate>Mon, 23 Feb 2026 18:28:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>France’s far left reckons with the murder of a far-right activist</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/23/frances-far-left-reckons-with-the-murder-of-a-far-right-activist</link>
-      <description>Quentin Deranque’s death forces the left to confront its extremists</description>
-      <pubDate>Mon, 23 Feb 2026 17:54:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
