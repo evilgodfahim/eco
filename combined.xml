@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Why Trump’s empty words still matter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/11/checks-and-balance-newsletter-why-trumps-empty-words-still-matter</link>
+      <description>John Prideaux, our US editor, reflects on the president’s threats to wipe out Iranian civilisation</description>
+      <pubDate>Sat, 11 Apr 2026 11:57:45 +0000</pubDate>
+    </item>
+    <item>
       <title>After the war, how open will the Strait of Hormuz be?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/10/after-the-war-how-open-will-the-strait-of-hormuz-be</link>
       <description>Access may come at a price</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/23/the-rotten-tail-of-chinas-property-bust</link>
       <description>Officials want to spread the pain as widely as possible</description>
       <pubDate>Mon, 23 Feb 2026 15:18:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The killing of Mexico’s most powerful narco will please Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/23/the-killing-of-mexicos-most-powerful-narco-will-please-donald-trump</link>
-      <description>But it risks provoking terrible violence in Mexico</description>
-      <pubDate>Mon, 23 Feb 2026 12:21:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
