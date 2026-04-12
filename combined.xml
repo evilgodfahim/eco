@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The secret of India’s most liveable megacity</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/12/the-secret-of-indias-most-liveable-megacity</link>
+      <description>Kolkata’s pleasantness is not something to celebrate</description>
+      <pubDate>Sun, 12 Apr 2026 11:45:01 +0000</pubDate>
+    </item>
+    <item>
       <title>There is still time to resurrect talks between America and Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/12/there-is-still-time-to-resurrect-talks-between-america-and-iran</link>
       <description>But there is also a chance the war is about to get worse</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/02/23/how-russias-fatalities-compare-with-ukraines</link>
       <description>After four years of fighting, our modelling reveals a grim toll</description>
       <pubDate>Mon, 23 Feb 2026 20:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: What is Donald Trump’s aim for Iran?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/23/the-war-room-newsletter-what-is-donald-trumps-aim-for-iran</link>
-      <description>Shashank Joshi, our defence editor, analyses the president’s options</description>
-      <pubDate>Mon, 23 Feb 2026 19:27:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
