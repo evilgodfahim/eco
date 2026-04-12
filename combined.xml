@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Peter Magyar defeats illiberal hero Viktor Orban in Hungary</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/12/peter-magyar-defeats-illiberal-hero-viktor-orban-in-hungary</link>
+      <description>The upstart hands the populist a crushing defeat</description>
+      <pubDate>Sun, 12 Apr 2026 22:38:42 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s next Fed chair is caught in a vice</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/12/americas-next-fed-chair-is-caught-in-a-vice</link>
       <description>Inflation was heating up even before the war in Iran</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/bosses-should-not-hold-their-breath-for-a-trump-tariff-refund</link>
       <description>The process will be slow and politically fraught</description>
       <pubDate>Tue, 24 Feb 2026 15:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The war against PDFs is heating up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up</link>
-      <description>Will the file type survive the AI revolution?</description>
-      <pubDate>Tue, 24 Feb 2026 14:55:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
