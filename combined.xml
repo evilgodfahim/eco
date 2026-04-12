@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>There is still time to resurrect talks between America and Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/12/there-is-still-time-to-resurrect-talks-between-america-and-iran</link>
+      <description>But there is also a chance the war is about to get worse</description>
+      <pubDate>Sun, 12 Apr 2026 10:08:53 +0000</pubDate>
+    </item>
+    <item>
       <title>America and Iran start a high-stakes negotiation to end their war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/11/america-and-iran-start-a-high-stakes-negotiation-to-end-their-war</link>
       <description>Their best hope may be an interim deal that buys time for more talks</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/23/the-war-room-newsletter-what-is-donald-trumps-aim-for-iran</link>
       <description>Shashank Joshi, our defence editor, analyses the president’s options</description>
       <pubDate>Mon, 23 Feb 2026 19:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where the DHS shutdown could start to hurt</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/23/where-the-dhs-shutdown-could-start-to-hurt</link>
-      <description>So far the budget impasse has caused little public outcry. That may soon change</description>
-      <pubDate>Mon, 23 Feb 2026 18:28:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
