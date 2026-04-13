@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why the Trump administration is waging war on fraud</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/13/why-the-trump-administration-is-waging-war-on-fraud</link>
+      <description>Medicare and Medicaid have problems. But that is not the whole story</description>
+      <pubDate>Mon, 13 Apr 2026 16:41:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s blockade of Hormuz is a dangerous gamble</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/13/donald-trumps-blockade-of-hormuz-is-a-dangerous-gamble</link>
       <description>It further undermines international law and could lead to new fighting</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/24/its-californias-250th-birthday-too</link>
       <description>Kind of</description>
       <pubDate>Tue, 24 Feb 2026 18:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pete Hegseth wages war on Anthropic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/pete-hegseth-wages-war-on-anthropic</link>
-      <description>Should AI labs unquestioningly obey the Pentagon’s orders?</description>
-      <pubDate>Tue, 24 Feb 2026 17:53:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
