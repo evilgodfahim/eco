@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>From Ralph Lauren to The Row, American luxury is booming</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/13/from-ralph-lauren-to-the-row-american-luxury-is-booming</link>
+      <description>Can the old world fight back?</description>
+      <pubDate>Mon, 13 Apr 2026 19:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Hungary can now lead the fight against illiberalism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/13/how-hungary-can-now-lead-the-fight-against-illiberalism</link>
+      <description>Having vanquished Viktor Orban, Peter Magyar must get to work</description>
+      <pubDate>Mon, 13 Apr 2026 18:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: The consequences of the Hormuz blockade</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/13/the-war-room-newsletter-the-consequences-of-the-hormuz-blockade</link>
+      <description>Shashank Joshi, our defence editor, analyses what blocking off the strait would mean for oil prices, geopolitics and Donald Trump’s political calendar</description>
+      <pubDate>Mon, 13 Apr 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the Gulf, Ukraine flaunts its skill at intercepting drones</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/13/in-the-gulf-ukraine-flaunts-its-skill-at-intercepting-drones</link>
+      <description>Deals with Saudi Arabia, Qatar and the United Arab Emirates show it is now a defence-industry power</description>
+      <pubDate>Mon, 13 Apr 2026 17:56:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Why the Trump administration is waging war on fraud</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/13/why-the-trump-administration-is-waging-war-on-fraud</link>
       <description>Medicare and Medicaid have problems. But that is not the whole story</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/25/modernisation-is-making-south-east-asia-more-islamic</link>
       <description>Economic growth in Malaysia and Indonesia has not led to secularism</description>
       <pubDate>Wed, 25 Feb 2026 14:35:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s unworthy state of the union</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/25/donald-trumps-unworthy-state-of-the-union</link>
-      <description>An address not fit for America’s 250th birthday</description>
-      <pubDate>Wed, 25 Feb 2026 09:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>A stay-calm plan to save the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/02/24/a-stay-calm-plan-to-save-the-world</link>
-      <description>Alas, almost no foreign leader is as reasonable as Finland’s president, Alexander Stubb</description>
-      <pubDate>Tue, 24 Feb 2026 22:43:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil’s high court is caught up in a vast scandal</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/02/24/brazils-high-court-is-caught-up-in-a-vast-scandal</link>
-      <description>Some of the world’s most powerful judges have an over-cosy relationship with business and political elites</description>
-      <pubDate>Tue, 24 Feb 2026 19:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s California’s 250th birthday, too</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/02/24/its-californias-250th-birthday-too</link>
-      <description>Kind of</description>
-      <pubDate>Tue, 24 Feb 2026 18:18:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
