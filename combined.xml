@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s pension failings expose its harshest inequality</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/13/chinas-pension-failings-expose-its-harshest-inequality</link>
+      <description>Uneven hand-outs see the rural elderly till the soil while urbanites enjoy retirement</description>
+      <pubDate>Mon, 13 Apr 2026 14:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The tech jobs bust is real. Don’t blame AI (yet)</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet</link>
+      <description>Why technology firms are shedding workers</description>
+      <pubDate>Mon, 13 Apr 2026 13:19:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Peter Magyar topples illiberal hero Viktor Orban in Hungary</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/12/peter-magyar-topples-illiberal-hero-viktor-orban-in-hungary</link>
       <description>The upstart hands the populist a crushing defeat</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/24/analysing-africa-newsletter-an-interview-with-zambias-president</link>
       <description>John McDermott, our chief Africa correspondent, talks to Hakainde Hichilema</description>
       <pubDate>Tue, 24 Feb 2026 17:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to get rich in modern China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/24/how-to-get-rich-in-modern-china</link>
-      <description>Some of the country’s brightest are cashing in on a state-backed surge</description>
-      <pubDate>Tue, 24 Feb 2026 16:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bosses should not hold their breath for a Trump tariff refund</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/24/bosses-should-not-hold-their-breath-for-a-trump-tariff-refund</link>
-      <description>The process will be slow and politically fraught</description>
-      <pubDate>Tue, 24 Feb 2026 15:46:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
