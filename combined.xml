@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to build a portfolio when bonds fail to buffer stocks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/14/how-to-build-a-portfolio-when-bonds-fail-to-buffer-stocks</link>
+      <description>The classic hedge has fallen apart, but don’t dump it just yet</description>
+      <pubDate>Tue, 14 Apr 2026 17:12:12 +0000</pubDate>
+    </item>
+    <item>
       <title>A battle for female voters is changing India’s elections</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/14/a-battle-for-female-voters-is-changing-indias-elections</link>
       <description>Politicians are doling out cash to get their support</description>
@@ -17,15 +23,15 @@
       <pubDate>Tue, 14 Apr 2026 15:44:54 +0000</pubDate>
     </item>
     <item>
-      <title>How to make buffet breakfasts less wasteful</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful</link>
+      <title>Buffet breakfasts could be less wasteful</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/14/buffet-breakfasts-could-be-less-wasteful</link>
       <description>A computer model has found some counterintuitive solutions</description>
       <pubDate>Tue, 14 Apr 2026 13:47:57 +0000</pubDate>
     </item>
     <item>
       <title>Why Israel continues to batter Lebanon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/14/why-israel-continues-to-batter-lebanon</link>
-      <description>Even as the first official talks between the countries in decades are set to begin</description>
+      <description>Even as the countries met for their first talks in decades</description>
       <pubDate>Tue, 14 Apr 2026 13:35:32 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/02/25/americans-have-no-idea-what-donald-trump-wants-from-iran</link>
       <description>The president himself may be among them</description>
       <pubDate>Wed, 25 Feb 2026 19:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marks left by Stone Age humans were surprisingly complex</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/02/25/marks-left-by-stone-age-humans-were-surprisingly-complex</link>
-      <description>Their information density rivals the immediate predecessors of writing</description>
-      <pubDate>Wed, 25 Feb 2026 18:39:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
