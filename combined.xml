@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Analysing Africa newsletter: A special edition answering your questions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/15/analysing-africa-newsletter-a-special-edition-answering-your-questions</link>
+      <description>John McDermott, our Chief Africa correspondent, rummages through the postbag</description>
+      <pubDate>Wed, 15 Apr 2026 11:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Middle East Dispatch newsletter: Decades under the smoke trail</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/15/middle-east-dispatch-newsletter-decades-under-the-smoke-trail</link>
+      <description>Anshel Pfeffer, our Jerusalem correspondent, visits Kiryat Shmona, by the Israeli-Lebanese border</description>
+      <pubDate>Wed, 15 Apr 2026 11:10:22 +0000</pubDate>
+    </item>
+    <item>
       <title>A tax revolt is under way in America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/14/a-tax-revolt-is-under-way-in-america</link>
       <description>Republicans and Democrats alike want to take an axe to taxes</description>
@@ -973,7 +985,7 @@
     <item>
       <title>Should you track your VO2 max?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/27/should-you-track-your-vo2-max</link>
-      <description>Treat it is a measure, not a target</description>
+      <description>Treat it as a measure, not a target</description>
       <pubDate>Fri, 27 Mar 2026 18:12:15 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/25/a-viral-research-note-on-ai-gets-its-economics-wrong</link>
       <description>Too much of a good thing</description>
       <pubDate>Wed, 25 Feb 2026 22:21:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luxury goods are Europe’s global tax on vanity</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/25/luxury-goods-are-europes-global-tax-on-vanity</link>
-      <description>How to trade cachet for dollars and yuan</description>
-      <pubDate>Wed, 25 Feb 2026 21:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>American labs say China’s AI tigers are copycats</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/02/25/american-labs-say-chinas-ai-tigers-are-copycats</link>
-      <description>DeepSeek’s new model has American officials and firms on edge</description>
-      <pubDate>Wed, 25 Feb 2026 20:58:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
