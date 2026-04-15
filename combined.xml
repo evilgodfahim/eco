@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How natural selection really shaped humanity</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/15/how-natural-selection-really-shaped-humanity</link>
+      <description>Adaptation in response to evolutionary pressure is surprisingly common</description>
+      <pubDate>Wed, 15 Apr 2026 20:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orban-proofing the EU</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/15/orban-proofing-the-eu</link>
+      <description>How the leader of a small, poor country held such sway over the bloc</description>
+      <pubDate>Wed, 15 Apr 2026 20:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zimbabwe’s bizarre economic boom</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/15/zimbabwes-bizarre-economic-boom</link>
+      <description>A gold rush is combined with a power grab</description>
+      <pubDate>Wed, 15 Apr 2026 20:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI hackers will shake up cyber-security</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/15/how-ai-hackers-will-shake-up-cyber-security</link>
+      <description>The technology could eventually favour the defenders—but expect a bumpy ride</description>
+      <pubDate>Wed, 15 Apr 2026 20:19:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Pete Hegseth’s Pentagon is a lethality-maxxing wasps’ nest</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/15/pete-hegseths-pentagon-is-a-lethality-maxxing-wasps-nest</link>
       <description>America’s armed forces are supremely capable and roiled by infighting</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/26/americas-trade-chaos-is-just-beginning</link>
       <description>Tariff wrangling will stretch through the rest of Donald Trump’s term, and beyond</description>
       <pubDate>Thu, 26 Feb 2026 10:37:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protectionists dislike trade and migration. And capital flows?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/26/protectionists-dislike-trade-and-migration-and-capital-flows</link>
-      <description>The amount of money crossing borders has flattened off—but not because of capital controls</description>
-      <pubDate>Thu, 26 Feb 2026 10:36:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Chinese people spend so much on food</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/26/why-chinese-people-spend-so-much-on-food</link>
-      <description>A 21st-century test of a 19th-century observation</description>
-      <pubDate>Thu, 26 Feb 2026 10:31:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s dangerous pursuit of critical-mineral dominance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/26/americas-dangerous-pursuit-of-critical-mineral-dominance</link>
-      <description>With a more focused approach, it could break China’s chokehold</description>
-      <pubDate>Thu, 26 Feb 2026 09:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s new era of state-sponsored mining</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/02/26/americas-new-era-of-state-sponsored-mining</link>
-      <description>Desperate to break China’s grip on critical minerals, the Trump administration is splashing cash around the world</description>
-      <pubDate>Thu, 26 Feb 2026 09:49:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
