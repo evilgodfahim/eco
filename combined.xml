@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>David Zaslav and the tyranny of incentives</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/15/david-zaslav-and-the-tyranny-of-incentives</link>
+      <description>The Warner CEO’s payout is a cautionary tale</description>
+      <pubDate>Wed, 15 Apr 2026 22:51:12 +0000</pubDate>
+    </item>
+    <item>
       <title>How to end the war in Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/15/how-to-end-the-war-in-iran</link>
       <description>America and Iran must resume their efforts to strike a deal, even though it is sure to be an imperfect one</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/26/the-fake-meat-industry-is-in-trouble</link>
       <description>Business is slowing down. Time to tempt new palates</description>
       <pubDate>Thu, 26 Feb 2026 10:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOS for India’s Pink City</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/02/26/sos-for-indias-pink-city</link>
-      <description>A threat from UNESCO might prod Jaipur into saving its heritage</description>
-      <pubDate>Thu, 26 Feb 2026 10:40:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
