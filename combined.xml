@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>War will drain the Gulf’s $6trn treasure chest</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/15/war-will-drain-the-gulfs-6trn-treasure-chest</link>
+      <description>The conflict complicates life for the custodians of Middle Eastern oil fortunes</description>
+      <pubDate>Wed, 15 Apr 2026 13:37:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Analysing Africa newsletter: A special edition answering your questions</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/15/analysing-africa-newsletter-a-special-edition-answering-your-questions</link>
       <description>John McDermott, our Chief Africa correspondent, rummages through the postbag</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/25/americas-welfare-state-is-more-european-than-you-think</link>
       <description>State-level policies are making up for stingy federal provision</description>
       <pubDate>Wed, 25 Feb 2026 22:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A viral research note on AI gets its economics wrong</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/02/25/a-viral-research-note-on-ai-gets-its-economics-wrong</link>
-      <description>Too much of a good thing</description>
-      <pubDate>Wed, 25 Feb 2026 22:21:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
