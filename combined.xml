@@ -5,10 +5,22 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Collapsing remittances will compound Asia’s energy shock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/16/collapsing-remittances-will-compound-asias-energy-shock</link>
+      <description>Could workers kicked out of the Gulf find fortune in East Asia?</description>
+      <pubDate>Thu, 16 Apr 2026 10:54:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The ugly history of “America First”</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/16/checks-and-balance-newsletter-the-ugly-history-of-america-first</link>
       <description>Jon Fasman, our senior culture correspondent, revisits a moment of fierce isolationist sentiment</description>
       <pubDate>Thu, 16 Apr 2026 10:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could AI’s leading men become as powerful as Ford or Rockefeller?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller</link>
+      <description>For now, they are still a long way behind</description>
+      <pubDate>Thu, 16 Apr 2026 10:33:44 +0000</pubDate>
     </item>
     <item>
       <title>Millions will go hungry if the Strait of Hormuz stays closed</title>
@@ -131,7 +143,7 @@
       <pubDate>Tue, 14 Apr 2026 20:11:50 +0000</pubDate>
     </item>
     <item>
-      <title>If it starts, a nuclear arms race will be unstoppable</title>
+      <title>If it starts, a nuclear-arms race will be unstoppable</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/14/if-it-starts-a-nuclear-arms-race-will-be-unstoppable</link>
       <description>A sobering interview with the head of the International Atomic Energy Agency</description>
       <pubDate>Tue, 14 Apr 2026 19:46:48 +0000</pubDate>
@@ -155,15 +167,15 @@
       <pubDate>Tue, 14 Apr 2026 15:44:54 +0000</pubDate>
     </item>
     <item>
-      <title>Buffet breakfasts could be less wasteful</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/14/buffet-breakfasts-could-be-less-wasteful</link>
+      <title>How to make buffet breakfasts less wasteful</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful</link>
       <description>A computer model has found some counterintuitive solutions</description>
       <pubDate>Tue, 14 Apr 2026 13:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>Why Israel continues to batter Lebanon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/14/why-israel-continues-to-batter-lebanon</link>
-      <description>Even as the countries met for their first talks in decades</description>
+      <title>Israel and Lebanon both want to dislodge Hizbullah</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/14/israel-and-lebanon-both-want-to-dislodge-hizbullah</link>
+      <description>Will Iran let them?</description>
       <pubDate>Tue, 14 Apr 2026 13:35:32 +0000</pubDate>
     </item>
     <item>
@@ -2990,18 +3002,6 @@
       <title>Giorgia Meloni is taking on the courts in Italy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/02/26/giorgia-meloni-is-taking-on-the-courts-in-italy</link>
       <description>Italy’s referendum will do nothing to speed up its sluggish judiciary</description>
-      <pubDate>Thu, 26 Feb 2026 13:56:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tony Robbins, the megalosaurus of motivation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/26/tony-robbins-the-megalosaurus-of-motivation</link>
-      <description>Watching the world’s best-known life coach do his thing</description>
-      <pubDate>Thu, 26 Feb 2026 13:56:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The stunning rise of China’s most audacious miner</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/26/the-stunning-rise-of-chinas-most-audacious-miner</link>
-      <description>Zijin Mining is giving Western giants a run for their money</description>
       <pubDate>Thu, 26 Feb 2026 13:56:23 +0000</pubDate>
     </item>
   </channel>
