@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America wakes up to AI’s dangerous power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power</link>
+      <description>After Mythos, a laissez-faire approach is no longer politically tenable or strategically wise</description>
+      <pubDate>Thu, 16 Apr 2026 08:16:15 +0000</pubDate>
+    </item>
+    <item>
       <title>David Zaslav and the tyranny of incentives</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/15/david-zaslav-and-the-tyranny-of-incentives</link>
       <description>The Warner CEO’s payout is a cautionary tale</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/02/26/donald-trump-is-at-risk-of-launching-a-war-without-purpose</link>
       <description>A conflict with Iran without a clear objective would be recklessly dangerous</description>
       <pubDate>Thu, 26 Feb 2026 12:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fake-meat industry is in trouble</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/02/26/the-fake-meat-industry-is-in-trouble</link>
-      <description>Business is slowing down. Time to tempt new palates</description>
-      <pubDate>Thu, 26 Feb 2026 10:53:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
