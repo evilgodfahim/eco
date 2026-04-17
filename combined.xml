@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The Mythos moment</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/17/cover-story-newsletter-the-mythos-moment</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 17 Apr 2026 18:39:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Is bone broth good for you?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/17/is-bone-broth-good-for-you</link>
       <description>Or is it just tasty?</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/01/at-last-reasons-to-be-cheerful-about-european-tech</link>
       <description>One of which is Donald Trump</description>
       <pubDate>Sun, 01 Mar 2026 13:41:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>War in Iran could cause the biggest oil shock in years</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years</link>
-      <description>Prices have surged—and may stay high for a while</description>
-      <pubDate>Sun, 01 Mar 2026 12:28:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
