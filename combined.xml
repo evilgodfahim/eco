@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is bone broth good for you?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/17/is-bone-broth-good-for-you</link>
+      <description>Or is it just tasty?</description>
+      <pubDate>Fri, 17 Apr 2026 18:06:27 +0000</pubDate>
+    </item>
+    <item>
       <title>A lasting Lebanese peace still looks a long way off</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/17/a-lasting-lebanese-peace-still-looks-a-long-way-off</link>
       <description>Donald Trump has enforced a ceasefire, but that is just a start</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years</link>
       <description>Prices have surged—and may stay high for a while</description>
       <pubDate>Sun, 01 Mar 2026 12:28:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ali Khamenei may be dead, but Donald Trump has unfinished business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/01/ali-khamenei-may-be-dead-but-donald-trump-has-unfinished-business</link>
-      <description>The president has declared bombing will continue until it brings “peace”</description>
-      <pubDate>Sun, 01 Mar 2026 11:38:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
