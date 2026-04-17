@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Hormuz is (apparently) unblocked. Energy markets remain a mess</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/17/hormuz-is-apparently-unblocked-energy-markets-remain-a-mess</link>
+      <description>Mines, mistrust and missing ships will keep markets tight for months</description>
+      <pubDate>Fri, 17 Apr 2026 19:42:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The Mythos moment</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/17/cover-story-newsletter-the-mythos-moment</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/01/gavin-newsom-wants-to-reintroduce-himself</link>
       <description>The governor has become the de facto leader of the Democratic Party</description>
       <pubDate>Sun, 01 Mar 2026 16:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>At last, reasons to be cheerful about European tech</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/01/at-last-reasons-to-be-cheerful-about-european-tech</link>
-      <description>One of which is Donald Trump</description>
-      <pubDate>Sun, 01 Mar 2026 13:41:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
