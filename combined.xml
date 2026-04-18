@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Of God and MAGA</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/18/checks-and-balance-newsletter-of-god-and-maga</link>
+      <description>Charlotte Howard, our executive editor and New York bureau chief, unpacks the blurring of church and state among Donald Trump’s circle</description>
+      <pubDate>Sat, 18 Apr 2026 13:57:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Hormuz is (apparently) unblocked. Energy markets remain a mess</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/17/hormuz-is-apparently-unblocked-energy-markets-remain-a-mess</link>
       <description>Mines, mistrust and missing ships will keep markets tight for months</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/01/why-donald-trump-gambled-in-iran</link>
       <description>The disruptor-in-chief wants to send a message to enemies everywhere by demonstrating the devastating nature of American power</description>
       <pubDate>Sun, 01 Mar 2026 20:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gavin Newsom wants to reintroduce himself</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/01/gavin-newsom-wants-to-reintroduce-himself</link>
-      <description>The governor has become the de facto leader of the Democratic Party</description>
-      <pubDate>Sun, 01 Mar 2026 16:09:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
