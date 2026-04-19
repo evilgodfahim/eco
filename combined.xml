@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What have the Mughals ever done for us?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/19/what-have-the-mughals-ever-done-for-us</link>
+      <description>How India’s greatest Muslim empire built its most powerful Hindu party</description>
+      <pubDate>Sun, 19 Apr 2026 10:09:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Why your AI assistant is suddenly selling to you</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you</link>
       <description>Sponsored chats are changing the way digital advertising works</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/02/in-iran-donald-trump-is-making-history</link>
       <description>Too bad he has so little appreciation for its lessons</description>
       <pubDate>Mon, 02 Mar 2026 02:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>War, succession and the perilous test of two myths about Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/01/war-succession-and-the-perilous-test-of-two-myths-about-iran</link>
-      <description>America wagers on collapse; the regime on endurance</description>
-      <pubDate>Sun, 01 Mar 2026 21:43:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
