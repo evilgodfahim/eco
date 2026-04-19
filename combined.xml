@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why your AI assistant is suddenly selling to you</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you</link>
+      <description>Sponsored chats are changing the way digital advertising works</description>
+      <pubDate>Sun, 19 Apr 2026 10:06:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Of God and MAGA</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/18/checks-and-balance-newsletter-of-god-and-maga</link>
       <description>Charlotte Howard, our executive editor and New York bureau chief, unpacks the blurring of church and state among Donald Trump’s circle</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/01/war-succession-and-the-perilous-test-of-two-myths-about-iran</link>
       <description>America wagers on collapse; the regime on endurance</description>
       <pubDate>Sun, 01 Mar 2026 21:43:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Donald Trump gambled in Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/01/why-donald-trump-gambled-in-iran</link>
-      <description>The disruptor-in-chief wants to send a message to enemies everywhere by demonstrating the devastating nature of American power</description>
-      <pubDate>Sun, 01 Mar 2026 20:19:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
