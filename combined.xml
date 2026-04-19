@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Chinese satellites have boosted Iran’s war effort</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/19/how-chinese-satellites-have-boosted-irans-war-effort</link>
+      <description>As American images went dark, Chinese alternatives filled the void</description>
+      <pubDate>Sun, 19 Apr 2026 19:28:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Which Iran is America dealing with?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/19/which-iran-is-america-dealing-with</link>
       <description>With talks set to resume, rivalries in the Iranian leadership could stymie a truce</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/02/cover-story-newsletter-the-daunting-quest-for-critical-minerals</link>
       <description>An exclusive look at how we designed this week’s covers</description>
       <pubDate>Mon, 02 Mar 2026 15:56:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s ice-cold calculus over Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/02/chinas-ice-cold-calculus-over-iran</link>
-      <description>In the Middle East, it is a political weakling but an economic force</description>
-      <pubDate>Mon, 02 Mar 2026 13:24:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
