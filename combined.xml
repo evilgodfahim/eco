@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>American corporate profits keep shrugging off global tumult</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult</link>
+      <description>Earnings expectations are through the roof</description>
+      <pubDate>Mon, 20 Apr 2026 19:49:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Albertans find it harder than expected to break from Canada. Good</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/20/albertans-find-it-harder-than-expected-to-break-from-canada-good</link>
       <description>Separatists in the oil-rich province are beset by political and legal challenges</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/02/data-centres-in-space-less-crazy-than-you-think</link>
       <description>They could be cheaper than ones on Earth, with the right technology</description>
       <pubDate>Mon, 02 Mar 2026 19:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Airlines take a hit from hostilities in the Middle East</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/02/airlines-take-a-hit-from-hostilities-in-the-middle-east</link>
-      <description>The war will hurt the Gulf carriers—and the whole industry too</description>
-      <pubDate>Mon, 02 Mar 2026 18:59:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
