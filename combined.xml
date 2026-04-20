@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>As Russia looks to slash budgets, a village fights to survive</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/20/as-russia-looks-to-slash-budgets-a-village-fights-to-survive</link>
+      <description>Officials now openly blame the war in Ukraine for cuts to services</description>
+      <pubDate>Mon, 20 Apr 2026 20:20:01 +0000</pubDate>
+    </item>
+    <item>
       <title>American corporate profits keep shrugging off global tumult</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult</link>
       <description>Earnings expectations are through the roof</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026-hungary-election</link>
       <description>We are tracking the polls for Hungary’s election in April</description>
       <pubDate>Mon, 02 Mar 2026 19:22:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data centres in space: less crazy than you think</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/02/data-centres-in-space-less-crazy-than-you-think</link>
-      <description>They could be cheaper than ones on Earth, with the right technology</description>
-      <pubDate>Mon, 02 Mar 2026 19:17:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
