@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Chernobyl’s forgotten nuclear lessons</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/europe/2026/04/20/chernobyls-forgotten-nuclear-lessons</link>
+      <description>Forty years after the disaster, the power plant still poses a threat</description>
+      <pubDate>Mon, 20 Apr 2026 15:26:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world wants Chinese tech. China is determined to keep it</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/20/the-world-wants-chinese-tech-china-is-determined-to-keep-it</link>
+      <description>China’s rivals are learning how to get what China won’t share</description>
+      <pubDate>Mon, 20 Apr 2026 14:28:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Anduril, Palantir and SpaceX are changing how America wages war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war</link>
       <description>The Trump administration is cosying up to a clique of “neo-primes”</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/the-war-room-newsletter-a-widening-war-in-the-middle-east</link>
       <description>Shashank Joshi, our defence editor, asks how long the escalation in Iran can last</description>
       <pubDate>Mon, 02 Mar 2026 18:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The modest start of America’s foreign forays</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/02/the-modest-start-of-americas-foreign-forays</link>
-      <description>Commemorating the first amphibious assault</description>
-      <pubDate>Mon, 02 Mar 2026 18:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fifteen years after Fukushima, Japan faces an energy dilemma</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/02/fifteen-years-after-fukushima-japan-faces-an-energy-dilemma</link>
-      <description>Restarting the world’s largest nuclear plant will not resolve its problems</description>
-      <pubDate>Mon, 02 Mar 2026 15:59:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
