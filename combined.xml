@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Albertans find it harder than expected to break from Canada. Good</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/20/albertans-find-it-harder-than-expected-to-break-from-canada-good</link>
+      <description>Separatists in the oil-rich province are beset by political and legal challenges</description>
+      <pubDate>Mon, 20 Apr 2026 17:49:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Chernobyl’s forgotten nuclear lessons</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/europe/2026/04/20/chernobyls-forgotten-nuclear-lessons</link>
       <description>Forty years after the disaster, the power plant still poses a threat</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/02/airlines-take-a-hit-from-hostilities-in-the-middle-east</link>
       <description>The war will hurt the Gulf carriers—and the whole industry too</description>
       <pubDate>Mon, 02 Mar 2026 18:59:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: A widening war in the Middle East</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/the-war-room-newsletter-a-widening-war-in-the-middle-east</link>
-      <description>Shashank Joshi, our defence editor, asks how long the escalation in Iran can last</description>
-      <pubDate>Mon, 02 Mar 2026 18:51:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
