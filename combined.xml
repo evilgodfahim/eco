@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Anduril, Palantir and SpaceX are changing how America wages war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war</link>
+      <description>The Trump administration is cosying up to a clique of “neo-primes”</description>
+      <pubDate>Mon, 20 Apr 2026 08:26:31 +0000</pubDate>
+    </item>
+    <item>
       <title>How Chinese satellites have boosted Iran’s war effort</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/19/how-chinese-satellites-have-boosted-irans-war-effort</link>
       <description>As American images went dark, Chinese alternatives filled the void</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/02/fifteen-years-after-fukushima-japan-faces-an-energy-dilemma</link>
       <description>Restarting the world’s largest nuclear plant will not resolve its problems</description>
       <pubDate>Mon, 02 Mar 2026 15:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The daunting quest for critical minerals</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/02/cover-story-newsletter-the-daunting-quest-for-critical-minerals</link>
-      <description>An exclusive look at how we designed this week’s covers</description>
-      <pubDate>Mon, 02 Mar 2026 15:56:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
