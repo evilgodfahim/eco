@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Israel’s open-ended wars have eroded its security</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/21/israels-open-ended-wars-have-eroded-its-security</link>
+      <description>Binyamin Netanyahu has brought about a big shift in its defence doctrine</description>
+      <pubDate>Tue, 21 Apr 2026 16:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Allbirds to Glossier, millennial brands have lost their mojo</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/21/from-allbirds-to-glossier-millennial-brands-have-lost-their-mojo</link>
+      <description>They have been squeezed by competitors old and new</description>
+      <pubDate>Tue, 21 Apr 2026 15:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our midterms forecast predicts pain for Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/21/our-midterms-forecast-predicts-pain-for-donald-trump</link>
+      <description>Just how bad could things get for the Republicans?</description>
+      <pubDate>Tue, 21 Apr 2026 15:45:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Tim Cook hands Apple over to its hardware guru</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/21/tim-cook-hands-apple-over-to-its-hardware-guru</link>
       <description>John Ternus’s task is to transform the iPhone-maker for the AI era</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/03/cubas-economic-divides-are-widening</link>
       <description>Luck and guile increasingly determine who gets how much</description>
       <pubDate>Tue, 03 Mar 2026 14:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Ali Khamenei may have welcomed the nature of his death</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/03/why-ali-khamenei-may-have-welcomed-the-nature-of-his-death</link>
-      <description>The ideology of martyrdom could prolong Iran’s regime—and the war</description>
-      <pubDate>Tue, 03 Mar 2026 13:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war is rapidly engulfing the region</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/the-iran-war-is-rapidly-engulfing-the-region</link>
-      <description>How far could each side escalate?</description>
-      <pubDate>Mon, 02 Mar 2026 22:21:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hizbullah, the reluctant proxy, strikes at Israel</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/hizbullah-the-reluctant-proxy-strikes-at-israel</link>
-      <description>But the group’s limited actions suggest that it does not want to be in a war that could finish it off</description>
-      <pubDate>Mon, 02 Mar 2026 21:25:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
