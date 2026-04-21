@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A dangerous blind spot in Donald Trump’s Iran war strategy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/21/a-dangerous-blind-spot-in-donald-trumps-iran-war-strategy</link>
+      <description>America sets too little store by foreigners’ beliefs and values. It’s a costly mistake, each time</description>
+      <pubDate>Tue, 21 Apr 2026 21:12:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global energy markets are on the verge of a disaster</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster</link>
+      <description>Scenarios now range from bad to awful</description>
+      <pubDate>Tue, 21 Apr 2026 20:46:14 +0000</pubDate>
+    </item>
+    <item>
       <title>The stablecoin market has got too stable</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable</link>
       <description>Rapid growth in dollar-backed cryto has stalled</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/donald-trump-bets-big-on-the-iran-war</link>
       <description>If it fails to pay off politically, will he cut his losses or double down?</description>
       <pubDate>Tue, 03 Mar 2026 22:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why war isn’t always good for defence stocks</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/why-war-isnt-always-good-for-defence-stocks</link>
-      <description>They win only if governments want just enough weapons—but not too many</description>
-      <pubDate>Tue, 03 Mar 2026 20:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The nightmare war scenario is becoming reality in energy markets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets</link>
-      <description>The longer the war in the Gulf, the harsher the global economic fallout</description>
-      <pubDate>Tue, 03 Mar 2026 20:15:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
