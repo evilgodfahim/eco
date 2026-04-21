@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Scientists are still learning from the Chernobyl nuclear disaster</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2026/04/21/scientists-are-still-learning-from-the-chernobyl-nuclear-disaster</link>
+      <description>Their work should make future accidents less deadly</description>
+      <pubDate>Tue, 21 Apr 2026 17:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Senate 2026 forecast</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/</link>
+      <description>A friendly map may not be enough for Republicans to hold the Senate</description>
+      <pubDate>Tue, 21 Apr 2026 17:33:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>US House of Representatives 2026 forecast</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026/us-midterms/prediction-model/house</link>
+      <description>Democrats are heavy favourites to flip the House</description>
+      <pubDate>Tue, 21 Apr 2026 17:32:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel’s open-ended wars have eroded its security</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/21/israels-open-ended-wars-have-eroded-its-security</link>
       <description>Binyamin Netanyahu has brought about a big shift in its defence doctrine</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/03/the-iran-war-is-a-jolt-to-dubais-business-model</link>
       <description>Can the emirate keep people and investors coming?</description>
       <pubDate>Tue, 03 Mar 2026 17:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>What France’s new nuclear-arms doctrine means for Europe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/03/what-frances-new-nuclear-arms-doctrine-means-for-europe</link>
-      <description>Emmanuel Macron will build more warheads and include allies</description>
-      <pubDate>Tue, 03 Mar 2026 16:41:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: The new cancel culture on campuses</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/03/checks-and-balance-newsletter-the-new-cancel-culture-on-campuses</link>
-      <description>John Prideaux, our US editor, reports on the pressures facing American universities in the Trump era</description>
-      <pubDate>Tue, 03 Mar 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuba’s economic divides are widening</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/03/cubas-economic-divides-are-widening</link>
-      <description>Luck and guile increasingly determine who gets how much</description>
-      <pubDate>Tue, 03 Mar 2026 14:46:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
