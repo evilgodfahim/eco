@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The stablecoin market has got too stable</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable</link>
+      <description>Rapid growth in dollar-backed cryto has stalled</description>
+      <pubDate>Tue, 21 Apr 2026 19:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why China’s exports will keep on rising</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/21/why-chinas-exports-will-keep-on-rising</link>
+      <description>Our new analysis shows how the country shrugged off the effects of Donald Trump’s tariffs</description>
+      <pubDate>Tue, 21 Apr 2026 19:08:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Scientists are still learning from the Chernobyl nuclear disaster</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/science-and-technology/2026/04/21/scientists-are-still-learning-from-the-chernobyl-nuclear-disaster</link>
       <description>Their work should make future accidents less deadly</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets</link>
       <description>The longer the war in the Gulf, the harsher the global economic fallout</description>
       <pubDate>Tue, 03 Mar 2026 20:15:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Gulf states running out of missile interceptors?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/03/are-gulf-states-running-out-of-missile-interceptors</link>
-      <description>Their rulers insist not but they are burning through their stockpiles fast</description>
-      <pubDate>Tue, 03 Mar 2026 19:32:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war is a jolt to Dubai’s business model</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/03/the-iran-war-is-a-jolt-to-dubais-business-model</link>
-      <description>Can the emirate keep people and investors coming?</description>
-      <pubDate>Tue, 03 Mar 2026 17:41:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
