@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Tim Cook hands Apple over to its hardware guru</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/21/tim-cook-hands-apple-over-to-its-hardware-guru</link>
+      <description>John Turnus’s task is to transform the iPhone-maker for the AI era</description>
+      <pubDate>Tue, 21 Apr 2026 01:02:08 +0000</pubDate>
+    </item>
+    <item>
       <title>As Russia looks to slash budgets, a village fights to survive</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/20/as-russia-looks-to-slash-budgets-a-village-fights-to-survive</link>
       <description>Officials now openly blame the war in Ukraine for cuts to services</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/02/hizbullah-the-reluctant-proxy-strikes-at-israel</link>
       <description>But the group’s limited actions suggest that it does not want to be in a war that could finish it off</description>
       <pubDate>Mon, 02 Mar 2026 21:25:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Viktor Orban be beaten?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026-hungary-election</link>
-      <description>We are tracking the polls for Hungary’s election in April</description>
-      <pubDate>Mon, 02 Mar 2026 19:22:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
