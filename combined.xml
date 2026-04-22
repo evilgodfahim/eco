@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>An extended ceasefire over Iran, but for how long?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/22/an-extended-ceasefire-over-iran-but-for-how-long</link>
+      <description>The answer may depend on how much economic pain each side can endure</description>
+      <pubDate>Wed, 22 Apr 2026 15:04:29 +0000</pubDate>
+    </item>
+    <item>
       <title>The curious rise of Chinese whisky</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/22/the-curious-rise-of-chinese-whisky</link>
       <description>Why one tipple is thriving in an otherwise dispirited market</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/04/how-250-years-of-immigration-shaped-america</link>
       <description>Cycles of openness and restriction are as old as the country itself</description>
       <pubDate>Wed, 04 Mar 2026 09:26:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binyamin Netanyahu is the big winner from the Iran war, for now</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/04/binyamin-netanyahu-is-the-big-winner-from-the-iran-war-for-now</link>
-      <description>To avoid a row with Donald Trump, Western allies are endorsing Israeli theories of war</description>
-      <pubDate>Wed, 04 Mar 2026 09:13:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
