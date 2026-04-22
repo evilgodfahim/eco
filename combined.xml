@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can the Bundeswehr fight?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/22/can-the-bundeswehr-fight</link>
+      <description>In an interview with The Economist, Germany’s top general promises his forces will be “war-ready”</description>
+      <pubDate>Wed, 22 Apr 2026 16:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto-miners are quietly colonising computers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/22/crypto-miners-are-quietly-colonising-computers</link>
+      <description>Hijacking processing power cuts costs</description>
+      <pubDate>Wed, 22 Apr 2026 16:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to stop colour-blind grouse flying into ski lifts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/22/how-to-stop-colour-blind-grouse-flying-into-ski-lifts</link>
+      <description>Use signage they can see</description>
+      <pubDate>Wed, 22 Apr 2026 16:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s deportation machine is innovating</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/22/donald-trumps-deportation-machine-is-innovating</link>
+      <description>What lies behind the administration’s deals with African countries</description>
+      <pubDate>Wed, 22 Apr 2026 16:36:56 +0000</pubDate>
+    </item>
+    <item>
       <title>An extended ceasefire over Iran, but for how long?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/22/an-extended-ceasefire-over-iran-but-for-how-long</link>
       <description>The answer may depend on how much economic pain each side can endure</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/04/china-needs-a-more-ambitious-growth-target</link>
       <description>Otherwise a fourth year of deflation awaits</description>
       <pubDate>Wed, 04 Mar 2026 18:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The start of the Iran war was determined by spying success</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/04/the-start-of-the-iran-war-was-determined-by-spying-success</link>
-      <description>But even when assassinations come off, the long-term consequences are unclear</description>
-      <pubDate>Wed, 04 Mar 2026 16:25:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war in maps and charts</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026-iran-war-tracker/</link>
-      <description>Visualisations that tell the story of the conflict</description>
-      <pubDate>Wed, 04 Mar 2026 16:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New President of the United States</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/03/04/the-new-president-of-the-united-states</link>
-      <description>Our report from 1901</description>
-      <pubDate>Wed, 04 Mar 2026 13:26:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>How 250 years of immigration shaped America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/04/how-250-years-of-immigration-shaped-america</link>
-      <description>Cycles of openness and restriction are as old as the country itself</description>
-      <pubDate>Wed, 04 Mar 2026 09:26:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
