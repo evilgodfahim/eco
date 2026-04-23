@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What do the geopolitical successes of Asim Munir mean for Pakistan?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/23/what-do-the-geopolitical-successes-of-asim-munir-mean-for-pakistan</link>
+      <description>Despite some breathless optimism, the military strongman is unlikely to deliver deeper change</description>
+      <pubDate>Thu, 23 Apr 2026 08:55:11 +0000</pubDate>
+    </item>
+    <item>
       <title>How to bolster the arsenal of democracy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/22/how-to-bolster-the-arsenal-of-democracy</link>
       <description>America’s new defence-tech industry should be a model for Europe</description>
@@ -41,9 +47,9 @@
       <pubDate>Wed, 22 Apr 2026 16:52:05 +0000</pubDate>
     </item>
     <item>
-      <title>Donald Trump’s deportation machine is innovating</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/22/donald-trumps-deportation-machine-is-innovating</link>
-      <description>What lies behind the administration’s deals with African countries</description>
+      <title>Donald Trump’s bold new deportation machine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/22/donald-trumps-bold-new-deportation-machine</link>
+      <description>What lies behind the administration’s grubby deals with African countries</description>
       <pubDate>Wed, 22 Apr 2026 16:36:56 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/04/in-times-of-chaos-europe-is-the-muddled-power-the-world-needs</link>
       <description>In praise of the dreaded European working group</description>
       <pubDate>Wed, 04 Mar 2026 20:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A once-proud tradition is becoming awkward for elite universities</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/04/a-once-proud-tradition-is-becoming-awkward-for-elite-universities</link>
-      <description>The slow demise of the swim test</description>
-      <pubDate>Wed, 04 Mar 2026 19:47:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
