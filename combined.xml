@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Indonesia suggests charging a toll to transit the Malacca Strait</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/23/indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait</link>
+      <description>It’s not the first time that it has toyed with the unwelcome idea</description>
+      <pubDate>Thu, 23 Apr 2026 18:07:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wanted: a new finance writer</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/wanted-a-new-finance-writer</link>
+      <description>An opportunity to join the staff of The Economist</description>
+      <pubDate>Thu, 23 Apr 2026 16:45:12 +0000</pubDate>
+    </item>
+    <item>
       <title>The high price of forever wars</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/23/the-high-price-of-forever-wars</link>
       <description>Binyamin Netanyahu is quick to start conflicts, but shows no ability to end them</description>
@@ -53,8 +65,8 @@
       <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
     </item>
     <item>
-      <title>Wealthy New Yorkers grumble as a new tax looms over fortunes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/23/wealthy-new-yorkers-grumble-as-a-new-tax-looms-over-fortunes</link>
+      <title>Wealthy New Yorkers grumble as a new tax looms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/23/wealthy-new-yorkers-grumble-as-a-new-tax-looms</link>
       <description>Is the pied-à-terre tax a harbinger of things to come?</description>
       <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Allegations against a corruption watchdog rock Malaysian politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/05/allegations-against-a-corruption-watchdog-rock-malaysian-politics</link>
       <description>The prime minister, Anwar Ibrahim, repeats his predecessors’ answer</description>
-      <pubDate>Thu, 05 Mar 2026 13:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome to Kashiwazaki, home to the world’s largest nuclear plant</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/05/welcome-to-kashiwazaki-home-to-the-worlds-largest-nuclear-plant</link>
-      <description>What one small city says about modern Japan’s development</description>
-      <pubDate>Thu, 05 Mar 2026 13:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>China sets its lowest growth target for a generation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/05/china-sets-its-lowest-growth-target-for-a-generation</link>
-      <description>In macroeconomics, modesty is not always a virtue</description>
       <pubDate>Thu, 05 Mar 2026 13:45:01 +0000</pubDate>
     </item>
   </channel>
