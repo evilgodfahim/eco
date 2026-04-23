@@ -5,6 +5,48 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Honking is harming India’s health—and its economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/asia/2026/04/23/honking-is-harming-indias-health-and-its-economy</link>
+      <description>But nobody seems to care</description>
+      <pubDate>Thu, 23 Apr 2026 10:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>America is vulnerable to electoral vandalism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/23/america-is-vulnerable-to-electoral-vandalism</link>
+      <description>Too many no longer believe elections are fair</description>
+      <pubDate>Thu, 23 Apr 2026 09:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Might Donald Trump try to rig the midterms?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/23/might-donald-trump-try-to-rig-the-midterms</link>
+      <description>We assess America’s democratic defences</description>
+      <pubDate>Thu, 23 Apr 2026 09:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Has the World Bank performed a U-turn on industrial policy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/has-the-world-bank-performed-a-u-turn-on-industrial-policy</link>
+      <description>Interventionists who think so should read its new report more closely</description>
+      <pubDate>Thu, 23 Apr 2026 09:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renewables are shining. The Iran war amplifies their appeal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal</link>
+      <description>Two new reports are a must-read of energy-starved governments</description>
+      <pubDate>Thu, 23 Apr 2026 09:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>How global can the yuan get?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/how-global-can-the-yuan-get</link>
+      <description>The anxiety of war has been good for the yuan</description>
+      <pubDate>Thu, 23 Apr 2026 09:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinamaxxing is starting to catch on, in China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/chinamaxxing-is-starting-to-catch-on-in-china</link>
+      <description>It’s a boon for the tourist trade</description>
+      <pubDate>Thu, 23 Apr 2026 09:15:39 +0000</pubDate>
+    </item>
+    <item>
       <title>What do the geopolitical successes of Asim Munir mean for Pakistan?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/23/what-do-the-geopolitical-successes-of-asim-munir-mean-for-pakistan</link>
       <description>Despite some breathless optimism, the military strongman is unlikely to deliver deeper change</description>
@@ -35,8 +77,8 @@
       <pubDate>Wed, 22 Apr 2026 16:56:32 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto-miners are quietly colonising computers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/22/crypto-miners-are-quietly-colonising-computers</link>
+      <title>Crypto-miners are quietly colonising other people’s computers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/22/crypto-miners-are-quietly-colonising-other-peoples-computers</link>
       <description>Hijacking processing power cuts costs</description>
       <pubDate>Wed, 22 Apr 2026 16:53:09 +0000</pubDate>
     </item>
@@ -49,7 +91,7 @@
     <item>
       <title>Donald Trump’s bold new deportation machine</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/22/donald-trumps-bold-new-deportation-machine</link>
-      <description>What lies behind the administration’s grubby deals with African countries</description>
+      <description>Coming to America, going to Angola</description>
       <pubDate>Wed, 22 Apr 2026 16:36:56 +0000</pubDate>
     </item>
     <item>
@@ -173,12 +215,6 @@
       <pubDate>Mon, 20 Apr 2026 08:26:31 +0000</pubDate>
     </item>
     <item>
-      <title>Anduril, Palantir and SpaceX are changing how America wages war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war</link>
-      <description>The Trump administration is cosying up to a clique of “neo-primes”</description>
-      <pubDate>Mon, 20 Apr 2026 08:26:31 +0000</pubDate>
-    </item>
-    <item>
       <title>How Chinese satellites have boosted Iran’s war effort</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/19/how-chinese-satellites-have-boosted-irans-war-effort</link>
       <description>As American images went dark, Chinese alternatives filled the void</description>
@@ -187,7 +223,7 @@
     <item>
       <title>Which Iran is America dealing with?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/19/which-iran-is-america-dealing-with</link>
-      <description>Rivalries in the Iranian leadership could stymie a truce</description>
+      <description>With talks set to resume, rivalries among Iran’s leaders could stymie a truce</description>
       <pubDate>Sun, 19 Apr 2026 16:46:25 +0000</pubDate>
     </item>
     <item>
@@ -2967,42 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/05/how-the-latest-regional-conflict-is-reshaping-the-middle-east</link>
       <description>Neither Iran, nor Israel, nor the Gulf will ever be quite the same</description>
       <pubDate>Thu, 05 Mar 2026 11:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>To understand why countries grow, look at their firms</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/05/to-understand-why-countries-grow-look-at-their-firms</link>
-      <description>The third way in development economics</description>
-      <pubDate>Thu, 05 Mar 2026 10:36:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s time to unleash Europe’s pensions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/05/its-time-to-unleash-europes-pensions</link>
-      <description>One reform offers both security in old age and dynamism now</description>
-      <pubDate>Thu, 05 Mar 2026 10:34:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s economy is not as big as economists thought</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought</link>
-      <description>But it is growing faster</description>
-      <pubDate>Thu, 05 Mar 2026 10:33:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Americans’ electricity bills are up. Don’t blame AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai</link>
-      <description>Were it not for data centres, prices might be even higher</description>
-      <pubDate>Thu, 05 Mar 2026 10:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>European pensions are a $30trn missed opportunity</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/04/european-pensions-are-a-30trn-missed-opportunity</link>
-      <description>If only more countries went Dutch</description>
-      <pubDate>Wed, 04 Mar 2026 22:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>In times of chaos, Europe is the muddled power the world needs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/04/in-times-of-chaos-europe-is-the-muddled-power-the-world-needs</link>
-      <description>In praise of the dreaded European working group</description>
-      <pubDate>Wed, 04 Mar 2026 20:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
