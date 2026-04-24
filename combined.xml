@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A mogul alleges he has been swindled by a Trump-affiliated crypto project</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/24/a-mogul-alleges-he-has-been-swindled-by-a-trump-affiliated-crypto-project</link>
+      <description>Tom Wolfe could not have invented a more outlandish satire of America in the 2020s</description>
+      <pubDate>Fri, 24 Apr 2026 19:36:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: America prepares for the midterms</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/24/cover-story-newsletter-america-prepares-for-the-midterms</link>
       <description>How we chose this week’s image</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>An AI disaster is getting ever closer</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer</link>
       <description>The spat between America’s government and Anthropic intensifies an alarming trend</description>
-      <pubDate>Thu, 05 Mar 2026 13:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigel Farage and Zack Polanski: best of frenemies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/05/nigel-farage-and-zack-polanski-best-of-frenemies</link>
-      <description>Britain’s twin populists have a symbiotic relationship</description>
       <pubDate>Thu, 05 Mar 2026 13:45:01 +0000</pubDate>
     </item>
   </channel>
