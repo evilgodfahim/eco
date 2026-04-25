@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: The shock-value of modern conservatism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/25/checks-and-balance-newsletter-the-shock-value-of-modern-conservatism</link>
+      <description>John Prideaux, our US editor, unpacks how provocation has become a political strategy</description>
+      <pubDate>Sat, 25 Apr 2026 09:28:47 +0000</pubDate>
+    </item>
+    <item>
       <title>A mogul alleges he has been swindled by a Trump-affiliated crypto project</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/24/a-mogul-alleges-he-has-been-swindled-by-a-trump-affiliated-crypto-project</link>
       <description>Tom Wolfe could not have invented a more outlandish satire of America in the 2020s</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/05/israel-and-america-want-the-kurds-to-join-the-fight-in-iran</link>
       <description>Kurdish militias are weighing a risky bid to redraw their neighbour’s borders</description>
       <pubDate>Thu, 05 Mar 2026 14:42:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI disaster is getting ever closer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/05/an-ai-disaster-is-getting-ever-closer</link>
-      <description>The spat between America’s government and Anthropic intensifies an alarming trend</description>
-      <pubDate>Thu, 05 Mar 2026 13:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
