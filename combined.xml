@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Making India’s numbers count again</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/26/making-indias-numbers-count-again</link>
+      <description>India is restoring the credibility of its statistics. Will it last?</description>
+      <pubDate>Sun, 26 Apr 2026 09:36:35 +0000</pubDate>
+    </item>
+    <item>
       <title>A gunman storms Donald Trump’s dinner with the press</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/26/a-gunman-storms-donald-trumps-dinner-with-the-press</link>
       <description>The incident revives questions about the competence of the Secret Service</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/05/kristi-noems-ignoble-legacy-as-homeland-security-secretary</link>
       <description>She will not be remembered fondly by Americans or her workforce</description>
       <pubDate>Thu, 05 Mar 2026 23:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faecal transplants—a treatment for bipolar disorder?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/05/faecal-transplants-a-treatment-for-bipolar-disorder</link>
-      <description>Initial results from a test are intriguing</description>
-      <pubDate>Thu, 05 Mar 2026 22:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
