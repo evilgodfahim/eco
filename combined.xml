@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The fashion influencer speaking truth to Putin</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/26/the-fashion-influencer-speaking-truth-to-putin</link>
+      <description>A viral Instagram video brings Russians’ wider grumbling into the open</description>
+      <pubDate>Sun, 26 Apr 2026 17:51:30 +0000</pubDate>
+    </item>
+    <item>
       <title>San Francisco, AI capital of the world, is an economic laggard</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard</link>
       <description>Artificial intelligence is booming. Its heartland is not</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/06/cover-story-newsletter-a-war-without-a-strategy</link>
       <description>An exclusive look at how we designed this week’s cover</description>
       <pubDate>Fri, 06 Mar 2026 18:03:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is your maximum heart rate?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/06/what-is-your-maximum-heart-rate</link>
-      <description>We tell you how to find out</description>
-      <pubDate>Fri, 06 Mar 2026 17:26:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
