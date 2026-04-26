@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>San Francisco, AI capital of the world, is an economic laggard</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard</link>
+      <description>Artificial intelligence is booming. Its heartland is not</description>
+      <pubDate>Sun, 26 Apr 2026 16:23:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Will Kevin Warsh Trumpify the Federal Reserve?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/26/will-kevin-warsh-trumpify-the-federal-reserve</link>
       <description>The incoming Fed chair says he wants regime change. But a revolution is unlikely</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/06/what-is-your-maximum-heart-rate</link>
       <description>We tell you how to find out</description>
       <pubDate>Fri, 06 Mar 2026 17:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s boss apologises for bashing Pentagon—but still plans to sue</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/06/anthropics-boss-apologises-for-bashing-pentagon-but-still-plans-to-sue</link>
-      <description>The AI lab is the first American firm to be labelled a supply-chain risk</description>
-      <pubDate>Fri, 06 Mar 2026 02:28:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
