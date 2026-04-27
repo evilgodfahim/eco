@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ageing workers in East Asia are essential. More are needed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/27/ageing-workers-in-east-asia-are-essential-more-are-needed</link>
+      <description>Yet they often face high barriers to employment and unpalatable options</description>
+      <pubDate>Mon, 27 Apr 2026 15:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xi Jinping wants China to read more—as long as it’s the right books</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/27/xi-jinping-wants-china-to-read-more-as-long-as-its-the-right-books</link>
+      <description>A new campaign to put down phones and pick up classics</description>
+      <pubDate>Mon, 27 Apr 2026 14:30:10 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: The best generals in history</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/27/the-war-room-newsletter-the-best-generals-in-history</link>
       <description>Richard Cockett, a senior editor, analyses what makes good generalship—and ranks his top three</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/glass-ceiling-index</link>
       <description>Our annual measure of the role and influence of women in the workforce</description>
       <pubDate>Sat, 07 Mar 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war has entered a new phase</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/03/06/the-iran-war-has-entered-a-new-phase</link>
-      <description>Both sides have changed their tactics, our data analysis finds</description>
-      <pubDate>Fri, 06 Mar 2026 21:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel sees a chance to destroy Hizbullah at last</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/06/israel-sees-a-chance-to-destroy-hizbullah-at-last</link>
-      <description>Iran’s most powerful proxy, though weakened, is still in the fight</description>
-      <pubDate>Fri, 06 Mar 2026 19:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
