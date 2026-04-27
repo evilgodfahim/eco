@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A treatment for pre-eclampsia may be on the horizon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/27/a-treatment-for-pre-eclampsia-may-be-on-the-horizon</link>
+      <description>Blood filtering has performed well in early trials</description>
+      <pubDate>Mon, 27 Apr 2026 19:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is confronting a supply-chain crunch</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/27/ai-is-confronting-a-supply-chain-crunch</link>
+      <description>Hardware-makers are failing to invest enough to keep up with demand</description>
+      <pubDate>Mon, 27 Apr 2026 19:31:09 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: Germany’s plan to build Europe’s strongest army</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/27/the-war-room-newsletter-germanys-plan-to-build-europes-strongest-army</link>
       <description>Shashank Joshi, our defence editor, examines whether the country can achieve its goals—and what stands in its way</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich</link>
       <description>American anxieties are K-shaped. The economy is more like a slash-mark</description>
       <pubDate>Sun, 08 Mar 2026 12:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is India the fourth- or fifth-biggest economy? It does not matter</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/08/is-india-the-fourth-or-fifth-biggest-economy-it-does-not-matter</link>
-      <description>Politicians boasting about India’s economic prowess are laying a trap for themselves</description>
-      <pubDate>Sun, 08 Mar 2026 10:43:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war puts Vladimir Putin in a tough spot</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/07/the-iran-war-puts-vladimir-putin-in-a-tough-spot</link>
-      <description>Higher oil prices are poor compensation for showing Russia’s weakness</description>
-      <pubDate>Sat, 07 Mar 2026 19:32:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
