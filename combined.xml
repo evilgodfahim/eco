@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why DeepSeek’s new model has been met with a shrug</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/28/why-deepseeks-new-model-has-been-met-with-a-shrug</link>
+      <description>The AI lab faces stiffening competition and a meddling state</description>
+      <pubDate>Tue, 28 Apr 2026 20:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The UAE’s departure from OPEC may not break the cartel</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/28/the-uaes-departure-from-opec-may-not-break-the-cartel</link>
+      <description>But it highlights longstanding tensions that the Gulf war has exacerbated</description>
+      <pubDate>Tue, 28 Apr 2026 20:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coca-Cola is trouncing Pepsi. Can the underdog turn things around?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/28/coca-cola-is-trouncing-pepsi-can-the-underdog-turn-things-around</link>
+      <description>The maker of the world’s second-favourite fizzy drink is becoming more like its rival</description>
+      <pubDate>Tue, 28 Apr 2026 19:22:30 +0000</pubDate>
+    </item>
+    <item>
       <title>A global fight over banking rules is just getting started</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/28/a-global-fight-over-banking-rules-is-just-getting-started</link>
       <description>Co-operation on the financial system will be the casualty</description>
@@ -55,12 +73,6 @@
     <item>
       <title>The War Room newsletter: The best generals in history</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/27/the-war-room-newsletter-the-best-generals-in-history</link>
-      <description>Richard Cockett, a senior editor, analyses what makes good generalship—and ranks his top three</description>
-      <pubDate>Mon, 27 Apr 2026 14:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: The best generals in history</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/27/the-war-room-newsletter-the-best-generals-in-history</link>
       <description>Richard Cockett, a senior editor, analyses what makes good generalship—and ranks his top three</description>
       <pubDate>Mon, 27 Apr 2026 14:18:49 +0000</pubDate>
     </item>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/08/germanys-greens-have-come-back-to-win-in-baden-wurttemberg</link>
       <description>The defeat of the Christian Democrats is a poor sign for Friedrich Merz</description>
       <pubDate>Sun, 08 Mar 2026 21:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a second week of war will bring</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/08/what-a-second-week-of-war-will-bring</link>
-      <description>The conflict is turning into a test of will between Iran and its adversaries</description>
-      <pubDate>Sun, 08 Mar 2026 19:21:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war puts Asia in an energy panic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic</link>
-      <description>Stranded Gulf supplies are choking off the region’s economies</description>
-      <pubDate>Sun, 08 Mar 2026 17:48:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
