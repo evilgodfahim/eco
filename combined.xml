@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A global fight over banking rules is just getting started</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/28/a-global-fight-over-banking-rules-is-just-getting-started</link>
+      <description>Co-operation on the financial system will be the casualty</description>
+      <pubDate>Tue, 28 Apr 2026 17:39:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to protect France from an Orban-style takeover</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/28/how-to-protect-france-from-an-orban-style-takeover</link>
+      <description>What if the National Rally wins, in one of Europe’s most centralised states?</description>
+      <pubDate>Tue, 28 Apr 2026 17:01:40 +0000</pubDate>
+    </item>
+    <item>
       <title>A treatment for pre-eclampsia may be on the horizon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/27/a-treatment-for-pre-eclampsia-may-be-on-the-horizon</link>
       <description>Blood filtering has performed well in early trials</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic</link>
       <description>Stranded Gulf supplies are choking off the region’s economies</description>
       <pubDate>Sun, 08 Mar 2026 17:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why MAGA backs Donald Trump’s war—for now</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/08/why-maga-backs-donald-trumps-war-for-now</link>
-      <description>If the conflict in Iran drags on, will his America First base stick with him?</description>
-      <pubDate>Sun, 08 Mar 2026 17:38:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Would America be in recession without the super-rich?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich</link>
-      <description>American anxieties are K-shaped. The economy is more like a slash-mark</description>
-      <pubDate>Sun, 08 Mar 2026 12:36:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
