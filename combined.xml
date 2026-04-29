@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Middle East Dispatch: Beyond the wars</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/middle-east-dispatch-beyond-the-wars</link>
+      <description>Josie Delap, our Middle East editor, reflects on the other facets of locations synonymous with strife</description>
+      <pubDate>Wed, 29 Apr 2026 13:02:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Why DeepSeek’s sequel failed to impress</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/28/why-deepseeks-sequel-failed-to-impress</link>
       <description>The AI lab faces stiffening competition and a meddling state</description>
@@ -35,8 +41,8 @@
       <pubDate>Tue, 28 Apr 2026 17:39:57 +0000</pubDate>
     </item>
     <item>
-      <title>How to protect France from an Orban-style takeover</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/28/how-to-protect-france-from-an-orban-style-takeover</link>
+      <title>Emmanuel Macron armours France against an Orban-style takeover</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/28/emmanuel-macron-armours-france-against-an-orban-style-takeover</link>
       <description>What if the National Rally wins, in one of Europe’s most centralised states?</description>
       <pubDate>Tue, 28 Apr 2026 17:01:40 +0000</pubDate>
     </item>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/09/there-are-56-ethnicities-in-china-and-55-are-getting-squashed</link>
       <description>China wants its minorities decorative, but not distinct</description>
       <pubDate>Mon, 09 Mar 2026 16:39:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s defiant regime picks a new supreme leader</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/08/irans-defiant-regime-picks-a-new-supreme-leader</link>
-      <description>The appointment suggests the Revolutionary Guards have the upper hand</description>
-      <pubDate>Sun, 08 Mar 2026 23:53:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
