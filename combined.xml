@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Europe’s unpopular leaders are paralysing the EU</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/29/europes-unpopular-leaders-are-paralysing-the-eu</link>
+      <description>Weak governments cannot conjure the support to make crucial deals</description>
+      <pubDate>Wed, 29 Apr 2026 20:38:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX, OpenAI and Anthropic are already public companies</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/29/spacex-openai-and-anthropic-are-already-public-companies</link>
+      <description>Investors have countless ways to bet on their success</description>
+      <pubDate>Wed, 29 Apr 2026 19:58:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Kevin Warsh could save the Federal Reserve</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/29/how-kevin-warsh-could-save-the-federal-reserve</link>
+      <description>There is much to like about the new Fed chair—if his backbone holds</description>
+      <pubDate>Wed, 29 Apr 2026 19:10:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Swashbuckling oil-services firms are preparing for a boom</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/29/swashbuckling-oil-services-firms-are-preparing-for-a-boom</link>
       <description>Post-war reconstruction and efforts to diversify production will present big opportunities</description>
@@ -2986,24 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/10/trophy-wives-are-out-of-fashion</link>
       <description>Our analysis finds that age gaps among America’s richest couples are shrinking</description>
       <pubDate>Tue, 10 Mar 2026 19:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s housing market is increasingly peculiar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/10/ukraines-housing-market-is-increasingly-peculiar</link>
-      <description>With blood in the streets, many are buying property</description>
-      <pubDate>Tue, 10 Mar 2026 17:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lost Latino love could cost Republicans the midterms</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/10/lost-latino-love-could-cost-republicans-the-midterms</link>
-      <description>Trump’s much-vaunted success with Hispanics is turning to ashes</description>
-      <pubDate>Tue, 10 Mar 2026 17:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s war aims may be diverging from Israel’s</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/10/americas-war-aims-may-be-diverging-from-israels</link>
-      <description>For Binyamin Netanyahu they are, as ever, a question of politics</description>
-      <pubDate>Tue, 10 Mar 2026 16:36:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
