@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Swashbuckling oil-services firms are preparing for a boom</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/29/swashbuckling-oil-services-firms-are-preparing-for-a-boom</link>
+      <description>Post-war reconstruction and efforts to diversify production will present big opportunities</description>
+      <pubDate>Wed, 29 Apr 2026 17:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could China help make Africa a factory for the world?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/could-china-help-make-africa-a-factory-for-the-world</link>
+      <description>A spurt of Chinese investment suggests the chances are improving</description>
+      <pubDate>Wed, 29 Apr 2026 17:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>A glimpse into cyber-security’s AI-driven future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/29/a-glimpse-into-cyber-securitys-ai-driven-future</link>
+      <description>A hacking conference reveals how machines will defend us</description>
+      <pubDate>Wed, 29 Apr 2026 16:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Genome editing can be risky. Meet the epigenome editors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/29/genome-editing-can-be-risky-meet-the-epigenome-editors</link>
+      <description>The technology could tackle diseases such as atherosclerosis and hepatitis B</description>
+      <pubDate>Wed, 29 Apr 2026 16:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>A radical idea for governing California</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/29/a-radical-idea-for-governing-california</link>
+      <description>Democrats could try picking a young candidate who has a solid record of running a big city</description>
+      <pubDate>Wed, 29 Apr 2026 16:34:51 +0000</pubDate>
+    </item>
+    <item>
       <title>A political merger kicks off Israel’s election season</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/a-political-merger-kicks-off-israels-election-season</link>
       <description>Binyamin Netanyahu still has one big advantage over his opponents</description>
@@ -2974,36 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/10/americas-war-aims-may-be-diverging-from-israels</link>
       <description>For Binyamin Netanyahu they are, as ever, a question of politics</description>
       <pubDate>Tue, 10 Mar 2026 16:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: How the Iran war is escalating</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/10/the-war-room-newsletter-how-the-iran-war-is-escalating</link>
-      <description>Shashank Joshi, our defence editor, explains that the conflict is intensifying in four ways</description>
-      <pubDate>Tue, 10 Mar 2026 12:10:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>The view from Tehrangeles</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/09/the-view-from-tehrangeles</link>
-      <description>The Iranian diaspora cheered Khamenei’s death. They are divided over what should come next</description>
-      <pubDate>Mon, 09 Mar 2026 20:56:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran energy shock reverberates across financial markets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets</link>
-      <description>For investors, the war is like the invasion of Ukraine all over again</description>
-      <pubDate>Mon, 09 Mar 2026 19:49:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should the Gulf states join attacks on Iran?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/09/should-the-gulf-states-join-attacks-on-iran</link>
-      <description>A lack of trust in America and Israel, internal divisions and the risk of domestic strife all hamper a unified response</description>
-      <pubDate>Mon, 09 Mar 2026 19:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s AI giants are handing out cash to lure in users</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users</link>
-      <description>How long can their ferocious rivalry last?</description>
-      <pubDate>Mon, 09 Mar 2026 17:33:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
