@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A political merger kicks off Israel’s election season</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/a-political-merger-kicks-off-israels-election-season</link>
+      <description>Binyamin Netanyahu still has one big advantage over his opponents</description>
+      <pubDate>Wed, 29 Apr 2026 15:56:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch: Beyond the wars</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/middle-east-dispatch-beyond-the-wars</link>
       <description>Josie Delap, our Middle East editor, reflects on the other facets of locations synonymous with strife</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users</link>
       <description>How long can their ferocious rivalry last?</description>
       <pubDate>Mon, 09 Mar 2026 17:33:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>There are 56 ethnicities in China—and 55 are getting squashed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/09/there-are-56-ethnicities-in-china-and-55-are-getting-squashed</link>
-      <description>China wants its minorities decorative, but not distinct</description>
-      <pubDate>Mon, 09 Mar 2026 16:39:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
