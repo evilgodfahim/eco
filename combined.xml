@@ -5,9 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Time to edit some biological metaphors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/time-to-edit-some-biological-metaphors</link>
+      <description>Not everything is in your DNA</description>
+      <pubDate>Thu, 30 Apr 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
       <title>The AI supply crunch is here</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here</link>
-      <description>Choke points on the supply of AI are changing its economics</description>
+      <description>Choke points are changing AI’s economics</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
     <item>
@@ -53,9 +59,9 @@
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
     <item>
-      <title>The Southern Poverty Law Centre has badly lost its way</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/the-southern-poverty-law-centre-has-badly-lost-its-way</link>
-      <description>But the government’s lawsuit against it is still bonkers</description>
+      <title>The government’s lawsuit against the Southern Poverty Law Center is bonkers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/the-governments-lawsuit-against-the-southern-poverty-law-center-is-bonkers</link>
+      <description>But the non-profit had badly lost its way</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
     <item>
@@ -121,7 +127,7 @@
     <item>
       <title>A tour of Brazil’s wildly polarised politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/04/30/a-tour-of-brazils-wildly-polarised-politics</link>
-      <description>Lula and Bolsonaro voters don’t agree on much. But they all hate the corruption that plagues Brazil</description>
+      <description>Lula’s voters and Bolsonaro’s voters don’t agree on much. But they all hate the corruption that plagues Brazil</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
     <item>
@@ -151,7 +157,7 @@
     <item>
       <title>India’s weak currency reflects deeper problems than the Iran war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war</link>
-      <description>It highlight a persistent inability to draw in foreign investors</description>
+      <description>It highlights a persistent inability to draw in foreign investors</description>
       <pubDate>Thu, 30 Apr 2026 09:38:15 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>In Paris’s mayoral race, it’s drivers against cyclists</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/12/in-pariss-mayoral-race-its-drivers-against-cyclists</link>
       <description>A decade of greening leaves the capital less congested but more divided</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>As war rages, Turkey’s strongman puts the opposition on trial</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/12/as-war-rages-turkeys-strongman-puts-the-opposition-on-trial</link>
-      <description>Chaos in the Middle East makes President Erdogan indispensable to the West</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
