@@ -5,6 +5,54 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The crisis in oil markets will get bigger before it goes away</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/30/the-crisis-in-oil-markets-will-get-bigger-before-it-goes-away</link>
+      <description>As stocks dwindle, further price rises are inevitable</description>
+      <pubDate>Thu, 30 Apr 2026 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The UAE walks out of OPEC</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-uae-walks-out-of-opec</link>
+      <description>And doubles down on Israel and America</description>
+      <pubDate>Thu, 30 Apr 2026 09:55:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can countries grow richer by exporting people, not goods?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods</link>
+      <description>That depends where those people end up</description>
+      <pubDate>Thu, 30 Apr 2026 09:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s weak currency reflects deeper problems than the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war</link>
+      <description>It highlight a persistent inability to draw in foreign investors</description>
+      <pubDate>Thu, 30 Apr 2026 09:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Kalshi can help the Federal Reserve</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/how-kalshi-can-help-the-federal-reserve</link>
+      <description>Prediction markets may be a win for central banking</description>
+      <pubDate>Thu, 30 Apr 2026 09:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to capitalise on London’s thriving financial industry</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/how-to-capitalise-on-londons-thriving-financial-industry</link>
+      <description>The City has bounced back despite fears over Brexit</description>
+      <pubDate>Thu, 30 Apr 2026 09:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk and Sam Altman bring their rivalry to court</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/30/elon-musk-and-sam-altman-bring-their-rivalry-to-court</link>
+      <description>Of the two unloved billionaires, which will the jury trust?</description>
+      <pubDate>Thu, 30 Apr 2026 09:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil markets are still in La La land</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/oil-markets-are-still-in-la-la-land</link>
+      <description>Prices have risen sharply. Unfortunately, they still have further to go</description>
+      <pubDate>Thu, 30 Apr 2026 08:18:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s unpopular leaders are paralysing the EU</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/29/europes-unpopular-leaders-are-paralysing-the-eu</link>
       <description>Weak governments cannot conjure the support to make crucial deals</description>
@@ -19,7 +67,7 @@
     <item>
       <title>How Kevin Warsh could save the Federal Reserve</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/29/how-kevin-warsh-could-save-the-federal-reserve</link>
-      <description>There is much to like about the new Fed chair—if his backbone holds</description>
+      <description>There is much to like about the next Fed chairman—if his backbone holds</description>
       <pubDate>Wed, 29 Apr 2026 19:10:13 +0000</pubDate>
     </item>
     <item>
@@ -53,9 +101,9 @@
       <pubDate>Wed, 29 Apr 2026 16:34:51 +0000</pubDate>
     </item>
     <item>
-      <title>A new coalition should oust Binyamin Netanyahu</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/a-new-coalition-should-oust-binyamin-netanyahu</link>
-      <description>But Israel’s prime minister still has one big advantage</description>
+      <title>A political merger kicks off Israel’s election season</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/a-political-merger-kicks-off-israels-election-season</link>
+      <description>Binyamin Netanyahu still has one big advantage over his opponents</description>
       <pubDate>Wed, 29 Apr 2026 15:56:24 +0000</pubDate>
     </item>
     <item>
@@ -79,7 +127,7 @@
     <item>
       <title>The UAE’s departure from OPEC may not break the cartel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/28/the-uaes-departure-from-opec-may-not-break-the-cartel</link>
-      <description>But it highlights long-standing tensions that the Gulf war has exacerbated</description>
+      <description>But it will deepen the country’s feud with Saudi Arabia</description>
       <pubDate>Tue, 28 Apr 2026 20:09:06 +0000</pubDate>
     </item>
     <item>
@@ -107,8 +155,8 @@
       <pubDate>Mon, 27 Apr 2026 19:38:11 +0000</pubDate>
     </item>
     <item>
-      <title>AI is confronting a supply-chain crunch</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/27/ai-is-confronting-a-supply-chain-crunch</link>
+      <title>The AI rush is hitting a bottleneck</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/27/the-ai-rush-is-hitting-a-bottleneck</link>
       <description>Hardware-makers are failing to invest enough to keep up with demand</description>
       <pubDate>Mon, 27 Apr 2026 19:31:09 +0000</pubDate>
     </item>
@@ -2956,54 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/11/at-last-haiti-has-some-hope</link>
       <description>Aggressive policing is weakening gangsters’ control</description>
       <pubDate>Wed, 11 Mar 2026 16:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysing Africa newsletter: The real meaning of the Iran war for Africa</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/11/analysing-africa-newsletter-the-real-meaning-of-the-iran-war-for-africa</link>
-      <description>John McDermott, our chief Africa correspondent, writes about the Middle East crisis</description>
-      <pubDate>Wed, 11 Mar 2026 15:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Liquefied natural gas: the overlooked economic chokepoint</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/11/liquefied-natural-gas-the-overlooked-economic-chokepoint</link>
-      <description>Alternatives to Gulf supplies are scarce</description>
-      <pubDate>Wed, 11 Mar 2026 12:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can America clear the Strait of Hormuz of Iran’s drones and mines?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/10/can-america-clear-the-strait-of-hormuz-of-irans-drones-and-mines</link>
-      <description>Escorting convoys of oil tanker with warships may give Iran juicy American targets</description>
-      <pubDate>Tue, 10 Mar 2026 22:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>India has much to lose from a world in chaos</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/10/india-has-much-to-lose-from-a-world-in-chaos</link>
-      <description>Not long ago, India was cocky about handling an unpredictable America. No longer</description>
-      <pubDate>Tue, 10 Mar 2026 22:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s options to cool oil prices are sorely limited</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/10/donald-trumps-options-to-cool-oil-prices-are-sorely-limited</link>
-      <description>He says he has a plan. It would need to be very cunning</description>
-      <pubDate>Tue, 10 Mar 2026 21:55:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Time to buy the most rubbish stocks you can find</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/10/time-to-buy-the-most-rubbish-stocks-you-can-find</link>
-      <description>The dash for trash</description>
-      <pubDate>Tue, 10 Mar 2026 21:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new wave of disrupters takes on American health care</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/10/a-new-wave-of-disrupters-takes-on-american-health-care</link>
-      <description>Patients are unhappy. Can AI help?</description>
-      <pubDate>Tue, 10 Mar 2026 21:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Trophy wives” are out of fashion</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/10/trophy-wives-are-out-of-fashion</link>
-      <description>Our analysis finds that age gaps among America’s richest couples are shrinking</description>
-      <pubDate>Tue, 10 Mar 2026 19:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
