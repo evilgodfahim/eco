@@ -5,15 +5,141 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The AI supply crunch is here</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here</link>
+      <description>Choke points on the supply of AI are changing its economics</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Samia Suluhu Hassan Africa’s most disappointing president?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/is-samia-suluhu-hassan-africas-most-disappointing-president</link>
+      <description>A sham election, a massacre whitewashed</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Climate change is forcing Vanuatu to confront an unthinkable future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/30/climate-change-is-forcing-vanuatu-to-confront-an-unthinkable-future</link>
+      <description>Legal battles abroad offer little comfort</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Vietnam’s latest railway ambition worthwhile?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/30/is-vietnams-latest-railway-ambition-worthwhile</link>
+      <description>Some say the whopping project should be scaled down</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cai Qi may be China’s second-most powerful man</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/30/cai-qi-may-be-chinas-second-most-powerful-man</link>
+      <description>Xi Jinping’s chief of staff handles his security, schedule and more</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hong Kong is a good place to find stolen or looted Chinese artefacts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/30/hong-kong-is-a-good-place-to-find-stolen-or-looted-chinese-artefacts</link>
+      <description>The financial hub abounds with precious wares</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>China is seeking self-sufficiency in police dogs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/30/china-is-seeking-self-sufficiency-in-police-dogs</link>
+      <description>State media are singing the praises of home-grown canines</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Countries are rushing to build ports in a contest to secure maritime trade routes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/30/countries-are-rushing-to-build-ports-in-a-contest-to-secure-maritime-trade-routes</link>
+      <description>The investment frenzy is driven by anxiety about China’s tightening grip on supply chains</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Southern Poverty Law Centre has badly lost its way</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/the-southern-poverty-law-centre-has-badly-lost-its-way</link>
+      <description>But the government’s lawsuit against it is still bonkers</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voters say they want young candidates. In practice, they do not</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/voters-say-they-want-young-candidates-in-practice-they-do-not</link>
+      <description>The Massachusetts Senate primary offers a case study</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/business</link>
+      <description></description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/the-weekly-cartoon</link>
+      <description></description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/politics</link>
+      <description></description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The oligarch who picked Moldova clean goes to prison</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/30/the-oligarch-who-picked-moldova-clean-goes-to-prison</link>
+      <description>Vlad Plahotniuc ran his country as a private money-laundering operation</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and the danger of cognitive surrender</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/30/ai-and-the-danger-of-cognitive-surrender</link>
+      <description>How much should managers let bots do the thinking?</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a mega-deal will transform the lift industry</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/30/how-a-mega-deal-will-transform-the-lift-industry</link>
+      <description>Together Kone and TKE will tower over their rivals</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>African finance goes global</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/30/african-finance-goes-global</link>
+      <description>The continent’s fintechs want to ease cross-border payments</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hizbullah’s air of invincibility is gone</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/30/hizbullahs-air-of-invincibility-is-gone</link>
+      <description>But it still has the power to threaten Lebanon’s leaders</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The lack of progress in Gaza suits those in power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/30/the-lack-of-progress-in-gaza-suits-those-in-power</link>
+      <description>But it leaves Gazans in misery</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>A tour of Brazil’s wildly polarised politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/04/30/a-tour-of-brazils-wildly-polarised-politics</link>
+      <description>Lula and Bolsonaro voters don’t agree on much. But they all hate the corruption that plagues Brazil</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Caribbean island that calls Colombia a coloniser</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/30/the-caribbean-island-that-calls-colombia-a-coloniser</link>
+      <description>Locals on San Andrés blame the mainland for crime and corruption</description>
+      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
+    </item>
+    <item>
       <title>The crisis in oil markets will get bigger before it goes away</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/30/the-crisis-in-oil-markets-will-get-bigger-before-it-goes-away</link>
       <description>As stocks dwindle, further price rises are inevitable</description>
       <pubDate>Thu, 30 Apr 2026 10:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>The UAE walks out of OPEC</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-uae-walks-out-of-opec</link>
-      <description>And doubles down on Israel and America</description>
+      <title>The UAE doubles down on Israel and America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-uae-doubles-down-on-israel-and-america</link>
+      <description>The consequences of the Emirates’ departure from OPEC</description>
       <pubDate>Thu, 30 Apr 2026 09:55:07 +0000</pubDate>
     </item>
     <item>
@@ -2878,132 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/12/as-war-rages-turkeys-strongman-puts-the-opposition-on-trial</link>
       <description>Chaos in the Middle East makes President Erdogan indispensable to the West</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>In praise of grunt work</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/in-praise-of-grunt-work</link>
-      <description>AI promises to eliminate drudgery. Careful what you wish for</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Altman, Amodei and Musk fight dirty for the biggest prize in business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/altman-amodei-and-musk-fight-dirty-for-the-biggest-prize-in-business</link>
-      <description>Never before has so much money been sought from investors in a single year</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya’s ailing sugar sector is a test case for reform</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/12/kenyas-ailing-sugar-sector-is-a-test-case-for-reform</link>
-      <description>Low productivity and political corruption bedevil the whole economy</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>What data reveal about the war’s progress</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/12/what-data-reveal-about-the-wars-progress</link>
-      <description>We analyse 1,615 distinct attacks, and more besides</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s praetorian guard may leave the war diminished but undefeated</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/12/irans-praetorian-guard-may-leave-the-war-diminished-but-undefeated</link>
-      <description>Even if it will struggle to rebuild its capabilities</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is Iran’s new leader?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/12/who-is-irans-new-leader</link>
-      <description>No one knows if he will last</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazilian cinema is having its moment</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/12/brazilian-cinema-is-having-its-moment</link>
-      <description>Thank growing competition and a more internationally minded Academy awards</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: How baseball created 20th-century America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/12/checks-and-balance-newsletter-how-baseball-created-20th-century-america</link>
-      <description>Jon Fasman, our senior culture correspondent, explores the making of a national pastime in an age of immigration and industrialisation</description>
-      <pubDate>Thu, 12 Mar 2026 12:38:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s war on Iran may bring Bahrain to its knees</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/americas-war-on-iran-may-bring-bahrain-to-its-knees</link>
-      <description>The tiny, indebted kingdom is seeing its main sources of revenue dry up</description>
-      <pubDate>Thu, 12 Mar 2026 11:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The damage to the world economy from the Iran war will be severe, but uneven</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/the-damage-to-the-world-economy-from-the-iran-war-will-be-severe-but-uneven</link>
-      <description>It has already caused the biggest energy supply shock in history</description>
-      <pubDate>Thu, 12 Mar 2026 11:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Trump’s world, companies seek insurance against political risk</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/12/in-trumps-world-companies-seek-insurance-against-political-risk</link>
-      <description>It could soon get more expensive</description>
-      <pubDate>Thu, 12 Mar 2026 11:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>An attack on the world economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/an-attack-on-the-world-economy</link>
-      <description>Whatever happens in the Strait of Hormuz, energy markets have been changed for ever</description>
-      <pubDate>Thu, 12 Mar 2026 10:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>There are no good options for Iran’s nuclear programme</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/there-are-no-good-options-for-irans-nuclear-programme</link>
-      <description>If America cannot eliminate the threat, what should it do?</description>
-      <pubDate>Thu, 12 Mar 2026 10:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How America and Israel built vast military targeting machines</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/11/how-america-and-israel-built-vast-military-targeting-machines</link>
-      <description>Software is supercharging the process of finding things to bomb</description>
-      <pubDate>Wed, 11 Mar 2026 22:07:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why corporate lawyers always win</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/11/why-corporate-lawyers-always-win</link>
-      <description>The world is a pedant’s paradise</description>
-      <pubDate>Wed, 11 Mar 2026 21:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viktor Orban’s illiberal intellectual patronage system</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/11/viktor-orbans-illiberal-intellectual-patronage-system</link>
-      <description>The Budapest Megaphone blares populism to the world</description>
-      <pubDate>Wed, 11 Mar 2026 19:09:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want to hack your body with peptides? If only the science agreed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/11/want-to-hack-your-body-with-peptides-if-only-the-science-agreed</link>
-      <description>Boosters say they will do everything from aiding strength, recovery and longevity</description>
-      <pubDate>Wed, 11 Mar 2026 18:33:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Gap is trying to get its cool back</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/11/how-gap-is-trying-to-get-its-cool-back</link>
-      <description>Its boss is using the Barbie formula to turn around the ailing fashion label</description>
-      <pubDate>Wed, 11 Mar 2026 17:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is helping expand the frontier of theoretical physics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/11/ai-is-helping-expand-the-frontier-of-theoretical-physics</link>
-      <description>It is blurring the line between tool and collaborator</description>
-      <pubDate>Wed, 11 Mar 2026 17:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could special forces truly obliterate Iran’s nuclear programme?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/11/could-special-forces-truly-obliterate-irans-nuclear-programme</link>
-      <description>Swiping the country’s uranium would require one of the largest raids in military history</description>
-      <pubDate>Wed, 11 Mar 2026 16:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>At last, Haiti has some hope</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/11/at-last-haiti-has-some-hope</link>
-      <description>Aggressive policing is weakening gangsters’ control</description>
-      <pubDate>Wed, 11 Mar 2026 16:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
