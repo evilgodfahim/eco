@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Does acupuncture work?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/01/does-acupuncture-work</link>
+      <description>It seems useful for pain. The jury’s out on everything else</description>
+      <pubDate>Fri, 01 May 2026 17:18:19 +0000</pubDate>
+    </item>
+    <item>
       <title>The war in Iran has sent American inflation sharply higher</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/inflation-tracker</link>
       <description>Our predictive index has reached a sizzling 3.6%</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/12/politics</link>
       <description></description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>A popular German Green wins a surprise victory</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/12/a-popular-german-green-wins-a-surprise-victory</link>
-      <description>Cem Özdemir becomes the first Turkish-German to run a state</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
