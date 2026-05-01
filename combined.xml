@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The war in Iran has sent American inflation sharply higher</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/inflation-tracker</link>
+      <description>Our predictive index has reached a sizzling 3.6%</description>
+      <pubDate>Fri, 01 May 2026 13:02:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Time to edit some biological metaphors</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/time-to-edit-some-biological-metaphors</link>
       <description>Not everything is in your DNA</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>A popular German Green wins a surprise victory</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/12/a-popular-german-green-wins-a-surprise-victory</link>
       <description>Cem Özdemir becomes the first Turkish-German to run a state</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Paris’s mayoral race, it’s drivers against cyclists</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/12/in-pariss-mayoral-race-its-drivers-against-cyclists</link>
-      <description>A decade of greening leaves the capital less congested but more divided</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
