@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Global carmakers desperately want to be more Chinese</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/03/global-carmakers-desperately-want-to-be-more-chinese</link>
+      <description>But partnering with local companies carries big risks</description>
+      <pubDate>Sun, 03 May 2026 17:32:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The remarkable revival of eBay</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/03/the-remarkable-revival-of-ebay</link>
+      <description>The internet’s flea market is back—and GameStop wants to buy it</description>
+      <pubDate>Sun, 03 May 2026 17:03:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Young men are souring on Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/03/young-men-are-souring-on-donald-trump</link>
       <description>But can Democrats win them over?</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>China’s nationalist spy thriller has few girls and lots of government</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/12/chinas-nationalist-spy-thriller-has-few-girls-and-lots-of-government</link>
       <description>“Main melody” films are in a rut</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hong Kong’s property market has turned</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/china/2026/03/12/hong-kongs-property-market-has-turned</link>
-      <description>That’s not good news for everyone</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some of China’s officials are becoming social-media stars</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/12/some-of-chinas-officials-are-becoming-social-media-stars</link>
-      <description>It may help them get promotions</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
