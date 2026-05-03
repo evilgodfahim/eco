@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to save the safari</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/03/how-to-save-the-safari</link>
+      <description>Balancing the needs of locals, tourists and animals is a difficult business</description>
+      <pubDate>Sun, 03 May 2026 09:33:23 +0000</pubDate>
+    </item>
+    <item>
       <title>The case against trees</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/03/the-case-against-trees</link>
       <description>India’s bureaucrats are bad at trade-offs between nature and roads</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>America’s blame-Israel lobby</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/12/americas-blame-israel-lobby</link>
       <description>If the Iran war goes wrong, MAGA will want a culprit who is not named Donald Trump</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two very different states take aim at soaring hospital prices</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/12/two-very-different-states-take-aim-at-soaring-hospital-prices</link>
-      <description>But are price controls the answer?</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
