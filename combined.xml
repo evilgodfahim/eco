@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The case against trees</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/03/the-case-against-trees</link>
+      <description>India’s bureaucrats are bad at trade-offs between nature and roads</description>
+      <pubDate>Sun, 03 May 2026 08:26:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Germany claims it has the world’s best bread</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/02/germany-claims-it-has-the-worlds-best-bread</link>
       <description>May 5th is national Bread Day, and Germans are ready to roll</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Two very different states take aim at soaring hospital prices</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/12/two-very-different-states-take-aim-at-soaring-hospital-prices</link>
       <description>But are price controls the answer?</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why investors won’t know what to make of AI for a while</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while</link>
-      <description>Markets always struggle to price technological revolutions</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
