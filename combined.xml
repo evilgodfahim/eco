@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Friedrich Merz’s ill-timed tussle with Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/03/friedrich-merzs-ill-timed-tussle-with-donald-trump</link>
+      <description>The chancellor’s reckless truth-telling means trouble for Germany</description>
+      <pubDate>Sun, 03 May 2026 19:56:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Global carmakers desperately want to be more Chinese</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/03/global-carmakers-desperately-want-to-be-more-chinese</link>
       <description>But partnering with local companies carries big risks</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Seoul’s housing market is a huge political and economic headache</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/12/seouls-housing-market-is-a-huge-political-and-economic-headache</link>
       <description>Lee Jae Myung is staking his presidency on fixing it</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s nationalist spy thriller has few girls and lots of government</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/12/chinas-nationalist-spy-thriller-has-few-girls-and-lots-of-government</link>
-      <description>“Main melody” films are in a rut</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
