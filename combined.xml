@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Young men are souring on Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/03/young-men-are-souring-on-donald-trump</link>
+      <description>But can Democrats win them over?</description>
+      <pubDate>Sun, 03 May 2026 12:22:56 +0000</pubDate>
+    </item>
+    <item>
       <title>How to save the safari</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/03/how-to-save-the-safari</link>
       <description>Balancing the needs of locals, tourists and animals is a difficult business</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Some of China’s officials are becoming social-media stars</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/12/some-of-chinas-officials-are-becoming-social-media-stars</link>
       <description>It may help them get promotions</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s blame-Israel lobby</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/12/americas-blame-israel-lobby</link>
-      <description>If the Iran war goes wrong, MAGA will want a culprit who is not named Donald Trump</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
