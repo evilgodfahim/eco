@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can Donald Trump reopen the Strait of Hormuz?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/04/can-donald-trump-reopen-the-strait-of-hormuz</link>
+      <description>Probably not, and he still has to deal with Iran’s uranium</description>
+      <pubDate>Mon, 04 May 2026 14:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>China thinks America is declining but still uniquely dangerous</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/04/china-thinks-america-is-declining-but-still-uniquely-dangerous</link>
+      <description>It sees Donald Trump as both symptom and accelerant of the decline</description>
+      <pubDate>Mon, 04 May 2026 13:28:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Friedrich Merz’s ill-timed tussle with Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/03/friedrich-merzs-ill-timed-tussle-with-donald-trump</link>
       <description>The chancellor’s reckless truth-telling means trouble for Germany</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Taiwan’s bid to export drones free of Chinese parts is taking off</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/12/taiwans-bid-to-export-drones-free-of-chinese-parts-is-taking-off</link>
       <description>The island’s unmanned aerial vehicles are already in use on Ukraine’s front line</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nepal’s new prime minister is a 35-year-old former rapper</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/12/nepals-new-prime-minister-is-a-35-year-old-former-rapper</link>
-      <description>Voters have given Balendra Shah an unprecedented mandate and enormous power</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seoul’s housing market is a huge political and economic headache</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/12/seouls-housing-market-is-a-huge-political-and-economic-headache</link>
-      <description>Lee Jae Myung is staking his presidency on fixing it</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
