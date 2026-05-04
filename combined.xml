@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The EU wants to unshackle its economy. For real this time</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/04/the-eu-wants-to-unshackle-its-economy-for-real-this-time</link>
+      <description>Eurocrats are belatedly developing a healthy distaste for red tape</description>
+      <pubDate>Mon, 04 May 2026 19:47:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Narendra Modi has extended his grip on India</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/04/narendra-modi-has-extended-his-grip-on-india</link>
       <description>India’s ruling party scores a historic victory in West Bengal—but should beware voters’ unhappiness with incumbents</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>How to teach Donald Trump a Latin lesson</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/how-to-teach-donald-trump-a-latin-lesson</link>
       <description>By alienating Hispanics, he has given Democrats an open goal</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s hereditary elite is taking shape</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/chinas-hereditary-elite-is-taking-shape</link>
-      <description>The Communist Party is afraid to tax inherited wealth</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
