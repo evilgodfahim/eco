@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Narendra Modi has extended his grip on India</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/04/narendra-modi-has-extended-his-grip-on-india</link>
+      <description>India’s ruling party scores a historic victory in West Bengal—but should beware voters’ unhappiness with incumbents</description>
+      <pubDate>Mon, 04 May 2026 18:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bad government statistics can cost the economy billions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions</link>
+      <description>A new study tries to put a number on the value of reliable numbers</description>
+      <pubDate>Mon, 04 May 2026 18:21:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Can Donald Trump reopen the Strait of Hormuz?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/04/can-donald-trump-reopen-the-strait-of-hormuz</link>
       <description>Probably not, and he still has to deal with Iran’s uranium</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>China’s hereditary elite is taking shape</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/chinas-hereditary-elite-is-taking-shape</link>
       <description>The Communist Party is afraid to tax inherited wealth</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Islamists woo Bangladesh with everything but Islam</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/12/islamists-woo-bangladesh-with-everything-but-islam</link>
-      <description>They are a hit on campus, too</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan’s bid to export drones free of Chinese parts is taking off</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/12/taiwans-bid-to-export-drones-free-of-chinese-parts-is-taking-off</link>
-      <description>The island’s unmanned aerial vehicles are already in use on Ukraine’s front line</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
