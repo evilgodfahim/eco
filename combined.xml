@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: Is Russia being out-droned?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/05/the-war-room-newsletter-is-russia-being-out-droned</link>
+      <description>Shashank Joshi, our defence editor, invites a Ukrainian drone expert to write a guest edition</description>
+      <pubDate>Tue, 05 May 2026 09:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: Oil markets are still in La La land</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/05/cover-story-newsletter-oil-markets-are-still-in-la-la-land</link>
+      <description>How we chose this week’s image</description>
+      <pubDate>Tue, 05 May 2026 09:13:54 +0000</pubDate>
+    </item>
+    <item>
       <title>The EU wants to unshackle its economy. For real this time</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/04/the-eu-wants-to-unshackle-its-economy-for-real-this-time</link>
       <description>Eurocrats are belatedly developing a healthy distaste for red tape</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>China is wrestling with a novel phenomenon: inherited wealth</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/china-is-wrestling-with-a-novel-phenomenon-inherited-wealth</link>
       <description>Even as the economy slows and opportunity narrows, a lucky few receive big windfalls</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Haiti needs order first, then elections</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/haiti-needs-order-first-then-elections</link>
-      <description>Voters must be able to turn out without risking death</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to teach Donald Trump a Latin lesson</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/12/how-to-teach-donald-trump-a-latin-lesson</link>
-      <description>By alienating Hispanics, he has given Democrats an open goal</description>
       <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
