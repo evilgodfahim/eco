@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Javier Milei is in serious trouble</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/05/javier-milei-is-in-serious-trouble</link>
+      <description>Argentina’s president claims he is the true victim of a struggling economy</description>
+      <pubDate>Tue, 05 May 2026 10:24:47 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: Is Russia being out-droned?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/05/the-war-room-newsletter-is-russia-being-out-droned</link>
       <description>Shashank Joshi, our defence editor, invites a Ukrainian drone expert to write a guest edition</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/03/12/how-wars-are-adding-hours-to-your-flights</link>
       <description>Our analysis shows which routes are getting longer</description>
       <pubDate>Thu, 12 Mar 2026 16:32:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is wrestling with a novel phenomenon: inherited wealth</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/12/china-is-wrestling-with-a-novel-phenomenon-inherited-wealth</link>
-      <description>Even as the economy slows and opportunity narrows, a lucky few receive big windfalls</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
