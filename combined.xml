@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mea culpa</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/05/05/mea-culpa</link>
+      <description>Our report from 1974</description>
+      <pubDate>Tue, 05 May 2026 13:48:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Asia’s stranded seafarers suffer as the Iran war drags on</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/05/asias-stranded-seafarers-suffer-as-the-iran-war-drags-on</link>
       <description>In a more dangerous world, unsung mariners are under increasing threat</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/13/gulf-states-are-burning-through-interceptors</link>
       <description>The pace far outstrips that seen in Ukraine. Stocks are under severe pressure</description>
       <pubDate>Fri, 13 Mar 2026 20:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should you take GLP-1 drugs for longevity?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/13/should-you-take-glp-1-drugs-for-longevity</link>
-      <description>The evidence is tantalising. But that is not the same as proof</description>
-      <pubDate>Fri, 13 Mar 2026 18:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
