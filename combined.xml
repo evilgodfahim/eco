@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America must hope Donald Trump is not a new Caligula</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-caligula</link>
+      <description>In the annals of rulers committing acts of folly, Roman decadence stands out</description>
+      <pubDate>Tue, 05 May 2026 21:04:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Can Bill Ackman save the closed-end fund?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/05/can-bill-ackman-save-the-closed-end-fund</link>
       <description>An outspoken financier wants to build a modern-day Berkshire Hathaway</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/15/what-nitish-kumar-did-for-bihar-indias-poorest-state</link>
       <description>The state’s longest-serving chief minister raised voters’ expectations of their politicians</description>
       <pubDate>Sun, 15 Mar 2026 14:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: An attack on the world economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/14/cover-story-newsletter-an-attack-on-the-world-economy</link>
-      <description>An exclusive look at how we designed this week’s cover</description>
-      <pubDate>Sat, 14 Mar 2026 19:03:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
