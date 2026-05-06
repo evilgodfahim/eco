@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>“Midwest Nice” is no match for presidential petty</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/06/midwest-nice-is-no-match-for-presidential-petty</link>
+      <description>In Indiana, Donald Trump takes his revenge</description>
+      <pubDate>Wed, 06 May 2026 15:00:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Wanted: a new tech-industry writer</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/wanted-a-new-tech-industry-writer</link>
       <description>An opportunity to join the staff of The Economist</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/15/a-muddled-war-and-rising-prices-are-boosting-democrats-midterm-hopes</link>
       <description>As the conflict continues, the party is sharpening its response</description>
       <pubDate>Sun, 15 Mar 2026 17:42:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trouble is brewing among America’s corporate borrowers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/15/trouble-is-brewing-among-americas-corporate-borrowers</link>
-      <description>Surging energy prices will add to fears of a wave of defaults</description>
-      <pubDate>Sun, 15 Mar 2026 17:34:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
