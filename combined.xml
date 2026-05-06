@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Inside the Brussels deep state</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/06/inside-the-brussels-deep-state</link>
+      <description>The eurocratic guild at the heart of the EU is seeing its influence ebb</description>
+      <pubDate>Wed, 06 May 2026 18:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran’s missiles seek to drive a wedge between Gulf states</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/06/irans-missiles-seek-to-drive-a-wedge-between-gulf-states</link>
+      <description>It is singling out the UAE for pain</description>
+      <pubDate>Wed, 06 May 2026 18:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The human genome encodes for a new category of molecule</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/06/the-human-genome-encodes-for-a-new-category-of-molecule</link>
+      <description>They may be useful targets for future drugs</description>
+      <pubDate>Wed, 06 May 2026 18:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>How worried should you be about hantavirus?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/06/how-worried-should-you-be-about-hantavirus</link>
+      <description>An outbreak on a cruise ship has authorities concerned</description>
+      <pubDate>Wed, 06 May 2026 18:18:16 +0000</pubDate>
+    </item>
+    <item>
       <title>City parenting has become a financial flex</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/06/city-parenting-has-become-a-financial-flex</link>
       <description>The wealthiest neighbourhoods are defying suburbanisation</description>
@@ -2980,30 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/16/the-quiet-recovery-of-irelands-ancient-tongue</link>
       <description>In the land of St Patrick, Irish is making a steady comeback</description>
       <pubDate>Mon, 16 Mar 2026 18:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rapid-charging EV batteries are on the way</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/16/rapid-charging-ev-batteries-are-on-the-way</link>
-      <description>They can be topped up in as little time as a tank of fuel</description>
-      <pubDate>Mon, 16 Mar 2026 17:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will America’s Asian allies get dragged into the Iran war?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/16/will-americas-asian-allies-get-dragged-into-the-iran-war</link>
-      <description>They are worried Uncle Sam will abandon them if they don’t fight</description>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: A conflict Trump was ill-prepared for</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/16/the-war-room-newsletter-a-conflict-trump-was-ill-prepared-for</link>
-      <description>There is no simple way to reopen the Strait of Hormuz, writes Shashank Joshi, our defence editor</description>
-      <pubDate>Mon, 16 Mar 2026 17:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Maoist survival guide to the Iranian energy crisis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/16/a-maoist-survival-guide-to-the-iranian-energy-crisis</link>
-      <description>For a self-reliant power like China, no supplier is ever irreplaceable</description>
-      <pubDate>Mon, 16 Mar 2026 16:36:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
