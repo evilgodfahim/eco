@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Only one of Berkshire Hathaway and SoftBank can survive</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/only-one-of-berkshire-hathaway-and-softbank-can-survive</link>
+      <description>The two represent competing visions of the future</description>
+      <pubDate>Wed, 06 May 2026 20:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Not all oil giants are prospering from the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/not-all-oil-giants-are-prospering-from-the-iran-war</link>
+      <description>Exxon and Chevron have benefited less than their European rivals</description>
+      <pubDate>Wed, 06 May 2026 19:44:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside the Brussels deep state</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/06/inside-the-brussels-deep-state</link>
       <description>The eurocratic guild at the heart of the EU is seeing its influence ebb</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil</link>
       <description>Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals</description>
       <pubDate>Mon, 16 Mar 2026 22:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>War may bring lasting change to the airline business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/16/war-may-bring-lasting-change-to-the-airline-business</link>
-      <description>Western carriers will relish the chance to win some of their customers back</description>
-      <pubDate>Mon, 16 Mar 2026 20:40:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The quiet recovery of Ireland’s ancient tongue</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/16/the-quiet-recovery-of-irelands-ancient-tongue</link>
-      <description>In the land of St Patrick, Irish is making a steady comeback</description>
-      <pubDate>Mon, 16 Mar 2026 18:57:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
