@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Wanted: a new tech-industry writer</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/wanted-a-new-tech-industry-writer</link>
+      <description>An opportunity to join the staff of The Economist</description>
+      <pubDate>Wed, 06 May 2026 13:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing Africa newsletter: Inside a counter-terrorism bootcamp</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/06/analysing-africa-newsletter-inside-a-counter-terrorism-bootcamp</link>
+      <description>Tom Gardner, our Africa correspondent, watches an American-led effort to fight jihadism</description>
+      <pubDate>Wed, 06 May 2026 11:59:03 +0000</pubDate>
+    </item>
+    <item>
       <title>America must hope Donald Trump is not a new Caligula</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-caligula</link>
       <description>In the annals of rulers committing acts of folly, Roman decadence stands out</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/15/trouble-is-brewing-among-americas-corporate-borrowers</link>
       <description>Surging energy prices will add to fears of a wave of defaults</description>
       <pubDate>Sun, 15 Mar 2026 17:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open-source intelligence shuts down</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/15/open-source-intelligence-shuts-down</link>
-      <description>Satellite images of the Middle East are suddenly disappearing</description>
-      <pubDate>Sun, 15 Mar 2026 17:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Nitish Kumar did for Bihar, India’s poorest state</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/15/what-nitish-kumar-did-for-bihar-indias-poorest-state</link>
-      <description>The state’s longest-serving chief minister raised voters’ expectations of their politicians</description>
-      <pubDate>Sun, 15 Mar 2026 14:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
