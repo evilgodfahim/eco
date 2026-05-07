@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How Russia planned to help Iran kill Americans</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/07/how-russia-planned-to-help-iran-kill-americans</link>
+      <description>It proposed sending unjammable fibre-optic drones to use against American forces</description>
+      <pubDate>Thu, 07 May 2026 19:16:34 +0000</pubDate>
+    </item>
+    <item>
       <title>China is pushing Donald Trump for concessions on Taiwan</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/07/china-is-pushing-donald-trump-for-concessions-on-taiwan</link>
       <description>Some in Taipei and Washington fear he may give ground</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Israel contemplates a ground invasion of Lebanon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/israel-contemplates-a-ground-invasion-of-lebanon</link>
       <description>That could wreck Lebanon’s chances of taking on Hizbullah itself</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A shake-up at Africa’s spikiest media group</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/a-shake-up-at-africas-spikiest-media-group</link>
-      <description>Can the new owner preserve its independent spirit?</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
