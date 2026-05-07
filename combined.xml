@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China is pushing Donald Trump for concessions on Taiwan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/07/china-is-pushing-donald-trump-for-concessions-on-taiwan</link>
+      <description>Some in Taipei and Washington fear he may give ground</description>
+      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump and Xi will struggle to strike a major economic deal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/07/trump-and-xi-will-struggle-to-strike-a-major-economic-deal</link>
+      <description>Just avoiding a renewed clash will count as success</description>
+      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
+    </item>
+    <item>
       <title>The world must stop AI from empowering bioterrorists</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/07/the-world-must-stop-ai-from-empowering-bioterrorists</link>
       <description>The threat from new pathogens is an even graver danger than AI-backed hackers</description>
@@ -56,6 +68,24 @@
       <title>The Supreme Court has unleashed the gerrymanderers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/the-supreme-court-has-unleashed-the-gerrymanderers</link>
       <description>Louisiana v Callais is baleful for democracy</description>
+      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/business</link>
+      <description></description>
+      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/the-weekly-cartoon</link>
+      <description></description>
+      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/politics</link>
+      <description></description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
     <item>
@@ -155,7 +185,7 @@
       <pubDate>Thu, 07 May 2026 10:19:56 +0000</pubDate>
     </item>
     <item>
-      <title>Unicredit’s lowball bid for Commerzbank causes consternation</title>
+      <title>UniCredit’s lowball bid for Commerzbank causes consternation</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/unicredits-lowball-bid-for-commerzbank-causes-consternation</link>
       <description>A bad-tempered battle for a big German bank</description>
       <pubDate>Thu, 07 May 2026 10:19:27 +0000</pubDate>
@@ -2974,36 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/a-shake-up-at-africas-spikiest-media-group</link>
       <description>Can the new owner preserve its independent spirit?</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The war in eastern Congo is escalating far from view</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/the-war-in-eastern-congo-is-escalating-far-from-view</link>
-      <description>Fighting in South Kivu is a disaster for civilians and may threaten the copper belt</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cuba’s broken economy leaves it at Donald Trump’s mercy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/19/cubas-broken-economy-leaves-it-at-donald-trumps-mercy</link>
-      <description>He seems more interested in creating a client state than a free Cuba</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>There is plenty of scope for the Iran war to intensify</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/19/there-is-plenty-of-scope-for-the-iran-war-to-intensify</link>
-      <description>But no obvious way to bring it to an end</description>
-      <pubDate>Thu, 19 Mar 2026 12:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>A deadly strike in Kabul could have big knock-on effects</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/19/a-deadly-strike-in-kabul-could-have-big-knock-on-effects</link>
-      <description>The war between Afghanistan and Pakistan is growing ever more lethal</description>
-      <pubDate>Thu, 19 Mar 2026 11:40:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why AI has not yet upset India’s IT industry</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/why-ai-has-not-yet-upset-indias-it-industry</link>
-      <description>Deploying the technology is the real world is proving tricky</description>
-      <pubDate>Thu, 19 Mar 2026 11:32:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
