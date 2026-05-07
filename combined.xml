@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The myth of the petrodollar</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar</link>
+      <description>The dominance of America’s currency runs deeper than oil</description>
+      <pubDate>Thu, 07 May 2026 10:29:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek and Alibaba rescue China’s office landlords</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords</link>
+      <description>Technology firms are reviving (a few) Chinese commercial-property markets</description>
+      <pubDate>Thu, 07 May 2026 10:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unicredit’s lowball bid for Commerzbank causes consternation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/unicredits-lowball-bid-for-commerzbank-causes-consternation</link>
+      <description>A bad-tempered battle for a big German bank</description>
+      <pubDate>Thu, 07 May 2026 10:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe is unshackling business. But not enough</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/07/europe-is-unshackling-business-but-not-enough</link>
+      <description>Why market liberals must win the battle for Brussels—and national capitals, too</description>
+      <pubDate>Thu, 07 May 2026 10:18:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s foreign policy gets a muscular finance arm</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/donald-trumps-foreign-policy-gets-a-muscular-finance-arm</link>
+      <description>The Development Finance Corporation’s loan book may soon rival the World Bank’s</description>
+      <pubDate>Thu, 07 May 2026 10:12:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Only one of Berkshire Hathaway and SoftBank can survive</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/only-one-of-berkshire-hathaway-and-softbank-can-survive</link>
       <description>The two represent competing visions of the future</description>
@@ -23,9 +53,9 @@
       <pubDate>Wed, 06 May 2026 18:56:20 +0000</pubDate>
     </item>
     <item>
-      <title>Iran’s missiles seek to drive a wedge between Gulf states</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/06/irans-missiles-seek-to-drive-a-wedge-between-gulf-states</link>
-      <description>It is singling out the UAE for pain</description>
+      <title>Despite Donald Trump’s talk, a lasting peace is some way off</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/06/despite-donald-trumps-talk-a-lasting-peace-is-some-way-off</link>
+      <description>Iran is now targeting the UAE</description>
       <pubDate>Wed, 06 May 2026 18:44:50 +0000</pubDate>
     </item>
     <item>
@@ -2974,36 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/17/will-south-koreas-epic-bull-market-survive-the-energy-shock</link>
       <description>Probably, but investors should brace for more volatility</description>
       <pubDate>Tue, 17 Mar 2026 19:14:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>China cannot escape the energy shock</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/17/china-cannot-escape-the-energy-shock</link>
-      <description>Despite renewables and reserves, it will suffer</description>
-      <pubDate>Tue, 17 Mar 2026 18:58:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s failing gunboat diplomacy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/17/americas-failing-gunboat-diplomacy</link>
-      <description>Like some fusty old imperialist, Donald Trump is flummoxed by foreigners</description>
-      <pubDate>Tue, 17 Mar 2026 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa’s richest man has ambitious plans for the continent</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/17/africas-richest-man-has-ambitious-plans-for-the-continent</link>
-      <description>But the tycoon also has his critics</description>
-      <pubDate>Tue, 17 Mar 2026 17:48:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are there enough missile interceptors?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/17/are-there-enough-missile-interceptors</link>
-      <description>Shortages in Israel and the Gulf could determine the war’s course</description>
-      <pubDate>Tue, 17 Mar 2026 16:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war is roiling commodities far beyond oil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil</link>
-      <description>Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals</description>
-      <pubDate>Mon, 16 Mar 2026 22:34:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
