@@ -5,8 +5,14 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>Do house plants improve air quality?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/08/do-house-plants-improve-air-quality</link>
+      <title>Guatemala, once Latin America’s rule-of-law beacon, has new hope</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/08/guatemala-once-latin-americas-rule-of-law-beacon-has-new-hope</link>
+      <description>But a new attorney-general may not be enough to revive the fight against corruption</description>
+      <pubDate>Fri, 08 May 2026 19:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do houseplants improve air quality?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/08/do-houseplants-improve-air-quality</link>
       <description>Air purifiers are more effective and easier to maintain</description>
       <pubDate>Fri, 08 May 2026 16:52:02 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>The Iran war is forcing Europe to confront its energy problem</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/19/the-iran-war-is-forcing-europe-to-confront-its-energy-problem</link>
       <description>High power prices are putting the continent’s economy at risk</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The secrets to a good employee survey</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/the-secrets-to-a-good-employee-survey</link>
-      <description>Likert or not</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
