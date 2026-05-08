@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Do house plants improve air quality?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/08/do-house-plants-improve-air-quality</link>
+      <description>Air purifiers are more effective and easier to maintain</description>
+      <pubDate>Fri, 08 May 2026 16:52:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Secret document reveals Russia’s plans to aid Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/07/secret-document-reveals-russias-plans-to-aid-iran</link>
       <description>Unjammable drones would be used against American forces, according to proposals seen by The Economist</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>The Iran war casts a shadow over BASF’s nascent revival</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/19/the-iran-war-casts-a-shadow-over-basfs-nascent-revival</link>
       <description>The turnaround of the German chemicals giant is still a work in progress</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel contemplates a ground invasion of Lebanon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/19/israel-contemplates-a-ground-invasion-of-lebanon</link>
-      <description>That could wreck Lebanon’s chances of taking on Hizbullah itself</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
