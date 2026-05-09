@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: America’s oddly relaxing counter-terrorism strategy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/09/checks-and-balance-newsletter-americas-oddly-relaxing-counter-terrorism-strategy</link>
+      <description>John Prideaux, our US editor, on how the country’s approach has become an under-appreciated success</description>
+      <pubDate>Sat, 09 May 2026 13:06:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Guatemala, once Latin America’s rule-of-law beacon, has new hope</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/08/guatemala-once-latin-americas-rule-of-law-beacon-has-new-hope</link>
       <description>But a new attorney-general may not be enough to revive the fight against corruption</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Viktor Orban’s pro-natalist policies are not working</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/19/viktor-orbans-pro-natalist-policies-are-not-working</link>
       <description>Despite lavish spending on mothers, Hungary’s fertility rate is falling again</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war is forcing Europe to confront its energy problem</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/19/the-iran-war-is-forcing-europe-to-confront-its-energy-problem</link>
-      <description>High power prices are putting the continent’s economy at risk</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
