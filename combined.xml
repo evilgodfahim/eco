@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A Congolese militia wants to sell critical minerals to Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/10/a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump</link>
+      <description>The pitch by M23, exclusively revealed to The Economist, belies the rebels’ weaknesses</description>
+      <pubDate>Sun, 10 May 2026 09:44:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: America’s oddly relaxing counter-terrorism strategy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/09/checks-and-balance-newsletter-americas-oddly-relaxing-counter-terrorism-strategy</link>
       <description>John Prideaux, our US editor, on how the country’s approach has become an under-appreciated success</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/19/politics</link>
       <description></description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viktor Orban’s pro-natalist policies are not working</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/19/viktor-orbans-pro-natalist-policies-are-not-working</link>
-      <description>Despite lavish spending on mothers, Hungary’s fertility rate is falling again</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
