@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can Mukesh Ambani pull off his biggest gamble yet?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/10/can-mukesh-ambani-pull-off-his-biggest-gamble-yet</link>
+      <description>The boss of Reliance wants to transform his conglomerate into a tech giant</description>
+      <pubDate>Sun, 10 May 2026 18:32:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>America faces another grocery-price shock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/10/america-faces-another-grocery-price-shock</link>
+      <description>Higher energy costs will be felt unevenly across the food-supply chain</description>
+      <pubDate>Sun, 10 May 2026 18:04:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia is stumbling on the battlefield</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/10/russia-is-stumbling-on-the-battlefield</link>
       <description>As casualties soar in Ukraine, Vladimir Putin looks ever more beleaguered at home</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Is an obsession with immigration leaving America exposed?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/is-an-obsession-with-immigration-leaving-america-exposed</link>
       <description>The Iran war raises questions about the country’s counterterrorism capabilities</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/19/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/19/business</link>
-      <description></description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
