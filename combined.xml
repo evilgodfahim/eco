@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>India’s pricey private universities want to take on the Ivy League</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/11/indias-pricey-private-universities-want-to-take-on-the-ivy-league</link>
+      <description>Billionaire founders are bankrolling their efforts</description>
+      <pubDate>Mon, 11 May 2026 15:22:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Lessons for Democrats from a candidate who sings and shoots</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/11/lessons-for-democrats-from-a-candidate-who-sings-and-shoots</link>
       <description>It’s good to be charming and unconventional. It’s really good to be famous</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>The future of Africa will be shaped by investment rather than aid</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/19/the-future-of-africa-will-be-shaped-by-investment-rather-than-aid</link>
       <description>Foreign and African firms are giving the continent reasons for hope</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>American farmers are feeling the squeeze</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/american-farmers-are-feeling-the-squeeze</link>
-      <description>Surging fertiliser prices are a blow to a limping industry</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
