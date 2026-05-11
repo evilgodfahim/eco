@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Lessons for Democrats from a candidate who sings and shoots</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/11/lessons-for-democrats-from-a-candidate-who-sings-and-shoots</link>
+      <description>It’s good to be charming and unconventional. It’s really good to be famous</description>
+      <pubDate>Mon, 11 May 2026 12:21:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Can Mukesh Ambani pull off his biggest gamble yet?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/10/can-mukesh-ambani-pull-off-his-biggest-gamble-yet</link>
       <description>The boss of Reliance wants to transform his conglomerate into a tech giant</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>American farmers are feeling the squeeze</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/american-farmers-are-feeling-the-squeeze</link>
       <description>Surging fertiliser prices are a blow to a limping industry</description>
-      <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is an obsession with immigration leaving America exposed?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/19/is-an-obsession-with-immigration-leaving-america-exposed</link>
-      <description>The Iran war raises questions about the country’s counterterrorism capabilities</description>
       <pubDate>Thu, 19 Mar 2026 13:50:01 +0000</pubDate>
     </item>
   </channel>
