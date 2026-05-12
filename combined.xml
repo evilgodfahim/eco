@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America and China are shielding the world from an oil catastrophe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/12/america-and-china-are-shielding-the-world-from-an-oil-catastrophe</link>
+      <description>Will they lose their nerve before Hormuz reopens?</description>
+      <pubDate>Tue, 12 May 2026 21:15:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Index rebalancing is now the biggest event in markets</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/12/index-rebalancing-is-now-the-biggest-event-in-markets</link>
       <description>But profiting from it is another matter</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/22/why-bangalore-has-indias-best-billionaires</link>
       <description>Its philanthropists want to do more than just give money away</description>
       <pubDate>Sun, 22 Mar 2026 17:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Donald Trump is putting his face on a coin</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/22/why-donald-trump-is-putting-his-face-on-a-coin</link>
-      <description>Money and power belong together</description>
-      <pubDate>Sun, 22 Mar 2026 15:56:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
