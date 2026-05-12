@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Index rebalancing is now the biggest event in markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/12/index-rebalancing-is-now-the-biggest-event-in-markets</link>
+      <description>But profiting from it is another matter</description>
+      <pubDate>Tue, 12 May 2026 19:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The EU and China are stumbling into a trade war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/12/the-eu-and-china-are-stumbling-into-a-trade-war</link>
+      <description>Swamped by Chinese exports, Europe nears a point of no return</description>
+      <pubDate>Tue, 12 May 2026 18:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asylum in America is all but over. It may never come back</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/12/asylum-in-america-is-all-but-over-it-may-never-come-back</link>
+      <description>How Donald Trump fulfilled a campaign pledge</description>
+      <pubDate>Tue, 12 May 2026 18:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why many women cannot make enough breast milk</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/12/why-many-women-cannot-make-enough-breast-milk</link>
+      <description>The causes are often beyond their control</description>
+      <pubDate>Tue, 12 May 2026 18:28:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bashar al-Assad’s henchmen start to go on trial in Syria</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/12/bashar-al-assads-henchmen-start-to-go-on-trial-in-syria</link>
+      <description>But some worry that the process is too rushed to be credible</description>
+      <pubDate>Tue, 12 May 2026 17:54:57 +0000</pubDate>
+    </item>
+    <item>
       <title>The Philippines impeaches its vice-president</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/12/the-philippines-impeaches-its-vice-president</link>
       <description>Sara Duterte’s political career hangs in the balance</description>
@@ -2974,36 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/22/why-donald-trump-is-putting-his-face-on-a-coin</link>
       <description>Money and power belong together</description>
       <pubDate>Sun, 22 Mar 2026 15:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>America goes on cyber-offence</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/22/america-goes-on-cyber-offence</link>
-      <description>Its aggressive new strategy comes as Iranian hackers threaten cyber-warfare</description>
-      <pubDate>Sun, 22 Mar 2026 14:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Westerners are fleeing their countries in record numbers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/22/westerners-are-fleeing-their-countries-in-record-numbers</link>
-      <description>This will have economic consequences for the places they flee and their destinations</description>
-      <pubDate>Sun, 22 Mar 2026 10:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even the best-case scenario for energy markets is disastrous</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous</link>
-      <description>Whatever happens, high prices will outlive the Iran war</description>
-      <pubDate>Sun, 22 Mar 2026 10:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is playing music good for the brain?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/20/is-playing-music-good-for-the-brain</link>
-      <description>It would seem so, even for amateurs</description>
-      <pubDate>Fri, 20 Mar 2026 18:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: Operation Blind Fury</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/20/cover-story-newsletter-operation-blind-fury</link>
-      <description>An exclusive look at how we designed this week’s cover</description>
-      <pubDate>Fri, 20 Mar 2026 17:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
