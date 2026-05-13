@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s midterm strategy: purge the Republican Party</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/13/donald-trumps-midterm-strategy-purge-the-republican-party</link>
+      <description>A case study in two bitter primaries for safe Republican seats</description>
+      <pubDate>Wed, 13 May 2026 16:22:54 +0000</pubDate>
+    </item>
+    <item>
       <title>How the world has avoided an oil catastrophe so far</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/12/how-the-world-has-avoided-an-oil-catastrophe-so-far</link>
       <description>The great commodity-market mystery is deepening</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/22/donald-trump-has-four-bad-options-for-the-war-in-iran</link>
       <description>None is guaranteed to end the war or ease the economic crisis it has produced</description>
       <pubDate>Sun, 22 Mar 2026 19:08:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Bangalore has India’s best billionaires</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/22/why-bangalore-has-indias-best-billionaires</link>
-      <description>Its philanthropists want to do more than just give money away</description>
-      <pubDate>Sun, 22 Mar 2026 17:29:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
