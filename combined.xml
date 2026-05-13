@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The war between businesses and hackers enters a perilous new era</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-era</link>
+      <description>AI agents present novel dangers</description>
+      <pubDate>Wed, 13 May 2026 20:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world’s best-sounding nightclub is in an unexpected place</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/13/the-worlds-best-sounding-nightclub-is-in-an-unexpected-place</link>
+      <description>Why DJs are flocking to an obscure town in west Germany</description>
+      <pubDate>Wed, 13 May 2026 20:00:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Is AI putting graduates out of work already?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already</link>
       <description>If you are studying coding, we might have some bad news</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/the-war-room-newsletter-trump-is-scrambling-for-options-in-iran</link>
       <description>“To end the war on current terms would look like defeat [for Trump] to most of the world,” writes Shashank Joshi, our defence editor</description>
       <pubDate>Mon, 23 Mar 2026 18:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marco Rubio, the chameleon in the war room</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/23/marco-rubio-the-chameleon-in-the-war-room</link>
-      <description>On Venezuela, Iran and Cuba, Donald Trump is listening to his secretary of state</description>
-      <pubDate>Mon, 23 Mar 2026 17:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the number of Islamic schools in Canada is soaring</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/23/why-the-number-of-islamic-schools-in-canada-is-soaring</link>
-      <description>Some Muslim parents worry about their children losing touch with their faith</description>
-      <pubDate>Mon, 23 Mar 2026 16:59:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
