@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Big tech’s fat profits conceal unsettling cashflows</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/big-techs-fat-profits-conceal-unsettling-cashflows</link>
+      <description>Five cloud giants are sacrificing their returns to prop up the AI boom</description>
+      <pubDate>Wed, 13 May 2026 21:29:11 +0000</pubDate>
+    </item>
+    <item>
       <title>The war between businesses and hackers enters a perilous new era</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-era</link>
       <description>AI agents present novel dangers</description>
@@ -37,7 +43,7 @@
     <item>
       <title>Donald Trump’s midterm strategy: purge the Republican Party</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/13/donald-trumps-midterm-strategy-purge-the-republican-party</link>
-      <description>A case study in two bitter primaries for safe Republican seats</description>
+      <description>An unpopular war, higher prices…to be fair, he doesn’t have much to work with</description>
       <pubDate>Wed, 13 May 2026 16:22:54 +0000</pubDate>
     </item>
     <item>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/donald-trumps-latest-climbdown-suggests-he-wants-to-end-the-war</link>
       <description>The divide between Israel and America is widening</description>
       <pubDate>Mon, 23 Mar 2026 18:58:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Trump is scrambling for options in Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/the-war-room-newsletter-trump-is-scrambling-for-options-in-iran</link>
-      <description>“To end the war on current terms would look like defeat [for Trump] to most of the world,” writes Shashank Joshi, our defence editor</description>
-      <pubDate>Mon, 23 Mar 2026 18:35:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
