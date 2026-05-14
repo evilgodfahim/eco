@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mexico’s daft plan to cut the school year for the World Cup</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/14/mexicos-daft-plan-to-cut-the-school-year-for-the-world-cup</link>
+      <description>Does Claudia Sheinbaum really want to improve education?</description>
+      <pubDate>Thu, 14 May 2026 19:49:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Indonesia’s president is jeopardising the economy and democracy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/14/indonesias-president-is-jeopardising-the-economy-and-democracy</link>
       <description>Prabowo Subianto is too spendthrift and too authoritarian</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Brazil has a secret weapon against oil shocks</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/26/brazil-has-a-secret-weapon-against-oil-shocks</link>
       <description>Biofuels will help the country fend off the effects of conflict in the Middle East</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mexico’s broken economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/26/mexicos-broken-economy</link>
-      <description>Claudia Sheinbaum’s government is tinkering, not reforming</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
