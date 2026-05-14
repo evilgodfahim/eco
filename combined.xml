@@ -5,14 +5,32 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>India’s legendary hill towns are sinking</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/indias-legendary-hill-towns-are-sinking</link>
+      <description>Overdevelopment threatens many Himalayan states</description>
+      <pubDate>Thu, 14 May 2026 09:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Gulf war will change Asia for good</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/the-gulf-war-will-change-asia-for-good</link>
+      <description>Energy-shocked countries are determined never to be hostage again</description>
+      <pubDate>Thu, 14 May 2026 09:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trade or Taiwan? Trump and Xi struggle to set the terms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/14/trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms</link>
+      <description>At a summit in Beijing, business deals may mask divisions on Iran, Ukraine and AI</description>
+      <pubDate>Thu, 14 May 2026 08:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Big tech’s fat profits conceal unsettling cashflows</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/big-techs-fat-profits-conceal-unsettling-cashflows</link>
       <description>Five cloud giants are sacrificing their returns to prop up the AI boom</description>
       <pubDate>Wed, 13 May 2026 21:29:11 +0000</pubDate>
     </item>
     <item>
-      <title>The war between businesses and hackers enters a perilous new era</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-era</link>
+      <title>The war between businesses and hackers enters a perilous new phase</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-phase</link>
       <description>AI agents present novel dangers</description>
       <pubDate>Wed, 13 May 2026 20:23:22 +0000</pubDate>
     </item>
@@ -2986,24 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/23/giorgia-melonis-big-setback-in-italy</link>
       <description>Her failed referendum gamble hints at growing dissatisfaction with her government</description>
       <pubDate>Mon, 23 Mar 2026 21:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>How high could global inflation go?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go</link>
-      <description>With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living</description>
-      <pubDate>Mon, 23 Mar 2026 20:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ByteDance is swallowing the internet—in China and beyond</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/23/bytedance-is-swallowing-the-internet-in-china-and-beyond</link>
-      <description>Can anything stop its stunning rise?</description>
-      <pubDate>Mon, 23 Mar 2026 20:22:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s latest climbdown suggests he wants to end the war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/23/donald-trumps-latest-climbdown-suggests-he-wants-to-end-the-war</link>
-      <description>The divide between Israel and America is widening</description>
-      <pubDate>Mon, 23 Mar 2026 18:58:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
