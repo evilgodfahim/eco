@@ -5,10 +5,28 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Why America still argues about 1965</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/14/checks-and-balance-newsletter-why-america-still-argues-about-1965</link>
+      <description>Jon Fasman, our senior culture correspondent, on the unfinished battles of the civil-rights era</description>
+      <pubDate>Thu, 14 May 2026 09:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sir Keir Starmer has failed abjectly. He should go</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/sir-keir-starmer-has-failed-abjectly-he-should-go</link>
+      <description>Britain is not ungovernable—it just needs better governance</description>
+      <pubDate>Thu, 14 May 2026 09:25:07 +0000</pubDate>
+    </item>
+    <item>
       <title>India’s legendary hill towns are sinking</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/indias-legendary-hill-towns-are-sinking</link>
       <description>Overdevelopment threatens many Himalayan states</description>
       <pubDate>Thu, 14 May 2026 09:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil markets have won a surprise reprieve</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/oil-markets-have-won-a-surprise-reprieve</link>
+      <description>It is unlikely to last</description>
+      <pubDate>Thu, 14 May 2026 09:20:04 +0000</pubDate>
     </item>
     <item>
       <title>The Gulf war will change Asia for good</title>
@@ -17,15 +35,33 @@
       <pubDate>Thu, 14 May 2026 09:17:45 +0000</pubDate>
     </item>
     <item>
+      <title>Prepare for an AI jobs apocalypse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse</link>
+      <description>It is not here yet. But governments should lay a safety-net</description>
+      <pubDate>Thu, 14 May 2026 09:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to share the AI windfall</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/14/how-to-share-the-ai-windfall</link>
+      <description>Are taxes enough?</description>
+      <pubDate>Thu, 14 May 2026 09:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The jobs apocalypse: a (very) short history</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/14/the-jobs-apocalypse-a-very-short-history</link>
+      <description>Mass unemployment induced by AI would be unprecedented</description>
+      <pubDate>Thu, 14 May 2026 08:58:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Trade or Taiwan? Trump and Xi struggle to set the terms</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/14/trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms</link>
       <description>At a summit in Beijing, business deals may mask divisions on Iran, Ukraine and AI</description>
       <pubDate>Thu, 14 May 2026 08:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Big tech’s fat profits conceal unsettling cashflows</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/big-techs-fat-profits-conceal-unsettling-cashflows</link>
-      <description>Five cloud giants are sacrificing their returns to prop up the AI boom</description>
+      <title>Big tech is sacrificing its cashflows to prop up the AI boom</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom</link>
+      <description>The result is increasingly unsettling</description>
       <pubDate>Wed, 13 May 2026 21:29:11 +0000</pubDate>
     </item>
     <item>
@@ -61,7 +97,7 @@
     <item>
       <title>Donald Trump’s midterm strategy: purge the Republican Party</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/13/donald-trumps-midterm-strategy-purge-the-republican-party</link>
-      <description>An unpopular war, higher prices…to be fair, he doesn’t have much to work with</description>
+      <description>A case study in two bitter primaries for safe Republican seats</description>
       <pubDate>Wed, 13 May 2026 16:22:54 +0000</pubDate>
     </item>
     <item>
@@ -97,12 +133,12 @@
     <item>
       <title>Bashar al-Assad’s henchmen start to go on trial in Syria</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/12/bashar-al-assads-henchmen-start-to-go-on-trial-in-syria</link>
-      <description>But some worry that the process is too rushed to be credible</description>
+      <description>Some observers worry that the process is too rushed to be credible</description>
       <pubDate>Tue, 12 May 2026 17:54:57 +0000</pubDate>
     </item>
     <item>
-      <title>The Philippines impeaches its vice-president</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/12/the-philippines-impeaches-its-vice-president</link>
+      <title>Drama in the Philippines after the vice-president is impeached</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/12/drama-in-the-philippines-after-the-vice-president-is-impeached</link>
       <description>Sara Duterte’s political career hangs in the balance</description>
       <pubDate>Tue, 12 May 2026 15:40:32 +0000</pubDate>
     </item>
@@ -119,8 +155,8 @@
       <pubDate>Mon, 11 May 2026 18:10:26 +0000</pubDate>
     </item>
     <item>
-      <title>A prolonged Iran crisis could irreversibly damage Gulf states</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/11/a-prolonged-iran-crisis-could-irreversibly-damage-gulf-states</link>
+      <title>Gulf states fear the fallout from the Iran crisis may become irreversible</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/11/gulf-states-fear-the-fallout-from-the-iran-crisis-may-become-irreversible</link>
       <description>If there is no deal by the end of the summer, long-term economic harm is likely</description>
       <pubDate>Mon, 11 May 2026 17:47:25 +0000</pubDate>
     </item>
@@ -2968,42 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/24/autonomous-swarms-are-the-future-of-drone-warfare</link>
       <description>Much of the innovation is being carried out in Ukraine</description>
       <pubDate>Tue, 24 Mar 2026 20:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Markets are gripped by an alarming cognitive dissonance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/24/markets-are-gripped-by-an-alarming-cognitive-dissonance</link>
-      <description>Investors all seem to think everyone else is wrong</description>
-      <pubDate>Tue, 24 Mar 2026 19:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s government both drives and constrains the rise of AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/24/chinas-government-both-drives-and-constrains-the-rise-of-ai</link>
-      <description>Officials want to lead the world in the new technology, but are still wary of disruption</description>
-      <pubDate>Tue, 24 Mar 2026 19:03:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a battle to reopen the Strait of Hormuz would look like</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/24/what-a-battle-to-reopen-the-strait-of-hormuz-would-look-like</link>
-      <description>A lot of ships, aircraft and soldiers would have to spend a long time in harm’s way for uncertain results</description>
-      <pubDate>Tue, 24 Mar 2026 17:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Botswana prepares to take an even bigger gamble on diamonds</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/24/botswana-prepares-to-take-an-even-bigger-gamble-on-diamonds</link>
-      <description>The African country wants to own more of De Beers, the firm that helped it to escape poverty</description>
-      <pubDate>Tue, 24 Mar 2026 14:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s new masterplan for its tech economy in 2030 and beyond</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/03/24/chinas-new-masterplan-for-its-tech-economy-in-2030-and-beyond</link>
-      <description>The Communist Party’s technological ambition is breathtaking</description>
-      <pubDate>Tue, 24 Mar 2026 14:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giorgia Meloni’s big setback in Italy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/23/giorgia-melonis-big-setback-in-italy</link>
-      <description>Her failed referendum gamble hints at growing dissatisfaction with her government</description>
-      <pubDate>Mon, 23 Mar 2026 21:08:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
