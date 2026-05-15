@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How well do anabolic steroids work?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/15/how-well-do-anabolic-steroids-work</link>
+      <description>Very. But beware the side-effects</description>
+      <pubDate>Fri, 15 May 2026 17:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>What did Trump and Xi actually achieve?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/15/what-did-trump-and-xi-actually-achieve</link>
+      <description>Divergent accounts suggest little progress on trade, Taiwan, Iran and AI</description>
+      <pubDate>Fri, 15 May 2026 15:17:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Mexico’s daft plan to cut the school year for the World Cup</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/14/mexicos-daft-plan-to-cut-the-school-year-for-the-world-cup</link>
       <description>Does Claudia Sheinbaum really want to improve education?</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Israeli settlers are growing more violent in the West Bank</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/israeli-settlers-are-growing-more-violent-in-the-west-bank</link>
       <description>Since the war with Iran began, attacks against Palestinians have become more systematic</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>In the current Gulf war, water may prove as decisive as oil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/in-the-current-gulf-war-water-may-prove-as-decisive-as-oil</link>
-      <description>The Arab states are plainly vulnerable, but so is Iran</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil has a secret weapon against oil shocks</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/03/26/brazil-has-a-secret-weapon-against-oil-shocks</link>
-      <description>Biofuels will help the country fend off the effects of conflict in the Middle East</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
