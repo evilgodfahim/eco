@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: A fix for Donald Trump’s jobs problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/16/checks-and-balance-newsletter-a-fix-for-donald-trumps-jobs-problem</link>
+      <description>Charlotte Howard, our New York bureau chief, explains how the president can solve the decline in working men</description>
+      <pubDate>Sat, 16 May 2026 17:54:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The jobs apocalypse</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/16/cover-story-newsletter-the-jobs-apocalypse</link>
       <description>How we chose this week’s images</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Welcome to emoji school</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/26/welcome-to-emoji-school</link>
       <description>OK boomers! Your questions answered</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s regime walls off the internet</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/irans-regime-walls-off-the-internet</link>
-      <description>The latest shutdown looks designed to be permanent</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
