@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The jobs apocalypse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/16/cover-story-newsletter-the-jobs-apocalypse</link>
+      <description>How we chose this week’s images</description>
+      <pubDate>Sat, 16 May 2026 10:21:21 +0000</pubDate>
+    </item>
+    <item>
       <title>How well do anabolic steroids work?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/15/how-well-do-anabolic-steroids-work</link>
       <description>Very. But beware the side-effects</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Iran’s regime walls off the internet</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/irans-regime-walls-off-the-internet</link>
       <description>The latest shutdown looks designed to be permanent</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli settlers are growing more violent in the West Bank</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/26/israeli-settlers-are-growing-more-violent-in-the-west-bank</link>
-      <description>Since the war with Iran began, attacks against Palestinians have become more systematic</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
