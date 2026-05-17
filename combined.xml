@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is Binyamin Netanyahu facing his last stand?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/17/is-binyamin-netanyahu-facing-his-last-stand</link>
+      <description>The legacy of October 7th and the wars that followed will loom over the campaign</description>
+      <pubDate>Sun, 17 May 2026 20:18:59 +0000</pubDate>
+    </item>
+    <item>
       <title>AI super-apps are remaking China’s internet</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet</link>
       <description>Welcome to the agentic era</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>France offers some hope for defeating populists</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/26/france-offers-some-hope-for-defeating-populists</link>
       <description>The mainstream parties get the biggest prizes</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The war’s biggest corporate winners and losers may surprise you</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/26/the-wars-biggest-corporate-winners-and-losers-may-surprise-you</link>
-      <description>Markets are beginning to signal the long-term consequences of the surge in fuel prices</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
