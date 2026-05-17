@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russia is starting to lose ground in Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/05/17/russia-is-starting-to-lose-ground-in-ukraine</link>
+      <description>Our tracker suggests it has suffered its first sustained net loss since October 2023</description>
+      <pubDate>Sun, 17 May 2026 13:03:52 +0000</pubDate>
+    </item>
+    <item>
       <title>India’s loudest political fight obscures a more urgent one</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/17/indias-loudest-political-fight-obscures-a-more-urgent-one</link>
       <description>The country’s collapsing cities could benefit from plans to redraw the electoral map</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Will the EU’s new merger rules unleash a wave of dealmaking?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/26/will-the-eus-new-merger-rules-unleash-a-wave-of-dealmaking</link>
       <description>Don’t hold your breath</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new case of chip smuggling shows the limits of export controls</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls</link>
-      <description>Contraband AI gear continues to make its way to China</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
