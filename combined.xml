@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is Trump selling out Taiwan?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/18/is-trump-selling-out-taiwan</link>
+      <description>He suggests he is bargaining with China over weapons sales to the island</description>
+      <pubDate>Mon, 18 May 2026 09:42:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Is Binyamin Netanyahu facing his last stand?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/17/is-binyamin-netanyahu-facing-his-last-stand</link>
       <description>The legacy of October 7th and the wars that followed will loom over the campaign</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Germany’s Social Democrats gaze into the abyss</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/26/germanys-social-democrats-gaze-into-the-abyss</link>
       <description>But an electoral drubbing could open a window for national reforms</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>France offers some hope for defeating populists</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/03/26/france-offers-some-hope-for-defeating-populists</link>
-      <description>The mainstream parties get the biggest prizes</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
