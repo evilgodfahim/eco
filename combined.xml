@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How much is Donald Trump costing America’s economy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/18/how-much-is-donald-trump-costing-americas-economy</link>
+      <description>We calculate the drag on growth from fitful presidential policymaking</description>
+      <pubDate>Mon, 18 May 2026 18:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIFA’s exorbitant World Cup tickets could backfire</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/05/18/fifas-exorbitant-world-cup-tickets-could-backfire</link>
+      <description>Why it is hard to monetise football’s atmosphere</description>
+      <pubDate>Mon, 18 May 2026 18:29:36 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: Why the Iran conflict may reignite</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/18/the-war-room-newsletter-why-the-iran-conflict-may-reignite</link>
       <description>Another contest of wills could end just as badly, writes Shashank Joshi, our defence editor</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>America’s spies have a lot to complain about</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/26/americas-spies-have-a-lot-to-complain-about</link>
       <description>They are grappling with politicisation, purges and a president who may not want to hear them</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/26/the-weekly-cartoon</link>
-      <description></description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/26/business</link>
-      <description></description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
