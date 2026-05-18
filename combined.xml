@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Who are Europe’s newest troublemakers?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/18/who-are-europes-newest-troublemakers</link>
+      <description>Corruption and inflation are boosting eurosceptic populists</description>
+      <pubDate>Mon, 18 May 2026 20:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where expat escapees from Dubai end up</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/18/where-expat-escapees-from-dubai-end-up</link>
+      <description>Will they ever return?</description>
+      <pubDate>Mon, 18 May 2026 20:38:24 +0000</pubDate>
+    </item>
+    <item>
       <title>How much is Donald Trump costing America’s economy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/18/how-much-is-donald-trump-costing-americas-economy</link>
       <description>We calculate the drag on growth from fitful presidential policymaking</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>For Donald Trump, Cuba is everything Iran is not</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/26/for-donald-trump-cuba-is-everything-iran-is-not</link>
       <description>A breakthrough is in his grasp. But his idea of progress may be a throwback to another era</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snarled airports and frozen funding test the new DHS secretary</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/26/snarled-airports-and-frozen-funding-test-the-new-dhs-secretary</link>
-      <description>Markwayne Mullin promises a kinder, gentler department</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s spies have a lot to complain about</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/26/americas-spies-have-a-lot-to-complain-about</link>
-      <description>They are grappling with politicisation, purges and a president who may not want to hear them</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
