@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Democrats have a chance to win the Senate. Will they blow it?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/19/the-democrats-have-a-chance-to-win-the-senate-will-they-blow-it</link>
+      <description>Much depends on what happens in places like Michigan</description>
+      <pubDate>Tue, 19 May 2026 13:34:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japanese eels have two types of sperm</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/19/japanese-eels-have-two-types-of-sperm</link>
+      <description>Understanding why could help boost their numbers</description>
+      <pubDate>Tue, 19 May 2026 13:12:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Even by Trumpian standards, a $1.8bn fund for friends is bad</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/19/even-by-trumpian-standards-a-18bn-fund-for-friends-is-bad</link>
       <description>The president threatened to sue his own administration, and will hand out the pay-off</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>China’s huge pork industry is a victim of its own success</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/26/chinas-huge-pork-industry-is-a-victim-of-its-own-success</link>
       <description>The country is awash in its favourite meat</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does the Iran war increase the risk of a Chinese attack on Taiwan?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/26/does-the-iran-war-increase-the-risk-of-a-chinese-attack-on-taiwan</link>
-      <description>China has reason to wait, but its window of opportunity has widened</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jiang Shengnan is the most vocal woman in Chinese politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/26/jiang-shengnan-is-the-most-vocal-woman-in-chinese-politics</link>
-      <description>She is trying to push change from within the system</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
