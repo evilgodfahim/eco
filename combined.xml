@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Chanel’s creative revival is paying off</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/19/chanels-creative-revival-is-paying-off</link>
+      <description>The world’s second-biggest luxury label is turning heads again</description>
+      <pubDate>Tue, 19 May 2026 19:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investors fear another surge in inflation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation</link>
+      <description>So why aren’t more buying inflation-protected bonds?</description>
+      <pubDate>Tue, 19 May 2026 19:36:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Ebola outbreak could be the worst in a decade</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/19/a-new-ebola-outbreak-could-be-the-worst-in-a-decade</link>
+      <description>Medics know how to respond. But aid cuts, war and the lack of a vaccine make it difficult</description>
+      <pubDate>Tue, 19 May 2026 18:38:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe’s secret Plan B to replace NATO</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/19/europes-secret-plan-b-to-replace-nato</link>
+      <description>How NATO’s European members plan to fight if America quits</description>
+      <pubDate>Tue, 19 May 2026 18:37:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch: What Binyamin Netanyahu’s opponents won’t say</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/19/middle-east-dispatch-what-binyamin-netanyahus-opponents-wont-say</link>
       <description>The campaign season for a possible Israeli election has already started, writes Josie Delap, our Middle East editor</description>
@@ -2979,30 +3003,6 @@ national-security doctrine</description>
       <title>Hormuz is not the only weak spot for global trade</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/03/26/hormuz-is-not-the-only-weak-spot-for-global-trade</link>
       <description>Many shipping routes are vulnerable, from the Strait of Malacca to the Panama Canal</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>England has shown the world how to replace farm subsidies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/03/26/england-has-shown-the-world-how-to-replace-farm-subsidies</link>
-      <description>A rare Brexit dividend</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Chinese companies are reshaping Indonesia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/26/how-chinese-companies-are-reshaping-indonesia</link>
-      <description>They are fleeing cut-throat competition at home</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millions of Burmese struggle to find safety in Thailand</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/26/millions-of-burmese-struggle-to-find-safety-in-thailand</link>
-      <description>Many refugees are left exposed</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is breaking into one of the world’s weirdest car markets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/26/china-is-breaking-into-one-of-the-worlds-weirdest-car-markets</link>
-      <description>An island of American motoring in Central Asia is changing fast</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
