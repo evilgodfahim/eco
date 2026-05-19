@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Even by Trumpian standards, a $1.8bn fund for friends is bad</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/19/even-by-trumpian-standards-a-18bn-fund-for-friends-is-bad</link>
+      <description>The president threatened to sue his own administration, and will hand out the pay-off</description>
+      <pubDate>Tue, 19 May 2026 09:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Who are Europe’s newest troublemakers?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/18/who-are-europes-newest-troublemakers</link>
       <description>Corruption and inflation are boosting eurosceptic populists</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Jiang Shengnan is the most vocal woman in Chinese politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/26/jiang-shengnan-is-the-most-vocal-woman-in-chinese-politics</link>
       <description>She is trying to push change from within the system</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>For Donald Trump, Cuba is everything Iran is not</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/26/for-donald-trump-cuba-is-everything-iran-is-not</link>
-      <description>A breakthrough is in his grasp. But his idea of progress may be a throwback to another era</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
