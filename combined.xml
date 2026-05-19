@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Middle East Dispatch: What Binyamin Netanyahu’s opponents won’t say</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/19/middle-east-dispatch-what-binyamin-netanyahus-opponents-wont-say</link>
+      <description>The campaign season for a possible Israeli election has already started, writes Josie Delap, our Middle East editor</description>
+      <pubDate>Tue, 19 May 2026 16:18:54 +0000</pubDate>
+    </item>
+    <item>
       <title>The Democrats have a chance to win the Senate. Will they blow it?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/19/the-democrats-have-a-chance-to-win-the-senate-will-they-blow-it</link>
       <description>Much depends on what happens in places like Michigan</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>China is breaking into one of the world’s weirdest car markets</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/03/26/china-is-breaking-into-one-of-the-worlds-weirdest-car-markets</link>
       <description>An island of American motoring in Central Asia is changing fast</description>
-      <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s huge pork industry is a victim of its own success</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/03/26/chinas-huge-pork-industry-is-a-victim-of-its-own-success</link>
-      <description>The country is awash in its favourite meat</description>
       <pubDate>Thu, 26 Mar 2026 13:57:17 +0000</pubDate>
     </item>
   </channel>
