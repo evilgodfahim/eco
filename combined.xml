@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Economics lessons from Home Depot</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot</link>
+      <description>What the world’s biggest DIY store says about American housing</description>
+      <pubDate>Wed, 20 May 2026 18:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump is pushing towards the end game in Cuba</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/20/donald-trump-is-pushing-towards-the-end-game-in-cuba</link>
+      <description>With charges against Raúl Castro, his pressure campaign looks ever more like the one that deposed Nicolás Maduro</description>
+      <pubDate>Wed, 20 May 2026 18:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breakthroughs for batteries could soon make them much better</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better</link>
+      <description>Solid-state cells would be faster and safer than today’s lithium-ion equivalents</description>
+      <pubDate>Wed, 20 May 2026 16:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The hantavirus outbreak is a tragedy—and a valuable data source</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/20/the-hantavirus-outbreak-is-a-tragedy-and-a-valuable-data-source</link>
+      <description>The risk to public health remains low</description>
+      <pubDate>Wed, 20 May 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How China quietly helps Russia in Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine</link>
+      <description>Its firms send drones, nitrocellulose for rockets and more</description>
+      <pubDate>Wed, 20 May 2026 16:34:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel the lonely</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/19/israel-the-lonely</link>
       <description>The country is not as isolated as its critics hope, but it is alienating some true friends</description>
@@ -2974,36 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/03/28/the-houthis-attack-on-israel-may-point-to-escalation-in-the-iran-war</link>
       <description>Yemen’s Shia militia could threaten to choke the Red Sea</description>
       <pubDate>Sat, 28 Mar 2026 21:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Three problems with Trump’s Iran strategy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/03/28/checks-and-balance-newsletter-three-problems-with-trumps-iran-strategy</link>
-      <description>John Prideaux, our US editor, on the risks of the president’s approach to foreign policy</description>
-      <pubDate>Sat, 28 Mar 2026 10:56:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The nightmare scenario for global trade</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/03/27/the-nightmare-scenario-for-global-trade</link>
-      <description>There could be worse blockages than the Strait of Hormuz, our analysis finds</description>
-      <pubDate>Fri, 27 Mar 2026 20:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: Advantage Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/03/27/cover-story-newsletter-advantage-iran</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 27 Mar 2026 19:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should you track your VO2 max?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/03/27/should-you-track-your-vo2-max</link>
-      <description>Treat it as a measure, not a target</description>
-      <pubDate>Fri, 27 Mar 2026 18:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: The war that shaped modern Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/03/27/the-war-room-newsletter-the-war-that-shaped-modern-iran</link>
-      <description>Iran’s conflict with Iraq in the 1980s provides valuable lessons for today, writes Richard Cockett, a senior editor</description>
-      <pubDate>Fri, 27 Mar 2026 16:45:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
