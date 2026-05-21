@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Essential India newsletter: Introducing Ashoka, our new column</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/21/essential-india-newsletter-introducing-ashoka-our-new-column</link>
+      <description>Leo Mirani explains how the column got its name</description>
+      <pubDate>Thu, 21 May 2026 15:30:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Lessons from the Premier League for Britain’s next premier</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/lessons-from-the-premier-league-for-britains-next-premier</link>
       <description>How a deflated country can bounce back</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>A revolution is coming for Germany’s intelligence services</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/a-revolution-is-coming-for-germanys-intelligence-services</link>
       <description>Derided at home and abroad, Germany’s spooks are about to get sweeping new powers</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Fox News is luring in Gen Z</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/01/how-fox-news-is-luring-in-gen-z</link>
-      <description>American boomers’ favourite TV network is trying new digital tricks</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
