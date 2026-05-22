@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A Turkish court ousts the opposition leader from his job</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/22/a-turkish-court-ousts-the-opposition-leader-from-his-job</link>
+      <description>Deposing Ozgur Ozel is another step towards autocracy for Erdogan’s Turkey</description>
+      <pubDate>Fri, 22 May 2026 12:19:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Essential India newsletter: Introducing Ashoka, our new column</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/21/essential-india-newsletter-introducing-ashoka-our-new-column</link>
       <description>Leo Mirani explains how the column got its name</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Will the European Union’s next member come from the north?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/will-the-european-unions-next-member-come-from-the-north</link>
       <description>Worried about trade and security, Iceland and Norway are warming to the EU</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A revolution is coming for Germany’s intelligence services</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/a-revolution-is-coming-for-germanys-intelligence-services</link>
-      <description>Derided at home and abroad, Germany’s spooks are about to get sweeping new powers</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
