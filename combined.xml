@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>You probably don’t need extra electrolytes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/22/you-probably-dont-need-extra-electrolytes</link>
+      <description>Unless you’re athletic or unwell</description>
+      <pubDate>Fri, 22 May 2026 15:53:37 +0000</pubDate>
+    </item>
+    <item>
       <title>A Turkish court ousts the opposition leader from his job</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/22/a-turkish-court-ousts-the-opposition-leader-from-his-job</link>
       <description>Deposing Ozgur Ozel is another step towards autocracy for Erdogan’s Turkey</description>
@@ -179,9 +185,9 @@
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceX has initiated the biggest ever public offering</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/21/spacex-has-initiated-the-biggest-ever-public-offering</link>
-      <description>Elon Musk is again going all-in on an unproven technology—data centres in space</description>
+      <title>Elon Musk is going all-in on an unproven technology</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/21/elon-musk-is-going-all-in-on-an-unproven-technology</link>
+      <description>What lies behind the world’s biggest public offering</description>
       <pubDate>Thu, 21 May 2026 10:36:08 +0000</pubDate>
     </item>
     <item>
@@ -215,9 +221,9 @@
       <pubDate>Thu, 21 May 2026 09:19:48 +0000</pubDate>
     </item>
     <item>
-      <title>American growth could be even better</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/american-growth-could-be-even-better</link>
-      <description>MAGAnomics shows the world what not to do. But also what America keeps getting right</description>
+      <title>America’s economy is soaring—even with the MAGA tax</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/americas-economy-is-soaring-even-with-the-maga-tax</link>
+      <description>The Trump administration’s polices shows the world what not to do. But also what America keeps getting right</description>
       <pubDate>Thu, 21 May 2026 09:15:14 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>On the front lines, Russian soldiers pay officers to stay alive</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/on-the-front-lines-russian-soldiers-pay-officers-to-stay-alive</link>
       <description>The war against Ukraine has created a corrupt economy of blood money</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will the European Union’s next member come from the north?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/will-the-european-unions-next-member-come-from-the-north</link>
-      <description>Worried about trade and security, Iceland and Norway are warming to the EU</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
