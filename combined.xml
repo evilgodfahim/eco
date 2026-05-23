@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Tulsi Gabbard’s exit weakens MAGA’s anti-war faction</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/22/tulsi-gabbards-exit-weakens-magas-anti-war-faction</link>
+      <description>Her resignation shows how little influence such voices wield around Donald Trump</description>
+      <pubDate>Fri, 22 May 2026 22:22:22 +0000</pubDate>
+    </item>
+    <item>
       <title>You probably don’t need extra electrolytes</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/22/you-probably-dont-need-extra-electrolytes</link>
       <description>Unless you’re athletic or unwell</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>A final favour Emmanuel Macron could do for France</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/a-final-favour-emmanuel-macron-could-do-for-france</link>
       <description>A gracefully timed exit would reset France’s awkward electoral calendar</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the front lines, Russian soldiers pay officers to stay alive</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/01/on-the-front-lines-russian-soldiers-pay-officers-to-stay-alive</link>
-      <description>The war against Ukraine has created a corrupt economy of blood money</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
