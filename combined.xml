@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>France’s Gen Z has fallen for a 74-year-old radical socialist</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/24/frances-gen-z-has-fallen-for-a-74-year-old-radical-socialist</link>
+      <description>Jean-Luc Mélenchon defies the weakness of the European left</description>
+      <pubDate>Sun, 24 May 2026 13:44:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>War has not deterred Asian Muslims from the hajj</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/24/war-has-not-deterred-asian-muslims-from-the-hajj</link>
+      <description>Yet they are finding the costs ever harder to bear</description>
+      <pubDate>Sun, 24 May 2026 13:19:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: In defence of America’s elites</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/23/checks-and-balance-newsletter-in-defence-of-americas-elites</link>
       <description>John Prideaux, our US editor, on primary season</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/01/politics</link>
       <description></description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists are working on “everything vaccines”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines</link>
-      <description>A single jab could protect against a wide range of pathogens</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A trio of firms want to clean up steelmaking</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/01/a-trio-of-firms-want-to-clean-up-steelmaking</link>
-      <description>The industry is currently responsible for around 8% of the world’s carbon emissions</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
