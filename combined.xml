@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How the Supreme Court both checks and empowers Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/24/how-the-supreme-court-both-checks-and-empowers-donald-trump</link>
+      <description>It blocks his most blatantly illegal acts, but helps him in other ways</description>
+      <pubDate>Sun, 24 May 2026 17:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colombia’s pivotal, polarised election could not be tighter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/24/colombias-pivotal-polarised-election-could-not-be-tighter</link>
+      <description>A Trump-loving populist is rising fast</description>
+      <pubDate>Sun, 24 May 2026 17:15:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Britain and Poland are set to sign a big new security treaty</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/24/britain-and-poland-are-set-to-sign-a-big-new-security-treaty</link>
       <description>The balance of power between the countries is changing</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>From MAHA to haha</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/01/from-maha-to-haha</link>
       <description>The paranoid style of medicine is becoming a political liability</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The war with Iran has blown up an America First policy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/01/the-war-with-iran-has-blown-up-an-america-first-policy</link>
-      <description>What country can afford both a war and the Jones Act?</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/01/the-weekly-cartoon</link>
-      <description></description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
