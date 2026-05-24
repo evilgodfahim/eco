@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Franchising has quietly made countless Americans rich</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/24/franchising-has-quietly-made-countless-americans-rich</link>
+      <description>In the age of AI, running a McDonald’s may soon look a lot more appealing</description>
+      <pubDate>Sun, 24 May 2026 20:13:59 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Supreme Court both checks and empowers Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/24/how-the-supreme-court-both-checks-and-empowers-donald-trump</link>
       <description>It blocks his most blatantly illegal acts, but helps him in other ways</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Demand for autism care is soaring. The system is struggling to cope</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope</link>
       <description>A surge in diagnoses has created a booming industry, riddled with incentives that drive up costs and distort care</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>From MAHA to haha</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/01/from-maha-to-haha</link>
-      <description>The paranoid style of medicine is becoming a political liability</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
