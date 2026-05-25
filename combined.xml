@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why science is becoming less innovative</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/05/25/why-science-is-becoming-less-innovative</link>
+      <description>A huge study suggests ageing scientists are part of the problem</description>
+      <pubDate>Mon, 25 May 2026 12:52:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Franchising has quietly made countless Americans rich</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/24/franchising-has-quietly-made-countless-americans-rich</link>
       <description>In the age of AI, running a McDonald’s may soon look a lot more appealing</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>How Africa is changing Catholicism</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/01/how-africa-is-changing-catholicism</link>
       <description>The world’s biggest church is becoming less Eurocentric but more unruly</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Demand for autism care is soaring. The system is struggling to cope</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope</link>
-      <description>A surge in diagnoses has created a booming industry, riddled with incentives that drive up costs and distort care</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
