@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Abiy Ahmed dreams of remaking Ethiopia in his image</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/25/abiy-ahmed-dreams-of-remaking-ethiopia-in-his-image</link>
+      <description>The prime minister’s re-election is certain. Ethiopia’s future is less so</description>
+      <pubDate>Mon, 25 May 2026 17:43:19 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s diplomatic successes are broad but shallow</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/25/chinas-diplomatic-successes-are-broad-but-shallow</link>
       <description>It asks little of its foreign “partners”, and gives little back</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Lessons for the world from tiny Hungary</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/01/lessons-for-the-world-from-tiny-hungary</link>
       <description>A regime loved by MAGA may soon lose power. That matters</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s foes see opportunity in Asia’s oil shock</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/01/americas-foes-see-opportunity-in-asias-oil-shock</link>
-      <description>Russia and China are quietly stepping in</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
