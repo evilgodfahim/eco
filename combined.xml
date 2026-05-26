@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s world-beating solar industry is in turmoil</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil</link>
+      <description>The Gulf war won’t save it</description>
+      <pubDate>Tue, 26 May 2026 14:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: A Starship enterprise</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/26/cover-story-newsletter-a-starship-enterprise</link>
+      <description>How we chose this week’s images</description>
+      <pubDate>Tue, 26 May 2026 09:21:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Abiy Ahmed dreams of remaking Ethiopia in his image</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/25/abiy-ahmed-dreams-of-remaking-ethiopia-in-his-image</link>
       <description>The prime minister’s re-election is certain. Ethiopia’s future is less so</description>
@@ -51,12 +63,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/24/colombias-pivotal-polarised-election-could-not-be-tighter</link>
       <description>A Trump-loving populist is rising fast</description>
       <pubDate>Sun, 24 May 2026 17:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain and Poland are set to sign a big new security treaty</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/24/britain-and-poland-are-set-to-sign-a-big-new-security-treaty</link>
-      <description>The balance of power between the countries is changing</description>
-      <pubDate>Sun, 24 May 2026 15:32:18 +0000</pubDate>
     </item>
     <item>
       <title>Narendra Modi gives India’s elite a taste of the bad old days</title>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Might Hungary’s election sweep away MAGA’s favourite foreign leader?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/01/might-hungarys-election-sweep-away-magas-favourite-foreign-leader</link>
       <description>Whether Viktor Orban wins or loses, the world’s populists and their opponents are watching</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons for the world from tiny Hungary</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/01/lessons-for-the-world-from-tiny-hungary</link>
-      <description>A regime loved by MAGA may soon lose power. That matters</description>
       <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
