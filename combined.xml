@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Centrists crying “Wolf!”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/26/centrists-crying-wolf</link>
+      <description>The wrong way to beat populists who deny the existence of hard problems</description>
+      <pubDate>Tue, 26 May 2026 20:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s latest challenge is how to deal with hope</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/26/ukraines-latest-challenge-is-how-to-deal-with-hope</link>
+      <description>Besides beating Russia, Ukraine must fight corruption and build democracy</description>
+      <pubDate>Tue, 26 May 2026 20:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giga-IPOs are a symptom of public markets’ giga-problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/26/giga-ipos-are-a-symptom-of-public-markets-giga-problem</link>
+      <description>The incredible shrinking stockmarket</description>
+      <pubDate>Tue, 26 May 2026 20:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Trump administration’s big move to limit legal immigration</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/26/the-trump-administrations-big-move-to-limit-legal-immigration</link>
+      <description>A new policy restricting green-card applications could wreak havoc</description>
+      <pubDate>Tue, 26 May 2026 19:34:28 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s world-beating solar industry is in turmoil</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil</link>
       <description>The Gulf war won’t save it</description>
@@ -2980,30 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/03/cover-story-newsletter-how-china-hopes-to-win-from-the-war</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Fri, 03 Apr 2026 09:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pam Bondi’s loyalty only took her so far</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/02/pam-bondis-loyalty-only-took-her-so-far</link>
-      <description>The president wants the impossible from his attorney-general</description>
-      <pubDate>Thu, 02 Apr 2026 21:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should you take multivitamins?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/02/should-you-take-multivitamins</link>
-      <description>Research shows that some people could benefit</description>
-      <pubDate>Thu, 02 Apr 2026 16:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s approval rating has sunk to Joe Biden’s lowest point</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/04/01/donald-trumps-approval-rating-has-sunk-to-joe-bidens-lowest-point</link>
-      <description>He is mirroring his predecessor’s post-debate slump of 2024</description>
-      <pubDate>Wed, 01 Apr 2026 19:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Might Hungary’s election sweep away MAGA’s favourite foreign leader?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/01/might-hungarys-election-sweep-away-magas-favourite-foreign-leader</link>
-      <description>Whether Viktor Orban wins or loses, the world’s populists and their opponents are watching</description>
-      <pubDate>Wed, 01 Apr 2026 12:51:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
