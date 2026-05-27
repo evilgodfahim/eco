@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Kevin Warsh’s troublesome inflation in-tray</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray</link>
+      <description>The new Fed chair will struggle to appease his colleagues, the market and Donald Trump all at once</description>
+      <pubDate>Wed, 27 May 2026 20:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could Donald Trump save Cuba’s economy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/27/could-donald-trump-save-cubas-economy</link>
+      <description>Even if the island were not burdened by embargoes and communism it would be a poor investment prospect</description>
+      <pubDate>Wed, 27 May 2026 19:07:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Too much time with colleagues can sour social interaction</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/27/too-much-time-with-colleagues-can-sour-social-interaction</link>
       <description>A study of an Antarctic crew finds that eventually time together breeds conflict</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/06/as-more-states-legalise-gambling-what-next-for-las-vegas</link>
       <description>Visitor numbers are down. But legalisation presents new opportunities</description>
       <pubDate>Mon, 06 Apr 2026 13:04:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan’s opposition leader meets Xi Jinping in Beijing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/06/taiwans-opposition-leader-meets-xi-jinping-in-beijing</link>
-      <description>The trip exposes divisions in her party</description>
-      <pubDate>Mon, 06 Apr 2026 12:47:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How far do the European Union’s military ambitions go?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/06/how-far-do-the-european-unions-military-ambitions-go</link>
-      <description>An interview with the EU’s top military officer</description>
-      <pubDate>Mon, 06 Apr 2026 11:51:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
