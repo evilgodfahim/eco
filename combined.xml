@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Would American military action against Cuba work?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/27/would-american-military-action-against-cuba-work</link>
+      <description>All the options are fraught</description>
+      <pubDate>Wed, 27 May 2026 14:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan, South Korea and Taiwan are suffering industrial rot</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot</link>
+      <description>Artificial intelligence is concealing a China shock</description>
+      <pubDate>Wed, 27 May 2026 14:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world’s top condom-maker is getting squeezed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/27/the-worlds-top-condom-maker-is-getting-squeezed</link>
+      <description>Will Karex break under pressure?</description>
+      <pubDate>Wed, 27 May 2026 13:53:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Centrists crying “Wolf!”</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/26/centrists-crying-wolf</link>
       <description>The wrong way to beat populists who deny the existence of hard problems</description>
@@ -2986,24 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets</link>
       <description>Governments’ borrowing costs are being pulled in opposite directions</description>
       <pubDate>Sun, 05 Apr 2026 08:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Does Donald Trump’s losing streak matter?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/04/checks-and-balance-newsletter-does-donald-trumps-losing-streak-matter</link>
-      <description>Charlotte Howard, our New York bureau chief, on how to judge the president’s failures</description>
-      <pubDate>Sat, 04 Apr 2026 10:51:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>A captive American in Iran could lead to further escalation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/03/a-captive-american-in-iran-could-lead-to-further-escalation</link>
-      <description>It could prompt Donald Trump to follow through on his worst threats</description>
-      <pubDate>Fri, 03 Apr 2026 20:31:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: How China hopes to win from the war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/03/cover-story-newsletter-how-china-hopes-to-win-from-the-war</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 03 Apr 2026 09:34:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
