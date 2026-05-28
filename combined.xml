@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mosquitoes seem to be getting over insect repellent</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/28/mosquitoes-seem-to-be-getting-over-insect-repellent</link>
+      <description>They learn to associate it with food</description>
+      <pubDate>Thu, 28 May 2026 16:00:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Why the world needs more franchises</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/28/why-the-world-needs-more-franchises</link>
       <description>From pizza to Pilates, franchises mint millionaires and make customers happy</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/09/can-the-secondary-market-allay-private-credit-fears</link>
       <description>In the short run, a bit. In the long run, a lot more</description>
       <pubDate>Thu, 09 Apr 2026 10:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The latest Italian banking whodunnit has it all</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/09/the-latest-italian-banking-whodunnit-has-it-all</link>
-      <description>A a coup, a conspiracy and even a (possibly unrelated) corpse</description>
-      <pubDate>Thu, 09 Apr 2026 10:03:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
