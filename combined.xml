@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: The new shape of war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/29/cover-story-newsletter-the-new-shape-of-war</link>
+      <description>How we chose this week’s image</description>
+      <pubDate>Fri, 29 May 2026 15:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should you use a sleep tracker?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/29/should-you-use-a-sleep-tracker</link>
+      <description>They are pretty accurate. But they could keep you up at night</description>
+      <pubDate>Fri, 29 May 2026 15:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: The most important wars forgotten by the West</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west</link>
+      <description>Emma Irving, a news editor, examines the enduring impact of the opium wars</description>
+      <pubDate>Fri, 29 May 2026 14:49:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Mosquitoes seem to be getting over insect repellent</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/28/mosquitoes-seem-to-be-getting-over-insect-repellent</link>
       <description>They learn to associate it with food</description>
@@ -2986,24 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/09/how-pakistan-emerged-as-an-unlikely-broker-of-peace-in-the-gulf</link>
       <description>The troubled country has cannily managed its ties with the warring parties</description>
       <pubDate>Thu, 09 Apr 2026 11:08:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s war on Iran has changed the Middle East—for the worse</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/09/americas-war-on-iran-has-changed-the-middle-east-for-the-worse</link>
-      <description>This week’s ceasefire leaves the region less secure than when the war began</description>
-      <pubDate>Thu, 09 Apr 2026 10:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>One neat trick to end extreme poverty</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty</link>
-      <description>An age-old problem might have a surprisingly simple solution</description>
-      <pubDate>Thu, 09 Apr 2026 10:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can the secondary market allay private-credit fears?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/09/can-the-secondary-market-allay-private-credit-fears</link>
-      <description>In the short run, a bit. In the long run, a lot more</description>
-      <pubDate>Thu, 09 Apr 2026 10:03:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
