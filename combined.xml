@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: The California outsider</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/30/checks-and-balance-newsletter-the-california-outsider</link>
+      <description>Charlotte Howard, our executive editor and New York bureau chief, on the state’s bizarre gubernatorial race</description>
+      <pubDate>Sat, 30 May 2026 09:04:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The new shape of war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/29/cover-story-newsletter-the-new-shape-of-war</link>
       <description>How we chose this week’s image</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/09/indias-religious-minorities-face-harsher-anti-conversion-laws</link>
       <description>Exhumations fuel communal tensions</description>
       <pubDate>Thu, 09 Apr 2026 11:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Pakistan emerged as an unlikely broker of peace in the Gulf</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/09/how-pakistan-emerged-as-an-unlikely-broker-of-peace-in-the-gulf</link>
-      <description>The troubled country has cannily managed its ties with the warring parties</description>
-      <pubDate>Thu, 09 Apr 2026 11:08:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
