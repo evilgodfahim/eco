@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Pete Hegseth pulls his punches on China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/30/pete-hegseth-pulls-his-punches-on-china</link>
+      <description>America’s secretary of war meanwhile lectures America’s allies</description>
+      <pubDate>Sat, 30 May 2026 12:34:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The California outsider</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/30/checks-and-balance-newsletter-the-california-outsider</link>
       <description>Charlotte Howard, our executive editor and New York bureau chief, on the state’s bizarre gubernatorial race</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/04/09/some-thoughts-on-prohibition</link>
       <description>Our report from 1923</description>
       <pubDate>Thu, 09 Apr 2026 11:48:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s religious minorities face harsher anti-conversion laws</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/09/indias-religious-minorities-face-harsher-anti-conversion-laws</link>
-      <description>Exhumations fuel communal tensions</description>
-      <pubDate>Thu, 09 Apr 2026 11:08:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
