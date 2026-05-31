@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Behold the success of Texan business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/31/behold-the-success-of-texan-business</link>
+      <description>Exxon’s reincorporation is one more feather in the state’s cowboy hat</description>
+      <pubDate>Sun, 31 May 2026 17:16:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Brazil’s high-tech voting system is losing voters’ trust</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/31/brazils-high-tech-voting-system-is-losing-voters-trust</link>
       <description>Blame social media, populist politicians and falling trust in institutions</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>How anarchic was Africa?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/how-anarchic-was-africa</link>
       <description>Precolonial statelessness may have been a sign of success, not failure</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa’s protests span countries, classes and causes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/africas-protests-span-countries-classes-and-causes</link>
-      <description>But can they bring lasting change?</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
