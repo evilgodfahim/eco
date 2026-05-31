@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Brazil’s high-tech voting system is losing voters’ trust</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/31/brazils-high-tech-voting-system-is-losing-voters-trust</link>
+      <description>Blame social media, populist politicians and falling trust in institutions</description>
+      <pubDate>Sun, 31 May 2026 14:08:41 +0000</pubDate>
+    </item>
+    <item>
       <title>India’s republic of uncles</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/31/indias-republic-of-uncles</link>
       <description>A cockroach meme rattles the country’s gerontocrats</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Africa’s protests span countries, classes and causes</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/africas-protests-span-countries-classes-and-causes</link>
       <description>But can they bring lasting change?</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>There is little prospect of legalising abortion in Brazil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/09/there-is-little-prospect-of-legalising-abortion-in-brazil</link>
-      <description>Other large countries in Latin America have either legalised or decriminalised</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
