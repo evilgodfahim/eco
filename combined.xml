@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Welcome to Evanston, where woke never died</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/31/welcome-to-evanston-where-woke-never-died</link>
+      <description>A Chicago suburb is paying reparations to African-Americans</description>
+      <pubDate>Sun, 31 May 2026 18:09:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Behold the success of Texan business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/31/behold-the-success-of-texan-business</link>
       <description>Exxon’s reincorporation is one more feather in the state’s cowboy hat</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Burkina Faso’s government is committing war crimes</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/burkina-fasos-government-is-committing-war-crimes</link>
       <description>While fighting jihadism, it has killed more civilians than the jihadists themselves</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>How anarchic was Africa?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/how-anarchic-was-africa</link>
-      <description>Precolonial statelessness may have been a sign of success, not failure</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
