@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Abelardo de la Espriella is now the front-runner in Colombia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/01/abelardo-de-la-espriella-is-now-the-front-runner-in-colombia</link>
+      <description>The right-wing populist outperformed in the first round of a deeply polarised election</description>
+      <pubDate>Mon, 01 Jun 2026 16:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s delivery drivers are its most obvious underclass</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/01/chinas-delivery-drivers-are-its-most-obvious-underclass</link>
+      <description>New rules aim to help but the economy will keep them down</description>
+      <pubDate>Mon, 01 Jun 2026 16:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to bring down cheap, low-flying drones</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/01/how-to-bring-down-cheap-low-flying-drones</link>
+      <description>Acoustics and innovative radar could help</description>
+      <pubDate>Mon, 01 Jun 2026 15:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine is now Europe’s war. Survival can’t be the only aim</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/01/ukraine-is-now-europes-war-survival-cant-be-the-only-aim</link>
+      <description>America’s disengagement means it is now the old continent’s conflict to manage</description>
+      <pubDate>Mon, 01 Jun 2026 14:39:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Welcome to Evanston, where woke never died</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/31/welcome-to-evanston-where-woke-never-died</link>
       <description>A Chicago suburb is paying reparations to African-Americans</description>
@@ -2979,30 +3003,6 @@ national-security doctrine</description>
       <title>The pros and cons of stretch goals</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/09/the-pros-and-cons-of-stretch-goals</link>
       <description>Setting really tough targets encourages risk-taking, for good and bad</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan’s mighty carmakers are in serious trouble</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/09/japans-mighty-carmakers-are-in-serious-trouble</link>
-      <description>They will need bold thinking to survive</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A giant succession wave is coming for family businesses</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/business/2026/04/09/a-giant-succession-wave-is-coming-for-family-businesses</link>
-      <description>Many will not survive</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A deadly conflict in Malawi raises questions about conservation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/a-deadly-conflict-in-malawi-raises-questions-about-conservation</link>
-      <description>How can humans coexist with wild animals?</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Burkina Faso’s government is committing war crimes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/09/burkina-fasos-government-is-committing-war-crimes</link>
-      <description>While fighting jihadism, it has killed more civilians than the jihadists themselves</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
