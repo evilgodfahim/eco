@@ -5,9 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>Abelardo de la Espriella is now the front-runner in Colombia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/01/abelardo-de-la-espriella-is-now-the-front-runner-in-colombia</link>
-      <description>The right-wing populist outperformed in the first round of a deeply polarised election</description>
+      <title>Do you really want that computer-science degree?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree</link>
+      <description>American universities are selling ever more, just when their value is eroding</description>
+      <pubDate>Mon, 01 Jun 2026 18:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai</link>
+      <description>Watch out for indigestion</description>
+      <pubDate>Mon, 01 Jun 2026 17:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colombia’s populist, Bukele-loving right looks likely to win power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/01/colombias-populist-bukele-loving-right-looks-likely-to-win-power</link>
+      <description>Abelardo de la Espriella outperformed in the first round of a deeply polarised presidential election</description>
       <pubDate>Mon, 01 Jun 2026 16:52:51 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Europe’s joint nuclear-fusion project needs Russian expertise</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/09/europes-joint-nuclear-fusion-project-needs-russian-expertise</link>
       <description>At ITER Russian and Western scientists still work together—slowly</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Syrians in Germany are there to stay</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/09/most-syrians-in-germany-are-there-to-stay</link>
-      <description>Sending back masses of immigrants would be foolish and impossible</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The pros and cons of stretch goals</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/09/the-pros-and-cons-of-stretch-goals</link>
-      <description>Setting really tough targets encourages risk-taking, for good and bad</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
