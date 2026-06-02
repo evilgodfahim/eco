@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Wanted: Asia news editor</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/02/wanted-asia-news-editor</link>
+      <description>An opportunity to join the staff of The Economist</description>
+      <pubDate>Tue, 02 Jun 2026 09:09:02 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: How the character of war has changed</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/02/the-war-room-newsletter-how-the-character-of-war-has-changed</link>
       <description>Shashank Joshi looks back on eight years as defence editor</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Sir Demis Hassabis wants to automate drug design</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/09/sir-demis-hassabis-wants-to-automate-drug-design</link>
       <description>We speak to the boss of Google DeepMind</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why a big country like Italy acts as if it were small</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/09/why-a-big-country-like-italy-acts-as-if-it-were-small</link>
-      <description>Equivocating between Trump and Europe suits a history of switching sides</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
