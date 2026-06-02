@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Want to know the future? Don’t trust the stockmarket</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket</link>
+      <description>Share prices are buffeted by far more than just new information</description>
+      <pubDate>Tue, 02 Jun 2026 18:39:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia wants to supercharge your laptop</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/02/nvidia-wants-to-supercharge-your-laptop</link>
+      <description>Jensen Huang is bringing the firm’s AI act to the PC</description>
+      <pubDate>Tue, 02 Jun 2026 17:14:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Britain is wrong to ban speakers like Hasan Piker</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/02/britain-is-wrong-to-ban-speakers-like-hasan-piker</link>
       <description>Even though his views are awful</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Will California’s next governor be a fighter or a fixer?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/09/will-californias-next-governor-be-a-fighter-or-a-fixer</link>
       <description>Candidates with buzzy national profiles are leading those with local records</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/09/business</link>
-      <description></description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/09/the-weekly-cartoon</link>
-      <description></description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
