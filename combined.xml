@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump could be the man to save Cuba</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba</link>
+      <description>Ideological certainties have hurt Cubans for 70 years. Time to give Trumpian cynicism a chance</description>
+      <pubDate>Tue, 02 Jun 2026 22:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fading influence of America’s spy co-ordinator</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/02/the-fading-influence-of-americas-spy-co-ordinator</link>
+      <description>Bill Pulte’s appointment as director of national intelligence reflects the office’s declining stature</description>
+      <pubDate>Tue, 02 Jun 2026 20:58:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Want to know the future? Don’t trust the stockmarket</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket</link>
       <description>Share prices are buffeted by far more than just new information</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>An environmentalist, a landowner and a libertarian walk into a barn</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/09/an-environmentalist-a-landowner-and-a-libertarian-walk-into-a-barn</link>
       <description>How a pipeline tangled political alliances in Iowa</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s ceasefire shows how America has changed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/09/donald-trumps-ceasefire-shows-how-america-has-changed</link>
-      <description>Contrast it with George Bush senior’s victory in Kuwait</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will California’s next governor be a fighter or a fixer?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/09/will-californias-next-governor-be-a-fighter-or-a-fixer</link>
-      <description>Candidates with buzzy national profiles are leading those with local records</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
