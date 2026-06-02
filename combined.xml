@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Britain is wrong to ban speakers like Hasan Piker</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/02/britain-is-wrong-to-ban-speakers-like-hasan-piker</link>
+      <description>Even though his views are awful</description>
+      <pubDate>Tue, 02 Jun 2026 16:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Donald Trump save Israel from itself in Lebanon?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/02/can-donald-trump-save-israel-from-itself-in-lebanon</link>
+      <description>Binyamin Netanyahu’s fight with Hizbullah is complicating the president’s talks with Iran</description>
+      <pubDate>Tue, 02 Jun 2026 15:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s high-tech rise is leaving much of the country behind</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/02/chinas-high-tech-rise-is-leaving-much-of-the-country-behind</link>
+      <description>That could make a starkly unequal country even more so</description>
+      <pubDate>Tue, 02 Jun 2026 15:42:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Wanted: Asia news editor</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/02/wanted-asia-news-editor</link>
       <description>An opportunity to join the staff of The Economist</description>
@@ -2985,24 +3003,6 @@ national-security doctrine</description>
       <title>The weekly cartoon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/09/the-weekly-cartoon</link>
       <description></description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/09/politics</link>
-      <description></description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Earth and Moon, then and now</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/09/earth-and-moon-then-and-now</link>
-      <description></description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sir Demis Hassabis wants to automate drug design</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/09/sir-demis-hassabis-wants-to-automate-drug-design</link>
-      <description>We speak to the boss of Google DeepMind</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
