@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: How the character of war has changed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/02/the-war-room-newsletter-how-the-character-of-war-has-changed</link>
+      <description>Shashank Joshi looks back on eight years as defence editor</description>
+      <pubDate>Tue, 02 Jun 2026 00:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>An increasingly risky bet for Democrats in Maine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/01/an-increasingly-risky-bet-for-democrats-in-maine</link>
+      <description>Graham Platner looks like party’s best chance of unseating Susan Collins. His scandals may get in the way</description>
+      <pubDate>Mon, 01 Jun 2026 23:11:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Do you really want that computer-science degree?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree</link>
       <description>American universities are selling ever more, just when their value is eroding</description>
@@ -2991,18 +3003,6 @@ national-security doctrine</description>
       <title>Why a big country like Italy acts as if it were small</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/09/why-a-big-country-like-italy-acts-as-if-it-were-small</link>
       <description>Equivocating between Trump and Europe suits a history of switching sides</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viktor Orban is bashing Ukraine for votes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/09/viktor-orban-is-bashing-ukraine-for-votes</link>
-      <description>Hungary’s election poisons relations between Hungary and its neighbour</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s joint nuclear-fusion project needs Russian expertise</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/09/europes-joint-nuclear-fusion-project-needs-russian-expertise</link>
-      <description>At ITER Russian and Western scientists still work together—slowly</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
