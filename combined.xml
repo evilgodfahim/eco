@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America has six years to fix its disappearing Social Security trust fund</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/02/america-has-six-years-to-fix-its-disappearing-social-security-trust-fund</link>
+      <description>It is already beginning to run dry</description>
+      <pubDate>Tue, 02 Jun 2026 22:20:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump could be the man to save Cuba</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba</link>
       <description>Ideological certainties have hurt Cubans for 70 years. Time to give Trumpian cynicism a chance</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>That ugly ballroom epitomises the story of Donald Trump’s presidency</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/09/that-ugly-ballroom-epitomises-the-story-of-donald-trumps-presidency</link>
       <description>It illustrates his key means, methods, and goals, and reveals the true nature of his achievements</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>An environmentalist, a landowner and a libertarian walk into a barn</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/09/an-environmentalist-a-landowner-and-a-libertarian-walk-into-a-barn</link>
-      <description>How a pipeline tangled political alliances in Iowa</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
