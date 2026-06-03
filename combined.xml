@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Even if America and Iran find an accord, don’t expect it to last</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/03/even-if-america-and-iran-find-an-accord-dont-expect-it-to-last</link>
+      <description>The Donald Trump Show could be back on air later this year</description>
+      <pubDate>Wed, 03 Jun 2026 16:03:28 +0000</pubDate>
+    </item>
+    <item>
       <title>If it’s true, go</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/03/if-its-true-go</link>
       <description>Our leader from 1998</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>The West is doing more to combat China’s covert activity abroad</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/09/the-west-is-doing-more-to-combat-chinas-covert-activity-abroad</link>
       <description>But China is paying little attention</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hospitals are stuck in a deadly doom loop</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/09/hospitals-are-stuck-in-a-deadly-doom-loop</link>
-      <description>They never recovered from covid-19</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
