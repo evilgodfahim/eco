@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>American capitalism has taken an apocalyptic turn</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn</link>
+      <description>Millenarian thinking permeates business and markets</description>
+      <pubDate>Wed, 03 Jun 2026 19:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the jailscraper</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/03/meet-the-jailscraper</link>
+      <description>With no room for prisons, New York City is building up</description>
+      <pubDate>Wed, 03 Jun 2026 18:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rocket goes boom; so do moon plans</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/03/rocket-goes-boom-so-do-moon-plans</link>
+      <description>The phenomenal explosion could blow a hole in Amazon’s plans and NASA’s too</description>
+      <pubDate>Wed, 03 Jun 2026 17:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why France is uneasy about German rearmament</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/03/why-france-is-uneasy-about-german-rearmament</link>
+      <description>Germany could become the benchmark military power in Europe</description>
+      <pubDate>Wed, 03 Jun 2026 17:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>BYD is losing its spark</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/03/byd-is-losing-its-spark</link>
+      <description>The Chinese electric-vehicle giant is struggling to stay ahead in an industry defined by software</description>
+      <pubDate>Wed, 03 Jun 2026 16:11:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Even if America and Iran find an accord, don’t expect it to last</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/03/even-if-america-and-iran-find-an-accord-dont-expect-it-to-last</link>
       <description>The Donald Trump Show could be back on air later this year</description>
@@ -2973,36 +3003,6 @@ national-security doctrine</description>
       <title>Sir Keir Starmer is Britain’s best hope for legalising assisted dying</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/09/sir-keir-starmer-is-britains-best-hope-for-legalising-assisted-dying</link>
       <description>He should stop dawdling</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recriminations over Iran have heightened the risk of a break-up of NATO</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/09/recriminations-over-iran-have-heightened-the-risk-of-a-break-up-of-nato</link>
-      <description>Europe must prepare to defend itself</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cambodia honours a life-saving rat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/09/cambodia-honours-a-life-saving-rat</link>
-      <description>The rodent helped clear more than 100 unexploded mines</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>China may be building a big new airbase in the South China Sea</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/09/china-may-be-building-a-big-new-airbase-in-the-south-china-sea</link>
-      <description>But analysts are scratching their heads over the timing and location</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI micro-dramas are shaking up Chinese entertainment</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/09/ai-micro-dramas-are-shaking-up-chinese-entertainment</link>
-      <description>Regulators threaten to spoil the fun</description>
-      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The West is doing more to combat China’s covert activity abroad</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/09/the-west-is-doing-more-to-combat-chinas-covert-activity-abroad</link>
-      <description>But China is paying little attention</description>
       <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
     </item>
   </channel>
