@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The chemicals that reduce wrinkles</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/05/the-chemicals-that-reduce-wrinkles</link>
+      <description>Vitamins, applied properly, can partially reverse the effects of ageing</description>
+      <pubDate>Fri, 05 Jun 2026 15:35:56 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s secretary of war pulls his punches on China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/04/americas-secretary-of-war-pulls-his-punches-on-china</link>
       <description>The Pentagon’s strategy for Asia contains a very big hole</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/15/orban-proofing-the-eu</link>
       <description>How the leader of a small, poor country held such sway over the bloc</description>
       <pubDate>Wed, 15 Apr 2026 20:36:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zimbabwe’s bizarre economic boom</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/15/zimbabwes-bizarre-economic-boom</link>
-      <description>A gold rush is combined with a power grab</description>
-      <pubDate>Wed, 15 Apr 2026 20:22:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
