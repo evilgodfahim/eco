@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How hot is America’s labour market?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market</link>
+      <description>At the moment, balmy. But it wouldn’t take a lot to require some Fed air-conditioning</description>
+      <pubDate>Fri, 05 Jun 2026 19:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should priests have to report child abuse disclosed in confession?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/05/should-priests-have-to-report-child-abuse-disclosed-in-confession</link>
+      <description>American states take different approaches</description>
+      <pubDate>Fri, 05 Jun 2026 19:01:44 +0000</pubDate>
+    </item>
+    <item>
       <title>The chemicals that reduce wrinkles</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/05/the-chemicals-that-reduce-wrinkles</link>
       <description>Vitamins, applied properly, can partially reverse the effects of ageing</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/15/how-to-end-the-war-in-iran</link>
       <description>America and Iran must resume their efforts to strike a deal, even though it is sure to be an imperfect one</description>
       <pubDate>Wed, 15 Apr 2026 20:48:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>How natural selection really shaped humanity</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/15/how-natural-selection-really-shaped-humanity</link>
-      <description>Adaptation in response to evolutionary pressure is surprisingly common</description>
-      <pubDate>Wed, 15 Apr 2026 20:37:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Orban-proofing the EU</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/15/orban-proofing-the-eu</link>
-      <description>How the leader of a small, poor country held such sway over the bloc</description>
-      <pubDate>Wed, 15 Apr 2026 20:36:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
