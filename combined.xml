@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: A modest proposal on Cuba</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/06/checks-and-balance-newsletter-a-modest-proposal-on-cuba</link>
+      <description>John Prideaux, our US editor, on why the island should become America’s 51st state</description>
+      <pubDate>Sat, 06 Jun 2026 10:34:38 +0000</pubDate>
+    </item>
+    <item>
       <title>How hot is America’s labour market?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market</link>
       <description>At the moment, balmy. But it wouldn’t take a lot to require some Fed air-conditioning</description>
@@ -2998,12 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/15/david-zaslav-and-the-tyranny-of-incentives</link>
       <description>The Warner CEO’s mega-payout is a cautionary tale</description>
       <pubDate>Wed, 15 Apr 2026 22:51:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to end the war in Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/15/how-to-end-the-war-in-iran</link>
-      <description>America and Iran must resume their efforts to strike a deal, even though it is sure to be an imperfect one</description>
-      <pubDate>Wed, 15 Apr 2026 20:48:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
