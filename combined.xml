@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The World Cup will test Mexico’s control over its territory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/07/the-world-cup-will-test-mexicos-control-over-its-territory</link>
+      <description>Donald Trump, who says the government is too weak to combat the drug gangs, will be watching</description>
+      <pubDate>Sun, 07 Jun 2026 12:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Money troubles are driving India’s states to drink</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/07/money-troubles-are-driving-indias-states-to-drink</link>
+      <description>Things are so dire that one state has produced a rational alcohol policy</description>
+      <pubDate>Sun, 07 Jun 2026 11:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robots could soon be delivering your pizza</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza</link>
+      <description>An Estonian startup says its machines are now cheaper than human couriers</description>
+      <pubDate>Sun, 07 Jun 2026 10:18:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: A modest proposal on Cuba</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/06/checks-and-balance-newsletter-a-modest-proposal-on-cuba</link>
       <description>John Prideaux, our US editor, on why the island should become America’s 51st state</description>
@@ -2986,24 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/16/america-will-come-to-regret-its-war-on-taxes</link>
       <description>Lately, Democrats have joined the charge</description>
       <pubDate>Thu, 16 Apr 2026 09:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why China’s government worries about AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/16/why-chinas-government-worries-about-ai</link>
-      <description>Its concerns include jobs, security and beating America</description>
-      <pubDate>Thu, 16 Apr 2026 08:58:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>America wakes up to AI’s dangerous power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power</link>
-      <description>After Mythos, a laissez-faire approach is no longer politically tenable or strategically wise</description>
-      <pubDate>Thu, 16 Apr 2026 08:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>David Zaslav and the tyranny of incentives</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/15/david-zaslav-and-the-tyranny-of-incentives</link>
-      <description>The Warner CEO’s mega-payout is a cautionary tale</description>
-      <pubDate>Wed, 15 Apr 2026 22:51:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
