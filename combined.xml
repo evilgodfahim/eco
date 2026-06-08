@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>In China, innovation and economic malaise live side by side</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/08/in-china-innovation-and-economic-malaise-live-side-by-side</link>
+      <description>Which will win out?</description>
+      <pubDate>Mon, 08 Jun 2026 19:17:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>A bidding war erupts for the world’s oldest bank</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/08/a-bidding-war-erupts-for-the-worlds-oldest-bank</link>
+      <description>Monte dei Paschi di Siena is suddenly all the rage</description>
+      <pubDate>Mon, 08 Jun 2026 18:37:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Israel is frustrating Donald Trump’s Iran plans</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/08/how-israel-is-frustrating-donald-trumps-iran-plans</link>
+      <description>Binyamin Netanyahu has defied America twice in recent days</description>
+      <pubDate>Mon, 08 Jun 2026 18:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ageing protesters trying to topple Washington’s “ego arch”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/08/the-ageing-protesters-trying-to-topple-washingtons-ego-arch</link>
+      <description>Donald Trump has energised his fellow boomers in opposition</description>
+      <pubDate>Mon, 08 Jun 2026 17:27:50 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: When war becomes a political aesthetic</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic</link>
       <description>Shashank Joshi, our defence editor, examines why conflict exerts a “strange pull”</description>
@@ -2980,30 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/16/collapsing-remittances-will-compound-asias-energy-shock</link>
       <description>Could workers kicked out of the Gulf find fortune in East Asia?</description>
       <pubDate>Thu, 16 Apr 2026 10:54:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: The ugly history of “America First”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/16/checks-and-balance-newsletter-the-ugly-history-of-america-first</link>
-      <description>Jon Fasman, our senior culture correspondent, revisits a moment of fierce isolationist sentiment</description>
-      <pubDate>Thu, 16 Apr 2026 10:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could AI’s leading men become as powerful as Ford or Rockefeller?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller</link>
-      <description>For now, they are still a long way behind</description>
-      <pubDate>Thu, 16 Apr 2026 10:33:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millions will go hungry if the Strait of Hormuz stays closed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/16/millions-will-go-hungry-if-the-strait-of-hormuz-stays-closed</link>
-      <description>Expensive fuel and fertiliser will lead to smaller harvests and higher prices</description>
-      <pubDate>Thu, 16 Apr 2026 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s space industry is blasting off</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/16/indias-space-industry-is-blasting-off</link>
-      <description>Thank Nehru, Modi and Musk</description>
-      <pubDate>Thu, 16 Apr 2026 10:18:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
