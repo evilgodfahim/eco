@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: When war becomes a political aesthetic</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic</link>
+      <description>Shashank Joshi, our defence editor, examines why conflict exerts a “strange pull”</description>
+      <pubDate>Mon, 08 Jun 2026 16:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>A dropout-turned-influencer shakes up Chinese science</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/08/a-dropout-turned-influencer-shakes-up-chinese-science</link>
+      <description>Fraud is rampant—but his videos mean everyone is now talking about it</description>
+      <pubDate>Mon, 08 Jun 2026 14:04:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Will artificial intelligence soon escape human control?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/07/will-artificial-intelligence-soon-escape-human-control</link>
       <description>“Recursive self-improvement” is both tantalising and worrying</description>
@@ -2992,18 +3004,6 @@ national-security doctrine</description>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/16/indias-space-industry-is-blasting-off</link>
       <description>Thank Nehru, Modi and Musk</description>
       <pubDate>Thu, 16 Apr 2026 10:18:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing our Asia Bulletin newsletter</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/16/introducing-our-asia-bulletin-newsletter</link>
-      <description>Every week, our team of correspondents will write about topics as varied as the region itself</description>
-      <pubDate>Thu, 16 Apr 2026 10:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global imbalances are back. Who’s to blame?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame</link>
-      <description>The suspects look familiar</description>
-      <pubDate>Thu, 16 Apr 2026 09:58:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
