@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What happens when a presidential vote is a dead heat?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/09/what-happens-when-a-presidential-vote-is-a-dead-heat</link>
+      <description>Peru, looking for its ninth president in a decade, is in a tight spot</description>
+      <pubDate>Tue, 09 Jun 2026 17:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Federal Reserve must soon give Donald Trump bad news</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/09/the-federal-reserve-must-soon-give-donald-trump-bad-news</link>
+      <description>Kevin Warsh, the unlucky new chairman, has seen his case for lower interest rates disintegrate</description>
+      <pubDate>Tue, 09 Jun 2026 16:53:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple’s new Siri is a dark horse in the AI race</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/09/apples-new-siri-is-a-dark-horse-in-the-ai-race</link>
+      <description>The iPhone-maker does not need to build models to cash in on the technology</description>
+      <pubDate>Tue, 09 Jun 2026 14:47:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Armenia’s election is a setback for Vladimir Putin</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/08/armenias-election-is-a-setback-for-vladimir-putin</link>
       <description>Russia’s dirty tricks are failing to stop its pivot to the West</description>
@@ -2985,24 +3003,6 @@ national-security doctrine</description>
       <title>A victory in Benin’s presidential election was hardly democratic</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/16/a-victory-in-benins-presidential-election-was-hardly-democratic</link>
       <description>One of west Africa’s bastions of democracy has fallen</description>
-      <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is bombing power plants and oil facilities a war crime?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/16/is-bombing-power-plants-and-oil-facilities-a-war-crime</link>
-      <description>The answer is more complicated than it seems</description>
-      <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gulf war has settled into an uneasy limbo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/16/the-gulf-war-has-settled-into-an-uneasy-limbo</link>
-      <description>Fighting is paused, Hormuz is shut and prospects for a deal are uncertain</description>
-      <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rio de Janeiro is a beautiful warning to the rest of Brazil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/16/rio-de-janeiro-is-a-beautiful-warning-to-the-rest-of-brazil</link>
-      <description>Local politicians are too often corrupt and criminal</description>
       <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
     </item>
   </channel>
