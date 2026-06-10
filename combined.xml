@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Syria is an unexpected beneficiary of the Gulf war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/10/syria-is-an-unexpected-beneficiary-of-the-gulf-war</link>
+      <description>The revival of an old oil-export route from Iraq to the Mediterranean helps Syria’s new regime</description>
+      <pubDate>Wed, 10 Jun 2026 19:26:42 +0000</pubDate>
+    </item>
+    <item>
       <title>How to win the World Cup</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/10/how-to-win-the-world-cup</link>
       <description>Being rich helps, but being open to immigration works best of all</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Training for Beijing’s humanoid half-marathon is gruelling</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/16/training-for-beijings-humanoid-half-marathon-is-gruelling</link>
       <description>China is racing towards a robotic future</description>
-      <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The game theory behind violating ceasefires</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/16/the-game-theory-behind-violating-ceasefires</link>
-      <description>Truces like the one in the Gulf get broken all the time. But they still work</description>
       <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
     </item>
   </channel>
