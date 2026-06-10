@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>An interview with South Korea’s president</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/10/an-interview-with-south-koreas-president</link>
+      <description>Lee Jae Myung has put his country on track again, but challenges loom</description>
+      <pubDate>Wed, 10 Jun 2026 03:09:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Wall Street’s undignified SpaceX mania</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania</link>
       <description>Is that a rocket in your lobby, or are you just happy to see me?</description>
@@ -2997,12 +3003,6 @@ national-security doctrine</description>
       <title>Where should Pablo Picasso’s “Guernica” be allowed to hang?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/16/where-should-pablo-picassos-guernica-be-allowed-to-hang</link>
       <description>Arguments over the painting’s rightful place hark back to ugly regional politics</description>
-      <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A scramble ahead of France’s presidential election</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/16/a-scramble-ahead-of-frances-presidential-election</link>
-      <description>A populist-right victory is possible, but not inevitable</description>
       <pubDate>Thu, 16 Apr 2026 13:45:23 +0000</pubDate>
     </item>
   </channel>
