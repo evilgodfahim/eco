@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The value of SpaceX rockets on its stock-market debut</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut</link>
+      <description>Elon Musk has become the world’s first trillionaire</description>
+      <pubDate>Fri, 12 Jun 2026 16:04:44 +0000</pubDate>
+    </item>
+    <item>
       <title>The best way to celebrate America at 250 is to get behind the wheel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/11/the-best-way-to-celebrate-america-at-250-is-to-get-behind-the-wheel</link>
       <description>Preferably with our new podcast series for company</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable</link>
       <description>Rapid growth in dollar-backed crypto has stalled</description>
       <pubDate>Tue, 21 Apr 2026 19:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why China’s exports will keep on rising</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/21/why-chinas-exports-will-keep-on-rising</link>
-      <description>Our new analysis shows how the country shrugged off the effects of Donald Trump’s tariffs</description>
-      <pubDate>Tue, 21 Apr 2026 19:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
