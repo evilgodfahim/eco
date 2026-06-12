@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Swiss would be foolish to cap their population at 10m</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/12/the-swiss-would-be-foolish-to-cap-their-population-at-10m</link>
+      <description>Immigration sometimes needs brakes, but the proposal would be like driving into a wall</description>
+      <pubDate>Fri, 12 Jun 2026 18:50:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Treating pancreatic tumours may have revealed cancer’s master switch</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch</link>
       <description>A promising drug could be the first of an entirely new class of treatments</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/22/how-a-sudanese-militia-built-a-military-and-economic-empire</link>
       <description>Three years into Sudan’s civil war, the Rapid Support Forces has grown into a regional power</description>
       <pubDate>Wed, 22 Apr 2026 12:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A dangerous blind spot in Donald Trump’s Iran war strategy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/21/a-dangerous-blind-spot-in-donald-trumps-iran-war-strategy</link>
-      <description>America sets too little store by foreigners’ beliefs and values. It’s a costly mistake, each time</description>
-      <pubDate>Tue, 21 Apr 2026 21:12:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
