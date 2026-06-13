@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Can Tocqueville explain America today?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/13/checks-and-balance-newsletter-can-tocqueville-explain-america-today</link>
+      <description>John Prideaux, our US editor, takes a road trip to mark the country’s 250th birthday</description>
+      <pubDate>Sat, 13 Jun 2026 10:30:01 +0000</pubDate>
+    </item>
+    <item>
       <title>The Swiss would be foolish to cap their population at 10m</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/12/the-swiss-would-be-foolish-to-cap-their-population-at-10m</link>
       <description>Immigration sometimes needs brakes, but the proposal would be like driving into a wall</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/22/the-curious-rise-of-chinese-whisky</link>
       <description>Why one tipple is thriving in an otherwise dispirited market</description>
       <pubDate>Wed, 22 Apr 2026 12:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a Sudanese militia built a military and economic empire</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/22/how-a-sudanese-militia-built-a-military-and-economic-empire</link>
-      <description>Three years into Sudan’s civil war, the Rapid Support Forces has grown into a regional power</description>
-      <pubDate>Wed, 22 Apr 2026 12:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
