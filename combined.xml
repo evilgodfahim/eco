@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump has cut off access to the world’s best AI model</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/14/donald-trump-has-cut-off-access-to-the-worlds-best-ai-model</link>
+      <description>America’s closest allies have been blocked from Anthropic’s Mythos</description>
+      <pubDate>Sun, 14 Jun 2026 18:56:34 +0000</pubDate>
+    </item>
+    <item>
       <title>A new intelligence chief in America may oversee a shrinking office</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/14/a-new-intelligence-chief-in-america-may-oversee-a-shrinking-office</link>
       <description>Political drama has obscured a battle over spy powers</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/22/how-europe-regulated-itself-into-american-vassalage</link>
       <description>The road to economic serfdom</description>
       <pubDate>Wed, 22 Apr 2026 18:54:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can the Germans fight?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/22/can-the-germans-fight</link>
-      <description>In an interview with The Economist, Germany’s top general promises his forces will be “war-ready”</description>
-      <pubDate>Wed, 22 Apr 2026 16:56:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
