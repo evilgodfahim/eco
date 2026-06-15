@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Meet the world’s top AI-pilled economists</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists</link>
+      <description>Most of them are not found in ivory towers</description>
+      <pubDate>Mon, 15 Jun 2026 19:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s carmakers cannot escape Chinese EVs for ever</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/15/americas-carmakers-cannot-escape-chinese-evs-for-ever</link>
+      <description>Can they stay relevant?</description>
+      <pubDate>Mon, 15 Jun 2026 18:34:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: What eight years as defence editor looks like</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-war-room-newsletter-what-eight-years-as-defence-editor-looks-like</link>
+      <description>From flying fighter jets to travelling on destroyers, Shashank Joshi pens his final edition of this newsletter</description>
+      <pubDate>Mon, 15 Jun 2026 18:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comfort meets constraint in China’s most “liveable” city</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/15/comfort-meets-constraint-in-chinas-most-liveable-city</link>
+      <description>A high-income, low-pressure existence is not all it’s cracked up to be</description>
+      <pubDate>Mon, 15 Jun 2026 16:18:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The terrifying new air war in Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine</link>
+      <description>Russia is dominating the missile war by default, but Ukraine hopes that will change</description>
+      <pubDate>Mon, 15 Jun 2026 15:00:35 +0000</pubDate>
+    </item>
+    <item>
       <title>A deal is only the beginning of the end of the US-Iran war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/15/a-deal-is-only-the-beginning-of-the-end-of-the-us-iran-war</link>
       <description>And they could start fighting again in the hope of getting a better one</description>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal</link>
       <description>Two new reports are a must-read of energy-starved governments</description>
       <pubDate>Thu, 23 Apr 2026 09:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xi Jinping wants a powerful currency. America’s war has helped</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/xi-jinping-wants-a-powerful-currency-americas-war-has-helped</link>
-      <description>More countries are starting to use China’s payment infrastructure</description>
-      <pubDate>Thu, 23 Apr 2026 09:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinamaxxing is starting to catch on, in China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/chinamaxxing-is-starting-to-catch-on-in-china</link>
-      <description>It’s a boon for the tourist trade</description>
-      <pubDate>Thu, 23 Apr 2026 09:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>What do the geopolitical successes of Asim Munir mean for Pakistan?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/23/what-do-the-geopolitical-successes-of-asim-munir-mean-for-pakistan</link>
-      <description>Despite some breathless optimism, the military strongman is unlikely to deliver deeper change</description>
-      <pubDate>Thu, 23 Apr 2026 08:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to bolster the arsenal of democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/22/how-to-bolster-the-arsenal-of-democracy</link>
-      <description>America’s new defence-tech industry should be a model for Europe</description>
-      <pubDate>Wed, 22 Apr 2026 21:31:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s descent into state capitalism is exaggerated</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated</link>
-      <description>Particularly by the state</description>
-      <pubDate>Wed, 22 Apr 2026 19:20:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
