@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A deal is only the beginning of the end of the US-Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/15/a-deal-is-only-the-beginning-of-the-end-of-the-us-iran-war</link>
+      <description>And they could start fighting again in the hope of getting a better one</description>
+      <pubDate>Mon, 15 Jun 2026 13:02:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s blocking of Anthropic is capricious and chaotic</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic</link>
       <description>America’s closest allies are shellshocked</description>
@@ -31,7 +37,7 @@
     <item>
       <title>Companies are scrambling to curtail soaring AI costs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs</link>
-      <description>The rage for tokenmaxxing is coming to an end</description>
+      <description>For the heaviest users, tokenmaxxing is losing its appeal</description>
       <pubDate>Sun, 14 Jun 2026 17:19:47 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated</link>
       <description>Particularly by the state</description>
       <pubDate>Wed, 22 Apr 2026 19:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Europe regulated itself into American vassalage</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/22/how-europe-regulated-itself-into-american-vassalage</link>
-      <description>The road to economic serfdom</description>
-      <pubDate>Wed, 22 Apr 2026 18:54:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
