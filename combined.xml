@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The end of the war in Iran threatens “glorious failure” for Israel</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/16/the-end-of-the-war-in-iran-threatens-glorious-failure-for-israel</link>
+      <description>Donald Trump’s deal with Iran would leave America’s ally without any strategic gains</description>
+      <pubDate>Tue, 16 Jun 2026 09:30:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Meet the world’s top AI-pilled economists</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists</link>
       <description>Most of them are not found in ivory towers</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/has-the-world-bank-performed-a-u-turn-on-industrial-policy</link>
       <description>Interventionists who think so should read its new report more closely</description>
       <pubDate>Thu, 23 Apr 2026 09:16:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Renewables are shining. The Iran war amplifies their appeal</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal</link>
-      <description>Two new reports are a must-read of energy-starved governments</description>
-      <pubDate>Thu, 23 Apr 2026 09:16:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
