@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Deal or no deal, oil prices will stay high for months</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months</link>
+      <description>The pre-war days of $60 crude are not coming back soon</description>
+      <pubDate>Tue, 16 Jun 2026 19:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asian allies are doomed to hug Donald Trump close</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/16/asian-allies-are-doomed-to-hug-donald-trump-close</link>
+      <description>Forget middle-power coalitions. Japan and neighbours know that only America can deter China</description>
+      <pubDate>Tue, 16 Jun 2026 18:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s bull market has entered its manic phase</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/16/americas-bull-market-has-entered-its-manic-phase</link>
+      <description>Options markets show optimism is giving way to euphoria</description>
+      <pubDate>Tue, 16 Jun 2026 18:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s bull market has entered its manic phase</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/16/americas-bull-market-has-entered-its-manic-phase</link>
+      <description>Options markets show optimism is giving way to euphoria</description>
+      <pubDate>Tue, 16 Jun 2026 18:19:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The coming El Niño could be the strongest ever recorded</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/16/the-coming-el-nino-could-be-the-strongest-ever-recorded</link>
       <description>It is bad news for a warming world</description>
@@ -2978,30 +3002,6 @@
       <title>Apple’s new boss needs to restore its magic for the AI era</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/23/apples-new-boss-needs-to-restore-its-magic-for-the-ai-era</link>
       <description>The elevation of John Ternus hints at the future direction of the company</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeff Bezos is raising his game in space</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/23/jeff-bezos-is-raising-his-game-in-space</link>
-      <description>But it will be hard for Amazon and Blue Origin to close the gap with SpaceX</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abiy Ahmed is throttling free expression in Ethiopia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/23/abiy-ahmed-is-throttling-free-expression-in-ethiopia</link>
-      <description>A leader who once championed press freedom now treats criticism as a crime</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>As the World Cup approaches, North American relations are at a nadir</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/23/as-the-world-cup-approaches-north-american-relations-are-at-a-nadir</link>
-      <description>President Donald Trump has wrecked the dream of a more united region</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>A botched election adds to Peru’s democratic dysfunction</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/23/a-botched-election-adds-to-perus-democratic-dysfunction</link>
-      <description>A strongman’s daughter will face a leftist or an ultraconservative in the run-off</description>
       <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
     </item>
   </channel>
