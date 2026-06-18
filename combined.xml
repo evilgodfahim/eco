@@ -5,6 +5,48 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>War has strengthened the Islamic Republic. Peace could split it</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/18/war-has-strengthened-the-islamic-republic-peace-could-split-it</link>
+      <description>For now, the hardliners are in the ascendant</description>
+      <pubDate>Thu, 18 Jun 2026 09:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new golden age for Japanese banks comes with a catch</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch</link>
+      <description>Smaller lenders are saddled with low-return bonds they cannot sell</description>
+      <pubDate>Thu, 18 Jun 2026 09:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe buys the future, America builds it</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/18/europe-buys-the-future-america-builds-it</link>
+      <description>Does that matter? A high-stakes transatlantic spat has erupted over GDP figures</description>
+      <pubDate>Thu, 18 Jun 2026 09:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tata’s big bets are yet to pay off</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/18/tatas-big-bets-are-yet-to-pay-off</link>
+      <description>The Indian conglomerate’s boardroom drama highlights a speculative strategy</description>
+      <pubDate>Thu, 18 Jun 2026 09:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republicans are desperate to move on from the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/18/republicans-are-desperate-to-move-on-from-the-iran-war</link>
+      <description>The conflict will have stubborn political after-effects</description>
+      <pubDate>Thu, 18 Jun 2026 09:06:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s new economy still faces an old problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/18/indias-new-economy-still-faces-an-old-problem</link>
+      <description>Family-run conglomerates make the stock market a tricky place to invest</description>
+      <pubDate>Thu, 18 Jun 2026 09:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump gambles that Iran wants money more than power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/18/donald-trump-gambles-that-iran-wants-money-more-than-power</link>
+      <description>The peace deal is all carrot and no stick</description>
+      <pubDate>Thu, 18 Jun 2026 08:58:00 +0000</pubDate>
+    </item>
+    <item>
       <title>As American cities grapple with homelessness, one offers a fix</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/17/as-american-cities-grapple-with-homelessness-one-offers-a-fix</link>
       <description>Denver’s answer to a stubborn problem</description>
@@ -19,13 +61,13 @@
     <item>
       <title>Germany’s left-wing Die Linke party has won over the young</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/17/germanys-left-wing-die-linke-party-has-won-over-the-young</link>
-      <description>The populists promise a “scorching hot socialist summer” of protest—but face tricky questions in the east</description>
+      <description>The populists are polling at 11% nationwide and could be kingmakers in Berlin</description>
       <pubDate>Wed, 17 Jun 2026 18:24:33 +0000</pubDate>
     </item>
     <item>
       <title>Iran’s battered economy will take years to recover from the war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/17/irans-battered-economy-will-take-years-to-recover-from-the-war</link>
-      <description>Even if it gets sanctions relief and aid for reconstruction</description>
+      <description>Its leaders want sanctions relief and aid for reconstruction</description>
       <pubDate>Wed, 17 Jun 2026 18:06:57 +0000</pubDate>
     </item>
     <item>
@@ -59,15 +101,15 @@
       <pubDate>Tue, 16 Jun 2026 20:42:37 +0000</pubDate>
     </item>
     <item>
-      <title>Deal or no deal, oil prices will stay high for months</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months</link>
+      <title>Deal or no deal, oil prices will stay volatile for months</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-volatile-for-months</link>
       <description>The pre-war days of $60 crude are not coming back soon</description>
       <pubDate>Tue, 16 Jun 2026 19:55:31 +0000</pubDate>
     </item>
     <item>
       <title>Asian allies are doomed to hug Donald Trump close</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/16/asian-allies-are-doomed-to-hug-donald-trump-close</link>
-      <description>Forget middle-power coalitions. Japan and neighbours know that only America can deter China</description>
+      <description>Forget middle-power coalitions. Japan and its neighbours know that only America can deter China</description>
       <pubDate>Tue, 16 Jun 2026 18:30:20 +0000</pubDate>
     </item>
     <item>
@@ -79,7 +121,7 @@
     <item>
       <title>The coming El Niño could be the strongest ever recorded</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/16/the-coming-el-nino-could-be-the-strongest-ever-recorded</link>
-      <description>It is bad news for a warming world</description>
+      <description>That is bad news for a warming world</description>
       <pubDate>Tue, 16 Jun 2026 17:43:42 +0000</pubDate>
     </item>
     <item>
@@ -103,7 +145,7 @@
     <item>
       <title>The end of the war in Iran threatens “glorious failure” for Israel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/16/the-end-of-the-war-in-iran-threatens-glorious-failure-for-israel</link>
-      <description>Donald Trump’s deal with Iran would leave America’s ally without any strategic gains</description>
+      <description>Donald Trump’s deal with Iran leaves America’s ally without any strategic gains</description>
       <pubDate>Tue, 16 Jun 2026 09:30:02 +0000</pubDate>
     </item>
     <item>
@@ -149,9 +191,9 @@
       <pubDate>Sun, 14 Jun 2026 18:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>A new intelligence chief in America may oversee a shrinking office</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/14/a-new-intelligence-chief-in-america-may-oversee-a-shrinking-office</link>
-      <description>Political drama has obscured a battle over spy powers</description>
+      <title>Political manoeuvres are delaying a spy law and new intelligence chief</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/14/political-manoeuvres-are-delaying-a-spy-law-and-new-intelligence-chief</link>
+      <description>Crucial surveillance authorities have lapsed</description>
       <pubDate>Sun, 14 Jun 2026 18:51:07 +0000</pubDate>
     </item>
     <item>
@@ -191,9 +233,9 @@
       <pubDate>Fri, 12 Jun 2026 18:50:22 +0000</pubDate>
     </item>
     <item>
-      <title>Treating pancreatic tumours may have revealed cancer’s master switch</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch</link>
-      <description>A promising drug could be the first of an entirely new class of treatments</description>
+      <title>A new drug targets one of cancer’s master switches</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/12/a-new-drug-targets-one-of-cancers-master-switches</link>
+      <description>The pancreatic-cancer drug could be the first of an entirely new class of treatments</description>
       <pubDate>Fri, 12 Jun 2026 16:43:29 +0000</pubDate>
     </item>
     <item>
@@ -2960,48 +3002,6 @@
       <title>The high price of forever wars</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/23/the-high-price-of-forever-wars</link>
       <description>Binyamin Netanyahu is quick to start conflicts, but shows no ability to end them</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pomp and pageantry won’t save Britain’s alliance with America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/23/pomp-and-pageantry-wont-save-britains-alliance-with-america</link>
-      <description>The special relationship? It’s complicated</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tim Cook wrote a winning recipe for Apple</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/23/tim-cook-wrote-a-winning-recipe-for-apple</link>
-      <description>Will it work for his successor?</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Japan is loosening restrictions on exports of lethal arms</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/23/why-japan-is-loosening-restrictions-on-exports-of-lethal-arms</link>
-      <description>Takaichi Sanae, the hawkish new prime minister, hopes to spur a defence industrial renaissance</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>An anti-China protest lands Kazakhs in prison</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/04/23/an-anti-china-protest-lands-kazakhs-in-prison</link>
-      <description>Its economic power means China calls political shots, too</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s defence startups face even bigger hurdles than America’s</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/23/europes-defence-startups-face-even-bigger-hurdles-than-americas</link>
-      <description>They must contend with a fragmented market and hesitant customers</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>There is no better spur to military innovation than war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/23/there-is-no-better-spur-to-military-innovation-than-war</link>
-      <description>Defence firms in Ukraine make new weapons much faster and cheaper than most Western companies</description>
-      <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Congress keeps getting dumber</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/23/why-congress-keeps-getting-dumber</link>
-      <description>Neither party has much tolerance for wily pragmatists like Thom Tillis</description>
       <pubDate>Thu, 23 Apr 2026 13:09:20 +0000</pubDate>
     </item>
   </channel>
