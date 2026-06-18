@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The G7 has nudged open a window for diplomacy in Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/18/the-g7-has-nudged-open-a-window-for-diplomacy-in-ukraine</link>
+      <description>Europeans see a hopeful shift in America’s attitude</description>
+      <pubDate>Thu, 18 Jun 2026 18:10:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Anthropic is battling Uncle Sam for control of superpowered AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/18/anthropic-is-battling-uncle-sam-for-control-of-superpowered-ai</link>
       <description>The struggle may end up denting its astonishing commercial success</description>
@@ -41,8 +47,8 @@
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
     <item>
-      <title>Myanmar’s junta revives a hated dam to crush dissent and court China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/18/myanmars-junta-revives-a-hated-dam-to-crush-dissent-and-court-china</link>
+      <title>Myanmar’s junta revives a hated dam to court China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/18/myanmars-junta-revives-a-hated-dam-to-court-china</link>
       <description>A dam halted by protests in 2011 is back, but not for the energy it will produce</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/29/genome-editing-can-be-risky-meet-the-epigenome-editors</link>
       <description>The technology could tackle diseases such as atherosclerosis and hepatitis B</description>
       <pubDate>Wed, 29 Apr 2026 16:38:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A radical idea for governing California</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/29/a-radical-idea-for-governing-california</link>
-      <description>Democrats could try picking a young candidate who has a solid record of running a big city</description>
-      <pubDate>Wed, 29 Apr 2026 16:34:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
