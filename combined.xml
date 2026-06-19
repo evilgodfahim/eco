@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The deceptive rise of the “short king”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/19/the-deceptive-rise-of-the-short-king</link>
+      <description>Small men have won over social media, but continue to struggle in the dating market</description>
+      <pubDate>Fri, 19 Jun 2026 12:17:27 +0000</pubDate>
+    </item>
+    <item>
       <title>The G7 has nudged open a window for diplomacy in Ukraine</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/18/the-g7-has-nudged-open-a-window-for-diplomacy-in-ukraine</link>
       <description>Europeans see a hopeful shift in America’s attitude</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/29/a-glimpse-into-cyber-securitys-ai-driven-future</link>
       <description>A hacking conference reveals how machines will defend us</description>
       <pubDate>Wed, 29 Apr 2026 16:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Genome editing can be risky. Meet the epigenome editors</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/04/29/genome-editing-can-be-risky-meet-the-epigenome-editors</link>
-      <description>The technology could tackle diseases such as atherosclerosis and hepatitis B</description>
-      <pubDate>Wed, 29 Apr 2026 16:38:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
