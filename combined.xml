@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How stretched is the American consumer?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/21/how-stretched-is-the-american-consumer</link>
+      <description>The household savings rate has plunged—but don’t panic</description>
+      <pubDate>Sun, 21 Jun 2026 13:08:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Is fortified infant formula worth it?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/19/is-fortified-infant-formula-worth-it</link>
       <description>Perhaps less than some marketers claim</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/29/swashbuckling-oil-services-firms-are-preparing-for-a-boom</link>
       <description>Post-war reconstruction and efforts to diversify production will present big opportunities</description>
       <pubDate>Wed, 29 Apr 2026 17:23:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could China help make Africa a factory for the world?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/29/could-china-help-make-africa-a-factory-for-the-world</link>
-      <description>A spurt of Chinese investment suggests the chances are improving</description>
-      <pubDate>Wed, 29 Apr 2026 17:00:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
