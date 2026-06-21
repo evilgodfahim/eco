@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Zombie unicorns are haunting Silicon Valley</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</link>
+      <description>Years of frothy valuations have created a nightmare</description>
+      <pubDate>Sun, 21 Jun 2026 17:24:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Will Israel undermine America’s peace with Iran?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/21/will-israel-undermine-americas-peace-with-iran</link>
       <description>Doing so would put it on a collision course with its most important ally</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/oil-markets-are-still-in-la-la-land</link>
       <description>Prices have risen sharply. Unfortunately, they still have further to go</description>
       <pubDate>Thu, 30 Apr 2026 08:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s unpopular leaders are paralysing the EU</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/29/europes-unpopular-leaders-are-paralysing-the-eu</link>
-      <description>Weak governments cannot conjure the support to make crucial deals</description>
-      <pubDate>Wed, 29 Apr 2026 20:38:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
