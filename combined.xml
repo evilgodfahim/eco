@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What Colombia’s rightward swing says about the country</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/what-colombias-rightward-swing-says-about-the-country</link>
+      <description>Claire McQue, a Latin America contributor, reports from Bogotá on why voters embraced a tough-talking political outsider</description>
+      <pubDate>Mon, 22 Jun 2026 20:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia’s war economy has problems—but is not about to crash</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash</link>
+      <description>Vladimir Putin is still able to fund his aggression</description>
+      <pubDate>Mon, 22 Jun 2026 19:07:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Looking for a winner from the Iran war?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/22/looking-for-a-winner-from-the-iran-war</link>
       <description>California’s pistachio farmers have gained, for now</description>
@@ -31,7 +43,7 @@
     <item>
       <title>The Trump-loving right wins Colombia’s presidency</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/the-trump-loving-right-wins-colombias-presidency</link>
-      <description>Abelardo de la Espriella promises an iron-fist and economic miracles</description>
+      <description>Abelardo de la Espriella promises an iron fist and economic miracles</description>
       <pubDate>Mon, 22 Jun 2026 08:17:24 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/30/the-caribbean-island-that-calls-colombia-a-coloniser</link>
       <description>Locals on San Andrés blame the mainland for crime and corruption</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The crisis in oil markets will get bigger before it goes away</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/04/30/the-crisis-in-oil-markets-will-get-bigger-before-it-goes-away</link>
-      <description>As stocks dwindle, further price rises are inevitable</description>
-      <pubDate>Thu, 30 Apr 2026 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The UAE doubles down on Israel and America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-uae-doubles-down-on-israel-and-america</link>
-      <description>The consequences of the Emirates’ departure from OPEC</description>
-      <pubDate>Thu, 30 Apr 2026 09:55:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
