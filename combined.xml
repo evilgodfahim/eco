@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Looking for a winner from the Iran war?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/22/looking-for-a-winner-from-the-iran-war</link>
+      <description>California’s pistachio farmers have gained, for now</description>
+      <pubDate>Mon, 22 Jun 2026 18:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to turn compute into a financial asset</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset</link>
+      <description>Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power</description>
+      <pubDate>Mon, 22 Jun 2026 18:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>China can be a useful bogeyman in American politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/22/china-can-be-a-useful-bogeyman-in-american-politics</link>
+      <description>Accusations of influence-peddling can muddy what is really going on</description>
+      <pubDate>Mon, 22 Jun 2026 17:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: America’s AI power grab</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/22/cover-story-newsletter-americas-ai-power-grab</link>
+      <description>How we chose this week’s image</description>
+      <pubDate>Mon, 22 Jun 2026 17:16:33 +0000</pubDate>
+    </item>
+    <item>
       <title>The Trump-loving right wins Colombia’s presidency</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/the-trump-loving-right-wins-colombias-presidency</link>
       <description>Abelardo de la Espriella promises an iron-fist and economic miracles</description>
@@ -149,8 +173,8 @@
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/18/the-weekly-cartoon</link>
+      <title>Cartoon: Donald Trump’s Iran deal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/18/cartoon-donald-trumps-iran-deal</link>
       <description></description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
@@ -515,8 +539,8 @@
       <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/11/the-weekly-cartoon</link>
+      <title>Cartoon: The search for peace in Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/11/cartoon-the-search-for-peace-in-iran</link>
       <description></description>
       <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
     </item>
@@ -977,8 +1001,8 @@
       <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/the-weekly-cartoon</link>
+      <title>Cartoon: America threatens Cuba</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/cartoon-america-threatens-cuba</link>
       <description></description>
       <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
     </item>
@@ -1331,8 +1355,8 @@
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/28/the-weekly-cartoon</link>
+      <title>Cartoon: Uncertainty clouds the Iranian negotiations</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/28/cartoon-uncertainty-clouds-the-iranian-negotiations</link>
       <description></description>
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/the-uae-doubles-down-on-israel-and-america</link>
       <description>The consequences of the Emirates’ departure from OPEC</description>
       <pubDate>Thu, 30 Apr 2026 09:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can countries grow richer by exporting people, not goods?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods</link>
-      <description>That depends where those people end up</description>
-      <pubDate>Thu, 30 Apr 2026 09:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s weak currency reflects deeper problems than the Iran war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war</link>
-      <description>It highlights a persistent inability to draw in foreign investors</description>
-      <pubDate>Thu, 30 Apr 2026 09:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Kalshi can help the Federal Reserve</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/04/30/how-kalshi-can-help-the-federal-reserve</link>
-      <description>Prediction markets may be a win for central banking</description>
-      <pubDate>Thu, 30 Apr 2026 09:29:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to capitalise on London’s thriving financial industry</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/how-to-capitalise-on-londons-thriving-financial-industry</link>
-      <description>The City has bounced back despite fears over Brexit</description>
-      <pubDate>Thu, 30 Apr 2026 09:23:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
