@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Trump-loving right wins Colombia’s presidency</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/the-trump-loving-right-wins-colombias-presidency</link>
+      <description>Abelardo de la Espriella promises an iron-fist and economic miracles</description>
+      <pubDate>Mon, 22 Jun 2026 08:17:24 +0000</pubDate>
+    </item>
+    <item>
       <title>American police killings are rising, even as murder rates fall</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/21/american-police-killings-are-rising-even-as-murder-rates-fall</link>
       <description>More aggressive cops are less restrained</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/04/30/how-to-capitalise-on-londons-thriving-financial-industry</link>
       <description>The City has bounced back despite fears over Brexit</description>
       <pubDate>Thu, 30 Apr 2026 09:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk and Sam Altman bring their rivalry to court</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/30/elon-musk-and-sam-altman-bring-their-rivalry-to-court</link>
-      <description>Of the two unloved billionaires, which will the jury trust?</description>
-      <pubDate>Thu, 30 Apr 2026 09:19:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
