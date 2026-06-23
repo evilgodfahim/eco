@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russia’s Crimean conquest is turning into a deadly mess</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/23/russias-crimean-conquest-is-turning-into-a-deadly-mess</link>
+      <description>Ukrainian drones have made the resort region a battlezone</description>
+      <pubDate>Tue, 23 Jun 2026 17:52:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Child care is becoming more affordable</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/23/child-care-is-becoming-more-affordable</link>
+      <description>Our ranking compares nursery bills to income in 36 rich countries</description>
+      <pubDate>Tue, 23 Jun 2026 17:49:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Smartphones and AI are remaking rural India</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/23/smartphones-and-ai-are-remaking-rural-india</link>
       <description>Villages have fallen in love with short-form videos and chatbots</description>
@@ -2990,18 +3002,6 @@
       <title>Hizbullah’s air of invincibility is gone</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/30/hizbullahs-air-of-invincibility-is-gone</link>
       <description>But it still has the power to threaten Lebanon’s leaders</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The lack of progress in Gaza suits those in power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/04/30/the-lack-of-progress-in-gaza-suits-those-in-power</link>
-      <description>But it leaves Gazans in misery</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>A tour of Brazil’s wildly polarised politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/04/30/a-tour-of-brazils-wildly-polarised-politics</link>
-      <description>Lula’s voters and Bolsonaro’s voters don’t agree on much. But they all hate the corruption that plagues Brazil</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
   </channel>
