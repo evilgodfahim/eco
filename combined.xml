@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Smartphones and AI are remaking rural India</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/23/smartphones-and-ai-are-remaking-rural-india</link>
+      <description>Villages have fallen in love with short-form videos and chatbots</description>
+      <pubDate>Tue, 23 Jun 2026 11:53:54 +0000</pubDate>
+    </item>
+    <item>
       <title>What Colombia’s rightward swing says about the country</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/what-colombias-rightward-swing-says-about-the-country</link>
       <description>Claire McQue, a Latin America contributor, reports from Bogotá on why voters embraced a tough-talking political outsider</description>
@@ -23,8 +29,8 @@
       <pubDate>Mon, 22 Jun 2026 18:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to turn compute into a financial asset</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset</link>
+      <title>How to turn computing power into a financial asset</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-computing-power-into-a-financial-asset</link>
       <description>Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power</description>
       <pubDate>Mon, 22 Jun 2026 18:09:55 +0000</pubDate>
     </item>
@@ -1727,8 +1733,8 @@
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/21/the-weekly-cartoon</link>
+      <title>Cartoon: Rising fuel costs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/21/cartoon-rising-fuel-costs</link>
       <description></description>
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
@@ -2123,8 +2129,8 @@
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/14/the-weekly-cartoon</link>
+      <title>Cartoon: The Trump-Xi summit</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/14/cartoon-the-trump-xi-summit</link>
       <description></description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
@@ -2525,8 +2531,8 @@
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/the-weekly-cartoon</link>
+      <title>Cartoon: The struggle to regulate AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/cartoon-the-struggle-to-regulate-ai</link>
       <description></description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
@@ -2945,8 +2951,8 @@
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
     <item>
-      <title>The weekly cartoon</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/the-weekly-cartoon</link>
+      <title>Cartoon: King Charles visits America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/cartoon-king-charles-visits-america</link>
       <description></description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
@@ -2996,12 +3002,6 @@
       <title>A tour of Brazil’s wildly polarised politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/04/30/a-tour-of-brazils-wildly-polarised-politics</link>
       <description>Lula’s voters and Bolsonaro’s voters don’t agree on much. But they all hate the corruption that plagues Brazil</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Caribbean island that calls Colombia a coloniser</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/04/30/the-caribbean-island-that-calls-colombia-a-coloniser</link>
-      <description>Locals on San Andrés blame the mainland for crime and corruption</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
   </channel>
