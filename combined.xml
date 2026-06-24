@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>A Rastafarian prisoner cannot sue guards who shaved his locks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/24/a-rastafarian-prisoner-cannot-sue-guards-who-shaved-his-locks</link>
+      <description>The Supreme Court is curtailing plaintiffs’ rights to damages</description>
+      <pubDate>Wed, 24 Jun 2026 06:21:17 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s data-centre backlash puts the AI boom at risk</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk</link>
       <description>Opposition is spreading across the country</description>
@@ -2996,12 +3002,6 @@
       <title>The oligarch who picked Moldova clean goes to prison</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/04/30/the-oligarch-who-picked-moldova-clean-goes-to-prison</link>
       <description>Vlad Plahotniuc ran his country as a private money-laundering operation</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and the danger of cognitive surrender</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/04/30/ai-and-the-danger-of-cognitive-surrender</link>
-      <description>How much should managers let bots do the thinking?</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
   </channel>
