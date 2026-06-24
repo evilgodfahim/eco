@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Strange new EV-makers keep appearing in China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/24/strange-new-ev-makers-keep-appearing-in-china</link>
+      <description>If you can make a robo-vacuum, you can make a car</description>
+      <pubDate>Wed, 24 Jun 2026 20:05:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley has much to learn from the spreadsheet jockeys it despises</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/24/silicon-valley-has-much-to-learn-from-the-spreadsheet-jockeys-it-despises</link>
+      <description>Even if financial markets disagree</description>
+      <pubDate>Wed, 24 Jun 2026 19:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global warming has made Europe’s heatwave 2-4°C worse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/24/global-warming-has-made-europes-heatwave-2-4c-worse</link>
+      <description>The continent is warming faster than any other</description>
+      <pubDate>Wed, 24 Jun 2026 17:58:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Electronics can now be printed onto living tissues</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/24/electronics-can-now-be-printed-onto-living-tissues</link>
       <description>From cow femurs to replacement hips and even living leaves</description>
@@ -2984,24 +3002,6 @@
       <title>China is seeking self-sufficiency in police dogs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/04/30/china-is-seeking-self-sufficiency-in-police-dogs</link>
       <description>State media are singing the praises of home-grown canines</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The global scramble for ports</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/04/30/the-global-scramble-for-ports</link>
-      <description>The investment frenzy is driven by anxiety about China’s tightening grip on supply chains</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The government’s lawsuit against the Southern Poverty Law Center is bonkers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/the-governments-lawsuit-against-the-southern-poverty-law-center-is-bonkers</link>
-      <description>But the non-profit had badly lost its way</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voters say they want young candidates. In practice, they do not</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/voters-say-they-want-young-candidates-in-practice-they-do-not</link>
-      <description>The Massachusetts Senate primary offers a case study</description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
   </channel>
