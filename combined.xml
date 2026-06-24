@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Electronics can now be printed onto living tissues</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/24/electronics-can-now-be-printed-onto-living-tissues</link>
+      <description>From cow femurs to replacement hips and even living leaves</description>
+      <pubDate>Wed, 24 Jun 2026 16:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do high-tech “addons” increase the chance that IVF will work?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/24/do-high-tech-addons-increase-the-chance-that-ivf-will-work</link>
+      <description>A big new review suggests most such procedures don’t help</description>
+      <pubDate>Wed, 24 Jun 2026 16:18:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch newsletter: Syria’s honeymoon is over</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/24/middle-east-dispatch-newsletter-syrias-honeymoon-is-over</link>
       <description>An arrest has damaged the government’s image, writes Gareth Browne, our Middle East correspondent</description>
@@ -59,8 +71,8 @@
       <pubDate>Tue, 23 Jun 2026 11:53:54 +0000</pubDate>
     </item>
     <item>
-      <title>What Colombia’s rightward swing says about the country</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/what-colombias-rightward-swing-says-about-the-country</link>
+      <title>El Boletín newsletter: What Colombia’s rightward swing says about the country</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/el-boletin-newsletter-what-colombias-rightward-swing-says-about-the-country</link>
       <description>Claire McQue, a Latin America contributor, reports from Bogotá on why voters embraced a tough-talking political outsider</description>
       <pubDate>Mon, 22 Jun 2026 20:36:25 +0000</pubDate>
     </item>
@@ -2990,18 +3002,6 @@
       <title>Voters say they want young candidates. In practice, they do not</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/04/30/voters-say-they-want-young-candidates-in-practice-they-do-not</link>
       <description>The Massachusetts Senate primary offers a case study</description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/business</link>
-      <description></description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: King Charles visits America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/cartoon-king-charles-visits-america</link>
-      <description></description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
   </channel>
