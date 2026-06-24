@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Middle East Dispatch newsletter: Syria’s honeymoon is over</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/24/middle-east-dispatch-newsletter-syrias-honeymoon-is-over</link>
+      <description>An arrest has damaged the government’s image, writes Gareth Browne, our Middle East correspondent</description>
+      <pubDate>Wed, 24 Jun 2026 15:34:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Why big AI labs are hiring so many philosophers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers</link>
       <description>The technology presents all sorts of thorny problems—a philosopher’s favourite kind</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>Cartoon: King Charles visits America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/cartoon-king-charles-visits-america</link>
-      <description></description>
-      <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/04/30/politics</link>
       <description></description>
       <pubDate>Thu, 30 Apr 2026 12:48:47 +0000</pubDate>
     </item>
