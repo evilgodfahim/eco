@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Venezuela suffers its worst earthquake in a century</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/25/venezuela-suffers-its-worst-earthquake-in-a-century</link>
+      <description>The impoverished country is struggling to cope with the damage from two nearly simultaneous shocks</description>
+      <pubDate>Thu, 25 Jun 2026 20:16:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Where will Europe’s heatwave be most deadly?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/25/where-will-europes-heatwave-be-most-deadly</link>
       <description>We analyse 854 cities to see which will be worst affected</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/06/city-parenting-has-become-a-financial-flex</link>
       <description>The wealthiest neighbourhoods are defying suburbanisation</description>
       <pubDate>Wed, 06 May 2026 16:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friedrich Merz can’t go on like this</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/06/friedrich-merz-cant-go-on-like-this</link>
-      <description>His one-year-old government looks exhausted, and voters are tiring rapidly</description>
-      <pubDate>Wed, 06 May 2026 16:14:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
