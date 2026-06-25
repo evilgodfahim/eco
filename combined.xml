@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Where will Europe’s heatwave be most deadly?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/25/where-will-europes-heatwave-be-most-deadly</link>
+      <description>We analyse 854 cities to see which will be worst affected</description>
+      <pubDate>Thu, 25 Jun 2026 19:06:21 +0000</pubDate>
+    </item>
+    <item>
       <title>AI models’ values are very different from most people’s</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples</link>
       <description>They are more secular and more liberal—unless they’re made in China</description>
@@ -71,9 +77,9 @@
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>The bipartisan backlash against AI in America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/25/the-bipartisan-backlash-against-ai-in-america</link>
-      <description>About the only thing that unites Democrats and Republicans is fear of artificial intelligence</description>
+      <title>Democrats and Republicans agree: AI is scary</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary</link>
+      <description>It’s about the only thing that unites them</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/06/friedrich-merz-cant-go-on-like-this</link>
       <description>His one-year-old government looks exhausted, and voters are tiring rapidly</description>
       <pubDate>Wed, 06 May 2026 16:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>America is massing troops near Taiwan to deter troublemaking by China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/06/america-is-massing-troops-near-taiwan-to-deter-troublemaking-by-china</link>
-      <description>The timing of annual exercises is set by weather patterns favourable to any possible invasion</description>
-      <pubDate>Wed, 06 May 2026 15:48:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
