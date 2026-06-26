@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is too much sleep as bad as too little?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/26/is-too-much-sleep-as-bad-as-too-little</link>
+      <description>The quest for the optimal amount of shut-eye</description>
+      <pubDate>Fri, 26 Jun 2026 16:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Lessons from the Cuban revolution</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/26/the-war-room-newsletter-lessons-from-the-cuban-revolution</link>
+      <description>In our bonus edition, Richard Cockett, a senior editor, explains why now is a timely moment to revisit the events that brought Fidel Castro to power</description>
+      <pubDate>Fri, 26 Jun 2026 16:17:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Drum Tower newsletter: Who is behind China’s latest AI breakthrough?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough</link>
       <description>Corbin Duncan, our global correspondent, speaks to the Zhipu team on their technical progress, business model and the future of AI</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/06/the-human-genome-encodes-for-a-new-category-of-molecule</link>
       <description>They may be useful targets for future drugs</description>
       <pubDate>Wed, 06 May 2026 18:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How worried should you be about hantavirus?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/06/how-worried-should-you-be-about-hantavirus</link>
-      <description>An outbreak on a cruise ship has authorities concerned</description>
-      <pubDate>Wed, 06 May 2026 18:18:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>City parenting has become a financial flex</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/06/city-parenting-has-become-a-financial-flex</link>
-      <description>The wealthiest neighbourhoods are defying suburbanisation</description>
-      <pubDate>Wed, 06 May 2026 16:32:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
