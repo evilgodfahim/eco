@@ -5,8 +5,14 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>Europe can’t stand the heat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/27/europe-cant-stand-the-heat</link>
+      <title>Checks and Balance newsletter: The World Cup doesn’t understand America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/27/checks-and-balance-newsletter-the-world-cup-doesnt-understand-america</link>
+      <description>John Prideaux, our executive editor, on why America is a spectacular place to host the football tournament</description>
+      <pubDate>Sat, 27 Jun 2026 10:54:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Climate Issue newsletter: Europe can’t stand the heat</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/27/the-climate-issue-newsletter-europe-cant-stand-the-heat</link>
       <description>Oliver Morton, our planetary affairs editor, on why the continent is warming faster than any other—and adapting too slowly</description>
       <pubDate>Sat, 27 Jun 2026 02:49:07 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/not-all-oil-giants-are-prospering-from-the-iran-war</link>
       <description>Exxon and Chevron have benefited less than their European rivals</description>
       <pubDate>Wed, 06 May 2026 19:44:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Brussels deep state</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/06/inside-the-brussels-deep-state</link>
-      <description>The eurocratic guild at the heart of the EU is seeing its influence ebb</description>
-      <pubDate>Wed, 06 May 2026 18:56:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
