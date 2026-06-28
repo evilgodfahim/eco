@@ -5,14 +5,20 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Why can’t India’s government build a decent website?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/28/why-cant-indias-government-build-a-decent-website</link>
+      <description>Clunky online experiences reveal the failures of Indian officialdom</description>
+      <pubDate>Sun, 28 Jun 2026 11:35:24 +0000</pubDate>
+    </item>
+    <item>
       <title>China cracks down on rule-bending offshore investments</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments</link>
       <description>It wants mainland investors to bet on its own tech dreams not America’s</description>
       <pubDate>Sun, 28 Jun 2026 10:33:26 +0000</pubDate>
     </item>
     <item>
-      <title>Donald Trump is kicking out Chinese firms, but keeping their tech</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-but-keeping-their-tech</link>
+      <title>Donald Trump is kicking out Chinese firms and keeping their tech</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-and-keeping-their-tech</link>
       <description>China’s stranded assets are creating a new class of American green-tech investors</description>
       <pubDate>Sun, 28 Jun 2026 08:38:57 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/07/europe-is-unshackling-business-but-not-enough</link>
       <description>Why market liberals must win the battle for Brussels—and national capitals, too</description>
       <pubDate>Thu, 07 May 2026 10:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s foreign policy gets a muscular finance arm</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/donald-trumps-foreign-policy-gets-a-muscular-finance-arm</link>
-      <description>The Development Finance Corporation’s loan book may soon rival the World Bank’s</description>
-      <pubDate>Thu, 07 May 2026 10:12:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
