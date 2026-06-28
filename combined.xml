@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How will America respond to Venezuela’s deadly quakes?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/28/how-will-america-respond-to-venezuelas-deadly-quakes</link>
+      <description>The catastrophe could give the regime another excuse to put off elections</description>
+      <pubDate>Sun, 28 Jun 2026 19:36:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Big oil’s secretive trading arms are having an extraordinary year</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/28/big-oils-secretive-trading-arms-are-having-an-extraordinary-year</link>
       <description>Meet the corporate gamblers who never waste a good energy crisis</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords</link>
       <description>Technology firms are reviving (a few) Chinese commercial-property markets</description>
       <pubDate>Thu, 07 May 2026 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>UniCredit’s lowball bid for Commerzbank causes consternation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/unicredits-lowball-bid-for-commerzbank-causes-consternation</link>
-      <description>A bad-tempered battle for a big German bank</description>
-      <pubDate>Thu, 07 May 2026 10:19:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
