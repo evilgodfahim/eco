@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China cracks down on rule-bending offshore investments</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments</link>
+      <description>It wants mainland investors to bet on its own tech dreams not America’s</description>
+      <pubDate>Sun, 28 Jun 2026 10:33:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump is kicking out Chinese firms, but keeping their tech</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-but-keeping-their-tech</link>
       <description>China’s stranded assets are creating a new class of American green-tech investors</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/07/donald-trumps-foreign-policy-gets-a-muscular-finance-arm</link>
       <description>The Development Finance Corporation’s loan book may soon rival the World Bank’s</description>
       <pubDate>Thu, 07 May 2026 10:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Only one of Berkshire Hathaway and SoftBank can survive</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/06/only-one-of-berkshire-hathaway-and-softbank-can-survive</link>
-      <description>The two represent competing visions of the future</description>
-      <pubDate>Wed, 06 May 2026 20:01:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
