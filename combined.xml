@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Turkey’s economic plan to win from the Iran war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war</link>
+      <description>The country is a case study in the spillovers of conflict—both positive and negative</description>
+      <pubDate>Mon, 29 Jun 2026 20:52:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Should every baby’s DNA be sequenced?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced</link>
       <description>The genomic generation is on its way</description>
@@ -2996,12 +3002,6 @@
       <title>Mali shows the growing strength of jihadism in the Sahel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/07/mali-shows-the-growing-strength-of-jihadism-in-the-sahel</link>
       <description>There is little to stop militants from expanding their influence</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claudia Sheinbaum is in a bind, with her party accused of corruption</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/07/claudia-sheinbaum-is-in-a-bind-with-her-party-accused-of-corruption</link>
-      <description>How she deals with America’s indictment of Morena officials could define her presidency</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
