@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Should every baby’s DNA be sequenced?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced</link>
+      <description>The genomic generation is on its way</description>
+      <pubDate>Mon, 29 Jun 2026 19:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s Balkan policy is all about gas</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/29/americas-balkan-policy-is-all-about-gas</link>
+      <description>It is using its terminal in Krk to shoulder the green EU aside</description>
+      <pubDate>Mon, 29 Jun 2026 19:16:15 +0000</pubDate>
+    </item>
+    <item>
       <title>How Americans see their country’s past, present and future</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</link>
       <description>As America turns 250, our Economist/YouGov poll reveals a proud but deeply divided nation</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/07/claudia-sheinbaum-is-in-a-bind-with-her-party-accused-of-corruption</link>
       <description>How she deals with America’s indictment of Morena officials could define her presidency</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuela’s 100-year territorial dispute is back in court</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/07/venezuelas-100-year-territorial-dispute-is-back-in-court</link>
-      <description>The regime claims the Essequibo region of Guyana, and its oil</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The gutting of USAID has left a void China will not fill</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/07/the-gutting-of-usaid-has-left-a-void-china-will-not-fill</link>
-      <description>China lends $35 for every dollar it donates. That is not a substitute for American aid</description>
-      <pubDate>Thu, 07 May 2026 12:26:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
