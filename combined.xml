@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Allies learn how to bully America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/30/allies-learn-how-to-bully-america</link>
+      <description>Can Taiwan use its chipmaking industry to strong-arm Donald Trump?</description>
+      <pubDate>Tue, 30 Jun 2026 20:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Plaza Accord for global currencies wouldn’t work</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work</link>
+      <description>The conditions and will for a deal are not what they were in 1985</description>
+      <pubDate>Tue, 30 Jun 2026 19:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meeting Jordan Bardella, France’s possible president</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/30/meeting-jordan-bardella-frances-possible-president</link>
+      <description>The 30-year-old populist will run if Marine Le Pen is banned. Who is he?</description>
+      <pubDate>Tue, 30 Jun 2026 18:55:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel election poll tracker: will Binyamin Netanyahu hold on to power?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026-israel-election-tracker</link>
       <description>The Economist is tracking the contest for Israel’s Knesset</description>
@@ -2984,24 +3002,6 @@
       <title>The Supreme Court has unleashed the gerrymanderers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/the-supreme-court-has-unleashed-the-gerrymanderers</link>
       <description>Louisiana v Callais is baleful for democracy</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/business</link>
-      <description></description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: The struggle to regulate AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/cartoon-the-struggle-to-regulate-ai</link>
-      <description></description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/07/politics</link>
-      <description></description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
