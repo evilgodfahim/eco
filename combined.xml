@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Analysing Africa newsletter: South Africa is in denial about xenophobia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/30/analysing-africa-newsletter-south-africa-is-in-denial-about-xenophobia</link>
+      <description>John McDermott, our chief Africa correspondent, analyses the country’s shocking rise in anti-foreign sentiment</description>
+      <pubDate>Tue, 30 Jun 2026 11:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: The country with no army</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/30/the-war-room-newsletter-the-country-with-no-army</link>
+      <description>A transatlantic rift is unsettling the land of fire and ice, writes Anton La Guardia, our diplomatic editor</description>
+      <pubDate>Tue, 30 Jun 2026 10:58:46 +0000</pubDate>
+    </item>
+    <item>
       <title>El Boletín newsletter: An earthquake shakes Venezuela’s political reset</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/30/el-boletin-newsletter-an-earthquake-shakes-venezuelas-political-reset</link>
       <description>Our correspondent in Caracas reports on how disaster is testing an already fragile country</description>
@@ -2990,18 +3002,6 @@
       <title>Why Swedish schools are going unplugged</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/07/why-swedish-schools-are-going-unplugged</link>
       <description>Nordic pupils are returning to books and pens</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can a beauty mega-deal save Estée Lauder?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/07/can-a-beauty-mega-deal-save-estee-lauder</link>
-      <description>America’s cosmetics champion wants to buy its way back to better days</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The pros and cons of commuting</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/07/the-pros-and-cons-of-commuting</link>
-      <description>Everyone moans about the length of their commute. Should managers care?</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
