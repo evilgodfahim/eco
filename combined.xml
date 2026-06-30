@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The Supreme Court has handed Donald Trump yet more power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/29/the-supreme-court-has-handed-donald-trump-yet-more-power</link>
+      <description>Dozens of agencies—but not the Federal Reserve—are now subject to presidential whim</description>
+      <pubDate>Mon, 29 Jun 2026 23:06:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Turkey’s economic plan to win from the Iran war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war</link>
       <description>The country is a case study in the spillovers of conflict—both positive and negative</description>
@@ -2996,12 +3002,6 @@
       <title>Airlines are grappling with dwindling supplies of jet fuel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/07/airlines-are-grappling-with-dwindling-supplies-of-jet-fuel</link>
       <description>Yet it is unclear where shortages will hit first and hardest</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mali shows the growing strength of jihadism in the Sahel</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/07/mali-shows-the-growing-strength-of-jihadism-in-the-sahel</link>
-      <description>There is little to stop militants from expanding their influence</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
