@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s AI regime is opaque, unpredictable—and unsustainable</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/30/donald-trumps-ai-regime-is-opaque-unpredictable-and-unsustainable</link>
+      <description>The administration now controls who gets access to the best models</description>
+      <pubDate>Tue, 30 Jun 2026 14:21:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s hope for a new Middle East is premature</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/30/donald-trumps-hope-for-a-new-middle-east-is-premature</link>
+      <description>Recent attacks underscore the limits of diplomacy between Iran and America</description>
+      <pubDate>Tue, 30 Jun 2026 13:23:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Analysing Africa newsletter: South Africa is in denial about xenophobia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/30/analysing-africa-newsletter-south-africa-is-in-denial-about-xenophobia</link>
       <description>John McDermott, our chief Africa correspondent, analyses the country’s shocking rise in anti-foreign sentiment</description>
@@ -2990,18 +3002,6 @@
       <title>Trump’s threat to withdraw troops is serious for Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/07/trumps-threat-to-withdraw-troops-is-serious-for-europe</link>
       <description>The unit affected offers a vital capability</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a Ukrainian strike on a Russian oil hub caused catastrophe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/07/how-a-ukrainian-strike-on-a-russian-oil-hub-caused-catastrophe</link>
-      <description>Toxic smoke billowed and molten fuel flowed like lava</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Swedish schools are going unplugged</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/07/why-swedish-schools-are-going-unplugged</link>
-      <description>Nordic pupils are returning to books and pens</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
