@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Show a liberal a Lime bike and he will show you his soul</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/01/show-a-liberal-a-lime-bike-and-he-will-show-you-his-soul</link>
+      <description>Are the e-bikes a paragon of liberalism or an abomination?</description>
+      <pubDate>Wed, 01 Jul 2026 19:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Bending Spoons thrive as a listed company?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/01/can-bending-spoons-thrive-as-a-listed-company</link>
+      <description>A rare Italian software star acts uses the private-equity playbook</description>
+      <pubDate>Wed, 01 Jul 2026 18:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transforming the cradle of the Confederacy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/01/transforming-the-cradle-of-the-confederacy</link>
+      <description>Tourists are flocking to monuments on America’s racial history</description>
+      <pubDate>Wed, 01 Jul 2026 17:59:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists have built a cell from the ground up</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/01/scientists-have-built-a-cell-from-the-ground-up</link>
+      <description>What do you call an organism with no evolutionary ancestors? SpudCell, apparently</description>
+      <pubDate>Wed, 01 Jul 2026 17:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>China covers up a plane crash in the heart of its capital</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/01/china-covers-up-a-plane-crash-in-the-heart-of-its-capital</link>
+      <description>A light aircraft flew into Beijing’s tallest building. A news blackout followed</description>
+      <pubDate>Wed, 01 Jul 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s airport queues are extremely long—and getting longer</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/01/europes-airport-queues-are-extremely-long-and-getting-longer</link>
       <description>The continent’s border-control system is out of control</description>
@@ -2972,36 +3002,6 @@
       <title>The world must stop AI from empowering bioterrorists</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/07/the-world-must-stop-ai-from-empowering-bioterrorists</link>
       <description>The threat from new pathogens is an even graver danger than AI-backed hackers</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump-Xi summit will expose a dysfunctional duo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/07/the-trump-xi-summit-will-expose-a-dysfunctional-duo</link>
-      <description>Mutual vulnerability is no substitute for global leadership</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI creates a fearsome cold-war-style dilemma</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/07/ai-creates-a-fearsome-cold-war-style-dilemma</link>
-      <description>America and China are weighing co-operation and competition</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Chinese high-seas misadventure in luxury yachts</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/07/a-chinese-high-seas-misadventure-in-luxury-yachts</link>
-      <description>A state-owned enterprise may have to walk the plank</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s submarine dominance is under threat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/07/americas-submarine-dominance-is-under-threat</link>
-      <description>Naval mockery of China is turning to alarm</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Supreme Court has become a great place to build your brand</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/the-supreme-court-has-become-a-great-place-to-build-your-brand</link>
-      <description>On the left and the right, justices are becoming more preoccupied with their own ideas than the court’s institutional legitimacy</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
