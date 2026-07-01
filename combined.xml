@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Europe’s airport queues are extremely long—and getting longer</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/01/europes-airport-queues-are-extremely-long-and-getting-longer</link>
+      <description>The continent’s border-control system is out of control</description>
+      <pubDate>Wed, 01 Jul 2026 14:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists can now study the event horizons of black holes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/01/scientists-can-now-study-the-event-horizons-of-black-holes</link>
+      <description>They make the universe’s most extreme gravitational laboratories</description>
+      <pubDate>Wed, 01 Jul 2026 14:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>America is mighty—but becoming less dominant</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/07/01/america-is-mighty-but-becoming-less-dominant</link>
+      <description>Ahead of its 250th birthday, an empirical look shows the world’s leading country no longer stands so far apart</description>
+      <pubDate>Wed, 01 Jul 2026 11:37:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Allies learn how to bully America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/30/allies-learn-how-to-bully-america</link>
       <description>Can Taiwan use its chipmaking industry to strong-arm Donald Trump?</description>
@@ -2984,24 +3002,6 @@
       <title>The Supreme Court has become a great place to build your brand</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/the-supreme-court-has-become-a-great-place-to-build-your-brand</link>
       <description>On the left and the right, justices are becoming more preoccupied with their own ideas than the court’s institutional legitimacy</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foreign firms: have you considered America?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/foreign-firms-have-you-considered-america</link>
-      <description>A report from the basement of the SelectUSA Investment Summit</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Democratic approach to AI is not all about bans</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/the-democratic-approach-to-ai-is-not-all-about-bans</link>
-      <description>Rahm Emanuel charts a centrist path for AI</description>
-      <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Supreme Court has unleashed the gerrymanderers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/07/the-supreme-court-has-unleashed-the-gerrymanderers</link>
-      <description>Louisiana v Callais is baleful for democracy</description>
       <pubDate>Thu, 07 May 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
