@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Who was behind those drone incursions over Europe?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/who-was-behind-those-drone-incursions-over-europe</link>
+      <description>A new report finds it was probably Russia</description>
+      <pubDate>Thu, 02 Jul 2026 15:14:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Turkey and Israel should trade energy, not insults</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/02/turkey-and-israel-should-trade-energy-not-insults</link>
       <description>Both have much to gain from being less belligerent</description>
@@ -92,6 +98,24 @@
       <title>Africans are turning to Starlink</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink</link>
       <description>They are fed up with the continent’s terrible internet</description>
+      <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazilians are going gaga for Chinese brands</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/02/brazilians-are-going-gaga-for-chinese-brands</link>
+      <description>They think China has better tech than America</description>
+      <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Caribbean has a problem with pesticides</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/02/the-caribbean-has-a-problem-with-pesticides</link>
+      <description>It uses them more intensively than anywhere in the world</description>
+      <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promised reforms could change Cuba radically</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/02/promised-reforms-could-change-cuba-radically</link>
+      <description>But only if they actually go ahead</description>
       <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
     </item>
     <item>
@@ -185,8 +209,8 @@
       <pubDate>Wed, 01 Jul 2026 17:59:10 +0000</pubDate>
     </item>
     <item>
-      <title>Scientists have built a cell in a lab from the ground up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/01/scientists-have-built-a-cell-in-a-lab-from-the-ground-up</link>
+      <title>Scientists take another step towards lab-made life</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/01/scientists-take-another-step-towards-lab-made-life</link>
       <description>What do you call an organism with no evolutionary ancestors? SpudCell, apparently</description>
       <pubDate>Wed, 01 Jul 2026 17:47:43 +0000</pubDate>
     </item>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already</link>
       <description>If you are studying coding, we might have some bad news</description>
       <pubDate>Wed, 13 May 2026 18:44:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI models are being used to predict conflict</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict</link>
-      <description>Good data are hard to come by</description>
-      <pubDate>Wed, 13 May 2026 18:09:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neanderthals went to the dentist (really)</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/13/neanderthals-went-to-the-dentist-really</link>
-      <description>They did so tens of thousands of years before humans</description>
-      <pubDate>Wed, 13 May 2026 18:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s midterm strategy: purge the Republican Party</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/13/donald-trumps-midterm-strategy-purge-the-republican-party</link>
-      <description>A case study in two bitter primaries for safe Republican seats</description>
-      <pubDate>Wed, 13 May 2026 16:22:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the world has avoided an oil catastrophe so far</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/12/how-the-world-has-avoided-an-oil-catastrophe-so-far</link>
-      <description>The great commodity-market mystery is deepening</description>
-      <pubDate>Tue, 12 May 2026 21:15:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
