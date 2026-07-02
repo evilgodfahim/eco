@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Venezuela’s earthquakes are partly America’s problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/02/venezuelas-earthquakes-are-partly-americas-problem</link>
+      <description>The government’s response has been dire. Its patron has a duty to help</description>
+      <pubDate>Thu, 02 Jul 2026 11:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s government overhauls a vast workfare programme</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/02/indias-government-overhauls-a-vast-workfare-programme</link>
+      <description>Critics say it has been gutted</description>
+      <pubDate>Thu, 02 Jul 2026 10:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pakistan’s army chief battles with its imprisoned ex-prime minister</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/02/pakistans-army-chief-battles-with-its-imprisoned-ex-prime-minister</link>
+      <description>Which of Asim Munir or Imran Khan will prevail?</description>
+      <pubDate>Thu, 02 Jul 2026 10:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>America should not imprison frontier AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai</link>
+      <description>Fable is free. But the technology desperately needs better regulations</description>
+      <pubDate>Thu, 02 Jul 2026 10:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Germany’s government finally getting its act together?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/is-germanys-government-finally-getting-its-act-together</link>
+      <description>A new set of reforms has lifted sagging spirits in Berlin</description>
+      <pubDate>Thu, 02 Jul 2026 09:49:14 +0000</pubDate>
+    </item>
+    <item>
       <title>How much will a 4th of July cookout cost this year?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year</link>
       <description>We calculate the rising price of Americans’ summer staples</description>
@@ -43,7 +73,7 @@
     <item>
       <title>Can Bending Spoons thrive as a listed company?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/01/can-bending-spoons-thrive-as-a-listed-company</link>
-      <description>A rare Italian software star uses the private-equity playbook</description>
+      <description>A rare Italian software star acts uses the private-equity playbook</description>
       <pubDate>Wed, 01 Jul 2026 18:23:27 +0000</pubDate>
     </item>
     <item>
@@ -221,8 +251,8 @@
       <pubDate>Sun, 28 Jun 2026 10:33:26 +0000</pubDate>
     </item>
     <item>
-      <title>Donald Trump is kicking out Chinese firms and keeping their tech</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-and-keeping-their-tech</link>
+      <title>Donald Trump is kicking out Chinese firms, but keeping their tech</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-but-keeping-their-tech</link>
       <description>China’s stranded assets are creating a new class of American green-tech investors</description>
       <pubDate>Sun, 28 Jun 2026 08:38:57 +0000</pubDate>
     </item>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/10/america-faces-another-grocery-price-shock</link>
       <description>Higher energy costs will be felt unevenly across the food-supply chain</description>
       <pubDate>Sun, 10 May 2026 18:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia is stumbling on the battlefield</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/10/russia-is-stumbling-on-the-battlefield</link>
-      <description>As casualties soar in Ukraine, Vladimir Putin looks ever more beleaguered at home</description>
-      <pubDate>Sun, 10 May 2026 17:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Congolese militia wants to sell critical minerals to Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/10/a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump</link>
-      <description>The pitch by M23, exclusively revealed to The Economist, belies the rebels’ weaknesses</description>
-      <pubDate>Sun, 10 May 2026 09:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: America’s oddly relaxing counter-terrorism strategy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/09/checks-and-balance-newsletter-americas-oddly-relaxing-counter-terrorism-strategy</link>
-      <description>John Prideaux, our US editor, on how the country’s approach has become an under-appreciated success</description>
-      <pubDate>Sat, 09 May 2026 13:06:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guatemala, once Latin America’s rule-of-law beacon, has new hope</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/08/guatemala-once-latin-americas-rule-of-law-beacon-has-new-hope</link>
-      <description>But a new attorney-general may not be enough to revive the fight against corruption</description>
-      <pubDate>Fri, 08 May 2026 19:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do houseplants improve air quality?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/08/do-houseplants-improve-air-quality</link>
-      <description>Air purifiers are more effective and easier to maintain</description>
-      <pubDate>Fri, 08 May 2026 16:52:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
