@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Iran’s regime hopes Khamenei’s funeral will demonstrate its strength</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/03/irans-regime-hopes-khameneis-funeral-will-demonstrate-its-strength</link>
+      <description>It reveals how much it has already changed</description>
+      <pubDate>Fri, 03 Jul 2026 16:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>How little exercise can you get away with?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with</link>
+      <description>Even tiny bursts of activity have measurable benefits</description>
+      <pubDate>Fri, 03 Jul 2026 15:34:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Who was behind those drone incursions over Europe?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/who-was-behind-those-drone-incursions-over-europe</link>
       <description>A new report finds it was probably Russia</description>
@@ -59,9 +71,9 @@
       <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
     </item>
     <item>
-      <title>Volodymyr Zelensky’s surge is a bid to force peace talks</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/volodymyr-zelenskys-surge-is-a-bid-to-force-peace-talks</link>
-      <description>Ukrainian claims to be winning the drone war are partly propaganda and partly real</description>
+      <title>Ukraine is trying to threaten Vladimir Putin into peace talks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/ukraine-is-trying-to-threaten-vladimir-putin-into-peace-talks</link>
+      <description>Its claims to be winning the drone war are partly propaganda and partly real</description>
       <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-phase</link>
       <description>AI agents present novel dangers</description>
       <pubDate>Wed, 13 May 2026 20:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The world’s best-sounding nightclub is in an unexpected place</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/13/the-worlds-best-sounding-nightclub-is-in-an-unexpected-place</link>
-      <description>Why DJs are flocking to an obscure town in west Germany</description>
-      <pubDate>Wed, 13 May 2026 20:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is AI putting graduates out of work already?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already</link>
-      <description>If you are studying coding, we might have some bad news</description>
-      <pubDate>Wed, 13 May 2026 18:44:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
