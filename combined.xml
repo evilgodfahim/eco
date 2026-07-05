@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>What Indians are reading, and what that reveals about the self</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/05/what-indians-are-reading-and-what-that-reveals-about-the-self</link>
+      <description>English-language books offer a glimpse of India’s hopes and dreams</description>
+      <pubDate>Sun, 05 Jul 2026 10:43:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Iran’s regime hopes Khamenei’s funeral will demonstrate its strength</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/03/irans-regime-hopes-khameneis-funeral-will-demonstrate-its-strength</link>
       <description>It reveals how much it has already changed</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom</link>
       <description>The result is increasingly unsettling</description>
       <pubDate>Wed, 13 May 2026 21:29:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The war between businesses and hackers enters a perilous new phase</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-phase</link>
-      <description>AI agents present novel dangers</description>
-      <pubDate>Wed, 13 May 2026 20:23:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
