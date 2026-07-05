@@ -5,14 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Women’s progress at work is stalling</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-is-stalling</link>
+      <description>Is the “Lean In” generation leaning out?</description>
+      <pubDate>Sun, 05 Jul 2026 17:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Has China obtained the world’s most important machine?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/05/has-china-obtained-the-worlds-most-important-machine</link>
+      <description>Its Dutch manufacturer is fighting to rebut American claims</description>
+      <pubDate>Sun, 05 Jul 2026 15:56:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Mehmet Oz, Donald Trump’s most effective TV star</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/05/mehmet-oz-donald-trumps-most-effective-tv-star</link>
       <description>The telegenic doctor enacting the president’s agenda with professionalism and zeal</description>
       <pubDate>Sun, 05 Jul 2026 12:38:28 +0000</pubDate>
     </item>
     <item>
-      <title>Europe is balking at cutting welfare to fund defence</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/05/europe-is-balking-at-cutting-welfare-to-fund-defence</link>
+      <title>Europe promised cash for defence. It’s failing to cough up</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/05/europe-promised-cash-for-defence-its-failing-to-cough-up</link>
       <description>Most Europeans want stronger armed forces, but are unwilling to pay for them</description>
       <pubDate>Sun, 05 Jul 2026 12:12:07 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse</link>
       <description>It is not here yet. But governments should lay a safety-net</description>
       <pubDate>Thu, 14 May 2026 09:03:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to share the AI windfall</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/14/how-to-share-the-ai-windfall</link>
-      <description>Are taxes enough?</description>
-      <pubDate>Thu, 14 May 2026 09:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The jobs apocalypse: a (very) short history</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/14/the-jobs-apocalypse-a-very-short-history</link>
-      <description>Mass unemployment induced by AI would be unprecedented</description>
-      <pubDate>Thu, 14 May 2026 08:58:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
