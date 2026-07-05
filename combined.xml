@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mehmet Oz, Donald Trump’s most effective TV star</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/05/mehmet-oz-donald-trumps-most-effective-tv-star</link>
+      <description>The telegenic doctor enacting the president’s agenda with professionalism and zeal</description>
+      <pubDate>Sun, 05 Jul 2026 12:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe is balking at cutting welfare to fund defence</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/05/europe-is-balking-at-cutting-welfare-to-fund-defence</link>
+      <description>Most Europeans want stronger armed forces, but are unwilling to pay for them</description>
+      <pubDate>Sun, 05 Jul 2026 12:12:07 +0000</pubDate>
+    </item>
+    <item>
       <title>What Indians are reading, and what that reveals about the self</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/05/what-indians-are-reading-and-what-that-reveals-about-the-self</link>
       <description>English-language books offer a glimpse of India’s hopes and dreams</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/14/the-jobs-apocalypse-a-very-short-history</link>
       <description>Mass unemployment induced by AI would be unprecedented</description>
       <pubDate>Thu, 14 May 2026 08:58:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trade or Taiwan? Trump and Xi struggle to set the terms</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/14/trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms</link>
-      <description>At a summit in Beijing, business deals may mask divisions on Iran, Ukraine and AI</description>
-      <pubDate>Thu, 14 May 2026 08:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big tech is sacrificing its cashflows to prop up the AI boom</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom</link>
-      <description>The result is increasingly unsettling</description>
-      <pubDate>Wed, 13 May 2026 21:29:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
