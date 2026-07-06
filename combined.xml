@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Mexico is placing an enormous bet on rail</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/06/mexico-is-placing-an-enormous-bet-on-rail</link>
+      <description>Can it keep its plans on track?</description>
+      <pubDate>Mon, 06 Jul 2026 17:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A rare Chinese missile test unnerves Asian neighbours</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/06/a-rare-chinese-missile-test-unnerves-asian-neighbours</link>
+      <description>A nuclear submarine test-fired a ballistic missile into the Pacific</description>
+      <pubDate>Mon, 06 Jul 2026 16:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world’s most, and least, liveable cities in 2026</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/06/the-worlds-most-and-least-liveable-cities-in-2026</link>
+      <description>See how 173 cities compare in EIU’s annual ranking</description>
+      <pubDate>Mon, 06 Jul 2026 15:55:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Presidents and profits</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/06/checks-and-balance-newsletter-presidents-and-profits</link>
       <description>Donald Trump’s legacy is still unfolding. “In the end he may be best known for reaping riches from the office only 45 men have had the honour to hold,” writes Charlotte Howard, our US editor</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/sir-keir-starmer-has-failed-abjectly-he-should-go</link>
       <description>Britain is not ungovernable—it just needs better governance</description>
       <pubDate>Thu, 14 May 2026 09:25:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s legendary hill towns are sinking</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/indias-legendary-hill-towns-are-sinking</link>
-      <description>Overdevelopment threatens many Himalayan states</description>
-      <pubDate>Thu, 14 May 2026 09:23:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil prices could soon rise convulsively</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/oil-prices-could-soon-rise-convulsively</link>
-      <description>The present tranquility will not last</description>
-      <pubDate>Thu, 14 May 2026 09:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gulf war will change Asia for good</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/the-gulf-war-will-change-asia-for-good</link>
-      <description>Energy-shocked countries are determined never to be hostage again</description>
-      <pubDate>Thu, 14 May 2026 09:17:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
