@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Presidents and profits</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/06/checks-and-balance-newsletter-presidents-and-profits</link>
+      <description>Donald Trump’s legacy is still unfolding. “In the end he may be best known for reaping riches from the office only 45 men have had the honour to hold,” writes Charlotte Howard, our US editor</description>
+      <pubDate>Mon, 06 Jul 2026 10:21:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Women’s progress at work appears to be stalling</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling</link>
       <description>After the “lean in” generation, are professional women leaning out?</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/the-gulf-war-will-change-asia-for-good</link>
       <description>Energy-shocked countries are determined never to be hostage again</description>
       <pubDate>Thu, 14 May 2026 09:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prepare for an AI jobs apocalypse</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse</link>
-      <description>It is not here yet. But governments should lay a safety-net</description>
-      <pubDate>Thu, 14 May 2026 09:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
