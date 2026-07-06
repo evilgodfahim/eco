@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The World Bank has ditched its climate targets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets</link>
+      <description>The rise and fall of the institution’s love for green growth</description>
+      <pubDate>Mon, 06 Jul 2026 19:40:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Beware the top-heavy economy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/06/beware-the-top-heavy-economy</link>
       <description>Supersize capital flows are reshaping business—and building risk</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/14/why-measles-is-returning-to-the-americas</link>
       <description>Falling vaccination coverage is letting a deadly virus back in</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Why America still argues about 1965</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/14/checks-and-balance-newsletter-why-america-still-argues-about-1965</link>
-      <description>Jon Fasman, our senior culture correspondent, on the unfinished battles of the civil-rights era</description>
-      <pubDate>Thu, 14 May 2026 09:40:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
