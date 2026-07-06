@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Beware the top-heavy economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/06/beware-the-top-heavy-economy</link>
+      <description>Supersize capital flows are reshaping business—and building risk</description>
+      <pubDate>Mon, 06 Jul 2026 18:22:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Mexico is placing an enormous bet on rail</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/06/mexico-is-placing-an-enormous-bet-on-rail</link>
       <description>Can it keep its plans on track?</description>
@@ -13,7 +19,7 @@
     <item>
       <title>A rare Chinese missile test unnerves Asian neighbours</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/06/a-rare-chinese-missile-test-unnerves-asian-neighbours</link>
-      <description>A nuclear submarine test-fired a ballistic missile into the Pacific</description>
+      <description>Its timing will heighten regional fears about China’s growing firepower</description>
       <pubDate>Mon, 06 Jul 2026 16:32:34 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/14/checks-and-balance-newsletter-why-america-still-argues-about-1965</link>
       <description>Jon Fasman, our senior culture correspondent, on the unfinished battles of the civil-rights era</description>
       <pubDate>Thu, 14 May 2026 09:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sir Keir Starmer has failed abjectly. He should go</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/sir-keir-starmer-has-failed-abjectly-he-should-go</link>
-      <description>Britain is not ungovernable—it just needs better governance</description>
-      <pubDate>Thu, 14 May 2026 09:25:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
