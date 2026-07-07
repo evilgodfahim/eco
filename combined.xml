@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>AI has taken over the stock market. The bond market is next</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next</link>
+      <description>Judging credit risk of the AI boom is difficult</description>
+      <pubDate>Tue, 07 Jul 2026 20:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe’s economy is a mess. Its stock markets are a steal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal</link>
+      <description>International investors still aren’t interested</description>
+      <pubDate>Tue, 07 Jul 2026 19:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Democrats are in a mad rush to replace their Senate candidate in Maine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/07/democrats-are-in-a-mad-rush-to-replace-their-senate-candidate-in-maine</link>
+      <description>What Graham Platner’s collapse reveals about the party</description>
+      <pubDate>Tue, 07 Jul 2026 19:16:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Rebuilding Syria will cost over $200bn. Bombs are not helping</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/07/rebuilding-syria-will-cost-over-200bn-bombs-are-not-helping</link>
       <description>Emmanuel Macron is greeted by explosions in Damascus</description>
@@ -2029,7 +2047,7 @@
     <item>
       <title>An increasingly risky bet for Democrats in Maine</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/01/an-increasingly-risky-bet-for-democrats-in-maine</link>
-      <description>Graham Platner looks like party’s best chance of unseating Susan Collins. His scandals may get in the way</description>
+      <description>Graham Platner looks like the party’s best chance of unseating Susan Collins. His scandals may get in the way</description>
       <pubDate>Mon, 01 Jun 2026 23:11:24 +0000</pubDate>
     </item>
     <item>
@@ -2984,24 +3002,6 @@
       <title>To understand European voters’ anger, look at their rent bills</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/14/to-understand-european-voters-anger-look-at-their-rent-bills</link>
       <description>Rent-control policies are making Europe’s housing shortage worse</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>The strange Japanese companies minting money from AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai</link>
-      <description>What the creator of MSG and the world’s biggest toilet-maker have in common</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing “Velocity pivot”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/14/introducing-velocity-pivot</link>
-      <description>The corporate world’s Lorem ipsum</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung has staged a stunning comeback</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/14/samsung-has-staged-a-stunning-comeback</link>
-      <description>But political trouble is brewing</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
