@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Rebuilding Syria will cost over $200bn. Bombs are not helping</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/07/rebuilding-syria-will-cost-over-200bn-bombs-are-not-helping</link>
+      <description>Emmanuel Macron is greeted by explosions in Damascus</description>
+      <pubDate>Tue, 07 Jul 2026 16:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s semiconductor industry is racing to catch the West’s</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/07/chinas-semiconductor-industry-is-racing-to-catch-the-wests</link>
+      <description>But it is proving easier to design chips than to make them</description>
+      <pubDate>Tue, 07 Jul 2026 16:18:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Can cutting-edge semiconductors supercharge Japan?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/07/can-cutting-edge-semiconductors-supercharge-japan</link>
       <description>Visions of a high-tech hub in Hokkaido hinge on a single government-backed firm</description>
@@ -2990,18 +3002,6 @@
       <title>Samsung has staged a stunning comeback</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/14/samsung-has-staged-a-stunning-comeback</link>
       <description>But political trouble is brewing</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Companies are making big bucks from immigration crackdowns</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/14/companies-are-making-big-bucks-from-immigration-crackdowns</link>
-      <description>And startups are piling in with whizzy new technologies</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Macron turns to English-speaking Africa</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/14/macron-turns-to-english-speaking-africa</link>
-      <description>Why France is betting on business to shake off its colonial baggage</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
