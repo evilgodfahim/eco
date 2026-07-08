@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russians are growing anxious and angry</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/russians-are-growing-anxious-and-angry</link>
+      <description>The war has come home and is everyone’s problem</description>
+      <pubDate>Wed, 08 Jul 2026 17:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazilian cities are building vast surveillance networks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/08/brazilian-cities-are-building-vast-surveillance-networks</link>
+      <description>Can they combat the country’s biggest security threats?</description>
+      <pubDate>Wed, 08 Jul 2026 17:06:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Three ways the LNG market could crack before winter</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter</link>
       <description>War, weather and outages may still send gas prices soaring</description>
@@ -2990,18 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/14/politics</link>
       <description></description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/14/business</link>
-      <description></description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Magyar takes office pledging to clean up Hungary’s mess</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/14/peter-magyar-takes-office-pledging-to-clean-up-hungarys-mess</link>
-      <description>EU funds blocked because of corruption under Viktor Orban are his priority</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
