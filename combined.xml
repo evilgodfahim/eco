@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>NATO survives its bipolar summit with Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/nato-survives-its-bipolar-summit-with-donald-trump</link>
+      <description>Allies breath a sigh of relief; Ukraine may even cheer</description>
+      <pubDate>Wed, 08 Jul 2026 21:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk and the age of the corporate leviathan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/08/elon-musk-and-the-age-of-the-corporate-leviathan</link>
+      <description>For the world’s largest companies, the normal rules of corporate governance no longer apply</description>
+      <pubDate>Wed, 08 Jul 2026 21:22:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Is Donald Trump serious in declaring the ceasefire with Iran over?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/08/is-donald-trump-serious-in-declaring-the-ceasefire-with-iran-over</link>
       <description>Iran’s ultranationalist new leaders may welcome his bluster</description>
@@ -2990,18 +3002,6 @@
       <title>Indonesia, the biggest Muslim-majority country, is on a risky path</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/indonesia-the-biggest-muslim-majority-country-is-on-a-risky-path</link>
       <description>Prabowo Subianto is eroding its finances—and its democracy</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Anno Takahiro, founder of Japan’s hottest political party</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/14/meet-anno-takahiro-founder-of-japans-hottest-political-party</link>
-      <description>The software engineer and sci-fi writer wants to use AI to reshape politics</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can a Chinese EV-maker reinvent itself as a robot firm?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/14/can-a-chinese-ev-maker-reinvent-itself-as-a-robot-firm</link>
-      <description>An interview with the boss of Xpeng</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
