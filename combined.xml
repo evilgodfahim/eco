@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Three ways the LNG market could crack before winter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter</link>
+      <description>War, weather and outages may still send gas prices soaring</description>
+      <pubDate>Wed, 08 Jul 2026 14:08:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch: Mourning and spectacle in Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/08/middle-east-dispatch-mourning-and-spectacle-in-iran</link>
       <description>The point of the mega-funeral is to demonstrate the power of the regime, writes Anton La Guardia, our diplomatic editor</description>
@@ -2996,12 +3002,6 @@
       <title>Peter Magyar takes office pledging to clean up Hungary’s mess</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/14/peter-magyar-takes-office-pledging-to-clean-up-hungarys-mess</link>
       <description>EU funds blocked because of corruption under Viktor Orban are his priority</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armenia’s election will test its leader’s pivot to the West</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/14/armenias-election-will-test-its-leaders-pivot-to-the-west</link>
-      <description>Let down by Russia, Nikol Pashinyan wants to make up with Azerbaijan and join the EU</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
