@@ -5,6 +5,42 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is Donald Trump serious in declaring the ceasefire with Iran over?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/08/is-donald-trump-serious-in-declaring-the-ceasefire-with-iran-over</link>
+      <description>Iran’s ultranationalist new leaders may welcome his bluster</description>
+      <pubDate>Wed, 08 Jul 2026 20:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s gaming strategy has misfired badly</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/08/microsofts-gaming-strategy-has-misfired-badly</link>
+      <description>A supply-chain crisis for Xbox couldn’t have come at a worse time</description>
+      <pubDate>Wed, 08 Jul 2026 19:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the biggest trees survive droughts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/08/how-the-biggest-trees-survive-droughts</link>
+      <description>Being tall would be a disadvantage, if not for some clever engineering</description>
+      <pubDate>Wed, 08 Jul 2026 19:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to hide from killer drones</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones</link>
+      <description>In the Ukraine war, anti-AI tactics are producing bizarre forms of camouflage</description>
+      <pubDate>Wed, 08 Jul 2026 19:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A statistician’s guide to Wimbledon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/08/a-statisticians-guide-to-wimbledon</link>
+      <description>How to turn a tiny advantage into sporting glory</description>
+      <pubDate>Wed, 08 Jul 2026 19:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The future of chipmaking looks more like Manhattan than Silicon Valley</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/08/the-future-of-chipmaking-looks-more-like-manhattan-than-silicon-valley</link>
+      <description>Constrained by physics and politics, chipmakers are building upwards</description>
+      <pubDate>Wed, 08 Jul 2026 19:06:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Russians are growing anxious and angry</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/russians-are-growing-anxious-and-angry</link>
       <description>The war has come home and is everyone’s problem</description>
@@ -2966,42 +3002,6 @@
       <title>Can a Chinese EV-maker reinvent itself as a robot firm?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/14/can-a-chinese-ev-maker-reinvent-itself-as-a-robot-firm</link>
       <description>An interview with the boss of Xpeng</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s tea brands want to conquer America, Starbucks-style</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/14/chinas-tea-brands-want-to-conquer-america-starbucks-style</link>
-      <description>A major competition is brewing</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Donald Trump could learn from the UFC</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/14/what-donald-trump-could-learn-from-the-ufc</link>
-      <description>Maybe the fighters he has invited to the White House will supply some moral uplift</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s new counter-terrorism strategy is a partisan polemic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/14/americas-new-counter-terrorism-strategy-is-a-partisan-polemic</link>
-      <description>It does not seem designed to make the country safer</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York looks set to lower a big barrier to building</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/14/new-york-looks-set-to-lower-a-big-barrier-to-building</link>
-      <description>Sex and the environmental-review process</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: The Trump-Xi summit</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/14/cartoon-the-trump-xi-summit</link>
-      <description></description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/14/politics</link>
-      <description></description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
