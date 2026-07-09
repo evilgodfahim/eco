@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The man who would change Russia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/the-man-who-would-change-russia</link>
+      <description>A leading oligarch speaks out, warning of the looming disaster facing his country</description>
+      <pubDate>Thu, 09 Jul 2026 04:44:45 +0000</pubDate>
+    </item>
+    <item>
       <title>NATO survives its bipolar summit with Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/nato-survives-its-bipolar-summit-with-donald-trump</link>
       <description>Allies breath a sigh of relief; Ukraine may even cheer</description>
@@ -2996,12 +3002,6 @@
       <title>Mothers who cannot breastfeed have been given terrible advice</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/mothers-who-cannot-breastfeed-have-been-given-terrible-advice</link>
       <description>Medicine has neglected mammary glands for too long</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesia, the biggest Muslim-majority country, is on a risky path</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/indonesia-the-biggest-muslim-majority-country-is-on-a-risky-path</link>
-      <description>Prabowo Subianto is eroding its finances—and its democracy</description>
       <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
