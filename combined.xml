@@ -5,14 +5,32 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Indian mangoes have been banned from Japan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/09/indian-mangoes-have-been-banned-from-japan</link>
+      <description>It’s the latest sign of a widespread food-safety problem</description>
+      <pubDate>Thu, 09 Jul 2026 11:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>China may struggle to fund Xi Jinping’s tech ambitions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-ambitions</link>
+      <description>The comeback capital markets are staging may not be enough</description>
+      <pubDate>Thu, 09 Jul 2026 08:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>An ageing society might not cost too much</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/09/an-ageing-society-might-not-cost-too-much</link>
+      <description>A dystopian vision of the future may not come to pass</description>
+      <pubDate>Thu, 09 Jul 2026 08:26:42 +0000</pubDate>
+    </item>
+    <item>
       <title>The man who would change Russia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/the-man-who-would-change-russia</link>
       <description>A leading oligarch speaks out, warning of the looming disaster facing his country</description>
       <pubDate>Thu, 09 Jul 2026 04:44:45 +0000</pubDate>
     </item>
     <item>
-      <title>NATO survives its bipolar summit with Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/nato-survives-its-bipolar-summit-with-donald-trump</link>
+      <title>NATO survives its bipolar summit</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/nato-survives-its-bipolar-summit</link>
       <description>Allies breath a sigh of relief; Ukraine may even cheer</description>
       <pubDate>Wed, 08 Jul 2026 21:51:45 +0000</pubDate>
     </item>
@@ -25,7 +43,7 @@
     <item>
       <title>Is Donald Trump serious in declaring the ceasefire with Iran over?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/08/is-donald-trump-serious-in-declaring-the-ceasefire-with-iran-over</link>
-      <description>Iran’s ultranationalist new leaders may welcome his bluster</description>
+      <description>Iran’s ultra-nationalist new leaders may welcome his bluster</description>
       <pubDate>Wed, 08 Jul 2026 20:04:39 +0000</pubDate>
     </item>
     <item>
@@ -103,7 +121,7 @@
     <item>
       <title>What Graham Platner’s collapse means for the Democrats</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/07/what-graham-platners-collapse-means-for-the-democrats</link>
-      <description>How will the party replace its Senate candidate in Maine?</description>
+      <description>The troubled Senate nominee has suspended his campaign in Maine</description>
       <pubDate>Tue, 07 Jul 2026 19:16:31 +0000</pubDate>
     </item>
     <item>
@@ -151,7 +169,7 @@
     <item>
       <title>A rare Chinese missile test unnerves Asian neighbours</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/06/a-rare-chinese-missile-test-unnerves-asian-neighbours</link>
-      <description>Its timing will heighten regional fears about China’s growing firepower</description>
+      <description>China moves a step closer to having an operational “nuclear triad”</description>
       <pubDate>Mon, 06 Jul 2026 16:32:34 +0000</pubDate>
     </item>
     <item>
@@ -167,9 +185,9 @@
       <pubDate>Mon, 06 Jul 2026 10:21:24 +0000</pubDate>
     </item>
     <item>
-      <title>Women’s progress at work appears to be stalling</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling</link>
-      <description>After the “lean in” generation, are professional women leaning out?</description>
+      <title>Women’s progress at work is stalling</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-is-stalling</link>
+      <description>Is the “Lean In” generation leaning out?</description>
       <pubDate>Sun, 05 Jul 2026 17:22:02 +0000</pubDate>
     </item>
     <item>
@@ -185,8 +203,8 @@
       <pubDate>Sun, 05 Jul 2026 12:38:28 +0000</pubDate>
     </item>
     <item>
-      <title>Europe promised cash for defence. It’s failing to cough up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/05/europe-promised-cash-for-defence-its-failing-to-cough-up</link>
+      <title>Europe has promised cash for defence. It’s failing to provide it</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/05/europe-has-promised-cash-for-defence-its-failing-to-provide-it</link>
       <description>Most Europeans want stronger armed forces, but are unwilling to pay for them</description>
       <pubDate>Sun, 05 Jul 2026 12:12:07 +0000</pubDate>
     </item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/14/mexicos-daft-plan-to-cut-the-school-year-for-the-world-cup</link>
       <description>Does Claudia Sheinbaum really want to improve education?</description>
       <pubDate>Thu, 14 May 2026 19:49:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesia’s president is jeopardising the economy and democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/14/indonesias-president-is-jeopardising-the-economy-and-democracy</link>
-      <description>Prabowo Subianto is too spendthrift and too authoritarian</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Not all Donald Trump’s peacemaking boasts are empty</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/not-all-donald-trumps-peacemaking-boasts-are-empty</link>
-      <description>But to end Congo’s terrible war, America must remain neutral</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mothers who cannot breastfeed have been given terrible advice</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/14/mothers-who-cannot-breastfeed-have-been-given-terrible-advice</link>
-      <description>Medicine has neglected mammary glands for too long</description>
-      <pubDate>Thu, 14 May 2026 12:55:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
