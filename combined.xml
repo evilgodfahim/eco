@@ -5,14 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to train for a heatwave</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/10/how-to-train-for-a-heatwave</link>
+      <description>A nice, hot bath can go a long way</description>
+      <pubDate>Fri, 10 Jul 2026 17:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter:  The man who would change Russia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/10/cover-story-newsletter-the-man-who-would-change-russia</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 10 Jul 2026 16:49:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Where is the home of football?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/10/where-is-the-home-of-football</link>
       <description>England invented the sport. But its modern centre of gravity lies elsewhere</description>
       <pubDate>Fri, 10 Jul 2026 10:59:07 +0000</pubDate>
     </item>
     <item>
-      <title>The world is making heady progress in the fight against dementia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/09/the-world-is-making-heady-progress-in-the-fight-against-dementia</link>
+      <title>How dementia is being defeated</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated</link>
       <description>Incidence among the elderly is falling fast</description>
       <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better</link>
       <description>Solid-state cells would be faster and safer than today’s lithium-ion equivalents</description>
       <pubDate>Wed, 20 May 2026 16:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The hantavirus outbreak is a tragedy—and a valuable data source</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/20/the-hantavirus-outbreak-is-a-tragedy-and-a-valuable-data-source</link>
-      <description>The risk to public health remains low</description>
-      <pubDate>Wed, 20 May 2026 16:37:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How China quietly helps Russia in Ukraine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine</link>
-      <description>Its firms send drones, nitrocellulose for rockets and more</description>
-      <pubDate>Wed, 20 May 2026 16:34:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
