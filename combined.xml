@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: The weirdness of American socialism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/11/checks-and-balance-newsletter-the-weirdness-of-american-socialism</link>
+      <description>John Prideaux, our executive editor, on the rise of a new political class from the activist left</description>
+      <pubDate>Sat, 11 Jul 2026 12:53:37 +0000</pubDate>
+    </item>
+    <item>
       <title>How to train for a heatwave</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/10/how-to-train-for-a-heatwave</link>
       <description>A nice, hot bath can go a long way</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/20/donald-trump-is-pushing-towards-the-end-game-in-cuba</link>
       <description>With charges against Raúl Castro, his pressure campaign looks ever more like the one that deposed Nicolás Maduro</description>
       <pubDate>Wed, 20 May 2026 18:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breakthroughs for batteries could soon make them much better</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better</link>
-      <description>Solid-state cells would be faster and safer than today’s lithium-ion equivalents</description>
-      <pubDate>Wed, 20 May 2026 16:39:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
