@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China is dealing with its own manosphere</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/12/china-is-dealing-with-its-own-manosphere</link>
+      <description>But online misogyny is only one corner of a much bigger problem</description>
+      <pubDate>Sun, 12 Jul 2026 12:13:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The weirdness of American socialism</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/11/checks-and-balance-newsletter-the-weirdness-of-american-socialism</link>
       <description>John Prideaux, our executive editor, on the rise of a new political class from the activist left</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot</link>
       <description>What the world’s biggest DIY store says about American housing</description>
       <pubDate>Wed, 20 May 2026 18:14:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump is pushing towards the end-game in Cuba</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/20/donald-trump-is-pushing-towards-the-end-game-in-cuba</link>
-      <description>With charges against Raúl Castro, his pressure campaign looks ever more like the one that deposed Nicolás Maduro</description>
-      <pubDate>Wed, 20 May 2026 18:01:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
