@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Lindsey Graham represented the arc of his party</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party</link>
+      <description>South Carolina’s senior senator is dead at 71</description>
+      <pubDate>Sun, 12 Jul 2026 18:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>An incomplete list of falling objects in India</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/12/an-incomplete-list-of-falling-objects-in-india</link>
+      <description>Prosperity and infrastructure development have not come with improved safety</description>
+      <pubDate>Sun, 12 Jul 2026 18:21:20 +0000</pubDate>
+    </item>
+    <item>
       <title>The Ebola epidemic is getting out of control</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/12/the-ebola-epidemic-is-getting-out-of-control</link>
       <description>It has spread to five provinces in Congo and may soon reach South Sudan</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/americas-economy-is-soaring-even-with-the-maga-tax</link>
       <description>The country’s world-beating performance comes with a handicap</description>
       <pubDate>Thu, 21 May 2026 09:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why NATO needs a Plan B</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/why-nato-needs-a-plan-b</link>
-      <description>Mark Rutte is wrong to quash talk of one. The risks of the alliance unravelling are too great to ignore</description>
-      <pubDate>Thu, 21 May 2026 09:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drained by war with Iran, America is stalling deliveries of arms to Europe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/21/drained-by-war-with-iran-america-is-stalling-deliveries-of-arms-to-europe</link>
-      <description>Many allies are starting to look for different suppliers</description>
-      <pubDate>Thu, 21 May 2026 08:51:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
