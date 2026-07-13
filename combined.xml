@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The stubborn scarcity of female breadwinners</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners</link>
+      <description>Wives who outearn their husbands remain rare in America</description>
+      <pubDate>Mon, 13 Jul 2026 19:12:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>How high can Red Bull fly?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/13/how-high-can-red-bull-fly</link>
+      <description>The world’s most formidable marketing machine faces growing threats</description>
+      <pubDate>Mon, 13 Jul 2026 18:24:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine’s army gets a performance review</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/13/ukraines-army-gets-a-performance-review</link>
       <description>New defence minister Mykhailo Fedorov is trying to reform the army. The generals are unimpressed</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/21/elon-musk-is-going-all-in-on-an-unproven-technology</link>
       <description>What lies behind the world’s biggest public offering</description>
       <pubDate>Thu, 21 May 2026 10:36:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s diplomats are hosting the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/21/indias-diplomats-are-hosting-the-world</link>
-      <description>But what is getting done?</description>
-      <pubDate>Thu, 21 May 2026 09:56:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceX is capitalism on rocket fuel</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/spacex-is-capitalism-on-rocket-fuel</link>
-      <description>Make what you will of Elon Musk, his rocketry firm is a marvel of free markets</description>
-      <pubDate>Thu, 21 May 2026 09:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
