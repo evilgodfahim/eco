@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is Aung San Suu Kyi dead?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/13/is-aung-san-suu-kyi-dead</link>
+      <description>Myanmar’s jailed leader has not been seen since 2022</description>
+      <pubDate>Mon, 13 Jul 2026 13:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s other elections problem</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem</link>
+      <description>No other rich democracy hands as many decisions directly to its voters</description>
+      <pubDate>Mon, 13 Jul 2026 13:30:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Lindsey Graham represented the arc of his party</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party</link>
       <description>South Carolina’s senior senator is dead at 71</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock</link>
       <description>Does the country’s manufacturing success leave space for anyone else?</description>
       <pubDate>Thu, 21 May 2026 09:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The insurers on the hook for war in Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/21/the-insurers-on-the-hook-for-war-in-iran</link>
-      <description>Some have been hammered; even those who haven’t might be soon</description>
-      <pubDate>Thu, 21 May 2026 09:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s economy is soaring—even with the MAGA tax</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/21/americas-economy-is-soaring-even-with-the-maga-tax</link>
-      <description>The country’s world-beating performance comes with a handicap</description>
-      <pubDate>Thu, 21 May 2026 09:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
