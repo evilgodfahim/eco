@@ -5,9 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Analysing Africa newsletter: Another looming atrocity in Sudan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/14/analysing-africa-newsletter-another-looming-atrocity-in-sudan</link>
+      <description>John McDermott, our chief Africa correspondent, argues that the conflict is not “forgotten” but “neglected”</description>
+      <pubDate>Tue, 14 Jul 2026 13:57:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump has no good options for reopening the Strait of Hormuz</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/14/donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz</link>
+      <description>Yet the stand-off has costs for cash-strapped Iran, too</description>
+      <pubDate>Tue, 14 Jul 2026 13:50:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Demis Hassabis has a plan to harness AI safely</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely</link>
-      <description>The Google Deepmind co-founder sets out his vision in an exclusive interview</description>
+      <description>The Google DeepMind co-founder sets out his vision in an exclusive interview</description>
       <pubDate>Tue, 14 Jul 2026 09:30:29 +0000</pubDate>
     </item>
     <item>
@@ -35,9 +47,9 @@
       <pubDate>Mon, 13 Jul 2026 17:03:12 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine’s army gets a performance review</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/13/ukraines-army-gets-a-performance-review</link>
-      <description>New defence minister Mykhailo Fedorov is trying to reform the army. The generals are unimpressed</description>
+      <title>Ukraine’s reforming defence minister is under fire</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/13/ukraines-reforming-defence-minister-is-under-fire</link>
+      <description>Mykhailo Fedorov has been trying to reform the army. The generals are pushing back</description>
       <pubDate>Mon, 13 Jul 2026 17:03:12 +0000</pubDate>
     </item>
     <item>
@@ -2990,18 +3002,6 @@
       <title>Donald Trump is still looking for a quick fix in Iran</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/21/donald-trump-is-still-looking-for-a-quick-fix-in-iran</link>
       <description>But he has delayed another round of military strikes, at least for now</description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The mother of the world v the upstart</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/21/the-mother-of-the-world-v-the-upstart</link>
-      <description>Why Egypt needs and fears the United Arab Emirates</description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel’s economy is booming</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/21/israels-economy-is-booming</link>
-      <description>Its endless wars help explain why</description>
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
   </channel>
