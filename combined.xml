@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>The War Room newsletter: Ukraine’s Game of Drones</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/14/the-war-room-newsletter-ukraines-game-of-drones</link>
+      <description>Oliver Carroll, our Ukraine correspondent, assesses the performance of the country’s defence minister</description>
+      <pubDate>Tue, 14 Jul 2026 08:19:53 +0000</pubDate>
+    </item>
+    <item>
       <title>The stubborn scarcity of female breadwinners</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners</link>
       <description>Wives who outearn their husbands remain rare in America</description>
@@ -19,6 +25,12 @@
     <item>
       <title>Ukraine’s army gets a performance review</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/13/ukraines-army-gets-a-performance-review</link>
+      <description>New defence minister Mykhailo Fedorov is trying to reform the army. The generals are unimpressed</description>
+      <pubDate>Mon, 13 Jul 2026 17:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s army gets a performance review</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/13/ukraines-army-gets-a-performance-review</link>
       <description>New defence minister Mykhailo Fedorov is trying to reform the army. The generals are unimpressed</description>
       <pubDate>Mon, 13 Jul 2026 17:03:12 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/21/why-brazils-government-is-obsessed-with-vaccines</link>
       <description>It is spending heavily to revive the country’s medical-industrial complex</description>
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Months after electing a centrist president, Bolivia boils over</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/21/months-after-electing-a-centrist-president-bolivia-boils-over</link>
-      <description>Rodrigo Paz inherited a broken economy. It is getting harder and harder to fix</description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk is going all-in on an unproven technology</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/05/21/elon-musk-is-going-all-in-on-an-unproven-technology</link>
-      <description>What lies behind the world’s biggest public offering</description>
-      <pubDate>Thu, 21 May 2026 10:36:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
