@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>When China’s open-source AI is a trap</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap</link>
+      <description>America’s quest for AI dominance is scary. China is not the solution</description>
+      <pubDate>Tue, 14 Jul 2026 20:17:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Cities are rethinking what happens after dark</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/14/cities-are-rethinking-what-happens-after-dark</link>
       <description>Making it easier to party is becoming serious public policy</description>
@@ -69,12 +75,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/13/how-high-can-red-bull-fly</link>
       <description>The world’s most formidable marketing machine faces growing threats</description>
       <pubDate>Mon, 13 Jul 2026 18:24:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s army gets a performance review</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/13/ukraines-army-gets-a-performance-review</link>
-      <description>New defence minister Mykhailo Fedorov is trying to reform the army. The generals are unimpressed</description>
-      <pubDate>Mon, 13 Jul 2026 17:03:12 +0000</pubDate>
     </item>
     <item>
       <title>Ukraine’s reforming defence minister is under fire</title>
