@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to make AI safe—and free of America and China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-free-of-america-and-china</link>
+      <description>State-backed efforts to catch up with frontier models are doomed</description>
+      <pubDate>Wed, 15 Jul 2026 20:02:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Eli Lilly is reinventing the pharma business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/15/eli-lilly-is-reinventing-the-pharma-business</link>
       <description>The world’s largest drugmaker is betting big on preventive medicines—and learning from big tech</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>Cartoon: Rising fuel costs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/21/cartoon-rising-fuel-costs</link>
-      <description></description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/21/politics</link>
       <description></description>
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
