@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Argentina v England is one of the most intense rivalries in sport</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/15/argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport</link>
+      <description>The two countries have not played each other in over two decades</description>
+      <pubDate>Wed, 15 Jul 2026 11:32:37 +0000</pubDate>
+    </item>
+    <item>
       <title>When China’s open-source AI is a trap</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap</link>
       <description>America’s quest for AI dominance is scary. China is not the solution</description>
@@ -2996,12 +3002,6 @@
       <title>Real Madrid’s boss calls an election</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/21/real-madrids-boss-calls-an-election</link>
       <description>Europe’s once-dominant club will put its leadership to its members</description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why you should (almost) always look on the bright side of life</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/21/why-you-should-almost-always-look-on-the-bright-side-of-life</link>
-      <description>The benefits—and dangers—of optimism</description>
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
   </channel>
