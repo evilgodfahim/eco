@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Eli Lilly is reinventing the pharma business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/15/eli-lilly-is-reinventing-the-pharma-business</link>
+      <description>The world’s largest drugmaker is betting big on preventive medicines—and learning from big tech</description>
+      <pubDate>Wed, 15 Jul 2026 18:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s trade gap is narrowing. And other surprises</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/15/chinas-trade-gap-is-narrowing-and-other-surprises</link>
+      <description>The world’s second-biggest economy is stumbling into fiscal austerity</description>
+      <pubDate>Wed, 15 Jul 2026 17:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the committee to buy Europe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/15/meet-the-committee-to-buy-europe</link>
+      <description>The continent’s dealmakers deserve much more attention</description>
+      <pubDate>Wed, 15 Jul 2026 17:22:45 +0000</pubDate>
+    </item>
+    <item>
       <title>How to preserve Africa’s architectural gems</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/15/how-to-preserve-africas-architectural-gems</link>
       <description>Development and restoration must go hand in hand</description>
@@ -43,12 +61,6 @@
     <item>
       <title>What investment gurus get wrong</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong</link>
-      <description>To see a country’s financial follies, look to its celebrity advisers</description>
-      <pubDate>Tue, 14 Jul 2026 17:21:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>What investment gurus get wrong</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/14/what-investment-gurus-get-wrong</link>
       <description>To see a country’s financial follies, look to its celebrity advisers</description>
       <pubDate>Tue, 14 Jul 2026 17:21:18 +0000</pubDate>
     </item>
@@ -2990,18 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/21/politics</link>
       <description></description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could microscopic spheres of silica help cool the planet?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/21/could-microscopic-spheres-of-silica-help-cool-the-planet</link>
-      <description>Private money is bringing new ideas—and new concerns—to solar-geoengineering research</description>
-      <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bre-entry may be the next drama to grip the European Union</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/21/bre-entry-may-be-the-next-drama-to-grip-the-european-union</link>
-      <description>An old friend comes knocking</description>
       <pubDate>Thu, 21 May 2026 12:47:57 +0000</pubDate>
     </item>
   </channel>
