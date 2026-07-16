@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Russia is losing its grip on Crimea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/16/russia-is-losing-its-grip-on-crimea</link>
+      <description>Ukraine’s drone offensive is making it harder to supply and defend the vital peninsula</description>
+      <pubDate>Thu, 16 Jul 2026 16:45:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Cartoon: Continuing uncertainty over the Strait of Hormuz</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/16/cartoon-continuing-uncertainty-over-the-strait-of-hormuz</link>
       <description>A lighter take on the news</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/26/centrists-crying-wolf</link>
       <description>The wrong way to beat populists who deny the existence of hard problems</description>
       <pubDate>Tue, 26 May 2026 20:55:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s latest challenge is how to deal with hope</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/05/26/ukraines-latest-challenge-is-how-to-deal-with-hope</link>
-      <description>Besides beating Russia, it must fight corruption and build democracy</description>
-      <pubDate>Tue, 26 May 2026 20:44:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
