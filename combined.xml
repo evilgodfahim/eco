@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Pete Hegseth’s testosterone-screening plan is unusual, not crazy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/17/pete-hegseths-testosterone-screening-plan-is-unusual-not-crazy</link>
+      <description>Soldiers seem to be at particular risk of hypogonadism</description>
+      <pubDate>Fri, 17 Jul 2026 13:36:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia is losing its grip on Crimea</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/16/russia-is-losing-its-grip-on-crimea</link>
       <description>Ukraine’s drone offensive is making it harder to supply and defend the vital peninsula</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/27/the-worlds-top-condom-maker-is-getting-squeezed</link>
       <description>Will Karex break under pressure?</description>
       <pubDate>Wed, 27 May 2026 13:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Centrists crying “Wolf!”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/05/26/centrists-crying-wolf</link>
-      <description>The wrong way to beat populists who deny the existence of hard problems</description>
-      <pubDate>Tue, 26 May 2026 20:55:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
