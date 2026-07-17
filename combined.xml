@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Should you microdose GLP-1 drugs for weight loss?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/17/should-you-microdose-glp-1-drugs-for-weight-loss</link>
+      <description>Possibly. But only under medical supervision</description>
+      <pubDate>Fri, 17 Jul 2026 14:49:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boomers have the good life, but it could be longer</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/17/boomers-have-the-good-life-but-it-could-be-longer</link>
+      <description>A single chart shows why they have missed out on extra years</description>
+      <pubDate>Fri, 17 Jul 2026 14:01:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Pete Hegseth’s testosterone-screening plan is unusual, not crazy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/17/pete-hegseths-testosterone-screening-plan-is-unusual-not-crazy</link>
       <description>Soldiers seem to be at particular risk of hypogonadism</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/27/would-american-military-action-against-cuba-work</link>
       <description>All the options are fraught</description>
       <pubDate>Wed, 27 May 2026 14:18:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan, South Korea and Taiwan are suffering industrial rot</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot</link>
-      <description>Artificial intelligence is concealing a China shock</description>
-      <pubDate>Wed, 27 May 2026 14:08:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The world’s top condom-maker is getting squeezed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/27/the-worlds-top-condom-maker-is-getting-squeezed</link>
-      <description>Will Karex break under pressure?</description>
-      <pubDate>Wed, 27 May 2026 13:53:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
