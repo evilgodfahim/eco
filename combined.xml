@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Cover Story newsletter: It’s too darn hot</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/17/cover-story-newsletter-its-too-darn-hot</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 17 Jul 2026 16:26:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Should you microdose GLP-1 drugs for weight loss?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/17/should-you-microdose-glp-1-drugs-for-weight-loss</link>
       <description>Possibly. But only under medical supervision</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/27/itamar-ben-gvir-has-presided-over-horrific-abuse-in-israels-prisons</link>
       <description>And he is proud of it</description>
       <pubDate>Wed, 27 May 2026 16:26:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Would American military action against Cuba work?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/27/would-american-military-action-against-cuba-work</link>
-      <description>All the options are fraught</description>
-      <pubDate>Wed, 27 May 2026 14:18:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
