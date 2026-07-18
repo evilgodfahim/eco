@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can Spain’s teamwork overcome Lionel Messi’s genius?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius</link>
+      <description>The World Cup finalists are strikingly different teams</description>
+      <pubDate>Sat, 18 Jul 2026 13:53:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Make America worse at sports</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/18/checks-and-balance-newsletter-make-america-worse-at-sports</link>
       <description>Charlotte Howard, our US editor, on why the fantasy of athletic greatness has become a plague on American life</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/27/too-much-time-with-colleagues-can-sour-social-interaction</link>
       <description>A study of an Antarctic crew finds that eventually time together breeds conflict</description>
       <pubDate>Wed, 27 May 2026 17:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tomorrow’s medical sensors might come served with dinner</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/27/tomorrows-medical-sensors-might-come-served-with-dinner</link>
-      <description>Listening to your gut could involve riboflavin batteries and toothpaste transistors</description>
-      <pubDate>Wed, 27 May 2026 17:12:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
