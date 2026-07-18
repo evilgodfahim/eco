@@ -6,6 +6,12 @@
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
       <title>Can Spain’s teamwork overcome Lionel Messi’s genius?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius</link>
+      <description>The World Cup finalists are strikingly different teams</description>
+      <pubDate>Sat, 18 Jul 2026 13:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Spain’s teamwork overcome Lionel Messi’s genius?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius</link>
       <description>The World Cup finalists are strikingly different teams</description>
       <pubDate>Sat, 18 Jul 2026 13:53:36 +0000</pubDate>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/27/could-donald-trump-save-cubas-economy</link>
       <description>Even if the island were not burdened by embargoes and communism it would be a poor investment prospect</description>
       <pubDate>Wed, 27 May 2026 19:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Too much time with colleagues can sour social interaction</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/27/too-much-time-with-colleagues-can-sour-social-interaction</link>
-      <description>A study of an Antarctic crew finds that eventually time together breeds conflict</description>
-      <pubDate>Wed, 27 May 2026 17:16:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
