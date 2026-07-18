@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: Make America worse at sports</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/18/checks-and-balance-newsletter-make-america-worse-at-sports</link>
+      <description>Charlotte Howard, our US editor, on why the fantasy of athletic greatness has become a plague on American life</description>
+      <pubDate>Sat, 18 Jul 2026 10:25:13 +0000</pubDate>
+    </item>
+    <item>
       <title>The Climate Issue newsletter: The dangers of global dimming</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/17/the-climate-issue-newsletter-the-dangers-of-global-dimming</link>
       <description>Oliver Morton, our planetary affairs editor, reflects on a warming Earth</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/27/tomorrows-medical-sensors-might-come-served-with-dinner</link>
       <description>Listening to your gut could involve riboflavin batteries and toothpaste transistors</description>
       <pubDate>Wed, 27 May 2026 17:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attacking Cuba would be a huge mistake</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/27/attacking-cuba-would-be-a-huge-mistake</link>
-      <description>But Donald Trump could make a deal with the communist regime</description>
-      <pubDate>Wed, 27 May 2026 17:02:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
