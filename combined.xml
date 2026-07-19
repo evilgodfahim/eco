@@ -5,14 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>Can Spain’s teamwork overcome Lionel Messi’s genius?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius</link>
-      <description>The World Cup finalists are strikingly different teams</description>
-      <pubDate>Sat, 18 Jul 2026 13:53:36 +0000</pubDate>
+      <title>How India is weathering the energy shock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/19/how-india-is-weathering-the-energy-shock</link>
+      <description>And why its troubles may not be over yet</description>
+      <pubDate>Sun, 19 Jul 2026 08:45:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Iran war is America’s least popular since polls began</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/19/the-iran-war-is-americas-least-popular-since-polls-began</link>
+      <description>Support seldom rises for conflicts as they age</description>
+      <pubDate>Sun, 19 Jul 2026 08:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing Europe’s dangerous missile gap</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/19/closing-europes-dangerous-missile-gap</link>
+      <description>European NATO powers scramble to acquire capabilities as America cuts its help</description>
+      <pubDate>Sun, 19 Jul 2026 08:19:53 +0000</pubDate>
     </item>
     <item>
       <title>Can Spain’s teamwork overcome Lionel Messi’s genius?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius</link>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius</link>
       <description>The World Cup finalists are strikingly different teams</description>
       <pubDate>Sat, 18 Jul 2026 13:53:36 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray</link>
       <description>The new Fed chair will struggle to appease his colleagues, the market and Donald Trump all at once</description>
       <pubDate>Wed, 27 May 2026 20:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ferrari’s electric car: divisiveness is the point</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/27/ferraris-electric-car-divisiveness-is-the-point</link>
-      <description>The Italian marque is attempting a high-stakes manoeuvre</description>
-      <pubDate>Wed, 27 May 2026 20:15:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could Donald Trump save Cuba’s economy?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/27/could-donald-trump-save-cubas-economy</link>
-      <description>Even if the island were not burdened by embargoes and communism it would be a poor investment prospect</description>
-      <pubDate>Wed, 27 May 2026 19:07:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
