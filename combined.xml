@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China’s new generation of tycoons is its most enigmatic yet</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/19/chinas-new-generation-of-tycoons-is-its-most-enigmatic-yet</link>
+      <description>Their companies are conquering the world—and they hate talking to the press</description>
+      <pubDate>Sun, 19 Jul 2026 16:46:14 +0000</pubDate>
+    </item>
+    <item>
       <title>How India is weathering the energy shock</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/19/how-india-is-weathering-the-energy-shock</link>
       <description>And why its troubles may not be over yet</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/28/smart-tech-is-making-war-a-dumber-choice</link>
       <description>Smaller, weaker countries can defend themselves more easily with cheap, deadly kit</description>
       <pubDate>Thu, 28 May 2026 08:47:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kevin Warsh’s troublesome inflation in-tray</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray</link>
-      <description>The new Fed chair will struggle to appease his colleagues, the market and Donald Trump all at once</description>
-      <pubDate>Wed, 27 May 2026 20:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
