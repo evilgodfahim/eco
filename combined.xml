@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>El Boletín newsletter: Why Latin America loves to hate Argentina</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/20/el-boletin-newsletter-why-latin-america-loves-to-hate-argentina</link>
+      <description>Alessandro Ford, a Latin America contributor, explains why the rivalry runs deeper than the game</description>
+      <pubDate>Mon, 20 Jul 2026 19:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Café Europa newsletter: Spain’s champions tell a bigger story</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/20/cafe-europa-newsletter-spains-champions-tell-a-bigger-story</link>
+      <description>Michael Reid, our Spain correspondent, on why the football team embodies the best of the country</description>
+      <pubDate>Mon, 20 Jul 2026 19:23:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Lebanon’s president wants Donald Trump’s help to rebuild the country</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/20/lebanons-president-wants-donald-trumps-help-to-rebuild-the-country</link>
       <description>Joseph Aoun, who meets Mr Trump on July 21st, must quash Hizbullah, repair war damage and fix the economy</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/28/congos-response-to-ebola-is-late-and-chaotic</link>
       <description>It is hard to think of a more difficult place to stem an epidemic</description>
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How East Asia should respond to its China shock</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/28/how-east-asia-should-respond-to-its-china-shock</link>
-      <description>As they deindustrialise, Taiwan, South Korea and Japan must reform</description>
-      <pubDate>Thu, 28 May 2026 09:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Without fanfare, China is making rural migrants’ lives easier</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier</link>
-      <description>The notorious hukou system is being relaxed. Marx would approve</description>
-      <pubDate>Thu, 28 May 2026 09:29:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
