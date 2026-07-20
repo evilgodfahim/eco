@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Lebanon’s president wants Donald Trump’s help to rebuild the country</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/20/lebanons-president-wants-donald-trumps-help-to-rebuild-the-country</link>
+      <description>Joseph Aoun, who meets Mr Trump on July 21st, must quash Hizbullah, repair war damage and fix the economy</description>
+      <pubDate>Mon, 20 Jul 2026 19:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The surprising benefits of red light</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/20/the-surprising-benefits-of-red-light</link>
+      <description>Better skin, faster wound healing and reduced vision loss are on the cards</description>
+      <pubDate>Mon, 20 Jul 2026 17:45:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Don’t blame supermarkets for your expensive groceries</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/20/dont-blame-supermarkets-for-your-expensive-groceries</link>
       <description>Saying greedy shops have caused rising food prices is populist slop</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier</link>
       <description>The notorious hukou system is being relaxed. Marx would approve</description>
       <pubDate>Thu, 28 May 2026 09:29:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to tax businesses in orbit and beyond</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond</link>
-      <description>As the space business grows, so will offplanet finance</description>
-      <pubDate>Thu, 28 May 2026 09:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan’s beloved Indian restaurants are under threat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/28/japans-beloved-indian-restaurants-are-under-threat</link>
-      <description>An unexpected casualty of the country’s immigration backlash</description>
-      <pubDate>Thu, 28 May 2026 09:24:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
