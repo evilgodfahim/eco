@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Don’t blame supermarkets for your expensive groceries</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/20/dont-blame-supermarkets-for-your-expensive-groceries</link>
+      <description>Saying greedy shops have caused rising food prices is populist slop</description>
+      <pubDate>Mon, 20 Jul 2026 16:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why criticism of the Qing dynasty scares the Communist Party</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/20/why-criticism-of-the-qing-dynasty-scares-the-communist-party</link>
+      <description>It risks inflaming ethnic tensions and undermining territorial claims</description>
+      <pubDate>Mon, 20 Jul 2026 16:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s top general could be on the way out</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/20/ukraines-top-general-could-be-on-the-way-out</link>
+      <description>Firing the reformist defence minister has plunged Volodymyr Zelensky’s government into crisis</description>
+      <pubDate>Mon, 20 Jul 2026 14:50:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Brazil’s beloved payments system has drawn Donald Trump’s ire</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/19/brazils-beloved-payments-system-has-drawn-donald-trumps-ire</link>
       <description>But his tariff assault on Pix just makes Brazilians love it—and Lula—more</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/28/japans-beloved-indian-restaurants-are-under-threat</link>
       <description>An unexpected casualty of the country’s immigration backlash</description>
       <pubDate>Thu, 28 May 2026 09:24:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everything is going right for India’s richest man</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/28/everything-is-going-right-for-indias-richest-man</link>
-      <description>Gautam Adani is on a winning streak</description>
-      <pubDate>Thu, 28 May 2026 09:22:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>BP cares too much about feelings and not enough about performance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/05/28/bp-cares-too-much-about-feelings-and-not-enough-about-performance</link>
-      <description>The defenestration of its chairman is but the latest example</description>
-      <pubDate>Thu, 28 May 2026 09:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>America and Iran are getting close to a deal. Or not</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/05/28/america-and-iran-are-getting-close-to-a-deal-or-not</link>
-      <description>A bewildering week brought both frenzied negotiations and renewed American strikes</description>
-      <pubDate>Thu, 28 May 2026 08:58:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
