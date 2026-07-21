@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>America’s AI labs are under threat from cheap Chinese rivals</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals</link>
+      <description>Demand for open-weight models is soaring</description>
+      <pubDate>Tue, 21 Jul 2026 20:03:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Where should you move for higher pay?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/21/where-should-you-move-for-higher-pay</link>
       <description>Some cities merely attract the well remunerated. Others will lift your wages</description>
@@ -13,12 +19,6 @@
     <item>
       <title>How investors learned to live with inflation</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation</link>
-      <description>Fewer than ever believe central bankers will bring it back to target</description>
-      <pubDate>Tue, 21 Jul 2026 17:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How investors learned to live with inflation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/21/how-investors-learned-to-live-with-inflation</link>
       <description>Fewer than ever believe central bankers will bring it back to target</description>
       <pubDate>Tue, 21 Jul 2026 17:29:00 +0000</pubDate>
     </item>
