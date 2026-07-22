@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Capitalism’s status hierarchy is being upturned</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/22/capitalisms-status-hierarchy-is-being-upturned</link>
+      <description>One of the modern world’s most powerful forces is among its least understood</description>
+      <pubDate>Wed, 22 Jul 2026 20:31:03 +0000</pubDate>
+    </item>
+    <item>
       <title>The tariffs that just won’t die</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/22/the-tariffs-that-just-wont-die</link>
       <description>Donald Trump is adept at reviving levies. Achieving their goals is harder</description>
@@ -2996,12 +3002,6 @@
       <title>A coalmine explosion lays bare China’s two-speed economy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy</link>
       <description>As its industries of the future take off, old ones still flout basic safety procedures</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Angelenos angry enough to elect an insurgent as mayor?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/28/are-angelenos-angry-enough-to-elect-an-insurgent-as-mayor</link>
-      <description>Spencer Pratt tests the limits of grievance politics in a blue city</description>
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
   </channel>
