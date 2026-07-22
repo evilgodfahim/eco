@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Ukraine’s new military commander aims to fight a more modern war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/22/ukraines-new-military-commander-aims-to-fight-a-more-modern-war</link>
+      <description>Mykhailo Drapaty is innovative—and critical of Soviet-style leadership</description>
+      <pubDate>Wed, 22 Jul 2026 21:41:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Capitalism’s status hierarchy is being upturned</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/22/capitalisms-status-hierarchy-is-being-upturned</link>
       <description>One of the modern world’s most powerful forces is among its least understood</description>
@@ -2996,12 +3002,6 @@
       <title>Bowing to online fury, China’s censors ban a prizewinning film</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prizewinning-film</link>
       <description>Both nationalists and the manosphere resented its portrayal of their country</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>A coalmine explosion lays bare China’s two-speed economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy</link>
-      <description>As its industries of the future take off, old ones still flout basic safety procedures</description>
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
   </channel>
