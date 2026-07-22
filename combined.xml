@@ -5,12 +5,6 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
-      <title>The Iran war could consume the Trump presidency</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/21/the-iran-war-could-consume-the-trump-presidency</link>
-      <description>Donald Trump may hate to hear it, but Barack Obama was right about avoiding “stupid shit”</description>
-      <pubDate>Tue, 21 Jul 2026 20:42:32 +0000</pubDate>
-    </item>
-    <item>
       <title>America’s AI labs are under threat from cheap Chinese rivals</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals</link>
       <description>Demand for open-weight models is soaring</description>
@@ -3001,6 +2995,12 @@
     <item>
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/28/politics</link>
+      <description></description>
+      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/28/business</link>
       <description></description>
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
