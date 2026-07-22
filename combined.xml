@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Britain’s troublingly nostalgic new prime minister</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/22/britains-troublingly-nostalgic-new-prime-minister</link>
+      <description>In an era of change, Andy Burnham promises to rewind the clock</description>
+      <pubDate>Wed, 22 Jul 2026 18:23:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does SpaceX’s plan for a data centre in space add up?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/22/does-spacexs-plan-for-a-data-centre-in-space-add-up</link>
+      <description>It’s less crazy than you think</description>
+      <pubDate>Wed, 22 Jul 2026 17:58:50 +0000</pubDate>
+    </item>
+    <item>
       <title>India’s Gen-Z protesters demand a proper education</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/22/indias-gen-z-protesters-demand-a-proper-education</link>
       <description>Delhi’s biggest protests in years have been met by tear-gas and repression</description>
@@ -2990,18 +3002,6 @@
       <title>The refugees Donald Trump wants are white and middle-class</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/28/the-refugees-donald-trump-wants-are-white-and-middle-class</link>
       <description>Afrikaners are welcome. Pretty much no one else is</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the Republicans defying Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/28/meet-the-republicans-defying-donald-trump</link>
-      <description>Conservatives with nothing left to lose are bucking the president</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: Uncertainty clouds the Iranian negotiations</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/28/cartoon-uncertainty-clouds-the-iranian-negotiations</link>
-      <description></description>
       <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
   </channel>
