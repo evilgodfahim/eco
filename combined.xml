@@ -5,6 +5,72 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Narendra Modi’s party discovers the limits of propaganda</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/23/narendra-modis-party-discovers-the-limits-of-propaganda</link>
+      <description>India’s biggest protest in years has produced shocking videos and angry young people</description>
+      <pubDate>Thu, 23 Jul 2026 10:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should you be afraid of Elon Musk?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/should-you-be-afraid-of-elon-musk</link>
+      <description>Artificial intelligence is charging ahead. Not even its creators know how to keep up</description>
+      <pubDate>Thu, 23 Jul 2026 09:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk’s vision of the future</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/23/elon-musks-vision-of-the-future</link>
+      <description>The world’s richest man sits down with The Economist</description>
+      <pubDate>Thu, 23 Jul 2026 09:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world’s balance-sheet is out of kilter with its economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy</link>
+      <description>Restoring balance could be painful</description>
+      <pubDate>Thu, 23 Jul 2026 09:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nicaragua’s President Daniel Ortega scraps elections</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/23/nicaraguas-president-daniel-ortega-scraps-elections</link>
+      <description>The central American country may become a one-party state</description>
+      <pubDate>Thu, 23 Jul 2026 09:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prediction markets need better rules</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/prediction-markets-need-better-rules</link>
+      <description>Their capricious settlement mechanisms are putting off serious investors</description>
+      <pubDate>Thu, 23 Jul 2026 09:19:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>A brief history of Luddism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism</link>
+      <description>States ultimately decide how fast technology is adopted</description>
+      <pubDate>Thu, 23 Jul 2026 09:09:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can China dominate AI exports, too?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too</link>
+      <description>Robotaxis offer an early test case</description>
+      <pubDate>Thu, 23 Jul 2026 09:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The rise of the deserving rich</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</link>
+      <description>Today’s billionaires are more likely than yesterday’s to have made their own money</description>
+      <pubDate>Thu, 23 Jul 2026 08:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can prediction markets win over Wall Street?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street</link>
+      <description>Clearing the regulatory hurdles is only half the battle</description>
+      <pubDate>Thu, 23 Jul 2026 08:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s Saudi deal risks nuclear proliferation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/donald-trumps-saudi-deal-risks-nuclear-proliferation</link>
+      <description>It could have consequences far beyond the Middle East</description>
+      <pubDate>Thu, 23 Jul 2026 08:55:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine’s new military commander aims to fight a more modern war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/22/ukraines-new-military-commander-aims-to-fight-a-more-modern-war</link>
       <description>Mykhailo Drapaty is innovative—and critical of Soviet-style leadership</description>
@@ -51,6 +117,12 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/22/electric-aviation-is-taking-off</link>
       <description>Hybrids, rather than fully electric planes, are likely to triumph</description>
       <pubDate>Wed, 22 Jul 2026 10:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Iran war is consuming the Trump presidency</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/21/the-iran-war-is-consuming-the-trump-presidency</link>
+      <description>Donald Trump may hate to hear it, but Barack Obama was right about avoiding “stupid shit”</description>
+      <pubDate>Tue, 21 Jul 2026 20:42:32 +0000</pubDate>
     </item>
     <item>
       <title>America’s AI labs are under threat from cheap Chinese rivals</title>
@@ -101,9 +173,9 @@
       <pubDate>Mon, 20 Jul 2026 19:23:36 +0000</pubDate>
     </item>
     <item>
-      <title>Lebanon’s president wants Donald Trump’s help to rebuild the country</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/20/lebanons-president-wants-donald-trumps-help-to-rebuild-the-country</link>
-      <description>Joseph Aoun must quash Hizbullah, repair war damage and fix the economy</description>
+      <title>Lebanon’s president wants to enlist Donald Trump in rebuilding the country</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/20/lebanons-president-wants-to-enlist-donald-trump-in-rebuilding-the-country</link>
+      <description>Joseph Aoun, who met Mr Trump on July 21st, must quash Hizbullah, repair war damage and fix the economy</description>
       <pubDate>Mon, 20 Jul 2026 19:03:14 +0000</pubDate>
     </item>
     <item>
@@ -115,7 +187,7 @@
     <item>
       <title>Don’t blame supermarkets for your expensive groceries</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/20/dont-blame-supermarkets-for-your-expensive-groceries</link>
-      <description>Saying greedy shops have caused rising food prices is populist slop</description>
+      <description>Saying greedy shops have caused rising food prices is populist nonsense</description>
       <pubDate>Mon, 20 Jul 2026 16:21:36 +0000</pubDate>
     </item>
     <item>
@@ -131,8 +203,8 @@
       <pubDate>Mon, 20 Jul 2026 14:50:41 +0000</pubDate>
     </item>
     <item>
-      <title>Brazil’s beloved payments system has drawn Donald Trump’s ire</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/19/brazils-beloved-payments-system-has-drawn-donald-trumps-ire</link>
+      <title>Brazil’s much-loved payments system has drawn Donald Trump’s ire</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/19/brazils-much-loved-payments-system-has-drawn-donald-trumps-ire</link>
       <description>But his tariff assault on Pix just makes Brazilians love it—and Lula—more</description>
       <pubDate>Sun, 19 Jul 2026 18:42:30 +0000</pubDate>
     </item>
@@ -2931,78 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/05/31/brazils-high-tech-voting-system-is-losing-voters-trust</link>
       <description>Blame social media, populist politicians and falling trust in institutions</description>
       <pubDate>Sun, 31 May 2026 14:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s republic of uncles</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/31/indias-republic-of-uncles</link>
-      <description>A cockroach meme rattles the country’s gerontocrats</description>
-      <pubDate>Sun, 31 May 2026 11:32:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pete Hegseth pulls his punches on China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/30/pete-hegseth-pulls-his-punches-on-china</link>
-      <description>America’s secretary of war meanwhile lectures his country’s allies</description>
-      <pubDate>Sat, 30 May 2026 12:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: The California outsider</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/05/30/checks-and-balance-newsletter-the-california-outsider</link>
-      <description>Charlotte Howard, our executive editor and New York bureau chief, on the state’s bizarre gubernatorial race</description>
-      <pubDate>Sat, 30 May 2026 09:04:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: The new shape of war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/05/29/cover-story-newsletter-the-new-shape-of-war</link>
-      <description>How we chose this week’s image</description>
-      <pubDate>Fri, 29 May 2026 15:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should you use a sleep tracker?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/29/should-you-use-a-sleep-tracker</link>
-      <description>They are pretty accurate. But they could keep you up at night</description>
-      <pubDate>Fri, 29 May 2026 15:24:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: The most important wars forgotten by the West</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west</link>
-      <description>Emma Irving, a news editor, examines the enduring impact of the opium wars</description>
-      <pubDate>Fri, 29 May 2026 14:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mosquitoes seem to be getting over insect repellent</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/05/28/mosquitoes-seem-to-be-getting-over-insect-repellent</link>
-      <description>They learn to associate it with food</description>
-      <pubDate>Thu, 28 May 2026 16:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the world needs more franchises</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/28/why-the-world-needs-more-franchises</link>
-      <description>From pizza to Pilates, franchises mint millionaires and make customers happy</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The imperial vision of Ethiopia’s Abiy Ahmed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/05/28/the-imperial-vision-of-ethiopias-abiy-ahmed</link>
-      <description>The prime minister’s ambitions threaten both his country and the Horn of Africa</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>llliberal leaders in mainland South-East Asia revamp their regimes</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/28/llliberal-leaders-in-mainland-south-east-asia-revamp-their-regimes</link>
-      <description>But they may struggle to solve their two biggest challenges</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesia’s erratic president grabs the country’s commodity exports</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/05/28/indonesias-erratic-president-grabs-the-countrys-commodity-exports</link>
-      <description>Facing a tumbling currency, Prabowo Subianto announces a vast new agency to sell resources to the world</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bowing to online fury, China’s censors ban a prizewinning film</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prizewinning-film</link>
-      <description>Both nationalists and the manosphere resented its portrayal of their country</description>
-      <pubDate>Thu, 28 May 2026 12:54:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
