@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>China is gaining troubling military know-how from Russia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/23/china-is-gaining-troubling-military-know-how-from-russia</link>
+      <description>It is learning how to improve its drones, nuclear subs and air defence</description>
+      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Lebanon has a chance to break free of Hizbullah</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/lebanon-has-a-chance-to-break-free-of-hizbullah</link>
       <description>With better government, it could become a business hub once again</description>
@@ -29,8 +35,38 @@
       <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>Cartoon:</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/23/cartoon</link>
+      <title>The Chinese economic experiment that failed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/23/the-chinese-economic-experiment-that-failed</link>
+      <description>Shantou was once at the forefront of reforms. Now it is a backwater</description>
+      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The geopolitics of air-conditioning</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/23/the-geopolitics-of-air-conditioning</link>
+      <description>Heatwaves are making access to AC a political problem around the world</description>
+      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the American right came to hate empathy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/23/how-the-american-right-came-to-hate-empathy</link>
+      <description>…while practising its oldest form</description>
+      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The faltering effort to revive copper mining in Michigan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/23/the-faltering-effort-to-revive-copper-mining-in-michigan</link>
+      <description>Riches sit under a rare vestige of the wild Midwest</description>
+      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump is shifting America’s military footprint</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/23/donald-trump-is-shifting-americas-military-footprint</link>
+      <description>But there are still few signs of a serious pivot to Asia</description>
+      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartoon: America’s trouble getting out of the Iran conflict</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/23/cartoon-americas-trouble-getting-out-of-the-iran-conflict</link>
       <description>A lighter take on the news</description>
       <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
     </item>
@@ -77,9 +113,9 @@
       <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>Airlines are spending ever more to maintain their fleets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/23/airlines-are-spending-ever-more-to-maintain-their-fleets</link>
-      <description>Engine-makers are earning big bucks as a result</description>
+      <title>Airplane-engine maintenance is now a money spinner</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/23/airplane-engine-maintenance-is-now-a-money-spinner</link>
+      <description>Manufacturers are earning big bucks as a result</description>
       <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
     </item>
     <item>
@@ -2967,42 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/03/why-france-is-uneasy-about-german-rearmament</link>
       <description>Germany could become the benchmark military power in Europe</description>
       <pubDate>Wed, 03 Jun 2026 17:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>BYD is losing its spark</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/03/byd-is-losing-its-spark</link>
-      <description>The Chinese EV giant is struggling to stay ahead in an industry defined by software</description>
-      <pubDate>Wed, 03 Jun 2026 16:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even if America and Iran find an accord, don’t expect it to last</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/03/even-if-america-and-iran-find-an-accord-dont-expect-it-to-last</link>
-      <description>The Donald Trump Show could be back on air later this year</description>
-      <pubDate>Wed, 03 Jun 2026 16:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>If it’s true, go</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/03/if-its-true-go</link>
-      <description>Our leader from 1998</description>
-      <pubDate>Wed, 03 Jun 2026 10:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s Social Security trust fund is disappearing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/02/americas-social-security-trust-fund-is-disappearing</link>
-      <description>Legislators have just six years to fix things</description>
-      <pubDate>Tue, 02 Jun 2026 22:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump could be the man to save Cuba</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba</link>
-      <description>Ideological certainties have hurt Cubans for 70 years. Time to give cynicism a chance</description>
-      <pubDate>Tue, 02 Jun 2026 22:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fading influence of America’s spy co-ordinator</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/02/the-fading-influence-of-americas-spy-co-ordinator</link>
-      <description>Bill Pulte’s appointment as director of national intelligence reflects the office’s declining stature</description>
-      <pubDate>Tue, 02 Jun 2026 20:58:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
