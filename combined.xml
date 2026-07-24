@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Is it useful to measure “biological” v “chronological” age?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/24/is-it-useful-to-measure-biological-v-chronological-age</link>
+      <description>You will get data, but perhaps not knowledge</description>
+      <pubDate>Fri, 24 Jul 2026 15:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: Should you be afraid of Elon Musk?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/24/cover-story-newsletter-should-you-be-afraid-of-elon-musk</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 24 Jul 2026 14:16:48 +0000</pubDate>
+    </item>
+    <item>
       <title>China is gaining troubling military know-how from Russia</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/23/china-is-gaining-troubling-military-know-how-from-russia</link>
       <description>It is learning how to improve its drones, nuclear subs and air defence</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/03/meet-the-jailscraper</link>
       <description>With no room for prisons, New York City is building up</description>
       <pubDate>Wed, 03 Jun 2026 18:53:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rocket goes boom; so do moon plans</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/03/rocket-goes-boom-so-do-moon-plans</link>
-      <description>The phenomenal explosion could blow a hole in Amazon’s plans and NASA’s too</description>
-      <pubDate>Wed, 03 Jun 2026 17:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why France is uneasy about German rearmament</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/03/why-france-is-uneasy-about-german-rearmament</link>
-      <description>Germany could become the benchmark military power in Europe</description>
-      <pubDate>Wed, 03 Jun 2026 17:31:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
