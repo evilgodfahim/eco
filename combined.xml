@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Checks and Balance newsletter: AI has become the ultimate dread risk</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/26/checks-and-balance-newsletter-ai-has-become-the-ultimate-dread-risk</link>
+      <description>John Prideaux, our executive editor, on the psychology behind our anxiety over the technology</description>
+      <pubDate>Sun, 26 Jul 2026 03:53:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Narendra Modi caves to India’s Gen Z</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/25/narendra-modi-caves-to-indias-gen-z</link>
       <description>Protesters oust the education minister and promise to go home</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/04/california-is-on-the-cusp-of-its-becerra-era</link>
       <description>What would Xavier Becerra’s leadership mean for America’s most populous state?</description>
       <pubDate>Thu, 04 Jun 2026 08:44:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>American capitalism has taken an apocalyptic turn</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn</link>
-      <description>Millenarian thinking permeates business and markets</description>
-      <pubDate>Wed, 03 Jun 2026 19:28:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
