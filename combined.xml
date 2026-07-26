@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump’s food-stamp overhaul is beginning to bite</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/26/donald-trumps-food-stamp-overhaul-is-beginning-to-bite</link>
+      <description>Federal reforms have left the states with a growing bill</description>
+      <pubDate>Sun, 26 Jul 2026 10:03:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Sweden is launching its own MI6</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/26/sweden-is-launching-its-own-mi6</link>
       <description>Memories of a big mistake still spook Europe’s spies</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/04/gen-z-socialism-from-zohran-to-zack-and-beyond</link>
       <description>The world’s leftists are embracing a new set of economic ideas</description>
       <pubDate>Thu, 04 Jun 2026 09:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s decaying Treasury market needs a fix</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/04/americas-decaying-treasury-market-needs-a-fix</link>
-      <description>High debt, disjointed markets and pugnacious trade policy all threaten the world’s safe asset</description>
-      <pubDate>Thu, 04 Jun 2026 09:01:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
