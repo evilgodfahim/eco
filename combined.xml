@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Will America launch another “massive attack” on Iran?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/26/will-america-launch-another-massive-attack-on-iran</link>
+      <description>Even renewed attacks on Iran’s nuclear programme may not prevent a forever war</description>
+      <pubDate>Sun, 26 Jul 2026 12:52:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s food-stamp overhaul is beginning to bite</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/26/donald-trumps-food-stamp-overhaul-is-beginning-to-bite</link>
       <description>Federal reforms have left the states with a growing bill</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/04/some-billionaires-pay-too-little-tax</link>
       <description>But the case for levies on wealth is unconvincing</description>
       <pubDate>Thu, 04 Jun 2026 09:18:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gen-Z socialism, from Zohran to Zack and beyond</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/04/gen-z-socialism-from-zohran-to-zack-and-beyond</link>
-      <description>The world’s leftists are embracing a new set of economic ideas</description>
-      <pubDate>Thu, 04 Jun 2026 09:11:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
