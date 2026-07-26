@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How high will oil prices go this time?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/26/how-high-will-oil-prices-go-this-time</link>
+      <description>As trouble mounts in the Gulf and the Red Sea, fears are rising once again</description>
+      <pubDate>Sun, 26 Jul 2026 14:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>How big is America’s “obesity penalty”?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/26/how-big-is-americas-obesity-penalty</link>
+      <description>GLP-1s offer a rare insight into the social and economic effects of carrying extra weight</description>
+      <pubDate>Sun, 26 Jul 2026 13:18:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will America launch another “massive attack” on Iran?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/26/will-america-launch-another-massive-attack-on-iran</link>
+      <description>Even renewed attacks on Iran’s nuclear programme may not prevent a forever war</description>
+      <pubDate>Sun, 26 Jul 2026 12:52:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Will America launch another “massive attack” on Iran?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/26/will-america-launch-another-massive-attack-on-iran</link>
       <description>Even renewed attacks on Iran’s nuclear programme may not prevent a forever war</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/04/indians-can-now-bet-on-the-monsoon</link>
       <description>Heatwaves may be more important</description>
       <pubDate>Thu, 04 Jun 2026 09:48:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>European electricity markets have too much power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/04/european-electricity-markets-have-too-much-power</link>
-      <description>They must learn to deal with it</description>
-      <pubDate>Thu, 04 Jun 2026 09:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to fight back against Gen-Z socialism</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/04/how-to-fight-back-against-gen-z-socialism</link>
-      <description>The me-first doctrine is a threat to prosperity</description>
-      <pubDate>Thu, 04 Jun 2026 09:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some billionaires pay too little tax</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/04/some-billionaires-pay-too-little-tax</link>
-      <description>But the case for levies on wealth is unconvincing</description>
-      <pubDate>Thu, 04 Jun 2026 09:18:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
