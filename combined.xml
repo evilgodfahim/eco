@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>How to design paper money that represents Europe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe</link>
+      <description>The euro gets a makeover</description>
+      <pubDate>Mon, 27 Jul 2026 17:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazil has the world’s strictest laws against racist speech</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/27/brazil-has-the-worlds-strictest-laws-against-racist-speech</link>
+      <description>But it is unclear what the sky-rocketing number of prosecutions is achieving</description>
+      <pubDate>Mon, 27 Jul 2026 16:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s mightiest river is coming back from the brink</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/27/chinas-mightiest-river-is-coming-back-from-the-brink</link>
+      <description>But eco-authoritarianism is not all roses</description>
+      <pubDate>Mon, 27 Jul 2026 16:03:52 +0000</pubDate>
+    </item>
+    <item>
       <title>America has become an entrepreneur’s paradise</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise</link>
       <description>Etsy-sellers and small-town accountants are enjoying the fruits of AI</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world</link>
       <description>It is not just rich places that are becoming less fertile</description>
       <pubDate>Thu, 04 Jun 2026 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe has reduced illegal immigration without goon tactics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/04/europe-has-reduced-illegal-immigration-without-goon-tactics</link>
-      <description>But that is just the easy half of its migration battle</description>
-      <pubDate>Thu, 04 Jun 2026 10:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s population will soon be falling—probably quite fast</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/04/indias-population-will-soon-be-falling-probably-quite-fast</link>
-      <description>Neither widespread poverty, nor high rates of marriage nor relatively young mothers are sustaining fertility</description>
-      <pubDate>Thu, 04 Jun 2026 10:18:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan is battling two insurgencies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/04/pakistan-is-battling-two-insurgencies</link>
-      <description>Problems mount at home as its leader plays peacemaker abroad</description>
-      <pubDate>Thu, 04 Jun 2026 10:06:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
