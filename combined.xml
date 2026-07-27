@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Xi Jinping, pioneering venture capitalist</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist</link>
+      <description>CXMT’s monster initial public offering is a moneymaker for the state. Its success may not be repeated</description>
+      <pubDate>Mon, 27 Jul 2026 22:08:37 +0000</pubDate>
+    </item>
+    <item>
       <title>How to design paper money that represents Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe</link>
       <description>The euro gets a makeover</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/04/how-long-can-pedro-sanchez-last</link>
       <description>The Socialists’ mounting scandals threaten to bring down Spain’s prime minister</description>
       <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s surprise baby bust is a warning to the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world</link>
-      <description>It is not just rich places that are becoming less fertile</description>
-      <pubDate>Thu, 04 Jun 2026 10:20:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
