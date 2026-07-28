@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Donald Trump is stalling for time in the war with Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/28/donald-trump-is-stalling-for-time-in-the-war-with-iran</link>
+      <description>The latest round of talks is most likely to deliver a loose patch for  a threadbare deal</description>
+      <pubDate>Tue, 28 Jul 2026 19:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The tide turns for a Florida darling and California loser</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/28/the-tide-turns-for-a-florida-darling-and-california-loser</link>
+      <description>Miami faces new problems as San Francisco makes a comeback</description>
+      <pubDate>Tue, 28 Jul 2026 19:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retail investors should beware perpetual futures</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures</link>
+      <description>These peculiar products, popular in the crypto world, are hitting the mainstream</description>
+      <pubDate>Tue, 28 Jul 2026 18:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>West Africa has become a huge cocaine-trading hub</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/28/west-africa-has-become-a-huge-cocaine-trading-hub</link>
+      <description>Scrutiny of other routes has changed traffickers’ strategy for shipping to Europe</description>
+      <pubDate>Tue, 28 Jul 2026 17:18:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Sex, blood and Communist Party virtues</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/28/sex-blood-and-communist-party-virtues</link>
       <description>A gory film tests prudish government censors</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/04/protesters-have-controlled-bolivias-capital-for-a-month</link>
       <description>To lift their blockades, they want the centrist president, Rodrigo Paz, to resign</description>
       <pubDate>Thu, 04 Jun 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to make football more exciting</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/04/how-to-make-football-more-exciting</link>
-      <description>The World Cup is wonderful. It could be even better</description>
-      <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine is not a charity case</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/04/ukraine-is-not-a-charity-case</link>
-      <description>Europe needs its help just as badly as the other way round</description>
-      <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: America threatens Cuba</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/cartoon-america-threatens-cuba</link>
-      <description></description>
-      <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/business</link>
-      <description></description>
-      <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
