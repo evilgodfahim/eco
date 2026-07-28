@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>AI revenues are growing fast, but not fast enough</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough</link>
+      <description>The returns on trillions of dollars of spending are deeply uncertain</description>
+      <pubDate>Tue, 28 Jul 2026 10:45:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Xi Jinping, pioneering venture capitalist</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist</link>
       <description>CXMT’s monster initial public offering is a moneymaker for the state. Its success may not be repeated</description>
@@ -2996,12 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/politics</link>
       <description></description>
-      <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>How long can Pedro Sánchez last?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/04/how-long-can-pedro-sanchez-last</link>
-      <description>The Socialists’ mounting scandals threaten to bring down Spain’s prime minister</description>
       <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
     </item>
   </channel>
