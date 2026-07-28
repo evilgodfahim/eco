@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Sex, blood and Communist Party virtues</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/28/sex-blood-and-communist-party-virtues</link>
+      <description>A gory film tests prudish government censors</description>
+      <pubDate>Tue, 28 Jul 2026 14:13:13 +0000</pubDate>
+    </item>
+    <item>
       <title>AI revenues are growing fast, but not fast enough</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough</link>
       <description>The returns on trillions of dollars of spending are deeply uncertain</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/business</link>
-      <description></description>
-      <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/04/politics</link>
       <description></description>
       <pubDate>Thu, 04 Jun 2026 13:08:11 +0000</pubDate>
     </item>
