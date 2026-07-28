@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Can French nukes protect Europe if Donald Trump walks away?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/28/can-french-nukes-protect-europe-if-donald-trump-walks-away</link>
+      <description>Europeans are keen on nuclear collaboration with Emmanuel Macron. What if Marine Le Pen becomes president?</description>
+      <pubDate>Tue, 28 Jul 2026 22:13:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s fires are just the start</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/28/europes-fires-are-just-the-start</link>
       <description>They are not a new normal. But worse can nonetheless be expected</description>
@@ -2996,12 +3002,6 @@
       <title>Gulf rulers are desperate to prove they are in fact strongmen</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/04/gulf-rulers-are-desperate-to-prove-they-are-in-fact-strongmen</link>
       <description>Unable to control external threats, they are squeezing their own people</description>
-      <pubDate>Thu, 04 Jun 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigeria’s Christian groups scramble to win over Trump’s America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/04/nigerias-christian-groups-scramble-to-win-over-trumps-america</link>
-      <description>To help their cause, they are adopting tropes and rhetoric from the American right</description>
       <pubDate>Thu, 04 Jun 2026 13:08:12 +0000</pubDate>
     </item>
   </channel>
