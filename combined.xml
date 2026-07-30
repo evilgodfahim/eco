@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Our estimated death toll for this year’s wildfires</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/30/our-estimated-death-toll-for-this-years-wildfires</link>
+      <description>The blazes in North America have claimed 10-80 times as many lives as those in Europe so far</description>
+      <pubDate>Thu, 30 Jul 2026 21:55:15 +0000</pubDate>
+    </item>
+    <item>
       <title>France and Spain are suffering their biggest wildfires on record</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/europe/2026/07/30/france-and-spain-are-suffering-their-biggest-wildfires-on-record</link>
       <description>Bordeaux is on alert, and worse is yet to come</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/10/the-world-cup-has-always-been-beset-by-scandal-and-strife</link>
       <description>So has FIFA, the outfit that administers it</description>
       <pubDate>Wed, 10 Jun 2026 18:25:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The World Cup paradox</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/10/the-world-cup-paradox</link>
-      <description>How the rules of both entertainment and soft power are being rewritten</description>
-      <pubDate>Wed, 10 Jun 2026 18:01:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
