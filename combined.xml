@@ -5,9 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>
     <item>
+      <title>Spain’s immigrant surge tests its open policy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/31/spains-immigrant-surge-tests-its-open-policy</link>
+      <description>It is also angering the rest of Europe</description>
+      <pubDate>Fri, 31 Jul 2026 16:33:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Javier Milei’s Odysseus act</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/31/javier-mileis-odysseus-act</link>
-      <description>He is wisely overhauling the central bank. But winning elections remains paramount</description>
+      <description>He is wisely overhauling Argentina’s central bank. But winning elections remains paramount</description>
       <pubDate>Fri, 31 Jul 2026 14:07:07 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/10/american-capitalism-is-run-by-millionaires-not-billionaires</link>
       <description>They hide in plain sight—and wield enormous power</description>
       <pubDate>Wed, 10 Jun 2026 19:01:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>New techniques can predict and prevent lung cancer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/10/new-techniques-can-predict-and-prevent-lung-cancer</link>
-      <description>A molecular signature can identify those most at risk</description>
-      <pubDate>Wed, 10 Jun 2026 18:48:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
