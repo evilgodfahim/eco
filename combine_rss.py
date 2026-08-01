@@ -1,5 +1,6 @@
 import feedparser
-from datetime import datetime
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 import re
 
 # Each entry: (feed_url, archive_prefix)
@@ -87,25 +88,28 @@ def fetch_items(feed_tuples):
                     images_found += 1
                     print(f"  📸 Image found: {image_url[:60]}...")
 
+                raw_date = entry.get("published", "")
+                try:
+                    pub_dt = parsedate_to_datetime(raw_date)
+                    if pub_dt.tzinfo is None:
+                        pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+                    pub_str = raw_date  # keep original string for the XML
+                except Exception:
+                    pub_dt = datetime.now(timezone.utc)
+                    pub_str = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
                 all_items.append({
                     "title": entry.title,
                     "link": archive_link,
                     "description": entry.get("description", ""),
-                    "pubDate": entry.get(
-                        "published",
-                        datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")
-                    ),
+                    "pubDate": pub_str,
+                    "pub_dt": pub_dt,
                     "image": image_url
                 })
         except Exception as e:
             print(f"  ❌ Error: {e}")
 
-    all_items.sort(
-        key=lambda x: datetime.strptime(
-            x["pubDate"], "%a, %d %b %Y %H:%M:%S +0000"
-        ),
-        reverse=True
-    )
+    all_items.sort(key=lambda x: x["pub_dt"], reverse=True)
 
     limited_items = all_items[:500]
     print(f"\n✅ Total items: {len(limited_items)}")
