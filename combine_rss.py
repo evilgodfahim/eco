@@ -2,26 +2,26 @@ import feedparser
 from datetime import datetime
 import re
 
-# RSS feed URLs
+# Each entry: (feed_url, archive_prefix)
+# Economist uses a fixed slug; PS uses /newest/ to land on the latest capture
 rss_feeds = [
-    "https://www.economist.com/briefing/rss.xml",
-    "https://www.economist.com/the-economist-explains/rss.xml",
-    "https://www.economist.com/leaders/rss.xml",
-    "https://www.economist.com/asia/rss.xml",
-    "https://www.economist.com/china/rss.xml",
-    "https://www.economist.com/international/rss.xml",
-    "https://www.economist.com/united-states/rss.xml",
-    "https://www.economist.com/finance-and-economics/rss.xml",
-    "https://www.economist.com/the-world-this-week/rss.xml",
-    "https://www.economist.com/science-and-technology/rss.xml",
-    "https://www.economist.com/europe/rss.xml",
-    "https://www.economist.com/business/rss.xml",
-    "https://www.economist.com/graphic-detail/rss.xml",
-    "https://www.economist.com/rss/middle_east_and_africa_rss.xml",
-    "https://www.economist.com/the-americas/rss.xml"
+    ("https://www.economist.com/briefing/rss.xml",                       "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/the-economist-explains/rss.xml",         "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/leaders/rss.xml",                        "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/asia/rss.xml",                           "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/china/rss.xml",                          "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/international/rss.xml",                  "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/united-states/rss.xml",                  "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/finance-and-economics/rss.xml",          "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/the-world-this-week/rss.xml",            "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/science-and-technology/rss.xml",         "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/europe/rss.xml",                         "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/business/rss.xml",                       "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/graphic-detail/rss.xml",                 "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/rss/middle_east_and_africa_rss.xml",     "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/the-americas/rss.xml",                   "https://archive.is/o/nuunc/"),
+    ("https://www.project-syndicate.org/rss",                            "https://archive.is/newest/"),
 ]
-
-ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 
 def escape_xml(text):
     """Escape special XML characters"""
@@ -37,25 +37,21 @@ def escape_xml(text):
 
 def extract_image(entry):
     """Extract image from multiple possible sources in feed entry"""
-    # Try media:content
     if hasattr(entry, "media_content") and entry.media_content:
         for media in entry.media_content:
             if "url" in media:
                 return media["url"]
 
-    # Try media:thumbnail
     if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
         for thumb in entry.media_thumbnail:
             if "url" in thumb:
                 return thumb["url"]
 
-    # Try enclosures
     if hasattr(entry, "enclosures") and entry.enclosures:
         for enc in entry.enclosures:
             if enc.get("type", "").startswith("image/"):
                 return enc.get("url", "")
 
-    # Try parsing HTML content for images
     content = ""
     if hasattr(entry, "content") and entry.content:
         content = entry.content[0].get("value", "")
@@ -65,18 +61,17 @@ def extract_image(entry):
         content = entry.description
 
     if content:
-        # Look for img tags
         img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content, re.IGNORECASE)
         if img_match:
             return img_match.group(1)
 
     return None
 
-def fetch_items(feed_urls):
+def fetch_items(feed_tuples):
     all_items = []
     images_found = 0
-    
-    for feed_url in feed_urls:
+
+    for feed_url, archive_prefix in feed_tuples:
         print(f"Fetching: {feed_url}")
         try:
             feed = feedparser.parse(feed_url)
@@ -85,9 +80,8 @@ def fetch_items(feed_urls):
                     continue
 
                 original_link = entry.link
-                archive_link = ARCHIVE_PREFIX + original_link
+                archive_link = archive_prefix + original_link
 
-                # Extract image
                 image_url = extract_image(entry)
                 if image_url:
                     images_found += 1
@@ -106,18 +100,17 @@ def fetch_items(feed_urls):
         except Exception as e:
             print(f"  ❌ Error: {e}")
 
-    # Sort by date
     all_items.sort(
         key=lambda x: datetime.strptime(
             x["pubDate"], "%a, %d %b %Y %H:%M:%S +0000"
         ),
         reverse=True
     )
-    
+
     limited_items = all_items[:500]
     print(f"\n✅ Total items: {len(limited_items)}")
     print(f"📸 Items with images: {sum(1 for i in limited_items if i['image'])}")
-    
+
     return limited_items
 
 def create_rss(items):
@@ -125,9 +118,9 @@ def create_rss(items):
     xml_lines = ['<?xml version="1.0" encoding="UTF-8"?>']
     xml_lines.append('<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">')
     xml_lines.append('  <channel>')
-    xml_lines.append('    <title>Combined Economist RSS Feed</title>')
+    xml_lines.append('    <title>Combined Economist + Project Syndicate RSS Feed</title>')
     xml_lines.append('    <link>https://yourusername.github.io/combined.xml</link>')
-    xml_lines.append('    <description>Combined feed of multiple Economist RSS sources with archive.is/o/nuunc links</description>')
+    xml_lines.append('    <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>')
 
     for item in items:
         xml_lines.append('    <item>')
@@ -136,7 +129,6 @@ def create_rss(items):
         xml_lines.append(f'      <description>{escape_xml(item["description"])}</description>')
         xml_lines.append(f'      <pubDate>{item["pubDate"]}</pubDate>')
 
-        # Add image if available
         if item["image"]:
             xml_lines.append(f'      <media:thumbnail url="{escape_xml(item["image"])}" />')
             xml_lines.append(f'      <media:content url="{escape_xml(item["image"])}" medium="image" />')
@@ -151,14 +143,14 @@ def create_rss(items):
 
 if __name__ == "__main__":
     print("=" * 70)
-    print("Economist RSS Feed Aggregator with Images")
+    print("Economist + Project Syndicate RSS Feed Aggregator")
     print("=" * 70)
-    
+
     items = fetch_items(rss_feeds)
     rss_xml = create_rss(items)
-    
+
     with open("combined.xml", "w", encoding="utf-8") as f:
         f.write(rss_xml)
-    
+
     print("\n✅ Combined RSS feed created successfully (combined.xml)")
     print("=" * 70)
