@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# lau.py - Combined Economist RSS using BotBrowser + Playwright CDP
+# lau.py - Combined Economist + Project Syndicate RSS using BotBrowser + Playwright CDP
 
 import feedparser
 import xml.etree.ElementTree as ET
@@ -20,25 +20,28 @@ import requests
 
 PER_FEED_LIMIT = 10
 MAX_ITEMS = 500
-ARCHIVE_PREFIX = "https://archive.is/o/nuunc/"
 TIMEOUT_MS = 90000
 
+# Each entry: (feed_url, archive_prefix)
+# Economist uses a fixed short-URL archive slug; PS uses /newest/ to get latest capture
 RSS_FEEDS = [
-    "https://www.economist.com/briefing/rss.xml",
-    "https://www.economist.com/the-economist-explains/rss.xml",
-    "https://www.economist.com/leaders/rss.xml",
-    "https://www.economist.com/asia/rss.xml",
-    "https://www.economist.com/china/rss.xml",
-    "https://www.economist.com/international/rss.xml",
-    "https://www.economist.com/united-states/rss.xml",
-    "https://www.economist.com/finance-and-economics/rss.xml",
-    "https://www.economist.com/the-world-this-week/rss.xml",
-    "https://www.economist.com/science-and-technology/rss.xml",
-    "https://www.economist.com/europe/rss.xml",
-    "https://www.economist.com/business/rss.xml",
-    "https://www.economist.com/graphic-detail/rss.xml",
-    "https://www.economist.com/rss/middle_east_and_africa_rss.xml",
-    "https://www.economist.com/the-americas/rss.xml",
+    ("https://www.economist.com/briefing/rss.xml",                          "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/the-economist-explains/rss.xml",            "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/leaders/rss.xml",                           "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/asia/rss.xml",                              "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/china/rss.xml",                             "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/international/rss.xml",                     "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/united-states/rss.xml",                     "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/finance-and-economics/rss.xml",             "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/the-world-this-week/rss.xml",               "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/science-and-technology/rss.xml",            "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/europe/rss.xml",                            "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/business/rss.xml",                          "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/graphic-detail/rss.xml",                    "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/rss/middle_east_and_africa_rss.xml",        "https://archive.is/o/nuunc/"),
+    ("https://www.economist.com/the-americas/rss.xml",                      "https://archive.is/o/nuunc/"),
+    # Project Syndicate — /newest/ redirects to the most recent archived capture
+    ("https://www.project-syndicate.org/rss",                               "https://archive.is/newest/"),
 ]
 
 # ------------------------------
@@ -56,7 +59,6 @@ def _start_botbrowser() -> bool:
     """Launch a fresh BotBrowser process and wait for CDP to be ready."""
     global _botbrowser_proc
 
-    # Kill any existing process first
     if _botbrowser_proc is not None and _botbrowser_proc.poll() is None:
         print(f"Killing existing BotBrowser (pid {_botbrowser_proc.pid})", file=sys.stderr)
         _botbrowser_proc.kill()
@@ -93,7 +95,6 @@ def _start_botbrowser() -> bool:
         print(f"⚠️  Failed to launch BotBrowser: {e}", file=sys.stderr)
         return False
 
-    # Wait until CDP is reachable (up to 15 s)
     cdp_url = f"http://127.0.0.1:{BOTBROWSER_CDP_PORT}/json/version"
     for _ in range(30):
         try:
@@ -110,7 +111,6 @@ def _start_botbrowser() -> bool:
 
 
 def _ensure_botbrowser_running() -> bool:
-    """Start BotBrowser if not already running."""
     global _botbrowser_proc
     if _botbrowser_proc is not None and _botbrowser_proc.poll() is None:
         return True
@@ -150,13 +150,11 @@ def _botbrowser_fetch_once(url: str) -> str | None:
                 page.close(); context.close(); browser.close()
                 return None
 
-            # Wait for networkidle (non-fatal if it times out)
             try:
                 page.wait_for_load_state("networkidle", timeout=15_000)
             except PWTimeout:
                 print(f"  networkidle timed out for {url} (non-fatal)", file=sys.stderr)
 
-            # Human-like scroll
             try:
                 page.evaluate("""
                     async () => {
@@ -193,16 +191,12 @@ def _botbrowser_fetch_once(url: str) -> str | None:
 
 
 def botbrowser_get(url: str, retries: int = 2) -> str | None:
-    """
-    Fetch url via BotBrowser with automatic restart+retry on failure.
-    """
     for attempt in range(1, retries + 1):
         if not _ensure_botbrowser_running():
             print(f"  ⚠️  BotBrowser not available (attempt {attempt}/{retries})", file=sys.stderr)
             time.sleep(2)
             continue
 
-        # Restart if process died since we checked
         if _botbrowser_proc is None or _botbrowser_proc.poll() is not None:
             print(f"  ⚠️  BotBrowser died before fetch attempt {attempt} — restarting", file=sys.stderr)
             if not _start_botbrowser():
@@ -213,7 +207,6 @@ def botbrowser_get(url: str, retries: int = 2) -> str | None:
         if result:
             return result
 
-        # Fetch failed — check if process is still alive
         if _botbrowser_proc is not None and _botbrowser_proc.poll() is not None:
             print(f"  ⚠️  BotBrowser process exited (code {_botbrowser_proc.returncode}) "
                   f"after attempt {attempt} — will restart", file=sys.stderr)
@@ -246,14 +239,12 @@ def _botbrowser_shutdown():
 # ------------------------------
 
 def normalize_style(style_str):
-    """Normalize style string by removing all whitespace."""
     if not style_str:
         return ""
     return re.sub(r'\s+', '', style_str.lower())
 
 
 def is_content_div(div, style_norm):
-    """Check if a div contains article content based on style."""
     if 'display:none' in style_norm:
         return False
     if div.find('figcaption'):
@@ -266,7 +257,6 @@ def is_content_div(div, style_norm):
 
 
 def extract_article_text_from_html(html_content):
-    """Extract article text with improved logic."""
     if not html_content:
         return ""
 
@@ -312,7 +302,6 @@ def extract_article_text_from_html(html_content):
                 paragraphs.append(text)
                 seen_texts.add(text)
 
-    # Fallback: broader extraction if too few paragraphs found
     if len(paragraphs) < 3:
         paragraphs = []
         seen_texts = set()
@@ -341,7 +330,6 @@ def extract_article_text_from_html(html_content):
 # ------------------------------
 
 def parse_pubdate(entry):
-    """Parse publication date from RSS entry."""
     published = entry.get("published") or entry.get("updated") or ""
     if published:
         try:
@@ -358,14 +346,20 @@ def parse_pubdate(entry):
 # Main Fetch Logic
 # ------------------------------
 
-def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
-    """Fetch and process RSS feed items using BotBrowser."""
+def fetch_items(feed_tuples, per_feed_limit=PER_FEED_LIMIT):
+    """
+    Fetch and process RSS feed items using BotBrowser.
+
+    feed_tuples: list of (feed_url, archive_prefix) pairs.
+    Each feed uses its own archive_prefix when building the archive link.
+    """
     items = []
 
     try:
-        for feed_url in feed_urls:
+        for feed_url, archive_prefix in feed_tuples:
             print(f"\n{'='*60}", file=sys.stderr)
             print(f"Processing feed: {feed_url}", file=sys.stderr)
+            print(f"Archive prefix:  {archive_prefix}", file=sys.stderr)
             print(f"{'='*60}", file=sys.stderr)
 
             feed = feedparser.parse(feed_url)
@@ -380,7 +374,7 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                     continue
 
                 original_link = link
-                archive_link = ARCHIVE_PREFIX + original_link
+                archive_link = archive_prefix + original_link
 
                 article_text = ""
                 retry_count = 0
@@ -391,7 +385,6 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                         print(f"\n[{count + 1}/{per_feed_limit}] Fetching: {archive_link}",
                               file=sys.stderr)
 
-                        # Random delay before fetching
                         delay = random.uniform(5, 10)
                         print(f"Waiting {delay:.1f}s before request...", file=sys.stderr)
                         time.sleep(delay)
@@ -407,21 +400,20 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                                 print(f"⚠️  Short article text ({len(article_text)} chars)",
                                       file=sys.stderr)
 
-                                # Save debug HTML on first short-text attempt
                                 if retry_count == 0:
                                     debug_file = f"debug_{count}_{retry_count}.html"
                                     with open(debug_file, "w", encoding="utf-8") as f:
                                         f.write(content)
                                     print(f"Debug file saved: {debug_file}", file=sys.stderr)
 
-                                article_text = ""  # force retry
+                                article_text = ""
                                 retry_count += 1
                                 if retry_count < max_retries:
                                     print(f"Retrying... (attempt {retry_count + 1}/{max_retries})",
                                           file=sys.stderr)
                                     time.sleep(random.uniform(10, 15))
                             else:
-                                break  # success
+                                break
 
                         else:
                             print(f"❌ BotBrowser returned no content", file=sys.stderr)
@@ -435,14 +427,12 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
                         if retry_count < max_retries:
                             time.sleep(random.uniform(10, 15))
 
-                # Extract image from RSS entry
                 image_url = None
                 if hasattr(entry, "media_content") and entry.media_content:
                     image_url = entry.media_content[0].get("url")
                 elif hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
                     image_url = entry.media_thumbnail[0].get("url")
 
-                # Parse publication date
                 pub_dt = parse_pubdate(entry)
                 pub_str = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
@@ -466,7 +456,6 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
     finally:
         _botbrowser_shutdown()
 
-    # Sort by date and limit
     items.sort(key=lambda x: x["pub_dt"], reverse=True)
     return items[:MAX_ITEMS]
 
@@ -476,12 +465,13 @@ def fetch_items(feed_urls, per_feed_limit=PER_FEED_LIMIT):
 # ------------------------------
 
 def create_rss(items, outpath="combined.xml"):
-    """Create RSS XML file from items."""
     rss = ET.Element("rss", version="2.0", attrib={"xmlns:media": "http://search.yahoo.com/mrss/"})
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "Combined Economist RSS Feed"
+    ET.SubElement(channel, "title").text = "Combined Economist + Project Syndicate RSS Feed"
     ET.SubElement(channel, "link").text = "https://yourusername.github.io/combined.xml"
-    ET.SubElement(channel, "description").text = "Combined Economist feed with full article text."
+    ET.SubElement(channel, "description").text = (
+        "Combined feed: The Economist and Project Syndicate, with full article text via archive.is."
+    )
 
     for it in items:
         i = ET.SubElement(channel, "item")
@@ -505,7 +495,7 @@ def create_rss(items, outpath="combined.xml"):
 if __name__ == "__main__":
     try:
         print("=" * 60, file=sys.stderr)
-        print("Starting Economist RSS Scraper (BotBrowser)", file=sys.stderr)
+        print("Starting Economist + Project Syndicate RSS Scraper (BotBrowser)", file=sys.stderr)
         print("=" * 60, file=sys.stderr)
 
         items = fetch_items(RSS_FEEDS, PER_FEED_LIMIT)
