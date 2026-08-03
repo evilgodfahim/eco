@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Painful Incompetence of the Indian State</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/student-protests-reveal-deep-failure-of-modi-government-to-strengthen-state-capacity-by-devesh-kapur-2026-07</link>
+      <description>India’s relatively weak state capacity has long hampered its development. Prime Minister Narendra Modi has been promising to address the problem since he came to power in 2014, but his government’s emphasis on centralizing power and strengthening executive control has had the opposite effect.</description>
+      <pubDate>Mon, 03 Aug 2026 11:44:49 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>This Time Could Be Different for Russia Sanctions</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/russia-sanctions-bill-lindsey-graham-act-has-teeth-by-simon-johnson-and-oleg-ustenko-2026-08</link>
+      <description>High inflation and interest rates are eating away at the foundations of the Russian economy and sapping its growth. By hitting its most important sectors, and its essential source of foreign hard cash, new US legislation would pile enormous pressure on the Kremlin just when it is urgently needed.</description>
+      <pubDate>Mon, 03 Aug 2026 10:41:36 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Can America retrain workers before AI leaves them behind?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/02/can-america-retrain-workers-before-ai-leaves-them-behind</link>
       <description>Success will require investing in employees as seriously as America invests in chips</description>
@@ -536,28 +554,10 @@
       <enclosure url="https://webapi.project-syndicate.org/library/eec1b5506abad368eb41b2598c888ed9.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>America Is Betting Against International Law</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/us-sanctions-icc-officials-bet-against-international-law-by-eric-alter-2026-07</link>
-      <description>&lt;p&gt;After cooperating with the International Criminal Court to indict Russian President Vladimir Putin for war crimes, the US has shifted to waging a scorched-earth campaign against the ICC in the name of protecting Israel. But rather than halting international law’s progress, the US is merely handing the pen to other countries.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 11:53:29 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/808c9d735c764332cb05666131a6af7d.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/808c9d735c764332cb05666131a6af7d.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/808c9d735c764332cb05666131a6af7d.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>AI revenues are growing fast, but not fast enough</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough</link>
       <description>The returns on trillions of dollars of spending are deeply uncertain</description>
       <pubDate>Tue, 28 Jul 2026 10:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Therapist in Your Pocket</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/health-leaders-must-ensure-ai-enhances-access-to-psychological-support-by-anne-lepetit-2026-07</link>
-      <description>A new survey conducted by AXA and Ipsos shows that people are readily turning to AI chatbots to cope with mental-health problems. To ensure that these tools do more good than harm, health leaders, employers, insurers, and AI developers must take responsibility for steering them in a beneficial direction.</description>
-      <pubDate>Tue, 28 Jul 2026 09:27:22 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/a375a377fc6179b4ec21a41ca7718e39.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/a375a377fc6179b4ec21a41ca7718e39.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/a375a377fc6179b4ec21a41ca7718e39.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Xi Jinping, pioneering venture capitalist</title>
