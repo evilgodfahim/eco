@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How long can Iran weaponise Hormuz?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/03/how-long-can-iran-weaponise-hormuz</link>
+      <description>Longer than the world hopes, according to our Hormuz dependency dashboard</description>
+      <pubDate>Mon, 03 Aug 2026 20:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How poor countries are dealing with America’s AIDS cuts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/03/how-poor-countries-are-dealing-with-americas-aids-cuts</link>
+      <description>They will have less money and more responsibilities, even as scientists chase a cure</description>
+      <pubDate>Mon, 03 Aug 2026 19:26:48 +0000</pubDate>
+    </item>
+    <item>
       <title>China won’t apologise for overcapacity</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/03/china-wont-apologise-for-overcapacity</link>
       <description>Its industrial policy rests on a simple principle: might makes right</description>
@@ -3048,18 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/12/a-new-drug-targets-one-of-cancers-master-switches</link>
       <description>The pancreatic-cancer drug could be the first of an entirely new class of treatments</description>
       <pubDate>Fri, 12 Jun 2026 16:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: A World Cup paradox</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/12/cover-story-newsletter-a-world-cup-paradox</link>
-      <description>How we chose this week’s image</description>
-      <pubDate>Fri, 12 Jun 2026 16:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The value of SpaceX rockets on its stock-market debut</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut</link>
-      <description>Elon Musk has become the world’s first trillionaire</description>
-      <pubDate>Fri, 12 Jun 2026 16:04:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
