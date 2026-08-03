@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Canary in the AI Coal Mine</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/openai-hugging-face-breach-should-set-off-alarm-bells-by-kenneth-rogoff-2026-08</link>
+      <description>&lt;p&gt;The greatest danger posed by AI is not the technology itself, but the race to deploy it before we know how to control it. The recent Hugging Face breach shows how seemingly minor human errors can be amplified by AI, underscoring the risks of treating safety as an afterthought.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 13:34:47 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/c2cc5aabc5e94224ef67f1b5158dcfd4.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/c2cc5aabc5e94224ef67f1b5158dcfd4.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/c2cc5aabc5e94224ef67f1b5158dcfd4.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>The Painful Incompetence of the Indian State</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/student-protests-reveal-deep-failure-of-modi-government-to-strengthen-state-capacity-by-devesh-kapur-2026-07</link>
       <description>India’s relatively weak state capacity has long hampered its development. Prime Minister Narendra Modi has been promising to address the problem since he came to power in 2014, but his government’s emphasis on centralizing power and strengthening executive control has had the opposite effect.</description>
@@ -543,15 +552,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/28/sex-blood-and-communist-party-virtues</link>
       <description>A gory film tests prudish government censors</description>
       <pubDate>Tue, 28 Jul 2026 14:13:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea Bets on Industrial Policy Again</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/south-korea-industrial-policy-necessary-but-difficult-to-succeed-by-lee-jong-wha-2026-07</link>
-      <description>&lt;p&gt;With industrial policy back in fashion worldwide, the question is not whether governments should intervene (they already do), but how they should proceed when they do not know in advance what will work. The answer lies in directed improvisation: creating the conditions for experimentation where it counts.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 13:55:37 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/eec1b5506abad368eb41b2598c888ed9.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/eec1b5506abad368eb41b2598c888ed9.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/eec1b5506abad368eb41b2598c888ed9.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>AI revenues are growing fast, but not fast enough</title>
