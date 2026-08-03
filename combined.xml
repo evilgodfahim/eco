@@ -5,6 +5,63 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>China won’t apologise for overcapacity</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/03/china-wont-apologise-for-overcapacity</link>
+      <description>Its industrial policy rests on a simple principle: might makes right</description>
+      <pubDate>Mon, 03 Aug 2026 17:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>How China gets better bang for its buck than America in AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai</link>
+      <description>Its investment lags far behind America’s. Its models do not</description>
+      <pubDate>Mon, 03 Aug 2026 17:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mexico’s president stops turning the other cheek</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/03/mexicos-president-stops-turning-the-other-cheek</link>
+      <description>Claudia Sheinbaum has abandoned her cool demeanor as Donald Trump attacks her political party</description>
+      <pubDate>Mon, 03 Aug 2026 16:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checks and Balance newsletter: Democrats are in a state of convulsion</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/03/checks-and-balance-newsletter-democrats-are-in-a-state-of-convulsion</link>
+      <description>Charlotte Howard, our US editor, on the battle between the party’s moderates and its left</description>
+      <pubDate>Mon, 03 Aug 2026 16:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a Sino-American G2 Would Mean for Asian Security</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/trump-g2-concept-is-far-inferior-to-the-free-and-open-indo-pacific-vision-by-brahma-chellaney-2026-07</link>
+      <description>The G2 concept that Donald Trump has lately been touting is a highly unstable proposition, which could make the emergence of a unipolar Asia more likely. Fortunately, Japan remains committed to advancing the far more effective “free and open Indo-Pacific” framework, with India as an indispensable partner.</description>
+      <pubDate>Mon, 03 Aug 2026 16:06:32 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/139fe6f532ae3ffe4d67ee16744b199b.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/139fe6f532ae3ffe4d67ee16744b199b.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/139fe6f532ae3ffe4d67ee16744b199b.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The War Room newsletter: Inside a 38-tonne armoured beast</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/03/the-war-room-newsletter-inside-a-38-tonne-armoured-beast</link>
+      <description>Jonathan Rosenthal, our international editor, takes an infantry fighting vehicle for a spin</description>
+      <pubDate>Mon, 03 Aug 2026 15:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tearing Down the Currency Wall</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/structure-of-price-formation-prevents-global-capital-from-reaching-emde-climate-projects-by-jayant-sinha-2026-08</link>
+      <description>Most of the world seems to misunderstand why global capital is not financing the developing world’s climate transition. The real problem lies in the structure of price formation, which policymakers can best address by focusing on three key priorities.</description>
+      <pubDate>Mon, 03 Aug 2026 15:33:30 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Case for a Pay-Where-You-Play Tax System</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/un-tax-convention-opportunity-to-end-age-of-corporate-profit-shifting-by-jayati-ghosh-2026-07</link>
+      <description>The global tax system has repeatedly put corporate interests ahead of people and the planet by allowing multinationals to transfer profits to tax havens. If adopted, the proposed UN Framework Convention on International Tax Cooperation would overturn the century-old rules that make this possible.</description>
+      <pubDate>Mon, 03 Aug 2026 14:54:06 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>The Canary in the AI Coal Mine</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/openai-hugging-face-breach-should-set-off-alarm-bells-by-kenneth-rogoff-2026-08</link>
       <description>&lt;p&gt;The greatest danger posed by AI is not the technology itself, but the race to deploy it before we know how to control it. The recent Hugging Face breach shows how seemingly minor human errors can be amplified by AI, underscoring the risks of treating safety as an afterthought.&lt;/p&gt;</description>
@@ -485,24 +542,6 @@
       <enclosure url="https://webapi.project-syndicate.org/library/83eb45490f8e6f8f38ef39c64d73b015.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Europe Is Fiddling While Rome Burns</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/europe-still-not-addressing-scale-of-changing-material-and-economic-conditions-by-giulio-boccaletti-2026-07</link>
-      <description>&lt;p&gt;Focusing only on emergency planning, disaster response, and recovery after each climate catastrophe is no longer enough in Europe. Policymakers urgently need to start mapping Europe’s long-term future, which will require a fundamental overhaul of its infrastructure, energy system, and major economic sectors.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 09:33:22 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/55fdb543fee8982eafc1706184e95651.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/55fdb543fee8982eafc1706184e95651.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/55fdb543fee8982eafc1706184e95651.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Saving Democracy Requires Taxing Extreme Wealth</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/wealth-tax-policy-design-has-improved-and-the-case-against-has-collapsed-by-michael-madowitz-2026-07</link>
-      <description>&lt;p&gt;If lawmakers are serious about addressing the threat that dynastic wealth poses to American democracy, they can draw on considerable research that has gone into designing a wealth tax that avoids the pitfalls of other countries’ attempts. With the appearance of the world’s first trillionaire, there is no time to waste.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 08:22:37 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/c527c7eace37ca8dcd7e490aea4cdb8a.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/c527c7eace37ca8dcd7e490aea4cdb8a.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/c527c7eace37ca8dcd7e490aea4cdb8a.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Can French nukes protect Europe if Donald Trump walks away?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/28/can-french-nukes-protect-europe-if-donald-trump-walks-away</link>
       <description>Europeans are keen on nuclear collaboration with Emmanuel Macron. What if Marine Le Pen becomes president?</description>
@@ -537,15 +576,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/28/west-africa-has-become-a-huge-cocaine-trading-hub</link>
       <description>Scrutiny of other routes has changed traffickers’ strategy for shipping to Europe</description>
       <pubDate>Tue, 28 Jul 2026 17:18:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Threat to Financial Stability</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ai-bubble-threatens-financial-stability-by-brian-judge-2026-07</link>
-      <description>&lt;p&gt;In episodes like the railroad boom and the dot-com bubble, creditors and shareholders were wiped out, because investment in a genuinely transformative technology outpaced any plausible near-term return. With the US financial system and asset markets having become a one-way bet on AI, such an outcome today could be catastrophic.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 14:53:55 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/5d2715997341f275a2a19b91372e6847.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/5d2715997341f275a2a19b91372e6847.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/5d2715997341f275a2a19b91372e6847.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sex, blood and Communist Party virtues</title>
@@ -3030,36 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut</link>
       <description>Elon Musk has become the world’s first trillionaire</description>
       <pubDate>Fri, 12 Jun 2026 16:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best way to celebrate America at 250 is to get behind the wheel</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/11/the-best-way-to-celebrate-america-at-250-is-to-get-behind-the-wheel</link>
-      <description>Preferably with our new podcast series for company</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan is rethinking its divorce laws</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/11/japan-is-rethinking-its-divorce-laws</link>
-      <description>A move to introduce joint custody marks a big shift</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>In China ride-hailing work is a last resort for rural labourers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/11/in-china-ride-hailing-work-is-a-last-resort-for-rural-labourers</link>
-      <description>But now Shenzhen says it has too many of them</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s notorious university-entrance exam is changing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing</link>
-      <description>Demography and AI are set to transform the gaokao</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>On America’s 250th, go back to “Democracy in America”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/11/on-americas-250th-go-back-to-democracy-in-america</link>
-      <description>In praise of Alexis de Tocqueville</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
