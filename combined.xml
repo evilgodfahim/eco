@@ -5,6 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Hollywood is entering its AI era</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era</link>
+      <description>The technology is quietly playing a role in every aspect of film-making</description>
+      <pubDate>Tue, 04 Aug 2026 15:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Paradigm for Global Health Financing</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/global-health-financing-architecture-a-new-blueprint-by-donald-kaberuka-et-al-2026-07</link>
+      <description>As aid flows decline, more countries are articulating a new vision in which health financing would build on national resources, answer to domestic priorities, and remain accountable to their own citizens. Such a change is long overdue, and it can be achieved by pursuing reforms in three areas.</description>
+      <pubDate>Tue, 04 Aug 2026 15:02:33 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>How chip-fuelled wealth is reshaping South Korea</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/04/how-chip-fuelled-wealth-is-reshaping-south-korea</link>
       <description>Its leaders must decide how to manage a big windfall from AI</description>
@@ -537,15 +552,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/29/quantum-computers-promise-mathematical-superpowers</link>
       <description>But like all superpowers, they will have their limits</description>
       <pubDate>Wed, 29 Jul 2026 19:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Politicians Ignore Economic Expertise</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/some-economic-questions-should-not-be-left-to-politicians-by-kaushik-basu-2026-07</link>
-      <description>&lt;p&gt;As politicians encroach on areas that require technical knowledge, the risk of costly policy mistakes increases. The failures of Narendra Modi and Donald Trump show that when it comes to economic policymaking, political acumen is no substitute for a deep understanding of incentives, markets, and institutions.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 16:01:15 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/4c6ac2f14d6f79788cbf5f14ac1e1d26.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/4c6ac2f14d6f79788cbf5f14ac1e1d26.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/4c6ac2f14d6f79788cbf5f14ac1e1d26.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The anti-abortion crusade’s new fight</title>
@@ -3054,12 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/13/checks-and-balance-newsletter-can-tocqueville-explain-america-today</link>
       <description>John Prideaux, our US editor, takes a road trip to mark the country’s 250th birthday</description>
       <pubDate>Sat, 13 Jun 2026 10:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Swiss would be foolish to cap their population at 10m</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/12/the-swiss-would-be-foolish-to-cap-their-population-at-10m</link>
-      <description>Immigration sometimes needs brakes, but the proposal would be like driving into a wall</description>
-      <pubDate>Fri, 12 Jun 2026 18:50:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
