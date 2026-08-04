@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>An old SpaceX rocket is about to crash into the Moon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/04/an-old-spacex-rocket-is-about-to-crash-into-the-moon</link>
+      <description>The smashup could provide useful data for future lunar inhabitants</description>
+      <pubDate>Tue, 04 Aug 2026 18:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the EU’s big covid-recovery fund lost steam</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/04/why-the-eus-big-covid-recovery-fund-lost-steam</link>
+      <description>Spain used it better than Italy, but it was not a game-changer</description>
+      <pubDate>Tue, 04 Aug 2026 18:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Americans are sick of Republicans and Democrats. Can Independents win?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/04/americans-are-sick-of-republicans-and-democrats-can-independents-win</link>
+      <description>Senate campaigns in Montana and Nebraska offer a test</description>
+      <pubDate>Tue, 04 Aug 2026 18:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investors in Situational Awareness deserved to lose their shirts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts</link>
+      <description>The plight of the hedge fund says more about them than about its 24-year-old founder</description>
+      <pubDate>Tue, 04 Aug 2026 17:11:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Hollywood is entering its AI era</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era</link>
       <description>The technology is quietly playing a role in every aspect of film-making</description>
@@ -3036,30 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/14/the-problem-with-narendra-modis-airport-building-frenzy</link>
       <description>Build it and they will come. But how will they leave?</description>
       <pubDate>Sun, 14 Jun 2026 18:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Californication of middle-class Chinese diets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/14/the-californication-of-middle-class-chinese-diets</link>
-      <description>China wants more healthy, clean and even foreign food</description>
-      <pubDate>Sun, 14 Jun 2026 17:51:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Companies are scrambling to curtail soaring AI costs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs</link>
-      <description>For the heaviest users, tokenmaxxing is losing its appeal</description>
-      <pubDate>Sun, 14 Jun 2026 17:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Donald Trump make Latin America a good bet?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet</link>
-      <description>Nowhere in the developing world has done so well out of the past year</description>
-      <pubDate>Sun, 14 Jun 2026 17:14:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Can Tocqueville explain America today?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/13/checks-and-balance-newsletter-can-tocqueville-explain-america-today</link>
-      <description>John Prideaux, our US editor, takes a road trip to mark the country’s 250th birthday</description>
-      <pubDate>Sat, 13 Jun 2026 10:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
