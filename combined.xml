@@ -5,6 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How chip-fuelled wealth is reshaping South Korea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/04/how-chip-fuelled-wealth-is-reshaping-south-korea</link>
+      <description>Its leaders must decide how to manage a big windfall from AI</description>
+      <pubDate>Tue, 04 Aug 2026 14:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Triumph of India’s Cockroaches</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/cockroach-protests-reaffirm-the-bargain-that-underpins-indian-democracy-by-shashi-tharoor-2026-08</link>
+      <description>The concessions secured by the &quot;cockroach movement&quot; amount to more than a triumph for prospective medical students or a brief political headache for the country&apos;s ruling party. They prove that even after years of centralization and institutional erosion, power remains with the people.</description>
+      <pubDate>Tue, 04 Aug 2026 14:00:51 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Zombie Monetarism</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/soft-monetarism-for-warsh-fed-wouldnt-work-by-james-k-galbraith-2026-08</link>
       <description>&lt;p&gt;Three prominent economists, including a former Federal Reserve governor and adviser to US President Donald Trump, have just endorsed “soft monetarism” as a way to guide the Fed&apos;s approach to inflation. But the &quot;quantity theory&quot; of money failed for good reasons, and those reasons have not changed.&lt;/p&gt;</description>
@@ -537,15 +552,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/29/the-anti-abortion-crusades-new-fight</link>
       <description>With legal abortions on the rise, an aggressive battle is beginning</description>
       <pubDate>Wed, 29 Jul 2026 15:17:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Beijing Model Meets the Brussels Effect</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/europe-china-converging-on-same-model-of-development-strategic-autonomy-by-emmanuel-guerin-2026-07</link>
-      <description>As Europe races to rebuild its industrial base, China is focusing more on influencing international standards and governance frameworks. The two powers are converging because neither can hope to claim a dominant position in the global energy transition by relying wholly on its traditional strengths.</description>
-      <pubDate>Wed, 29 Jul 2026 14:59:15 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/2e7e455720d23072cfe54c663a1a3438.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/2e7e455720d23072cfe54c663a1a3438.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/2e7e455720d23072cfe54c663a1a3438.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>There’s never been a better time to commit financial fraud</title>
@@ -3054,12 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/12/the-swiss-would-be-foolish-to-cap-their-population-at-10m</link>
       <description>Immigration sometimes needs brakes, but the proposal would be like driving into a wall</description>
       <pubDate>Fri, 12 Jun 2026 18:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new drug targets one of cancer’s master switches</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/12/a-new-drug-targets-one-of-cancers-master-switches</link>
-      <description>The pancreatic-cancer drug could be the first of an entirely new class of treatments</description>
-      <pubDate>Fri, 12 Jun 2026 16:43:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
