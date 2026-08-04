@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Why most IPOs are not worth the hype</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/04/why-most-ipos-are-not-worth-the-hype</link>
+      <description>The next crop of listings will be huge. Their returns may not be</description>
+      <pubDate>Tue, 04 Aug 2026 20:49:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al Capone would recognise today’s world order. That’s not good</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/04/al-capone-would-recognise-todays-world-order-thats-not-good</link>
+      <description>In a gangsterish age, the UN needs an ultra-pragmatist as secretary-general</description>
+      <pubDate>Tue, 04 Aug 2026 19:28:16 +0000</pubDate>
+    </item>
+    <item>
       <title>An old SpaceX rocket is about to crash into the Moon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/04/an-old-spacex-rocket-is-about-to-crash-into-the-moon</link>
       <description>The smashup could provide useful data for future lunar inhabitants</description>
@@ -3048,18 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic</link>
       <description>America’s closest allies are shellshocked</description>
       <pubDate>Sun, 14 Jun 2026 18:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Political manoeuvres are delaying a spy law and new intelligence chief</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/14/political-manoeuvres-are-delaying-a-spy-law-and-new-intelligence-chief</link>
-      <description>Crucial surveillance authorities have lapsed</description>
-      <pubDate>Sun, 14 Jun 2026 18:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The problem with Narendra Modi’s airport-building frenzy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/14/the-problem-with-narendra-modis-airport-building-frenzy</link>
-      <description>Build it and they will come. But how will they leave?</description>
-      <pubDate>Sun, 14 Jun 2026 18:40:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
