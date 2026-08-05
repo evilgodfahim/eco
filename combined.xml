@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Investors are having doubts about Elon Musk’s grandiose ambitions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions</link>
+      <description>SpaceX is spending gobs of money to refashion itself as an AI company</description>
+      <pubDate>Wed, 05 Aug 2026 19:50:23 +0000</pubDate>
+    </item>
+    <item>
       <title>A global pipeline-investment boom is under way</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/a-global-pipeline-investment-boom-is-under-way</link>
       <description>New conduits for oil will improve energy security, but come at a cost</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/15/americas-carmakers-cannot-escape-chinese-evs-for-ever</link>
       <description>Can they stay relevant?</description>
       <pubDate>Mon, 15 Jun 2026 18:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: What eight years as defence editor looks like</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-war-room-newsletter-what-eight-years-as-defence-editor-looks-like</link>
-      <description>From flying fighter jets to travelling on destroyers, Shashank Joshi pens his final edition of this newsletter</description>
-      <pubDate>Mon, 15 Jun 2026 18:26:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
