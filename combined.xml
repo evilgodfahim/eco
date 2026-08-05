@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Peace With Iran Won’t Last Unless It Benefits Ordinary Iranians</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/lasting-peace-with-iran-requires-easing-financial-sanctions-broad-based-economic-prosperity-by-djavad-salehi-isfahani-2026-08</link>
+      <description>&lt;p&gt;A sustainable peace agreement between the United States and Iran will require more than military deterrence. Without financial sanctions relief that fuels job creation and generates real economic opportunities for ordinary Iranians, it will likely suffer the same fate as the 2015 nuclear deal.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 09:53:26 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/e677aa3b5e57e43a3e98f85eb2228cd4.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/e677aa3b5e57e43a3e98f85eb2228cd4.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/e677aa3b5e57e43a3e98f85eb2228cd4.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Why Wealth Taxes Always Fail</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/wealth-tax-track-record-of-failure-for-predictable-reasons-by-cristina-enache-2026-08</link>
       <description>&lt;p&gt;A clear-eyed view of past experience shows that where wealth taxes have been tried, they have usually been abandoned—and for good reason. As policymakers in California, New York, France, and elsewhere revisit this old idea, they should heed the lessons of this history.&lt;/p&gt;</description>
@@ -516,12 +525,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/a2ea0f471d189631822514ee9cf8385d.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/a2ea0f471d189631822514ee9cf8385d.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/a2ea0f471d189631822514ee9cf8385d.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Big Picture</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/the-ai-boom-and-the-future-of-finance-doc-2026-07</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 09:49:40 GMT</pubDate>
     </item>
     <item>
       <title>How many people are dying as a result of USAID’s demise?</title>
