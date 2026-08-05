@@ -5,8 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>How a bipartisan coalition is taking aim at animal research</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/05/how-a-bipartisan-coalition-is-taking-aim-at-animal-research</link>
+      <title>A global pipeline-investment boom is under way</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/a-global-pipeline-investment-boom-is-under-way</link>
+      <description>New conduits for oil will improve energy security, but come at a cost</description>
+      <pubDate>Wed, 05 Aug 2026 19:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe encourages its neighbours to practise migration blackmail</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/05/europe-encourages-its-neighbours-to-practise-migration-blackmail</link>
+      <description>The surge in Ceuta is over, but the EU’s panic leaves scars</description>
+      <pubDate>Wed, 05 Aug 2026 18:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Democratic Socialists of America is having the summer of its life</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/05/the-democratic-socialists-of-america-is-having-the-summer-of-its-life</link>
+      <description>Could a far-left candidate win the Democrats’ presidential nomination in 2028?</description>
+      <pubDate>Wed, 05 Aug 2026 17:17:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>A bipartisan coalition is taking aim at animal research</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/05/a-bipartisan-coalition-is-taking-aim-at-animal-research</link>
       <description>America’s animal-rights activists have more sway than ever</description>
       <pubDate>Wed, 05 Aug 2026 16:31:04 +0000</pubDate>
     </item>
@@ -80,7 +98,7 @@
       <pubDate>Tue, 04 Aug 2026 18:12:02 +0000</pubDate>
     </item>
     <item>
-      <title>Americans are sick of Republicans and Democrats. Can Independents win?</title>
+      <title>Americans are sick of Republicans and Democrats. Can independents win?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/04/americans-are-sick-of-republicans-and-democrats-can-independents-win</link>
       <description>Senate campaigns in Montana and Nebraska offer a test</description>
       <pubDate>Tue, 04 Aug 2026 18:02:35 +0000</pubDate>
@@ -3045,24 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-war-room-newsletter-what-eight-years-as-defence-editor-looks-like</link>
       <description>From flying fighter jets to travelling on destroyers, Shashank Joshi pens his final edition of this newsletter</description>
       <pubDate>Mon, 15 Jun 2026 18:26:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comfort meets constraint in China’s most “liveable” city</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/15/comfort-meets-constraint-in-chinas-most-liveable-city</link>
-      <description>A high-income, low-pressure existence is not all it’s cracked up to be</description>
-      <pubDate>Mon, 15 Jun 2026 16:18:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The terrifying new air war in Ukraine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine</link>
-      <description>Russia is dominating the missile war by default, but Ukraine hopes that will change</description>
-      <pubDate>Mon, 15 Jun 2026 15:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A deal is only the beginning of the end of the US-Iran war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/15/a-deal-is-only-the-beginning-of-the-end-of-the-us-iran-war</link>
-      <description>And they could start fighting again in the hope of getting a better one</description>
-      <pubDate>Mon, 15 Jun 2026 13:02:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
