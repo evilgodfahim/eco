@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Why Wealth Taxes Always Fail</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/wealth-tax-track-record-of-failure-for-predictable-reasons-by-cristina-enache-2026-08</link>
+      <description>&lt;p&gt;A clear-eyed view of past experience shows that where wealth taxes have been tried, they have usually been abandoned—and for good reason. As policymakers in California, New York, France, and elsewhere revisit this old idea, they should heed the lessons of this history.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 08:13:54 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/bab77628694ac87bf4de4f66e74c02bc.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/bab77628694ac87bf4de4f66e74c02bc.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/bab77628694ac87bf4de4f66e74c02bc.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Why most IPOs are not worth the hype</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/04/why-most-ipos-are-not-worth-the-hype</link>
       <description>The next crop of listings will be huge. Their returns may not be</description>
@@ -537,15 +546,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/30/narendra-modi-is-on-a-quest-to-regain-his-aura</link>
       <description>What India’s government learnt from recent student protests</description>
       <pubDate>Thu, 30 Jul 2026 08:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explaining China’s Industrial Competitiveness</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/china-industrial-competitiveness-root-causes-by-miao-yanliang-2026-07</link>
-      <description>External headwinds have not weakened China’s manufacturing competitiveness. That is because the Chinese economy combines an unusually large manufacturing base, deep supply chains, fast engineering feedback loops, and cutthroat domestic competition to create global powerhouses.</description>
-      <pubDate>Thu, 30 Jul 2026 08:34:06 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/e8901eaddca6bce801a887768e0cea68.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/e8901eaddca6bce801a887768e0cea68.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/e8901eaddca6bce801a887768e0cea68.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Private equity is coming for the Indian Premier League</title>
