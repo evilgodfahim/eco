@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Aid’s Next Chapter</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/foreign-aid-next-chapter-about-delivery-more-than-overall-volume-by-nancy-qian-2026-08</link>
+      <description>&lt;p&gt;Wars, epidemics, displacement, and geopolitical competition will ensure that rich countries continue to spend money abroad, whether for humanitarian reasons or in pursuit of their own interests. The only question is what sort of aid system will emerge from the current retrenchment.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 11:07:04 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/0257ba3a05685427d8376f73943ba786.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/0257ba3a05685427d8376f73943ba786.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/0257ba3a05685427d8376f73943ba786.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Peace With Iran Won’t Last Unless It Benefits Ordinary Iranians</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/lasting-peace-with-iran-requires-easing-financial-sanctions-broad-based-economic-prosperity-by-djavad-salehi-isfahani-2026-08</link>
       <description>&lt;p&gt;A sustainable peace agreement between the United States and Iran will require more than military deterrence. Without financial sanctions relief that fuels job creation and generates real economic opportunities for ordinary Iranians, it will likely suffer the same fate as the 2015 nuclear deal.&lt;/p&gt;</description>
@@ -516,15 +525,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/07/30/the-big-mac-index-at-40</link>
       <description>Exchange-rate theory can be a lot to digest. Instead, take three trips to McDonald’s</description>
       <pubDate>Thu, 30 Jul 2026 10:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI Boom and the Future of Finance</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/the-ai-boom-and-the-future-of-finance</link>
-      <description>&lt;p&gt;Amid reports of &lt;a href=&quot;https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026&quot;&gt;mass layoffs&lt;/a&gt;, large-scale &lt;a href=&quot;https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books&quot;&gt;destruction of books&lt;/a&gt;, sweeping &lt;a href=&quot;https://www.reuters.com/sustainability/boards-policy-regulation/major-publishers-sue-meta-copyright-infringement-over-ai-training-2026-05-05/&quot;&gt;copyright violations&lt;/a&gt;, and severe &lt;a href=&quot;https://hsph.harvard.edu/news/analyzing-air-pollution-health-economic-risks-from-ai-data-centers/&quot;&gt;environmental damage&lt;/a&gt; caused by AI data centers, an increasingly popular refrain is that the AI bubble cannot burst soon enough. AI-related companies have gained some $27 trillion in &lt;a href=&quot;https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals&quot;&gt;market value&lt;/a&gt; since November 2022, but investments have been largely circular and increasingly debt-financed, whereas revenues still highly speculative. But while a collapse would cause enormous economic pain, no one should assume that it would spell the end of the AI-driven transformation currently underway.&lt;/p&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 09:49:51 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/a2ea0f471d189631822514ee9cf8385d.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/a2ea0f471d189631822514ee9cf8385d.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/a2ea0f471d189631822514ee9cf8385d.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>How many people are dying as a result of USAID’s demise?</title>
