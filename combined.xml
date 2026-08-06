@@ -5,9 +5,57 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Colombia’s New Right-Wing Government Faces an Uphill Battle</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/colombia-new-right-wing-government-faces-fiscal-reckoning-by-jose-antonio-ocampo-2026-08</link>
+      <description>Colombian President-elect Abelardo de la Espriella inherits an economy constrained by weak investment and a severe fiscal crisis. His ability to restore fiscal stability without sacrificing the social gains of recent decades will determine whether the country’s rightward shift proves lasting or short-lived.</description>
+      <pubDate>Thu, 06 Aug 2026 15:35:54 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/1d9de80eafe2ebd535da43499a7faf0f.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/1d9de80eafe2ebd535da43499a7faf0f.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/1d9de80eafe2ebd535da43499a7faf0f.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Can Progressives Deliver Economic Growth?</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/mamdani-attempting-to-deliver-economic-redistribution-and-growth-by-rick-mcgahey-2026-08</link>
+      <description>At a time of historic inequality and inadequate public investment, the kind of redistributive policies promoted by politicians on the left are badly needed. But given that no jurisdiction can tax and regulate its way to affordability, a growth-enhancing agenda that generates good jobs and productive capacity is also vital.</description>
+      <pubDate>Thu, 06 Aug 2026 14:37:28 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/6c50d102f9843c70317a74369fccde2d.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/6c50d102f9843c70317a74369fccde2d.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/6c50d102f9843c70317a74369fccde2d.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Republicans and Democrats uniting against animal testing are wrong</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/republicans-and-democrats-uniting-against-animal-testing-are-wrong</link>
       <description>Experimenting on animals remains essential for human well-being</description>
+      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Zealand’s foreign minister sparks ire with a detestable taunt</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/06/new-zealands-foreign-minister-sparks-ire-with-a-detestable-taunt</link>
+      <description>But Winston Peters is not going anywhere</description>
+      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Philippines’ big offshoring industry is growing despite AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</link>
+      <description>How long will that last?</description>
+      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s superstitious mayors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors</link>
+      <description>Supernatural beliefs lead to lower economic growth</description>
+      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>To some, reviled former leaders don’t look so bad</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/06/to-some-reviled-former-leaders-dont-look-so-bad</link>
+      <description>Young netizens mine the Cultural Revolution for tropes</description>
+      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why ever fewer young Chinese study abroad</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/06/why-ever-fewer-young-chinese-study-abroad</link>
+      <description>Those who do are more likely to return home afterwards</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
     <item>
@@ -17,8 +65,8 @@
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>Cartoon: War drags on in Ukraine and Ian</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/06/cartoon-war-drags-on-in-ukraine-and-ian</link>
+      <title>Cartoon: War drags on in Ukraine and Iran</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/06/cartoon-war-drags-on-in-ukraine-and-iran</link>
       <description>A lighter take on the news</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
@@ -65,9 +113,9 @@
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
     <item>
-      <title>A friend of the president is building much of Nigeria’s infrastructure</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/a-friend-of-the-president-is-building-much-of-nigerias-infrastructure</link>
-      <description>Critics are worried by his growing portfolio</description>
+      <title>Nigeria’s builder-in-chief</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/nigerias-builder-in-chief</link>
+      <description>A friend of the president is racking up infrastructure contracts</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
     <item>
@@ -80,6 +128,12 @@
       <title>An African vision of artificial intelligence</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence</link>
       <description>Tech pioneers favour models suited to specific tasks that use little compute</description>
+      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amid foreign interference, Brazil’s election kicks off with a whimper</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/06/amid-foreign-interference-brazils-election-kicks-off-with-a-whimper</link>
+      <description>Voters are disillusioned with the apparent choice between Lula and the son of a jailed former president</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
     <item>
@@ -163,7 +217,7 @@
     <item>
       <title>Should AI labs be treated like the owners of dangerous animals?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</link>
-      <description>Autonomous AI hacking is here. Governments are not ready</description>
+      <description>Autonomous hacking is here. Governments are not ready</description>
       <pubDate>Thu, 06 Aug 2026 08:20:36 +0000</pubDate>
     </item>
     <item>
@@ -507,24 +561,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/31/javier-mileis-odysseus-act</link>
       <description>He is wisely overhauling the central bank. But winning elections remains paramount</description>
       <pubDate>Fri, 31 Jul 2026 14:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The EU’s Incredible Shrinking Banking Sector</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/top-five-eu-banks-lower-combined-market-capitalization-than-largest-us-bank-by-howard-davies-2026-07</link>
-      <description>At the start of the millennium, all five of the largest European banks had a higher market capitalization than the largest US bank. What explains the fact that a quarter-century later, the largest US bank has a higher capitalization than all five top EU banks combined, and how can European policymakers address this dramatic reversal?</description>
-      <pubDate>Fri, 31 Jul 2026 14:05:15 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/f1ffea038bf1a48243ea8a406e80ac27.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/f1ffea038bf1a48243ea8a406e80ac27.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/f1ffea038bf1a48243ea8a406e80ac27.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>AI Must Enlarge the Economy, Not Divide It</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ai-revolution-does-not-have-to-replace-human-work-by-mark-esposito-and-aurelie-jean-1-2026-07</link>
-      <description>To unlock AI’s full economic potential, we must steer it toward expansion. That requires replacing incentives that favor capital over labor with those that reward augmentation and investment in human capability.</description>
-      <pubDate>Fri, 31 Jul 2026 10:50:14 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/45367463dc282e53b048caff6ab501d2.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/45367463dc282e53b048caff6ab501d2.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/45367463dc282e53b048caff6ab501d2.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Our estimated death toll for this year’s wildfires</title>
@@ -3026,42 +3062,6 @@
       <title>How to launch a tech product</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/18/how-to-launch-a-tech-product</link>
       <description>Create a slick, irony-free corporate safe space</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war has boosted Equinor, Norway’s energy giant</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/18/the-iran-war-has-boosted-equinor-norways-energy-giant</link>
-      <description>But it cannot turn a greying cash cow into a sprightly upstart</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is the staple meal in Nigeria and Ghana becoming a luxury?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/18/is-the-staple-meal-in-nigeria-and-ghana-becoming-a-luxury</link>
-      <description>What the rising prices of jollof rice show about Nigeria and Ghana’s economies</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war meant an economic crisis for Africa</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/18/the-iran-war-meant-an-economic-crisis-for-africa</link>
-      <description>It was the third shock of the 2020s to hit the continent</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A flimsy deal will stop the bombing and restart the oil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/18/a-flimsy-deal-will-stop-the-bombing-and-restart-the-oil</link>
-      <description>Whether it can do anything more will be the question that defines the next few months</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Colombian diaspora is overwhelmingly right-wing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/18/the-colombian-diaspora-is-overwhelmingly-right-wing</link>
-      <description>But not in Russia</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gen-Z streamer from Medellín influencing Colombia’s election</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/18/the-gen-z-streamer-from-medellin-influencing-colombias-election</link>
-      <description>Algorithms, not debates, will determine the country’s next president</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
