@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Governments are making a dangerous bet on the AI boom</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom</link>
+      <description>To see why, look to the bond markets</description>
+      <pubDate>Wed, 05 Aug 2026 23:52:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Investors are having doubts about Elon Musk’s grandiose ambitions</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions</link>
       <description>SpaceX is spending gobs of money to refashion itself as an AI company</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists</link>
       <description>Most of them are not found in ivory towers</description>
       <pubDate>Mon, 15 Jun 2026 19:04:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s carmakers cannot escape Chinese EVs for ever</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/15/americas-carmakers-cannot-escape-chinese-evs-for-ever</link>
-      <description>Can they stay relevant?</description>
-      <pubDate>Mon, 15 Jun 2026 18:34:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
