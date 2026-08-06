@@ -5,14 +5,80 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Fauci’s Modern Pillory</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/fauci-senate-hearing-reflects-maga-disdain-for-experts-by-ian-buruma-2026-08</link>
+      <description>MAGA Republicans’ decision to drag Anthony Fauci before a Senate hearing was less about their hatred of science and more about their disdain for the scientists who guide lawmakers in their decision-making. They couldn’t wait to pillory him, and by association any public-facing expert, in front of the cameras.</description>
+      <pubDate>Thu, 06 Aug 2026 10:32:31 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/2338b7b8250b39cc886a6f2e210d69dd.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/2338b7b8250b39cc886a6f2e210d69dd.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/2338b7b8250b39cc886a6f2e210d69dd.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gulf states should make a deal with Iran on Hormuz</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/gulf-states-should-make-a-deal-with-iran-on-hormuz</link>
+      <description>How to make Iran’s blackmail less painful</description>
+      <pubDate>Thu, 06 Aug 2026 09:41:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s IT sector is surviving artificial intelligence</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence</link>
+      <description>Though the technology is making life still harder for many graduates</description>
+      <pubDate>Thu, 06 Aug 2026 09:22:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cheaper Mortgages Won’t Solve the US Housing Crisis</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/us-housing-affordability-requires-more-homes-not-lower-mortgage-rates-by-ross-levine-and-amit-seru-2026-08</link>
+      <description>&lt;p&gt;For decades, federal housing policy has favored cheaper financing over expanding the housing supply, despite evidence that expanding mortgage credit increases borrowing and house prices. The bipartisan 21st Century ROAD to Housing Act marks an important shift by emphasizing measures that make it easier to build more homes.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 09:16:17 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/5d120c88c1880e28761ee3f0b0c1afa8.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/5d120c88c1880e28761ee3f0b0c1afa8.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/5d120c88c1880e28761ee3f0b0c1afa8.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>African countries are souring on the dollar</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar</link>
+      <description>The yuan and local currencies stand to benefit</description>
+      <pubDate>Thu, 06 Aug 2026 08:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>How—and how much—should central banks talk?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk</link>
+      <description>The art is to say enough, and no more</description>
+      <pubDate>Thu, 06 Aug 2026 08:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI is breaking the British state</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state</link>
+      <description>Equipped with models and agents, citizens could bring government to a halt</description>
+      <pubDate>Thu, 06 Aug 2026 08:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why AI is a risk to Communist China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china</link>
+      <description>Its advantages are not quite what they seem. Its disadvantages are profound</description>
+      <pubDate>Thu, 06 Aug 2026 08:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should AI labs be treated like the owners of dangerous animals?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</link>
+      <description>Autonomous AI hacking is here. Governments are not ready</description>
+      <pubDate>Thu, 06 Aug 2026 08:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s AI drive threatens the world’s largest workforce</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce</link>
+      <description>Chinese leaders worry about workers being displaced by the tech they are promoting</description>
+      <pubDate>Thu, 06 Aug 2026 08:17:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Governments are making a dangerous bet on the AI boom</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom</link>
       <description>To see why, look to the bond markets</description>
       <pubDate>Wed, 05 Aug 2026 23:52:54 +0000</pubDate>
     </item>
     <item>
-      <title>Investors are having doubts about Elon Musk’s grandiose ambitions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions</link>
+      <title>Investors have fresh doubts about Elon Musk’s grandiose ambitions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/investors-have-fresh-doubts-about-elon-musks-grandiose-ambitions</link>
       <description>SpaceX is spending gobs of money to refashion itself as an AI company</description>
       <pubDate>Wed, 05 Aug 2026 19:50:23 +0000</pubDate>
     </item>
@@ -31,14 +97,59 @@
     <item>
       <title>America’s Democratic Socialists are having the summer of their lives</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/05/americas-democratic-socialists-are-having-the-summer-of-their-lives</link>
-      <description>Could a far-left candidate win the Democrats’ presidential nomination in 2028?</description>
+      <description>Could a populist-left candidate win the Democrats’ presidential nomination in 2028?</description>
       <pubDate>Wed, 05 Aug 2026 17:17:42 +0000</pubDate>
     </item>
     <item>
-      <title>A bipartisan coalition is taking aim at animal research</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/05/a-bipartisan-coalition-is-taking-aim-at-animal-research</link>
+      <title>How a bipartisan coalition is taking aim at animal research</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/05/how-a-bipartisan-coalition-is-taking-aim-at-animal-research</link>
       <description>America’s animal-rights activists have more sway than ever</description>
       <pubDate>Wed, 05 Aug 2026 16:31:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Right Way to Regulate AI</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/governments-should-rethink-their-ai-priorities-by-gabriela-ramos-and-emilija-stojmenova-duh-2026-08</link>
+      <description>Governments tend to treat AI as a national-security challenge while devoting far less attention to its effects on education, health, labor markets, and the judiciary. Addressing AI’s societal risks requires institutions designed to recognize and respond to emerging threats before they become systemic failures.</description>
+      <pubDate>Wed, 05 Aug 2026 16:04:13 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/80471036a2726084786c630c123ad77e.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/80471036a2726084786c630c123ad77e.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/80471036a2726084786c630c123ad77e.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Global Tax Reform Is the Key to a Fair AI Economy</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/global-corporate-tax-reform-key-to-equitable-ai-economy-by-zorka-milin-1-2026-08</link>
+      <description>The rise of AI has highlighted how the global tax system is ill-suited to capture the profits derived from such technology. While creating an equitable AI economy ultimately requires a durable and robust multilateral tax framework, digital-service taxes can serve as an important stepping stone to that outcome.</description>
+      <pubDate>Wed, 05 Aug 2026 15:17:56 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/18f8a3d4bbb9a13db2979bb24b81128d.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/18f8a3d4bbb9a13db2979bb24b81128d.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/18f8a3d4bbb9a13db2979bb24b81128d.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Aid’s Next Chapter</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/foreign-aid-next-chapter-about-delivery-more-than-overall-volume-by-nancy-qian-2026-08</link>
+      <description>&lt;p&gt;Wars, epidemics, displacement, and geopolitical competition will ensure that rich countries continue to spend money abroad, whether for humanitarian reasons or in pursuit of their own interests. The only question is what sort of aid system will emerge from the current retrenchment.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 11:07:04 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/0257ba3a05685427d8376f73943ba786.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/0257ba3a05685427d8376f73943ba786.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/0257ba3a05685427d8376f73943ba786.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Peace With Iran Won’t Last Unless It Benefits Ordinary Iranians</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/lasting-peace-with-iran-requires-easing-financial-sanctions-broad-based-economic-prosperity-by-djavad-salehi-isfahani-2026-08</link>
+      <description>&lt;p&gt;A sustainable peace agreement between the United States and Iran will require more than military deterrence. Without financial sanctions relief that fuels job creation and generates real economic opportunities for ordinary Iranians, it will likely suffer the same fate as the 2015 nuclear deal.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 09:53:26 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/e677aa3b5e57e43a3e98f85eb2228cd4.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/e677aa3b5e57e43a3e98f85eb2228cd4.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/e677aa3b5e57e43a3e98f85eb2228cd4.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why Wealth Taxes Always Fail</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/wealth-tax-track-record-of-failure-for-predictable-reasons-by-cristina-enache-2026-08</link>
+      <description>&lt;p&gt;A clear-eyed view of past experience shows that where wealth taxes have been tried, they have usually been abandoned—and for good reason. As policymakers in California, New York, France, and elsewhere revisit this old idea, they should heed the lessons of this history.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 08:13:54 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/bab77628694ac87bf4de4f66e74c02bc.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/bab77628694ac87bf4de4f66e74c02bc.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/bab77628694ac87bf4de4f66e74c02bc.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Why most IPOs are not worth the hype</title>
@@ -83,10 +194,46 @@
       <pubDate>Tue, 04 Aug 2026 15:26:38 +0000</pubDate>
     </item>
     <item>
-      <title>How chip-fuelled wealth is reshaping South Korea</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/04/how-chip-fuelled-wealth-is-reshaping-south-korea</link>
-      <description>Its leaders must decide how to manage a big windfall from AI</description>
+      <title>A New Paradigm for Global Health Financing</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/global-health-financing-architecture-a-new-blueprint-by-donald-kaberuka-et-al-2026-07</link>
+      <description>As aid flows decline, more countries are articulating a new vision in which health financing would build on national resources, answer to domestic priorities, and remain accountable to their own citizens. Such a change is long overdue, and it can be achieved by pursuing reforms in three areas.</description>
+      <pubDate>Tue, 04 Aug 2026 15:02:33 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How AI-fuelled wealth is reshaping South Korea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/04/how-ai-fuelled-wealth-is-reshaping-south-korea</link>
+      <description>Leaders must decide how to manage a big windfall</description>
       <pubDate>Tue, 04 Aug 2026 14:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Triumph of India’s Cockroaches</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/cockroach-protests-reaffirm-the-bargain-that-underpins-indian-democracy-by-shashi-tharoor-2026-08</link>
+      <description>The concessions secured by the &quot;cockroach movement&quot; amount to more than a triumph for prospective medical students or a brief political headache for the country&apos;s ruling party. They prove that even after years of centralization and institutional erosion, power remains with the people.</description>
+      <pubDate>Tue, 04 Aug 2026 14:00:51 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Zombie Monetarism</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/soft-monetarism-for-warsh-fed-wouldnt-work-by-james-k-galbraith-2026-08</link>
+      <description>&lt;p&gt;Three prominent economists, including a former Federal Reserve governor and adviser to US President Donald Trump, have just endorsed “soft monetarism” as a way to guide the Fed&apos;s approach to inflation. But the &quot;quantity theory&quot; of money failed for good reasons, and those reasons have not changed.&lt;/p&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 12:27:56 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/e78f9ab92d75497973b9444eb0980966.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/e78f9ab92d75497973b9444eb0980966.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/e78f9ab92d75497973b9444eb0980966.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Taiwan Needs a New Deterrence Strategy</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/taiwan-can-deter-china-by-building-defense-software-for-democracies-by-todd-g-buchholz-2026-07</link>
+      <description>Emboldened by US President Donald Trump’s war in Iran, Chinese leaders have ramped up their gray-zone coercion against Taiwan in recent months. To avert a Chinese invasion, Taiwan must ensure that other democracies cannot function without it by providing them with more than just semiconductors.</description>
+      <pubDate>Tue, 04 Aug 2026 11:24:12 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/9cc5547d33b0501dafe7bf5ff922c4aa.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/9cc5547d33b0501dafe7bf5ff922c4aa.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/9cc5547d33b0501dafe7bf5ff922c4aa.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>How long can Iran weaponise Hormuz?</title>
@@ -125,10 +272,64 @@
       <pubDate>Mon, 03 Aug 2026 16:37:32 +0000</pubDate>
     </item>
     <item>
+      <title>What a Sino-American G2 Would Mean for Asian Security</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/trump-g2-concept-is-far-inferior-to-the-free-and-open-indo-pacific-vision-by-brahma-chellaney-2026-07</link>
+      <description>The G2 concept that Donald Trump has lately been touting is a highly unstable proposition, which could make the emergence of a unipolar Asia more likely. Fortunately, Japan remains committed to advancing the far more effective “free and open Indo-Pacific” framework, with India as an indispensable partner.</description>
+      <pubDate>Mon, 03 Aug 2026 16:06:32 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/139fe6f532ae3ffe4d67ee16744b199b.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/139fe6f532ae3ffe4d67ee16744b199b.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/139fe6f532ae3ffe4d67ee16744b199b.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>The War Room newsletter: Inside a 38-tonne armoured beast</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/03/the-war-room-newsletter-inside-a-38-tonne-armoured-beast</link>
       <description>Jonathan Rosenthal, our international editor, takes an infantry fighting vehicle for a spin</description>
       <pubDate>Mon, 03 Aug 2026 15:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tearing Down the Currency Wall</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/structure-of-price-formation-prevents-global-capital-from-reaching-emde-climate-projects-by-jayant-sinha-2026-08</link>
+      <description>Most of the world seems to misunderstand why global capital is not financing the developing world’s climate transition. The real problem lies in the structure of price formation, which policymakers can best address by focusing on three key priorities.</description>
+      <pubDate>Mon, 03 Aug 2026 15:33:30 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Case for a Pay-Where-You-Play Tax System</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/un-tax-convention-opportunity-to-end-age-of-corporate-profit-shifting-by-jayati-ghosh-2026-07</link>
+      <description>The global tax system has repeatedly put corporate interests ahead of people and the planet by allowing multinationals to transfer profits to tax havens. If adopted, the proposed UN Framework Convention on International Tax Cooperation would overturn the century-old rules that make this possible.</description>
+      <pubDate>Mon, 03 Aug 2026 14:54:06 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Canary in the AI Coal Mine</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/openai-hugging-face-breach-should-set-off-alarm-bells-by-kenneth-rogoff-2026-08</link>
+      <description>&lt;p&gt;The greatest danger posed by AI is not the technology itself, but the race to deploy it before we know how to control it. The recent Hugging Face breach shows how seemingly minor human errors can be amplified by AI, underscoring the risks of treating safety as an afterthought.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 13:34:47 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/c2cc5aabc5e94224ef67f1b5158dcfd4.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/c2cc5aabc5e94224ef67f1b5158dcfd4.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/c2cc5aabc5e94224ef67f1b5158dcfd4.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Painful Incompetence of the Indian State</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/student-protests-reveal-deep-failure-of-modi-government-to-strengthen-state-capacity-by-devesh-kapur-2026-07</link>
+      <description>India’s relatively weak state capacity has long hampered its development. Prime Minister Narendra Modi has been promising to address the problem since he came to power in 2014, but his government’s emphasis on centralizing power and strengthening executive control has had the opposite effect.</description>
+      <pubDate>Mon, 03 Aug 2026 11:44:49 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>This Time Could Be Different for Russia Sanctions</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/russia-sanctions-bill-lindsey-graham-act-has-teeth-by-simon-johnson-and-oleg-ustenko-2026-08</link>
+      <description>High inflation and interest rates are eating away at the foundations of the Russian economy and sapping its growth. By hitting its most important sectors, and its essential source of foreign hard cash, new US legislation would pile enormous pressure on the Kremlin just when it is urgently needed.</description>
+      <pubDate>Mon, 03 Aug 2026 10:41:36 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Can America retrain workers before AI leaves them behind?</title>
@@ -191,10 +392,37 @@
       <pubDate>Fri, 31 Jul 2026 16:33:37 +0000</pubDate>
     </item>
     <item>
+      <title>Africa’s Energy Curse Is a Political Choice</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07</link>
+      <description>It is no secret why African countries with large fossil-fuel reserves nonetheless have failed to reduce extreme poverty or provide reliable electricity to all households. Those in power have made a conscious choice to privilege hard-currency export revenues, some of which then finance elite consumption rather than public investment.</description>
+      <pubDate>Fri, 31 Jul 2026 15:24:48 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/ad5f97c9f0fe526a1fa708182e572aee.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/ad5f97c9f0fe526a1fa708182e572aee.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/ad5f97c9f0fe526a1fa708182e572aee.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Javier Milei’s Odysseus act</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/31/javier-mileis-odysseus-act</link>
-      <description>He is wisely overhauling Argentina’s central bank. But winning elections remains paramount</description>
+      <description>He is wisely overhauling the central bank. But winning elections remains paramount</description>
       <pubDate>Fri, 31 Jul 2026 14:07:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The EU’s Incredible Shrinking Banking Sector</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/top-five-eu-banks-lower-combined-market-capitalization-than-largest-us-bank-by-howard-davies-2026-07</link>
+      <description>At the start of the millennium, all five of the largest European banks had a higher market capitalization than the largest US bank. What explains the fact that a quarter-century later, the largest US bank has a higher capitalization than all five top EU banks combined, and how can European policymakers address this dramatic reversal?</description>
+      <pubDate>Fri, 31 Jul 2026 14:05:15 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/f1ffea038bf1a48243ea8a406e80ac27.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/f1ffea038bf1a48243ea8a406e80ac27.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/f1ffea038bf1a48243ea8a406e80ac27.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>AI Must Enlarge the Economy, Not Divide It</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ai-revolution-does-not-have-to-replace-human-work-by-mark-esposito-and-aurelie-jean-1-2026-07</link>
+      <description>To unlock AI’s full economic potential, we must steer it toward expansion. That requires replacing incentives that favor capital over labor with those that reward augmentation and investment in human capability.</description>
+      <pubDate>Fri, 31 Jul 2026 10:50:14 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/45367463dc282e53b048caff6ab501d2.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/45367463dc282e53b048caff6ab501d2.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/45367463dc282e53b048caff6ab501d2.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Our estimated death toll for this year’s wildfires</title>
@@ -2835,174 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-volatile-for-months</link>
       <description>The pre-war days of $60 crude are not coming back soon</description>
       <pubDate>Tue, 16 Jun 2026 19:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asian allies are doomed to hug Donald Trump close</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/16/asian-allies-are-doomed-to-hug-donald-trump-close</link>
-      <description>Forget middle-power coalitions. Japan and its neighbours know that only America can deter China</description>
-      <pubDate>Tue, 16 Jun 2026 18:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s bull market has entered its manic phase</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/16/americas-bull-market-has-entered-its-manic-phase</link>
-      <description>Options markets show optimism is giving way to euphoria</description>
-      <pubDate>Tue, 16 Jun 2026 18:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The coming El Niño could be the strongest ever recorded</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/16/the-coming-el-nino-could-be-the-strongest-ever-recorded</link>
-      <description>That is bad news for a warming world</description>
-      <pubDate>Tue, 16 Jun 2026 17:43:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers are preying on America’s illegal immigrants</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/16/scammers-are-preying-on-americas-illegal-immigrants</link>
-      <description>Fake lawyers see opportunity in Donald Trump’s crackdown</description>
-      <pubDate>Tue, 16 Jun 2026 17:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Did AI write this article?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article</link>
-      <description>Perish the thought. But we tracked how artificial intelligence is changing five creative fields</description>
-      <pubDate>Tue, 16 Jun 2026 15:47:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Travel Brazil’s mirror-state to see the country’s future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/16/travel-brazils-mirror-state-to-see-the-countrys-future</link>
-      <description>No one has ever been elected president in Brazil without carrying Minas Gerais</description>
-      <pubDate>Tue, 16 Jun 2026 15:39:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The end of the war in Iran threatens “glorious failure” for Israel</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/16/the-end-of-the-war-in-iran-threatens-glorious-failure-for-israel</link>
-      <description>Donald Trump’s deal with Iran leaves America’s ally without any strategic gains</description>
-      <pubDate>Tue, 16 Jun 2026 09:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the world’s top AI-pilled economists</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists</link>
-      <description>Most of them are not found in ivory towers</description>
-      <pubDate>Mon, 15 Jun 2026 19:04:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s carmakers cannot escape Chinese EVs for ever</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/15/americas-carmakers-cannot-escape-chinese-evs-for-ever</link>
-      <description>Can they stay relevant?</description>
-      <pubDate>Mon, 15 Jun 2026 18:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: What eight years as defence editor looks like</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-war-room-newsletter-what-eight-years-as-defence-editor-looks-like</link>
-      <description>From flying fighter jets to travelling on destroyers, Shashank Joshi pens his final edition of this newsletter</description>
-      <pubDate>Mon, 15 Jun 2026 18:26:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comfort meets constraint in China’s most “liveable” city</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/15/comfort-meets-constraint-in-chinas-most-liveable-city</link>
-      <description>A high-income, low-pressure existence is not all it’s cracked up to be</description>
-      <pubDate>Mon, 15 Jun 2026 16:18:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The terrifying new air war in Ukraine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine</link>
-      <description>Russia is dominating the missile war by default, but Ukraine hopes that will change</description>
-      <pubDate>Mon, 15 Jun 2026 15:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A deal is only the beginning of the end of the US-Iran war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/15/a-deal-is-only-the-beginning-of-the-end-of-the-us-iran-war</link>
-      <description>And they could start fighting again in the hope of getting a better one</description>
-      <pubDate>Mon, 15 Jun 2026 13:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s blocking of Anthropic is capricious and chaotic</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic</link>
-      <description>America’s closest allies are shellshocked</description>
-      <pubDate>Sun, 14 Jun 2026 18:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Political manoeuvres are delaying a spy law and new intelligence chief</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/14/political-manoeuvres-are-delaying-a-spy-law-and-new-intelligence-chief</link>
-      <description>Crucial surveillance authorities have lapsed</description>
-      <pubDate>Sun, 14 Jun 2026 18:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The problem with Narendra Modi’s airport-building frenzy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/14/the-problem-with-narendra-modis-airport-building-frenzy</link>
-      <description>Build it and they will come. But how will they leave?</description>
-      <pubDate>Sun, 14 Jun 2026 18:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Californication of middle-class Chinese diets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/14/the-californication-of-middle-class-chinese-diets</link>
-      <description>China wants more healthy, clean and even foreign food</description>
-      <pubDate>Sun, 14 Jun 2026 17:51:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Companies are scrambling to curtail soaring AI costs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs</link>
-      <description>For the heaviest users, tokenmaxxing is losing its appeal</description>
-      <pubDate>Sun, 14 Jun 2026 17:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Donald Trump make Latin America a good bet?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet</link>
-      <description>Nowhere in the developing world has done so well out of the past year</description>
-      <pubDate>Sun, 14 Jun 2026 17:14:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Can Tocqueville explain America today?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/13/checks-and-balance-newsletter-can-tocqueville-explain-america-today</link>
-      <description>John Prideaux, our US editor, takes a road trip to mark the country’s 250th birthday</description>
-      <pubDate>Sat, 13 Jun 2026 10:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Swiss would be foolish to cap their population at 10m</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/12/the-swiss-would-be-foolish-to-cap-their-population-at-10m</link>
-      <description>Immigration sometimes needs brakes, but the proposal would be like driving into a wall</description>
-      <pubDate>Fri, 12 Jun 2026 18:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new drug targets one of cancer’s master switches</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/12/a-new-drug-targets-one-of-cancers-master-switches</link>
-      <description>The pancreatic-cancer drug could be the first of an entirely new class of treatments</description>
-      <pubDate>Fri, 12 Jun 2026 16:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: A World Cup paradox</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/12/cover-story-newsletter-a-world-cup-paradox</link>
-      <description>How we chose this week’s image</description>
-      <pubDate>Fri, 12 Jun 2026 16:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The value of SpaceX rockets on its stock-market debut</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut</link>
-      <description>Elon Musk has become the world’s first trillionaire</description>
-      <pubDate>Fri, 12 Jun 2026 16:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best way to celebrate America at 250 is to get behind the wheel</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/11/the-best-way-to-celebrate-america-at-250-is-to-get-behind-the-wheel</link>
-      <description>Preferably with our new podcast series for company</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan is rethinking its divorce laws</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/11/japan-is-rethinking-its-divorce-laws</link>
-      <description>A move to introduce joint custody marks a big shift</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>In China ride-hailing work is a last resort for rural labourers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/11/in-china-ride-hailing-work-is-a-last-resort-for-rural-labourers</link>
-      <description>But now Shenzhen says it has too many of them</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s notorious university-entrance exam is changing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing</link>
-      <description>Demography and AI are set to transform the gaokao</description>
-      <pubDate>Thu, 11 Jun 2026 13:15:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
