@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Ceuta Crisis Is About More Than Migration</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ceuta-crisis-shows-need-for-cooperation-between-spain-morocco-by-moha-ennaji-2026-08</link>
+      <description>When tens of thousands of people recently entered the Spanish enclave of Ceuta from neighboring Morocco, European leaders lapsed into recriminations, reigniting the debate on migration. But the bigger challenge is to address a long-simmering territorial dispute between Spain and Morocco.</description>
+      <pubDate>Fri, 07 Aug 2026 13:33:57 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/f6c2bcaea95f028db93b2e7f6bbd9541.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/f6c2bcaea95f028db93b2e7f6bbd9541.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/f6c2bcaea95f028db93b2e7f6bbd9541.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>The Rising Price of a Cheap Renminbi</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/renminbi-appreciation-first-step-toward-addressing-chinese-surpluses-by-gene-frieda-2026-08</link>
       <description>&lt;p&gt;Renminbi appreciation would not, on its own, rebalance China’s economy and eliminate its massive surpluses. But by increasing households’ purchasing power over imports and compressing tradable-sector margins, it would raise the cost of avoiding reform.&lt;/p&gt;</description>
@@ -498,15 +507,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/d0bf829dda3076816fa3919148c4d0c3.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Case for a Pay-Where-You-Play Tax System</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/un-tax-convention-opportunity-to-end-age-of-corporate-profit-shifting-by-jayati-ghosh-2026-07</link>
-      <description>The global tax system has repeatedly put corporate interests ahead of people and the planet by allowing multinationals to transfer profits to tax havens. If adopted, the proposed UN Framework Convention on International Tax Cooperation would overturn the century-old rules that make this possible.</description>
-      <pubDate>Mon, 03 Aug 2026 14:54:06 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/1ee1e4bc74d02b72302c9c8f69c1d35f.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Can America retrain workers before AI leaves them behind?</title>
