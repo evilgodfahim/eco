@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Will Iceland Rejoin the EU Path?</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/iceland-referendum-restart-eu-accession-talks-security-concerns-by-carl-bildt-2026-08</link>
+      <description>&lt;p&gt;US President Donald Trump’s volatile and unpredictable security policies, particularly his desire to control Greenland, have put Iceland in a vulnerable position. This uncomfortable reality will likely be front of mind as voters decide whether to reopen membership negotiations with the European Union.&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 10:25:16 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/2471f452863d93562a0d96073f6ce382.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/2471f452863d93562a0d96073f6ce382.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/2471f452863d93562a0d96073f6ce382.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Democracy, Autocracy, or Something Else?</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/new-fault-lines-of-global-governance-by-helmut-k-anheier-et-al-2026-08</link>
       <description>Contrary to conventional wisdom, the world is neither converging on liberal democracy nor being swept by an authoritarian tide. The decisive political struggles of the 21st century will be won or lost through the unglamorous work of strengthening democratic accountability and building effective institutions.</description>
@@ -492,15 +501,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/ebd89055698b6d46e3b9fa34c4a06087.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>This Time Could Be Different for Russia Sanctions</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/russia-sanctions-bill-lindsey-graham-act-has-teeth-by-simon-johnson-and-oleg-ustenko-2026-08</link>
-      <description>High inflation and interest rates are eating away at the foundations of the Russian economy and sapping its growth. By hitting its most important sectors, and its essential source of foreign hard cash, new US legislation would pile enormous pressure on the Kremlin just when it is urgently needed.</description>
-      <pubDate>Mon, 03 Aug 2026 10:41:36 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/22d1832e623e37a507f9dbaed29deb7a.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Can America retrain workers before AI leaves them behind?</title>
