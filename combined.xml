@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Is Europe safer than America?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/09/is-europe-safer-than-america</link>
+      <description>A novel dataset provides some surprising answers</description>
+      <pubDate>Sun, 09 Aug 2026 08:38:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s bullying of Canada is endless</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/09/donald-trumps-bullying-of-canada-is-endless</link>
+      <description>Canadians are starting to turn against Mark Carney’s pragmatic response</description>
+      <pubDate>Sun, 09 Aug 2026 08:29:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The real future of the Democratic Party</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/08/checks-and-balance-newsletter-the-real-future-of-the-democratic-party</link>
       <description>John Prideaux, our executive editor, on why the left is focusing on the wrong kind of candidate</description>
@@ -3050,18 +3062,6 @@
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/18/business</link>
       <description></description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/18/politics</link>
-      <description></description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>How plants keep tabs on the competition</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/18/how-plants-keep-tabs-on-the-competition</link>
-      <description>They grow faster when their rivals are doing the same</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
