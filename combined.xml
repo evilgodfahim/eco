@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>China’s officials are obsessed with safety theatre</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/10/chinas-officials-are-obsessed-with-safety-theatre</link>
+      <description>The public likes all the controls—until they get in the way</description>
+      <pubDate>Mon, 10 Aug 2026 15:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The World Economy Is Swerving, and the Destination Is Unknown</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/global-economy-in-transition-destination-unknown-by-mohamed-a-el-erian-2026-08</link>
+      <description>&lt;p&gt;The days of unfettered globalization, multilateral rule of law, commonly accepted limits on economic statecraft, and widely shared macroeconomic objectives are now long gone. A perpetual, directionless transition is our new reality, and corporate executives, investors, and policymakers must adapt accordingly.&lt;/p&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 14:07:56 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/b70e352181a9255a132f97ce6c4325fe.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/b70e352181a9255a132f97ce6c4325fe.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/b70e352181a9255a132f97ce6c4325fe.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Is China Really a Beggar-thy-Neighbor Power?</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/chinas-policies-are-not-beggar-thy-neighbor-by-dani-rodrik-2026-08</link>
+      <description>&lt;p&gt;When major economies are running at near full capacity, it is not clear that trade deficits should be a cause for concern, since they represent a transfer of purchasing power from surplus countries. Under the current circumstances, then, China’s widely criticized surpluses might as well be called enrich-thy-neighbor.&lt;/p&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 13:09:39 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>No Escape from the Russian Terror Playbook</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/putin-using-stalin-era-tactics-to-stay-in-power-forever-by-nina-l-khrushcheva-2026-08</link>
       <description>When Vladimir Putin revives Stalin-era repression tactics, he does not do so in service of some lofty ideology or grand project. Rather, he and his security apparatus are seeking to safeguard their own power indefinitely—and, as Russians well know, they will stop at nothing to succeed.</description>
@@ -489,24 +513,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/04/how-ai-fuelled-wealth-is-reshaping-south-korea</link>
       <description>Leaders must decide how to manage a big windfall</description>
       <pubDate>Tue, 04 Aug 2026 14:58:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Triumph of India’s Cockroaches</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/cockroach-protests-reaffirm-the-bargain-that-underpins-indian-democracy-by-shashi-tharoor-2026-08</link>
-      <description>The concessions secured by the &quot;cockroach movement&quot; amount to more than a triumph for prospective medical students or a brief political headache for the country&apos;s ruling party. They prove that even after years of centralization and institutional erosion, power remains with the people.</description>
-      <pubDate>Tue, 04 Aug 2026 14:00:51 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/5de49e782719b6fa8c0eb58d41a2b305.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Zombie Monetarism</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/soft-monetarism-for-warsh-fed-wouldnt-work-by-james-k-galbraith-2026-08</link>
-      <description>&lt;p&gt;Three prominent economists, including a former Federal Reserve governor and adviser to US President Donald Trump, have just endorsed “soft monetarism” as a way to guide the Fed&apos;s approach to inflation. But the &quot;quantity theory&quot; of money failed for good reasons, and those reasons have not changed.&lt;/p&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 12:27:56 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/e78f9ab92d75497973b9444eb0980966.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/e78f9ab92d75497973b9444eb0980966.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/e78f9ab92d75497973b9444eb0980966.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>How long can Iran weaponise Hormuz?</title>
@@ -3056,12 +3062,6 @@
       <title>Meet the world’s new peacemakers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers</link>
       <description>Autocracies are taking over conflict mediation. The deals they are making look different</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The left is coming for Democratic incumbents</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/18/the-left-is-coming-for-democratic-incumbents</link>
-      <description>In primary challenges, Mayor Zohran Mamdani is trying to install allies in Congress</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
