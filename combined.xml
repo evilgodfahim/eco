@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How much would you pay for a smarter baby?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/10/how-much-would-you-pay-for-a-smarter-baby</link>
+      <description>Startups claim they can screen embryos for everything from genetic diseases to IQ. Not everyone is convinced</description>
+      <pubDate>Mon, 10 Aug 2026 19:17:41 +0000</pubDate>
+    </item>
+    <item>
       <title>War in the Gulf has weakened two of America’s Arab allies</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/10/war-in-the-gulf-has-weakened-two-of-americas-arab-allies</link>
       <description>Egypt promised to fight and Jordan promised to stay neutral. Neither delivered</description>
@@ -3056,12 +3062,6 @@
       <title>The real winner in Myanmar’s civil war is China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/18/the-real-winner-in-myanmars-civil-war-is-china</link>
       <description>It doesn’t want to fix the war-torn country but is fine managing it</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>News extortion is rife in China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/18/news-extortion-is-rife-in-china</link>
-      <description>The country’s censors may be making it worse</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
