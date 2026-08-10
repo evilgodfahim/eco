@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The War Room newsletter: Do generals make good politicians?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/10/the-war-room-newsletter-do-generals-make-good-politicians</link>
+      <description>Anshel Pfeffer, our Israel correspondent, examines why so few of the country’s former generals succeed in politics</description>
+      <pubDate>Mon, 10 Aug 2026 16:56:28 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s officials are obsessed with safety theatre</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/10/chinas-officials-are-obsessed-with-safety-theatre</link>
       <description>The public likes all the controls—until they get in the way</description>
@@ -3056,12 +3062,6 @@
       <title>How China still outworks the West</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/18/how-china-still-outworks-the-west</link>
       <description>A medal scheme masks the identity of its toughest labourers</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the world’s new peacemakers</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers</link>
-      <description>Autocracies are taking over conflict mediation. The deals they are making look different</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
