@@ -5,6 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Excess Savings Are Driving the New China Shock</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/second-china-shock-is-driven-by-excess-savings-not-subsidies-by-daniel-gros-2026-08</link>
+      <description>&lt;p&gt;The current China shock combines continued supply upgrading with an absorption problem: the decline in property and related investment has reduced domestic demand, but national saving remains very high. The result is a larger savings-investment surplus that spills into net exports.&lt;/p&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 09:16:46 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/bbc738216db2c3ffc7e7e0c74e883e63.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/bbc738216db2c3ffc7e7e0c74e883e63.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/bbc738216db2c3ffc7e7e0c74e883e63.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Asia Bulletin: Inside a girls’ school in Kabul</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/11/asia-bulletin-inside-a-girls-school-in-kabul</link>
+      <description>Tom Sasse, our South Asia bureau chief, on the bleak future facing the few Afghan girls still able to study</description>
+      <pubDate>Tue, 11 Aug 2026 09:02:57 +0000</pubDate>
+    </item>
+    <item>
       <title>How much would you pay for a smarter baby?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/10/how-much-would-you-pay-for-a-smarter-baby</link>
       <description>Startups claim they can screen embryos for everything from genetic diseases to IQ. Not everyone is convinced</description>
@@ -522,15 +537,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era</link>
       <description>The technology is quietly playing a role in every aspect of film-making</description>
       <pubDate>Tue, 04 Aug 2026 15:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Paradigm for Global Health Financing</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/global-health-financing-architecture-a-new-blueprint-by-donald-kaberuka-et-al-2026-07</link>
-      <description>As aid flows decline, more countries are articulating a new vision in which health financing would build on national resources, answer to domestic priorities, and remain accountable to their own citizens. Such a change is long overdue, and it can be achieved by pursuing reforms in three areas.</description>
-      <pubDate>Tue, 04 Aug 2026 15:02:33 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/486c0a37fa7ffb0416a5e34f3e351028.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>How AI-fuelled wealth is reshaping South Korea</title>
@@ -3056,12 +3062,6 @@
       <title>Taiwan’s opposition leader faced a tough crowd in America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/18/taiwans-opposition-leader-faced-a-tough-crowd-in-america</link>
       <description>Many still have doubts about her outreach to Xi Jinping</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Myanmar’s junta revives a hated dam to court China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/18/myanmars-junta-revives-a-hated-dam-to-court-china</link>
-      <description>A dam halted by protests in 2011 is back, but not for the energy it will produce</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
