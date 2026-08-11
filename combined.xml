@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Chechnya’s boss cheers on Russia’s war, but quietly avoids it</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/11/chechnyas-boss-cheers-on-russias-war-but-quietly-avoids-it</link>
+      <description>Ramzan Kadyrov uses his sway to spare his people from the fight</description>
+      <pubDate>Tue, 11 Aug 2026 16:24:59 +0000</pubDate>
+    </item>
+    <item>
       <title>The Return of the Power Trust</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/why-us-utility-merger-wave-should-alarm-policymakers-by-sandeep-vaheesan-2026-08</link>
       <description>A century ago, the US power industry was dominated by sprawling, heavily indebted holding companies until their collapse forced the federal government to break them up. Now, the pattern is repeating, with mega-mergers and buyouts advancing a debt-heavy business model at the expense of households and communities.</description>
@@ -3056,12 +3062,6 @@
       <title>Britain is not ready to rejoin the EU</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/18/britain-is-not-ready-to-rejoin-the-eu</link>
       <description>After a lost decade, it is time to focus on the future</description>
-      <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI has granted America vast new power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power</link>
-      <description>Its government is now the gatekeeper to frontier models—and most compute</description>
       <pubDate>Thu, 18 Jun 2026 12:45:58 +0000</pubDate>
     </item>
   </channel>
