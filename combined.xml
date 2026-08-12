@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>America really might restore democracy to Venezuela</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/12/america-really-might-restore-democracy-to-venezuela</link>
+      <description>Thank Marco Rubio, but beware the caprice of his boss</description>
+      <pubDate>Wed, 12 Aug 2026 18:59:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Kevin Warsh is struggling to escape his predecessor’s problems</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems</link>
       <description>High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/the-trump-loving-right-wins-colombias-presidency</link>
       <description>Abelardo de la Espriella promises an iron fist and economic miracles</description>
       <pubDate>Mon, 22 Jun 2026 08:17:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>American police killings are rising, even as murder rates fall</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/21/american-police-killings-are-rising-even-as-murder-rates-fall</link>
-      <description>More aggressive cops are less restrained</description>
-      <pubDate>Sun, 21 Jun 2026 20:28:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
