@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Kevin Warsh is struggling to escape his predecessor’s problems</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems</link>
+      <description>High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve</description>
+      <pubDate>Wed, 12 Aug 2026 17:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maybe scientific progress isn’t slowing, after all</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/12/maybe-scientific-progress-isnt-slowing-after-all</link>
+      <description>A new paper takes aim at the claim that science has become less disruptive</description>
+      <pubDate>Wed, 12 Aug 2026 17:09:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Should every Indian follow the same rules?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/12/should-every-indian-follow-the-same-rules</link>
       <description>The ruling party’s apparently liberal argument for making everyone marry, divorce and inherit like Hindus</description>
@@ -3051,18 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/21/american-police-killings-are-rising-even-as-murder-rates-fall</link>
       <description>More aggressive cops are less restrained</description>
       <pubDate>Sun, 21 Jun 2026 20:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zombie unicorns are haunting Silicon Valley</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</link>
-      <description>Years of frothy valuations have created a nightmare</description>
-      <pubDate>Sun, 21 Jun 2026 17:24:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Israel undermine America’s peace with Iran?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/21/will-israel-undermine-americas-peace-with-iran</link>
-      <description>Doing so would put it on a collision course with its most important ally</description>
-      <pubDate>Sun, 21 Jun 2026 17:17:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
