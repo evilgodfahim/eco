@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>AI agents lie, cheat and steal. That is putting off users</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</link>
+      <description>It is time to impose law and order on the frontier</description>
+      <pubDate>Wed, 12 Aug 2026 21:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zhu Rongji’s death is a reminder of how much has changed in China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/12/zhu-rongjis-death-is-a-reminder-of-how-much-has-changed-in-china</link>
+      <description>A titan of pragmatic reform is gone, aged 97</description>
+      <pubDate>Wed, 12 Aug 2026 20:00:19 +0000</pubDate>
+    </item>
+    <item>
       <title>A surprising comeback in Wisconsin is a reprieve for Democratic moderates</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/12/a-surprising-comeback-in-wisconsin-is-a-reprieve-for-democratic-moderates</link>
       <description>The party has narrowly dodged a socialist insurgency in a crucial swing state</description>
@@ -3051,18 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset</link>
       <description>Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power</description>
       <pubDate>Mon, 22 Jun 2026 18:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>China can be a useful bogeyman in American politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/22/china-can-be-a-useful-bogeyman-in-american-politics</link>
-      <description>Accusations of influence-peddling can muddy what is really going on</description>
-      <pubDate>Mon, 22 Jun 2026 17:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: America’s AI power grab</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/22/cover-story-newsletter-americas-ai-power-grab</link>
-      <description>How we chose this week’s image</description>
-      <pubDate>Mon, 22 Jun 2026 17:16:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
