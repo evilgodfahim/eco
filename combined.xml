@@ -5,6 +5,39 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Should every Indian follow the same rules?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/12/should-every-indian-follow-the-same-rules</link>
+      <description>The ruling party’s apparently liberal argument for making everyone marry, divorce and inherit like Hindus</description>
+      <pubDate>Wed, 12 Aug 2026 16:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe Failed the Ceuta Test</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ceuta-migration-crisis-demonstrates-collapse-of-european-solidarity-by-zaki-laidi-2026-08</link>
+      <description>The current migration crisis is eating away at the solidarity on which the European Union depends, fueling the rise of the far right and pushing leaders to adopt increasingly hardline policies. But the Ceuta debacle shows why such measures cannot address the deeper forces driving migration.</description>
+      <pubDate>Wed, 12 Aug 2026 15:27:31 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/e2cc58e9e404be6a38f7a75febb87733.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/e2cc58e9e404be6a38f7a75febb87733.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/e2cc58e9e404be6a38f7a75febb87733.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Legacy of Zhu Rongji</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/zhu-rongji-death-record-legacy-by-minxin-pei-2026-08</link>
+      <description>&lt;p&gt;Zhu Rongji’s personal history and political challenges made it highly unlikely that he would rise to the pinnacle of Chinese politics. Once there, he implemented many of the reforms that turned the country into an economic powerhouse.&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 15:07:41 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/e6bb612fe78056101cf33d95f4cd3d31.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/e6bb612fe78056101cf33d95f4cd3d31.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/e6bb612fe78056101cf33d95f4cd3d31.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Twilight of the ICC</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/icc-lacks-authority-and-legitimacy-to-act-as-global-guardian-of-human-rights-by-shlomo-ben-ami-2026-08</link>
+      <description>Born amid the euphoria of the West’s Cold War victory, the International Criminal Court embodied the aspiration that international law could transcend politics. But the ICC always represented victors’ justice, and it was never equipped to operate in a world shaped by Machtpolitik.</description>
+      <pubDate>Wed, 12 Aug 2026 14:47:09 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Zambia’s election is a test of metal</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/12/zambias-election-is-a-test-of-metal</link>
       <description>High copper prices are a boon. But voters want to feel it</description>
@@ -308,37 +341,10 @@
       <enclosure url="https://webapi.project-syndicate.org/library/2471f452863d93562a0d96073f6ce382.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Democracy, Autocracy, or Something Else?</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/new-fault-lines-of-global-governance-by-helmut-k-anheier-et-al-2026-08</link>
-      <description>Contrary to conventional wisdom, the world is neither converging on liberal democracy nor being swept by an authoritarian tide. The decisive political struggles of the 21st century will be won or lost through the unglamorous work of strengthening democratic accountability and building effective institutions.</description>
-      <pubDate>Fri, 07 Aug 2026 08:03:02 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/928723c115514199900905b5e57f4e34.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/928723c115514199900905b5e57f4e34.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/928723c115514199900905b5e57f4e34.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Republicans are the real winners of Michigan’s primary</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/06/republicans-are-the-real-winners-of-michigans-primary</link>
       <description>Three reasons why our midterm prediction model sees Abdul El-Sayed as a relatively weak candidate</description>
       <pubDate>Thu, 06 Aug 2026 22:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colombia’s New Right-Wing Government Faces an Uphill Battle</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/colombia-new-right-wing-government-faces-fiscal-reckoning-by-jose-antonio-ocampo-2026-08</link>
-      <description>Colombian President-elect Abelardo de la Espriella inherits an economy constrained by weak investment and a severe fiscal crisis. His ability to restore fiscal stability without sacrificing the social gains of recent decades will determine whether the country’s rightward shift proves lasting or short-lived.</description>
-      <pubDate>Thu, 06 Aug 2026 15:35:54 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/1d9de80eafe2ebd535da43499a7faf0f.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/1d9de80eafe2ebd535da43499a7faf0f.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/1d9de80eafe2ebd535da43499a7faf0f.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Can Progressives Deliver Economic Growth?</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/mamdani-attempting-to-deliver-economic-redistribution-and-growth-by-rick-mcgahey-2026-08</link>
-      <description>At a time of historic inequality and inadequate public investment, the kind of redistributive policies promoted by politicians on the left are badly needed. But given that no jurisdiction can tax and regulate its way to affordability, a growth-enhancing agenda that generates good jobs and productive capacity is also vital.</description>
-      <pubDate>Thu, 06 Aug 2026 14:37:28 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/6c50d102f9843c70317a74369fccde2d.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/6c50d102f9843c70317a74369fccde2d.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/6c50d102f9843c70317a74369fccde2d.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Republicans and Democrats uniting against animal testing are wrong</title>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/06/21/will-israel-undermine-americas-peace-with-iran</link>
       <description>Doing so would put it on a collision course with its most important ally</description>
       <pubDate>Sun, 21 Jun 2026 17:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is having another AI moment</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment</link>
-      <description>A new model has narrowed the gap with America</description>
-      <pubDate>Sun, 21 Jun 2026 16:50:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
