@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>A big earthquake reveals two very different Colombias</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/12/a-big-earthquake-reveals-two-very-different-colombias</link>
+      <description>The new president, Abelardo de la Espriella, took office three days before it struck</description>
+      <pubDate>Wed, 12 Aug 2026 10:26:52 +0000</pubDate>
+    </item>
+    <item>
       <title>The Monetary Roots of Political Extremism</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/geneva-school-produced-unaccountable-money-markets-and-plutocrats-like-musk-by-ann-pettifor-2026-08</link>
       <description>&lt;p&gt;While the global economy generates unprecedented wealth for plutocrats like Elon Musk, it is, by design, highly unequal, dangerously over-indebted, prone to recurring financial crises, and ecologically disastrous. In such a context, radical reforms will be needed, beginning with the rejection of money as a commodity.&lt;/p&gt;</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/21/the-unlikely-city-welcoming-delhis-intellectual-refugees</link>
       <description>The political climate in India’s capital is stifling free thought</description>
       <pubDate>Sun, 21 Jun 2026 13:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How stretched is the American consumer?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/21/how-stretched-is-the-american-consumer</link>
-      <description>The household saving rate has plunged—but don’t panic</description>
-      <pubDate>Sun, 21 Jun 2026 13:08:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
