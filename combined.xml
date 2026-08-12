@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Zambia’s election is a test of metal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/12/zambias-election-is-a-test-of-metal</link>
+      <description>High copper prices are a boon. But voters want to feel it</description>
+      <pubDate>Wed, 12 Aug 2026 13:26:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Will Latin America Embrace Guerrilla Geopolitics?</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/latin-america-should-apply-lessons-of-guerrilla-warfare-to-geopolitics-by-jorge-g-castaneda-and-carlos-ominami-2026-08</link>
       <description>The resurgence of guerrilla warfare in Ukraine and Iran has underscored the potential benefits of asymmetric action in today’s increasingly multipolar world. Latin America, in particular, should consider how to leverage its many strengths to remedy its relatively weak position on the global stage.</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment</link>
       <description>A new model has narrowed the gap with America</description>
       <pubDate>Sun, 21 Jun 2026 16:50:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The unlikely city welcoming Delhi’s intellectual refugees</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/21/the-unlikely-city-welcoming-delhis-intellectual-refugees</link>
-      <description>The political climate in India’s capital is stifling free thought</description>
-      <pubDate>Sun, 21 Jun 2026 13:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
