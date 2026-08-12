@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Will Latin America Embrace Guerrilla Geopolitics?</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/latin-america-should-apply-lessons-of-guerrilla-warfare-to-geopolitics-by-jorge-g-castaneda-and-carlos-ominami-2026-08</link>
+      <description>The resurgence of guerrilla warfare in Ukraine and Iran has underscored the potential benefits of asymmetric action in today’s increasingly multipolar world. Latin America, in particular, should consider how to leverage its many strengths to remedy its relatively weak position on the global stage.</description>
+      <pubDate>Wed, 12 Aug 2026 12:03:24 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/6e34ae0ce3c523d7a3f802f2f04cbba0.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/6e34ae0ce3c523d7a3f802f2f04cbba0.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/6e34ae0ce3c523d7a3f802f2f04cbba0.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>China’s Biggest Weakness on AI</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/china-ai-weakness-lack-of-strong-welfare-state-to-manage-transition-by-carl-benedikt-frey-2026-08</link>
+      <description>&lt;p&gt;When a state can credibly promise that labor displacement will not mean destitution, workers and their representatives are more likely to accept technological change. But since China can promise no such thing, its lack of a robust welfare state has emerged as a fundamental weakness in the broader AI race.&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:19:24 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/55382204960ac1af2f6c56af640fa24e.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/55382204960ac1af2f6c56af640fa24e.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/55382204960ac1af2f6c56af640fa24e.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>A big earthquake reveals two very different Colombias</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/12/a-big-earthquake-reveals-two-very-different-colombias</link>
       <description>The new president, Abelardo de la Espriella, took office three days before it struck</description>
@@ -455,15 +473,6 @@
       <pubDate>Thu, 06 Aug 2026 10:34:07 +0000</pubDate>
     </item>
     <item>
-      <title>Fauci’s Modern Pillory</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/fauci-senate-hearing-reflects-maga-disdain-for-experts-by-ian-buruma-2026-08</link>
-      <description>MAGA Republicans’ decision to drag Anthony Fauci before a Senate hearing was less about their hatred of science and more about their disdain for the scientists who guide lawmakers in their decision-making. They couldn’t wait to pillory him, and by association any public-facing expert, in front of the cameras.</description>
-      <pubDate>Thu, 06 Aug 2026 10:32:31 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/2338b7b8250b39cc886a6f2e210d69dd.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/2338b7b8250b39cc886a6f2e210d69dd.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/2338b7b8250b39cc886a6f2e210d69dd.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Gulf states should make a deal with Iran on Hormuz</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/gulf-states-should-make-a-deal-with-iran-on-hormuz</link>
       <description>How to make Iranian blackmail less painful</description>
@@ -474,15 +483,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence</link>
       <description>Though the technology is making life still harder for many graduates</description>
       <pubDate>Thu, 06 Aug 2026 09:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cheaper Mortgages Won’t Solve the US Housing Crisis</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/us-housing-affordability-requires-more-homes-not-lower-mortgage-rates-by-ross-levine-and-amit-seru-2026-08</link>
-      <description>&lt;p&gt;For decades, federal housing policy has favored cheaper financing over expanding the housing supply, despite evidence that expanding mortgage credit increases borrowing and house prices. The bipartisan 21st Century ROAD to Housing Act marks an important shift by emphasizing measures that make it easier to build more homes.&lt;/p&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 09:16:17 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/5d120c88c1880e28761ee3f0b0c1afa8.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/5d120c88c1880e28761ee3f0b0c1afa8.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/5d120c88c1880e28761ee3f0b0c1afa8.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>African countries are souring on the dollar</title>
