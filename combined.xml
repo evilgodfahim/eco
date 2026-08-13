@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>When Japan buys yen, it unwinds a dangerous trade</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade</link>
+      <description>The world’s biggest carry trader begins to exit its position</description>
+      <pubDate>Thu, 13 Aug 2026 08:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>China has wrested control of oil markets from OPEC</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec</link>
+      <description>When market power comes from buying power, oil importers can do better</description>
+      <pubDate>Thu, 13 Aug 2026 08:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is China’s debt-bomb squad about to blow up?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up</link>
+      <description>Firms tasked with defusing credit crises are getting into trouble</description>
+      <pubDate>Thu, 13 Aug 2026 08:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Singapore ever build a proper stock market?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market</link>
+      <description>The city-state wants to fill a hole in its financial portfolio</description>
+      <pubDate>Thu, 13 Aug 2026 08:37:16 +0000</pubDate>
+    </item>
+    <item>
       <title>AI agents lie, cheat and steal. That is putting off users</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</link>
       <description>It is time to impose law and order on the frontier</description>
@@ -3039,30 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/23/smartphones-and-ai-are-remaking-rural-india</link>
       <description>Villages have fallen in love with short-form videos and chatbots</description>
       <pubDate>Tue, 23 Jun 2026 11:53:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Boletín newsletter: What Colombia’s rightward swing says about the country</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/22/el-boletin-newsletter-what-colombias-rightward-swing-says-about-the-country</link>
-      <description>Claire McQue, a Latin America contributor, reports from Bogotá on why voters embraced a tough-talking political outsider</description>
-      <pubDate>Mon, 22 Jun 2026 20:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s war economy has problems—but is not about to crash</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash</link>
-      <description>Vladimir Putin is still able to fund his aggression</description>
-      <pubDate>Mon, 22 Jun 2026 19:07:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Looking for a winner from the Iran war?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/22/looking-for-a-winner-from-the-iran-war</link>
-      <description>California’s pistachio farmers have gained, for now</description>
-      <pubDate>Mon, 22 Jun 2026 18:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to turn compute into a financial asset</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset</link>
-      <description>Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power</description>
-      <pubDate>Mon, 22 Jun 2026 18:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
