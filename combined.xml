@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Under the Taliban, Afghanistan is, for once, peaceful</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/08/13/under-the-taliban-afghanistan-is-for-once-peaceful</link>
+      <description>Also very hungry, poor and repressed</description>
+      <pubDate>Thu, 13 Aug 2026 12:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Taliban are vile. Democracies must still engage with them</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/13/the-taliban-are-vile-democracies-must-still-engage-with-them</link>
+      <description>Five years after America’s exit, the Afghan regime is not going anywhere</description>
+      <pubDate>Thu, 13 Aug 2026 11:59:19 +0000</pubDate>
+    </item>
+    <item>
       <title>When Japan buys yen, it unwinds a dangerous trade</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade</link>
       <description>The world’s biggest carry trader begins to exit its position</description>
@@ -39,12 +51,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/12/zhu-rongjis-death-is-a-reminder-of-how-much-has-changed-in-china</link>
       <description>A titan of pragmatic reform is gone, aged 97</description>
       <pubDate>Wed, 12 Aug 2026 20:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>A surprising comeback in Wisconsin is a reprieve for Democratic moderates</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/12/a-surprising-comeback-in-wisconsin-is-a-reprieve-for-democratic-moderates</link>
-      <description>The party has narrowly dodged a socialist insurgency in a crucial swing state</description>
-      <pubDate>Wed, 12 Aug 2026 19:49:31 +0000</pubDate>
     </item>
     <item>
       <title>America really might restore democracy to Venezuela</title>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/23/child-care-is-becoming-more-affordable</link>
       <description>Our ranking compares nursery bills to income in 36 rich countries</description>
       <pubDate>Tue, 23 Jun 2026 17:49:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smartphones and AI are remaking rural India</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/23/smartphones-and-ai-are-remaking-rural-india</link>
-      <description>Villages have fallen in love with short-form videos and chatbots</description>
-      <pubDate>Tue, 23 Jun 2026 11:53:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
