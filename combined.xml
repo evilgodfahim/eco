@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>What Should Be Done About Asia’s Undervalued Currencies?</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08</link>
+      <description>&lt;p&gt;Those who worry that the renminbi, yen, and won are undervalued vis-à-vis the dollar are usually focused on the large trade and current-account surpluses that China, Japan, and Korea run with the US. But coordinated intervention in currency markets will not address the fundamentals underlying these imbalances.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:11:52 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/79319454316afb7c5f2bf52effa16500.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/79319454316afb7c5f2bf52effa16500.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/79319454316afb7c5f2bf52effa16500.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>How Corporations Can Mitigate an AI Jobocalypse</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/corporations-can-mitigate-ai-jobs-apocalypse-by-raghuram-g-rajan-2026-08</link>
       <description>&lt;p&gt;Even if AI-related job displacement is less severe than many feared, corporations will need to be enlisted in minimizing its effects in the name of social solidarity. To that end, governments should consider what policy incentives are in place, and large employers should consider their own long-term interests.&lt;/p&gt;</description>
@@ -522,15 +531,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>No Escape from the Russian Terror Playbook</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/putin-using-stalin-era-tactics-to-stay-in-power-forever-by-nina-l-khrushcheva-2026-08</link>
-      <description>When Vladimir Putin revives Stalin-era repression tactics, he does not do so in service of some lofty ideology or grand project. Rather, he and his security apparatus are seeking to safeguard their own power indefinitely—and, as Russians well know, they will stop at nothing to succeed.</description>
-      <pubDate>Mon, 10 Aug 2026 12:24:26 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/9a129716ebc4cab2f3455945fe5764b3.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/9a129716ebc4cab2f3455945fe5764b3.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/9a129716ebc4cab2f3455945fe5764b3.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sexually transmitted infections are surging in Europe</title>
