@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How Corporations Can Mitigate an AI Jobocalypse</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/corporations-can-mitigate-ai-jobs-apocalypse-by-raghuram-g-rajan-2026-08</link>
+      <description>&lt;p&gt;Even if AI-related job displacement is less severe than many feared, corporations will need to be enlisted in minimizing its effects in the name of social solidarity. To that end, governments should consider what policy incentives are in place, and large employers should consider their own long-term interests.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 13:15:31 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>The Making and Remaking of Chinese Totalitarianism</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/institutional-genes-explain-how-china-totalitarian-institutions-survived-reform-era-by-chenggang-xu-2026-08</link>
       <description>&lt;p&gt;For decades, the West assumed that economic growth would turn China into a more open, liberal society, much as it did South Korea and Taiwan. Instead, China’s totalitarian institutions proved remarkably resilient, surviving decades of reform and reasserting themselves under President Xi Jinping.&lt;/p&gt;</description>
@@ -522,15 +531,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/9a129716ebc4cab2f3455945fe5764b3.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/9a129716ebc4cab2f3455945fe5764b3.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/9a129716ebc4cab2f3455945fe5764b3.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Extractive Trap Has a Green Exit</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/brazil-africa-should-cooperate-to-build-green-industries-by-desire-assogbavi-and-renata-albuquerque-ribeiro-2026-08</link>
-      <description>For resource-rich developing countries, decades of resource extraction have produced income concentration, economic dependency, external vulnerabilities, and the weakening of other productive sectors. Achieving broad-based prosperity requires a new approach, one which leverages South-South cooperation to build green industries.</description>
-      <pubDate>Mon, 10 Aug 2026 11:03:32 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/0e335999969df996d82f8c45398821f2.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/0e335999969df996d82f8c45398821f2.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/0e335999969df996d82f8c45398821f2.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sexually transmitted infections are surging in Europe</title>
