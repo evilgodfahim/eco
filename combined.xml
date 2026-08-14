@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Cover Story newsletter: Inside Afghanistan</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/14/cover-story-newsletter-inside-afghanistan</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Fri, 14 Aug 2026 16:51:47 +0000</pubDate>
+    </item>
+    <item>
       <title>What Should Be Done About Asia’s Undervalued Currencies?</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08</link>
       <description>&lt;p&gt;Those who worry that the renminbi, yen, and won are undervalued vis-à-vis the dollar are usually focused on the large trade and current-account surpluses that China, Japan, and Korea run with the US. But coordinated intervention in currency markets will not address the fundamentals underlying these imbalances.&lt;/p&gt;</description>
@@ -12,6 +18,12 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/79319454316afb7c5f2bf52effa16500.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/79319454316afb7c5f2bf52effa16500.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/79319454316afb7c5f2bf52effa16500.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why standing at your desk may be little better than sitting</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/14/why-standing-at-your-desk-may-be-little-better-than-sitting</link>
+      <description>Apologies to those who have invested in a modish workstation</description>
+      <pubDate>Fri, 14 Aug 2026 15:58:14 +0000</pubDate>
     </item>
     <item>
       <title>How Corporations Can Mitigate an AI Jobocalypse</title>
@@ -3050,18 +3062,6 @@
       <title>Peter Magyar is trying to fire up Hungarian democracy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/25/peter-magyar-is-trying-to-fire-up-hungarian-democracy</link>
       <description>A constitutional amendment would burn away the remnants of Viktor Orban’s regime</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teaching AI how people work is fraught with problems</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/25/teaching-ai-how-people-work-is-fraught-with-problems</link>
-      <description>Tacit knowledge is vital to many jobs</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why easyJet may be heading for a break-up</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/25/why-easyjet-may-be-heading-for-a-break-up</link>
-      <description>Its private-equity suitor may be looking to sell it for parts</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
