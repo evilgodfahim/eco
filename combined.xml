@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Climate Issue newsletter: The surprising effects of Europe’s heatwaves</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/14/the-climate-issue-newsletter-the-surprising-effects-of-europes-heatwaves</link>
+      <description>Oliver Morton, our planetary affairs editor, on how an unusually hot, dry summer is testing the continent’s infrastructure</description>
+      <pubDate>Fri, 14 Aug 2026 20:28:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: Inside Afghanistan</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/14/cover-story-newsletter-inside-afghanistan</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -3056,12 +3062,6 @@
       <title>Why Germany’s cities are going broke</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/25/why-germanys-cities-are-going-broke</link>
       <description>Bad news for residents, good news for the far right’s electoral chances</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Magyar is trying to fire up Hungarian democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/25/peter-magyar-is-trying-to-fire-up-hungarian-democracy</link>
-      <description>A constitutional amendment would burn away the remnants of Viktor Orban’s regime</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
