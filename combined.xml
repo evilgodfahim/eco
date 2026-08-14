@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Making and Remaking of Chinese Totalitarianism</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/institutional-genes-explain-how-china-totalitarian-institutions-survived-reform-era-by-chenggang-xu-2026-08</link>
+      <description>&lt;p&gt;For decades, the West assumed that economic growth would turn China into a more open, liberal society, much as it did South Korea and Taiwan. Instead, China’s totalitarian institutions proved remarkably resilient, surviving decades of reform and reasserting themselves under President Xi Jinping.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 10:12:02 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/3a1e769645d79f2e60052bed6a38f146.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/3a1e769645d79f2e60052bed6a38f146.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/3a1e769645d79f2e60052bed6a38f146.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Let’s Not Forget Multilateral Institutions</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/middle-power-coalitions-of-the-willing-must-be-within-adjacent-to-multilateral-institutions-by-anne-marie-slaughter-2026-08</link>
+      <description>The roadmap for middle-power action that Canadian Prime Minister Mark Carney and Finnish President Alexander Stubb recently laid out calls for countries that share interests to create ad hoc coalitions. But to be effective, these coalitions must work as much as possible within existing multilateral institutions.</description>
+      <pubDate>Fri, 14 Aug 2026 09:41:39 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/4e574ecc024337e5f0d48364817bcc27.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/4e574ecc024337e5f0d48364817bcc27.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/4e574ecc024337e5f0d48364817bcc27.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>The Real Competitiveness Test</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/investment-is-only-competitiveness-indicator-that-matters-by-jan-mischke-et-al-2026-08</link>
       <description>&lt;p&gt;The balance of global investment has shifted dramatically over the past three decades, with China emerging as the leading destination for productive capital. Europe and the United States can still narrow the gap, but only by making it cheaper and easier to build, operate, and innovate.&lt;/p&gt;</description>
@@ -515,15 +533,6 @@
       <enclosure url="https://webapi.project-syndicate.org/library/0e335999969df996d82f8c45398821f2.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>The Last Trump Election</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/2026-midterms-last-trump-election-by-ian-bremmer-2026-08</link>
-      <description>&lt;p&gt;No matter what US President Donald Trump says or does in response to the results of this November’s midterms, he will have faced his final popular vote. There will be further damage done to public confidence in American democratic institutions, but the institutions themselves will hold.&amp;nbsp;&lt;/p&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 08:46:27 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/4670d7727551397c3ca732a24b89bf8d.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/4670d7727551397c3ca732a24b89bf8d.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/4670d7727551397c3ca732a24b89bf8d.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Sexually transmitted infections are surging in Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/09/sexually-transmitted-infections-are-surging-in-europe</link>
       <description>To restrain them, countries must increase testing and reduce stigma</description>
@@ -564,15 +573,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/08/checks-and-balance-newsletter-the-real-future-of-the-democratic-party</link>
       <description>John Prideaux, our executive editor, on why the left is focusing on the wrong kind of candidate</description>
       <pubDate>Sat, 08 Aug 2026 13:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ceuta Crisis Is About More Than Migration</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ceuta-crisis-shows-need-for-cooperation-between-spain-morocco-by-moha-ennaji-2026-08</link>
-      <description>When tens of thousands of people recently entered the Spanish enclave of Ceuta from neighboring Morocco, European leaders lapsed into recriminations, reigniting the debate on migration. But the bigger challenge is to address a long-simmering territorial dispute between Spain and Morocco.</description>
-      <pubDate>Fri, 07 Aug 2026 13:33:57 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/f6c2bcaea95f028db93b2e7f6bbd9541.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/f6c2bcaea95f028db93b2e7f6bbd9541.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/f6c2bcaea95f028db93b2e7f6bbd9541.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Can you hack your gut microbiome?</title>
