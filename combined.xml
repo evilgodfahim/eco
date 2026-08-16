@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Obamacare is becoming even more frail</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/16/obamacare-is-becoming-even-more-frail</link>
+      <description>As the populist left calls for Medicare-for-all, Democrats’ signature health law is faltering</description>
+      <pubDate>Sun, 16 Aug 2026 08:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s refounding fathers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/16/indias-refounding-fathers</link>
+      <description>Nation-building is even harder the second time around</description>
+      <pubDate>Sun, 16 Aug 2026 08:02:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: A tale of two swing states</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/15/checks-and-balance-newsletter-a-tale-of-two-swing-states</link>
       <description>Charlotte Howard, our US editor, on what Florida and Iowa reveal about political change in America</description>
@@ -3050,18 +3062,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/06/25/politics</link>
       <description></description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The EU is just too damn slow</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/25/the-eu-is-just-too-damn-slow</link>
-      <description>Why Brussels needs to pick up the pace</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France’s south is testing out hard-right rule</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/25/frances-south-is-testing-out-hard-right-rule</link>
-      <description>The National Rally is mixing raw nativism with promises of fiscal liberalism</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
