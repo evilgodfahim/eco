@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How the anti-AfD firewall broke German politics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/16/how-the-anti-afd-firewall-broke-german-politics</link>
+      <description>A policy designed to keep the far right from office has ended up strengthening it</description>
+      <pubDate>Sun, 16 Aug 2026 17:37:57 +0000</pubDate>
+    </item>
+    <item>
       <title>America Inc has a tight grip on allied governments</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/16/america-inc-has-a-tight-grip-on-allied-governments</link>
       <description>Companies from Palantir to Lockheed account for a small share of spending, but are hard to shake</description>
@@ -3056,12 +3062,6 @@
       <title>America’s pro-Israel lobby considers next steps</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/25/americas-pro-israel-lobby-considers-next-steps</link>
       <description>Israel’s defenders are flailing at the White House and at the ballot box</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats and Republicans agree: AI is scary</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary</link>
-      <description>It’s about the only thing that unites them</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
