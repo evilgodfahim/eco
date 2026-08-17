@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The War Room newsletter: America’s defeat in Afghanistan, five years on</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/17/the-war-room-newsletter-americas-defeat-in-afghanistan-five-years-on</link>
+      <description>Steve Coll, our senior editor, asks what the anniversary means in Kabul and Washington</description>
+      <pubDate>Mon, 17 Aug 2026 16:44:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iceland Belongs in the Eurozone</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/why-iceland-should-join-euro-by-willem-h-buiter-and-anne-c-sibert-2026-08</link>
+      <description>&lt;p&gt;In evaluating the trade-offs of joining the European Union and giving up their own currency, Icelanders must recognize that the costs of eurozone membership are smaller than what past data suggest. If anything, being within the eurosystem would make a repeat of Iceland&apos;s post-2008 banking crisis exceedingly unlikely.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 16:32:01 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/95e870cfe7a757fd8482913ae2319d1d.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/95e870cfe7a757fd8482913ae2319d1d.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/95e870cfe7a757fd8482913ae2319d1d.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Zhu Rongji’s Legacy of Demographic Decline</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/china-demographic-decline-reforms-that-suppressed-household-income-share-of-gdp-by-yi-fuxian-2026-08</link>
+      <description>&lt;p&gt;Former Chinese Premier Zhu Rongji’s recent death elicited widespread accolades for his role in pushing the market-oriented reforms that unleashed decades of economic growth. But Zhu also oversaw two major policy shifts that have had dire implications for China’s demographic outlook.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 15:47:37 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/4d9fc10577f16798dec16397d81ba0ad.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/4d9fc10577f16798dec16397d81ba0ad.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/4d9fc10577f16798dec16397d81ba0ad.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Donald Trump further undermines trust in American alliances</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/17/donald-trump-further-undermines-trust-in-american-alliances</link>
       <description>America’s president derails military exercises with South Korea</description>
@@ -543,24 +567,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/395086057620547a7da67b1a03149e09.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/395086057620547a7da67b1a03149e09.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/395086057620547a7da67b1a03149e09.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dude, Where’s My Recession?</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/us-economy-seemingly-resilient-but-recession-risks-remain-by-barry-eichengreen-2026-08</link>
-      <description>&lt;p&gt;Despite a series of major negative shocks, some of them unprecedented, the US economy continues to grow in line with its estimated long-run potential. Yet given obvious and mounting risks, from debt-financed speculation to geopolitical tensions, the appearance of resilience should not be confused with the real thing.&lt;/p&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 12:39:08 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/5923b81835f7c0a311bfbdbcbb7300fe.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/5923b81835f7c0a311bfbdbcbb7300fe.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/5923b81835f7c0a311bfbdbcbb7300fe.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Rise of the Token Economy</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/ai-token-economy-requires-data-cooperatives-fair-remuneration-collective-governance-by-yaniv-benhamou-2026-08</link>
-      <description>&lt;p&gt;Millions of people continuously generate the raw material on which AI is trained, yet almost none shares in the wealth it creates. This underscores the need for data cooperatives representing internet users, creators, and other rights holders to negotiate access to the content being fed to large language models.&lt;/p&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 11:05:27 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/f72686cb26893cd1e241cd7bb98c1500.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/f72686cb26893cd1e241cd7bb98c1500.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/f72686cb26893cd1e241cd7bb98c1500.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Asia Bulletin newsletter: Inside a girls’ school in Kabul</title>
@@ -3056,12 +3062,6 @@
       <title>Bangladesh’s main industry is battered by blackouts and rising costs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/25/bangladeshs-main-industry-is-battered-by-blackouts-and-rising-costs</link>
       <description>A crisis may loom</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Students are doing worse than you think</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/06/25/students-are-doing-worse-than-you-think</link>
-      <description>Some at college or university are testing no better than ten-year-olds</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
