@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Ebola is Back-and the IMF’s Relief Fund Is Empty</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/imf-needs-resources-for-poor-countries-in-crisis-by-marina-zucker-marques-2026-08</link>
+      <description>&lt;p&gt;Once again, the International Monetary Fund finds itself begging for resources to support poor countries facing a public-health emergency. It is an old problem, but one for which there is a remarkably simple solution.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 10:21:11 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/00da7a894f0a04e0ddca681c5aa670cf.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/00da7a894f0a04e0ddca681c5aa670cf.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/00da7a894f0a04e0ddca681c5aa670cf.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>How the anti-AfD firewall broke German politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/16/how-the-anti-afd-firewall-broke-german-politics</link>
       <description>A policy designed to keep the far right from office has ended up strengthening it</description>
@@ -576,15 +585,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/b70e352181a9255a132f97ce6c4325fe.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/b70e352181a9255a132f97ce6c4325fe.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/b70e352181a9255a132f97ce6c4325fe.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Is China Really a Beggar-thy-Neighbor Power?</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/chinas-policies-are-not-beggar-thy-neighbor-by-dani-rodrik-2026-08</link>
-      <description>&lt;p&gt;When major economies are running at near full capacity, it is not clear that trade deficits should be a cause for concern, since they represent a transfer of purchasing power from surplus countries. Under the current circumstances, then, China’s widely criticized surpluses might as well be called enrich-thy-neighbor.&lt;/p&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 13:09:39 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/aa336ce8ab31614862931812d7b04e4f.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sexually transmitted infections are surging in Europe</title>
