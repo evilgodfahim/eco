@@ -5,6 +5,27 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>What happens when interceptor missiles run out</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/18/what-happens-when-interceptor-missiles-run-out</link>
+      <description>The growing shortage is causing panic in Ukraine and elsewhere</description>
+      <pubDate>Tue, 18 Aug 2026 19:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stock indices no longer reflect equity reality</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality</link>
+      <description>Lies, damned lies and stock markets</description>
+      <pubDate>Tue, 18 Aug 2026 17:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Future With Chinese Characteristics</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/china-replacing-west-in-worlds-understanding-of-the-future-by-mark-leonard-2026-08</link>
+      <description>&lt;p&gt;The world is undergoing a historical and cultural rupture. Just as Hollywood and other American exports once gave the rest of the world a glimpse of modern life and the future that awaited them, China is now doing the same for African, Latin American, and even American young people.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 17:44:37 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/fda16b6ddd3b94be7bd654de178e9157.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/fda16b6ddd3b94be7bd654de178e9157.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/fda16b6ddd3b94be7bd654de178e9157.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Japan’s Gen X workers are struggling</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling</link>
       <description>The “ice-age” generation has been cursed several times over</description>
@@ -546,15 +567,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/12/zambias-election-is-a-test-of-metal</link>
       <description>High copper prices are a boon. But voters want to feel it</description>
       <pubDate>Wed, 12 Aug 2026 13:26:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Latin America Embrace Guerrilla Geopolitics?</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/latin-america-should-apply-lessons-of-guerrilla-warfare-to-geopolitics-by-jorge-g-castaneda-and-carlos-ominami-2026-08</link>
-      <description>The resurgence of guerrilla warfare in Ukraine and Iran has underscored the potential benefits of asymmetric action in today’s increasingly multipolar world. Latin America, in particular, should consider how to leverage its many strengths to remedy its relatively weak position on the global stage.</description>
-      <pubDate>Wed, 12 Aug 2026 12:03:24 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/6e34ae0ce3c523d7a3f802f2f04cbba0.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/6e34ae0ce3c523d7a3f802f2f04cbba0.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/6e34ae0ce3c523d7a3f802f2f04cbba0.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>A big earthquake reveals two very different Colombias</title>
@@ -3051,18 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/26/the-war-room-newsletter-lessons-from-the-cuban-revolution</link>
       <description>In our bonus edition, Richard Cockett, a senior editor, explains why now is a timely moment to revisit the events that brought Fidel Castro to power</description>
       <pubDate>Fri, 26 Jun 2026 16:17:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drum Tower newsletter: Who is behind China’s latest AI breakthrough?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough</link>
-      <description>Corbin Duncan, our global correspondent, speaks to the Zhipu team on their technical progress, business model and the future of AI</description>
-      <pubDate>Fri, 26 Jun 2026 14:39:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuela suffers its worst earthquake in a century</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/25/venezuela-suffers-its-worst-earthquake-in-a-century</link>
-      <description>The impoverished country is struggling to cope with the damage from two nearly simultaneous shocks</description>
-      <pubDate>Thu, 25 Jun 2026 20:16:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
