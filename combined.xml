@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Russian attacks are doing severe harm to Ukraine’s economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/18/russian-attacks-are-doing-severe-harm-to-ukraines-economy</link>
+      <description>Out of interceptors, Ukraine is no longer winning the aerial war</description>
+      <pubDate>Tue, 18 Aug 2026 15:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The White House’s absurd claim of a Chinese transshipment “scam”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam</link>
+      <description>High tariffs on Chinese goods have had predictable effects</description>
+      <pubDate>Tue, 18 Aug 2026 15:42:49 +0000</pubDate>
+    </item>
+    <item>
       <title>The Myth of the China Shock</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/open-trade-with-china-did-not-cause-us-deindustrialization-by-michael-r-strain-2026-08</link>
       <description>&lt;p&gt;As advances in generative AI continue, US policymakers should heed two lessons from the opening of trade with China. But that will require them to rethink the conventional wisdom about deindustrialization and the decline of manufacturing employment.&lt;/p&gt;</description>
@@ -3051,18 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/25/venezuela-suffers-its-worst-earthquake-in-a-century</link>
       <description>The impoverished country is struggling to cope with the damage from two nearly simultaneous shocks</description>
       <pubDate>Thu, 25 Jun 2026 20:16:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where will Europe’s heatwave be most deadly?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/25/where-will-europes-heatwave-be-most-deadly</link>
-      <description>We analyse 854 cities to see which will be worst affected</description>
-      <pubDate>Thu, 25 Jun 2026 19:06:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI models’ values are very different from most people’s</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples</link>
-      <description>They are more secular and more liberal—unless they’re made in China</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
