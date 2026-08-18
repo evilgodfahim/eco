@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Does AI stop children from learning?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning</link>
+      <description>New data show the peril and promise of the technology</description>
+      <pubDate>Tue, 18 Aug 2026 13:46:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing our latest newsletter, The Economist for You</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/18/introducing-our-latest-newsletter-the-economist-for-you</link>
       <description>A personalised reading list, sent straight to your inbox</description>
@@ -3056,12 +3062,6 @@
       <title>AI models’ values are very different from most people’s</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples</link>
       <description>They are more secular and more liberal—unless they’re made in China</description>
-      <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latin America has turned Trumpy. That creates opportunities</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/06/25/latin-america-has-turned-trumpy-that-creates-opportunities</link>
-      <description>Never before have the politics of the region shifted so quickly</description>
       <pubDate>Thu, 25 Jun 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
