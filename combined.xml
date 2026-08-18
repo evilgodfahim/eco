@@ -5,10 +5,28 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Myth of the China Shock</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/open-trade-with-china-did-not-cause-us-deindustrialization-by-michael-r-strain-2026-08</link>
+      <description>&lt;p&gt;As advances in generative AI continue, US policymakers should heed two lessons from the opening of trade with China. But that will require them to rethink the conventional wisdom about deindustrialization and the decline of manufacturing employment.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 13:47:10 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/0092d50dddbb8abadddf83b06caa738a.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/0092d50dddbb8abadddf83b06caa738a.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/0092d50dddbb8abadddf83b06caa738a.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Does AI stop children from learning?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning</link>
       <description>New data show the peril and promise of the technology</description>
       <pubDate>Tue, 18 Aug 2026 13:46:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guatemala’s Democratic Renewal</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/arevalo-new-attorney-general-appointment-victory-for-guatemala-democracy-by-carlos-alvarado-quesada-2026-08</link>
+      <description>&lt;p&gt;Guatemalan President Bernardo Arévalo’s recent selection of an honest successor to a corrupt attorney general represents a decisive victory for the country’s democracy. Arévalo succeeded not because he abandoned institutions to save democracy, but because he trusted institutions enough to work through them.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 12:50:14 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/c7558f7f02f58a92416aca7d17aad8e8.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/c7558f7f02f58a92416aca7d17aad8e8.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/c7558f7f02f58a92416aca7d17aad8e8.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Introducing our latest newsletter, The Economist for You</title>
@@ -575,15 +593,6 @@
       <pubDate>Tue, 11 Aug 2026 16:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>The Return of the Power Trust</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/why-us-utility-merger-wave-should-alarm-policymakers-by-sandeep-vaheesan-2026-08</link>
-      <description>A century ago, the US power industry was dominated by sprawling, heavily indebted holding companies until their collapse forced the federal government to break them up. Now, the pattern is repeating, with mega-mergers and buyouts advancing a debt-heavy business model at the expense of households and communities.</description>
-      <pubDate>Tue, 11 Aug 2026 14:44:23 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/f0464b5f12e00b91f10754f2345a2144.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/f0464b5f12e00b91f10754f2345a2144.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/f0464b5f12e00b91f10754f2345a2144.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Analysing Africa newsletter: A dispatch from Sudan’s ruined capital</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/11/analysing-africa-newsletter-a-dispatch-from-sudans-ruined-capital</link>
       <description>Tom Gardner, our Africa correspondent, takes a rare trip to Khartoum</description>
@@ -594,15 +603,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/11/taking-taiwans-democracy-hostage</link>
       <description>Self-interested Taiwanese politicians are making the country increasingly ungovernable. China is the only winner</description>
       <pubDate>Tue, 11 Aug 2026 13:38:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Morocco’s Bet on Targeted AI</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/morocco-ai-ownership-strategy-local-languages-lean-models-by-amal-el-fallah-seghrouchni-2026-08</link>
-      <description>Rather than join the global race for computing power, Morocco has focused on building sovereignty over its data, talent, and uses of AI, because technological power will be measured by usefulness, not by domination. This strategy calls for the country to embrace innovation without ceding its identity to foreign models.</description>
-      <pubDate>Tue, 11 Aug 2026 13:32:07 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/395086057620547a7da67b1a03149e09.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/395086057620547a7da67b1a03149e09.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/395086057620547a7da67b1a03149e09.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Asia Bulletin newsletter: Inside a girls’ school in Kabul</title>
