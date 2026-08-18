@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Meta’s blockbuster trial draws parallels to big tobacco</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</link>
+      <description>But investors aren’t panicking yet</description>
+      <pubDate>Tue, 18 Aug 2026 20:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing Africa newsletter: Zambia’s strange election</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/18/analysing-africa-newsletter-zambias-strange-election</link>
+      <description>John McDermott, our chief Africa correspondent, on what a murky vote says about democracy across the continent</description>
+      <pubDate>Tue, 18 Aug 2026 20:18:01 +0000</pubDate>
+    </item>
+    <item>
       <title>What happens when interceptor missiles run out</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/18/what-happens-when-interceptor-missiles-run-out</link>
       <description>The growing shortage is causing panic in Ukraine and elsewhere</description>
@@ -3051,18 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/27/the-climate-issue-newsletter-europe-cant-stand-the-heat</link>
       <description>Oliver Morton, our planetary affairs editor, on why the continent is warming faster than any other—and adapting too slowly</description>
       <pubDate>Sat, 27 Jun 2026 02:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Berlin is even worse equipped than Paris for Europe’s heatwave</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/26/berlin-is-even-worse-equipped-than-paris-for-europes-heatwave</link>
-      <description>Berliners gaze with dread at this weekend’s forecast of 40°C (104°F)</description>
-      <pubDate>Fri, 26 Jun 2026 18:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is too much sleep as bad as too little?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/26/is-too-much-sleep-as-bad-as-too-little</link>
-      <description>The quest for the optimal amount of shut-eye</description>
-      <pubDate>Fri, 26 Jun 2026 16:38:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
