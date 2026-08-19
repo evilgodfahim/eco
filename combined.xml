@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The war on data centres is a bit fake</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake</link>
+      <description>Developers are exaggerating their plans, just as politicians are overstating their opposition</description>
+      <pubDate>Wed, 19 Aug 2026 21:10:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Jason Arday was treated as a symbol, not a man</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/19/jason-arday-was-treated-as-a-symbol-not-a-man</link>
       <description>Both his supporters and detractors dehumanised the tragic fabulist</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/06/29/the-ai-boom-and-geopolitics-are-rewiring-asias-oceans</link>
       <description>New cables between data centres are avoiding China and chokepoints</description>
       <pubDate>Mon, 29 Jun 2026 17:14:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The rise of vibe lawyering</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/29/the-rise-of-vibe-lawyering</link>
-      <description>AI is emboldening people to represent themselves in court. The results are mixed</description>
-      <pubDate>Mon, 29 Jun 2026 15:43:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
