@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Trolling of American Democracy</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/how-strategic-trolling-undermines-democracy-by-robert-gulotty-1-and-zhaotian-luo-2026-08</link>
+      <description>&lt;p&gt;Democracy is most vulnerable when voters can no longer distinguish genuine abuses of power from partisan attacks. Authoritarian leaders exploit that uncertainty by blurring the line between misconduct and political theater, making legitimate criticism look like just another witch hunt.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 12:04:21 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/a4ea9d36d33e0712b128ecf3b2e77f0c.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/a4ea9d36d33e0712b128ecf3b2e77f0c.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/a4ea9d36d33e0712b128ecf3b2e77f0c.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Polo’s lessons for Argentina</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/19/polos-lessons-for-argentina</link>
       <description>Why the South American country dominates the sport</description>
@@ -576,15 +585,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/e6bb612fe78056101cf33d95f4cd3d31.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/e6bb612fe78056101cf33d95f4cd3d31.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/e6bb612fe78056101cf33d95f4cd3d31.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Twilight of the ICC</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/icc-lacks-authority-and-legitimacy-to-act-as-global-guardian-of-human-rights-by-shlomo-ben-ami-2026-08</link>
-      <description>Born amid the euphoria of the West’s Cold War victory, the International Criminal Court embodied the aspiration that international law could transcend politics. But the ICC always represented victors’ justice, and it was never equipped to operate in a world shaped by Machtpolitik.</description>
-      <pubDate>Wed, 12 Aug 2026 14:47:09 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Zambia’s election is a test of metal</title>
