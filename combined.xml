@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Why the world’s richest country can’t defend vital infrastructure</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/19/why-the-worlds-richest-country-cant-defend-vital-infrastructure</link>
+      <description>Washington continues to move more slowly than hackers</description>
+      <pubDate>Wed, 19 Aug 2026 19:36:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Rock-solid evidence for the origins of birds</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/19/rock-solid-evidence-for-the-origins-of-birds</link>
       <description>Stones in dinosaur stomachs may help understanding of avian evolution</description>
@@ -31,7 +37,7 @@
     <item>
       <title>Why bond markets are unnerving rich-world politicians</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians</link>
-      <description>As stocks rise ever higher, yields have been rising across the rich world</description>
+      <description>As stocks rise ever higher, yields have been rising ominously</description>
       <pubDate>Wed, 19 Aug 2026 18:02:58 +0000</pubDate>
     </item>
     <item>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/29/so-far-so-fast</link>
       <description>Our report on gay marriage from 2014</description>
       <pubDate>Mon, 29 Jun 2026 15:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unfit</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/29/unfit</link>
-      <description>Our leader on Donald Trump’s response to a deadly far-right rally in Charlottesville in 2017</description>
-      <pubDate>Mon, 29 Jun 2026 15:33:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
