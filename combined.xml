@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Jason Arday was treated as a symbol, not a man</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/19/jason-arday-was-treated-as-a-symbol-not-a-man</link>
+      <description>Both his supporters and detractors dehumanised the tragic fabulist</description>
+      <pubDate>Wed, 19 Aug 2026 20:53:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Why the world’s richest country can’t defend vital infrastructure</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/19/why-the-worlds-richest-country-cant-defend-vital-infrastructure</link>
       <description>Washington continues to move more slowly than hackers</description>
@@ -37,7 +43,7 @@
     <item>
       <title>Why bond markets are unnerving rich-world politicians</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians</link>
-      <description>As stocks rise ever higher, yields have been rising ominously</description>
+      <description>As stocks rise ever higher, yields have been climbing ominously</description>
       <pubDate>Wed, 19 Aug 2026 18:02:58 +0000</pubDate>
     </item>
     <item>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/06/29/the-rise-of-vibe-lawyering</link>
       <description>AI is emboldening people to represent themselves in court. The results are mixed</description>
       <pubDate>Mon, 29 Jun 2026 15:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>So far, so fast</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/29/so-far-so-fast</link>
-      <description>Our report on gay marriage from 2014</description>
-      <pubDate>Mon, 29 Jun 2026 15:39:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
