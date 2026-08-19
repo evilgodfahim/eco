@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Polo’s lessons for Argentina</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/19/polos-lessons-for-argentina</link>
+      <description>Why the South American country dominates the sport</description>
+      <pubDate>Wed, 19 Aug 2026 10:52:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Meta’s blockbuster trial draws parallels to big tobacco</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</link>
       <description>But investors aren’t panicking yet</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/27/checks-and-balance-newsletter-the-world-cup-doesnt-understand-america</link>
       <description>John Prideaux, our executive editor, on why America is a spectacular place to host the football tournament</description>
       <pubDate>Sat, 27 Jun 2026 10:54:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Climate Issue newsletter: Europe can’t stand the heat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/27/the-climate-issue-newsletter-europe-cant-stand-the-heat</link>
-      <description>Oliver Morton, our planetary affairs editor, on why the continent is warming faster than any other—and adapting too slowly</description>
-      <pubDate>Sat, 27 Jun 2026 02:49:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
