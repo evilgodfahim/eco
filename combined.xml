@@ -5,9 +5,45 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Could AIs become conscious?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/20/could-ais-become-conscious</link>
+      <description>Even if they don’t, they might be treated as such—to humanity’s great cost</description>
+      <pubDate>Thu, 20 Aug 2026 10:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The search for consciousness inside LLMs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026/08/20/the-search-for-consciousness-inside-llms</link>
+      <description>Scientists are trying to figure out whether algorithms could one day wake up and feel</description>
+      <pubDate>Thu, 20 Aug 2026 10:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could more brain-like chips provide a path to consciousness?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/08/20/could-more-brain-like-chips-provide-a-path-to-consciousness</link>
+      <description>Some experts believe computers will need biological aspects to become self-aware</description>
+      <pubDate>Thu, 20 Aug 2026 09:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The high cost of phantom tollbooths</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths</link>
+      <description>Freedom of navigation is worth preserving</description>
+      <pubDate>Thu, 20 Aug 2026 09:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>However you measure it, China’s job market is weak</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak</link>
+      <description>Some workers are going back to the farm</description>
+      <pubDate>Thu, 20 Aug 2026 09:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian elephants are being squeezed out of their habitats</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/20/indian-elephants-are-being-squeezed-out-of-their-habitats</link>
+      <description>Even court orders to protect them are ignored</description>
+      <pubDate>Thu, 20 Aug 2026 08:58:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Will China ever learn to love chocolate?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/20/will-china-ever-learn-to-love-chocolate</link>
-      <description>Consumer sentiment and the chocolatier business</description>
+      <description>Local chocolatiers are raising the bar</description>
       <pubDate>Thu, 20 Aug 2026 08:21:40 +0000</pubDate>
     </item>
     <item>
@@ -254,9 +290,9 @@
       <enclosure url="https://webapi.project-syndicate.org/library/4d9fc10577f16798dec16397d81ba0ad.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Donald Trump further undermines trust in American alliances</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/17/donald-trump-further-undermines-trust-in-american-alliances</link>
-      <description>America’s president derails military exercises with South Korea</description>
+      <title>Donald Trump abruptly scales back an exercise with South Korea</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/17/donald-trump-abruptly-scales-back-an-exercise-with-south-korea</link>
+      <description>In doing so, he has further undermined trust in America’s alliances</description>
       <pubDate>Mon, 17 Aug 2026 14:37:19 +0000</pubDate>
     </item>
     <item>
@@ -319,7 +355,7 @@
     <item>
       <title>India’s refounding fathers</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/16/indias-refounding-fathers</link>
-      <description>Nation-building is even harder the second time around</description>
+      <description>Nation-building is even harder the second time round</description>
       <pubDate>Sun, 16 Aug 2026 08:02:19 +0000</pubDate>
     </item>
     <item>
@@ -3027,42 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/06/30/el-boletin-newsletter-an-earthquake-shakes-venezuelas-political-reset</link>
       <description>Our correspondent in Caracas reports on how disaster is testing an already fragile country</description>
       <pubDate>Tue, 30 Jun 2026 08:08:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Supreme Court leaves Donald Trump with plenty to celebrate</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/06/29/the-supreme-court-leaves-donald-trump-with-plenty-to-celebrate</link>
-      <description>The justices handed the president some notable defeats. But their biggest decisions strengthened him</description>
-      <pubDate>Mon, 29 Jun 2026 23:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turkey’s economic plan to win from the Iran war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war</link>
-      <description>The country is a case study in the spillovers of conflict—both positive and negative</description>
-      <pubDate>Mon, 29 Jun 2026 20:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should every baby’s DNA be sequenced?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced</link>
-      <description>The genomic generation is on its way</description>
-      <pubDate>Mon, 29 Jun 2026 19:51:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s Balkan policy is all about gas</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/06/29/americas-balkan-policy-is-all-about-gas</link>
-      <description>It is using its terminal in Krk to shoulder the green EU aside</description>
-      <pubDate>Mon, 29 Jun 2026 19:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Americans see their country’s past, present and future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</link>
-      <description>As America turns 250, our Economist/YouGov poll reveals an anxious and divided nation</description>
-      <pubDate>Mon, 29 Jun 2026 18:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hong Kong, once a great place to raise and spend money, is halfway back</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/06/29/hong-kong-once-a-great-place-to-raise-and-spend-money-is-halfway-back</link>
-      <description>Tighter ties with the mainland have not always helped</description>
-      <pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
