@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Yuval Noah Harari on the economic and political perils of AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai</link>
+      <description>Humanity must not entrust its lot to clever machines, the bestselling historian warns</description>
+      <pubDate>Thu, 20 Aug 2026 20:00:42 +0000</pubDate>
+    </item>
+    <item>
       <title>How Europe Can Save a Trillion Euros and Win the AI Race</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/eu-ai-strategy-that-lays-foundations-for-multiple-technological-futures-by-eric-hazan-et-al-2026-08</link>
       <description>&lt;p&gt;If the risk Europe faces is losing access to frontier AI models, the solution is not necessarily to chase the labs that created them in the hopes of eventually pulling ahead. Instead, it is to build the capacity to make surviving that loss possible, such as by investing in AI infrastructure and training capabilities.&lt;/p&gt;</description>
@@ -3057,12 +3063,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/is-germanys-government-finally-getting-its-act-together</link>
       <description>A new set of reforms has lifted sagging spirits in Berlin</description>
       <pubDate>Thu, 02 Jul 2026 09:49:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How much will a 4th of July cookout cost this year?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year</link>
-      <description>We calculate the rising price of Americans’ summer staples</description>
-      <pubDate>Thu, 02 Jul 2026 09:41:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
