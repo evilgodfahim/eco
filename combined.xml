@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How Europe Can Save a Trillion Euros and Win the AI Race</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/eu-ai-strategy-that-lays-foundations-for-multiple-technological-futures-by-eric-hazan-et-al-2026-08</link>
+      <description>&lt;p&gt;If the risk Europe faces is losing access to frontier AI models, the solution is not necessarily to chase the labs that created them in the hopes of eventually pulling ahead. Instead, it is to build the capacity to make surviving that loss possible, such as by investing in AI infrastructure and training capabilities.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 15:39:02 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/0329d8e343eabc33f7b990a32a27cac9.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/0329d8e343eabc33f7b990a32a27cac9.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/0329d8e343eabc33f7b990a32a27cac9.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>MDBs Are Becoming a New Global Safe Asset</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/mdb-risk-free-assets-with-spreads-close-to-treasuries-and-strong-demand-by-erik-berglof-2026-08</link>
       <description>&lt;p&gt;Even as multilateralism faces an existential threat, multilateral development banks are not only surviving but thriving. Thanks to MDBs’ ability to borrow at costs close to that of the US Treasury, they have created a new class of de facto risk-free assets that could help underpin the global financial system.&lt;/p&gt;</description>
@@ -552,15 +561,6 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Making and Remaking of Chinese Totalitarianism</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/institutional-genes-explain-how-china-totalitarian-institutions-survived-reform-era-by-chenggang-xu-2026-08</link>
-      <description>&lt;p&gt;For decades, the West assumed that economic growth would turn China into a more open, liberal society, much as it did South Korea and Taiwan. Instead, China’s totalitarian institutions proved remarkably resilient, surviving decades of reform and reasserting themselves under President Xi Jinping.&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 10:12:02 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/3a1e769645d79f2e60052bed6a38f146.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/3a1e769645d79f2e60052bed6a38f146.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/3a1e769645d79f2e60052bed6a38f146.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>In praise of designer-ish babies</title>
