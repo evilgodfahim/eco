@@ -5,6 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Gospel of the Great Leader</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/onpoint/how-north-korea-appropriated-christian-symbolism-to-entrench-the-kim-personality-cult-by-yoon-young-kwan-2026-08</link>
+      <description>North Korea’s communist regime has long functioned as a faith, repurposing Christian doctrine and imagery to deify its founder, Kim Il-sung, and his descendants. A new book traces how those religious influences transformed the Kim dynasty’s personality cult into a system that has endured across three generations.</description>
+      <pubDate>Fri, 21 Aug 2026 08:41:22 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/34061a54d05d602e7dafb478a00a5abe.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/34061a54d05d602e7dafb478a00a5abe.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/34061a54d05d602e7dafb478a00a5abe.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Yuval Noah Harari on the economic and political perils of AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai</link>
       <description>Humanity must not entrust its lot to clever machines, the bestselling historian warns</description>
@@ -558,15 +567,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/14/why-standing-at-your-desk-may-be-little-better-than-sitting</link>
       <description>Apologies to those who have invested in a modish workstation</description>
       <pubDate>Fri, 14 Aug 2026 15:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Corporations Can Mitigate an AI Jobocalypse</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/corporations-can-mitigate-ai-jobs-apocalypse-by-raghuram-g-rajan-2026-08</link>
-      <description>&lt;p&gt;Even if AI-related job displacement is less severe than many feared, corporations will need to be enlisted in minimizing its effects in the name of social solidarity. To that end, governments should consider what policy incentives are in place, and large employers should consider their own long-term interests.&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 13:15:31 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/1327b8091db4702baac1e431fcd3a8d6.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>In praise of designer-ish babies</title>
