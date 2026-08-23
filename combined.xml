@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Checks and Balance newsletter: Donald Trump’s losing bet on oil</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/23/checks-and-balance-newsletter-donald-trumps-losing-bet-on-oil</link>
+      <description>Charlotte Howard, our US editor, on why the president’s energy strategy has backfired</description>
+      <pubDate>Sun, 23 Aug 2026 03:09:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: Could AIs become conscious?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/21/cover-story-newsletter-could-ais-become-conscious</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -3054,12 +3060,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/02/venezuelas-earthquakes-are-partly-americas-problem</link>
       <description>The government’s response has been dire. Its patron has a duty to help</description>
       <pubDate>Thu, 02 Jul 2026 11:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuelans are furious with the American-backed regime</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/02/venezuelans-are-furious-with-the-american-backed-regime</link>
-      <description>But the earthquakes could give it an excuse to keep putting off elections</description>
-      <pubDate>Thu, 02 Jul 2026 11:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
