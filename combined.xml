@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>While Ukraine is under fire, corruption and political chaos abounds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/24/while-ukraine-is-under-fire-corruption-and-political-chaos-abounds</link>
+      <description>Is a reckoning close at hand?</description>
+      <pubDate>Mon, 24 Aug 2026 01:57:00 +0000</pubDate>
+    </item>
+    <item>
       <title>China will struggle to make money from humanoid robots</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots</link>
       <description>It is ahead of rivals and training up thousands, but profits are a long way off</description>
@@ -3053,12 +3059,6 @@
       <title>Uganda’s volatile army chief goes after the press</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/ugandas-volatile-army-chief-goes-after-the-press</link>
       <description>Muhoozi Kainerugaba, the president’s son, looks increasingly like a despot-in-waiting</description>
-      <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africans are turning to Starlink</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink</link>
-      <description>They are fed up with the continent’s terrible internet</description>
       <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
     </item>
   </channel>
