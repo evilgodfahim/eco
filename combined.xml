@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How Shein came crashing down</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/24/how-shein-came-crashing-down</link>
+      <description>The Chinese e-retailer is listing for a quarter of the $100bn at which it was once valued</description>
+      <pubDate>Mon, 24 Aug 2026 15:14:08 +0000</pubDate>
+    </item>
+    <item>
       <title>The Age of Gated Recessions</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/robust-aggregate-indicators-conceal-widening-economic-divide-by-kaushik-basu-2026-08</link>
       <description>&lt;p&gt;Aggregate economic indicators are obscuring a widening divide between those enjoying rapid income growth and those facing deteriorating job prospects. The rise of AI could deepen this disparity, with certain regions and workers experiencing recession-like conditions while others enjoy boom times.&lt;/p&gt;</description>
@@ -3047,12 +3053,6 @@
       <title>The next great Middle East rivalry</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/the-next-great-middle-east-rivalry</link>
       <description>Turkey and Israel are natural allies and yet they are increasingly at odds</description>
-      <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa’s new middle class is putting down roots in the suburbs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/africas-new-middle-class-is-putting-down-roots-in-the-suburbs</link>
-      <description>For a glimpse of the continent’s future, visit the edges of its burgeoning cities</description>
       <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
     </item>
   </channel>
