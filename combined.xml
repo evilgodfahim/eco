@@ -5,6 +5,39 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Age of Gated Recessions</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/robust-aggregate-indicators-conceal-widening-economic-divide-by-kaushik-basu-2026-08</link>
+      <description>&lt;p&gt;Aggregate economic indicators are obscuring a widening divide between those enjoying rapid income growth and those facing deteriorating job prospects. The rise of AI could deepen this disparity, with certain regions and workers experiencing recession-like conditions while others enjoy boom times.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 14:44:01 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/aa9176d93f2c2ac1dd7ede03ab4dd28b.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/aa9176d93f2c2ac1dd7ede03ab4dd28b.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/aa9176d93f2c2ac1dd7ede03ab4dd28b.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Donald Trump’s military expansion in Panama makes little sense</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/24/donald-trumps-military-expansion-in-panama-makes-little-sense</link>
+      <description>It is warping the neutrality which protects the country’s canal</description>
+      <pubDate>Mon, 24 Aug 2026 14:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI Curse</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/society-based-on-ai-could-make-citizens-and-democracy-redundant-by-stephen-holmes-2026-08</link>
+      <description>&lt;p&gt;Every sanction that ordinary citizens have ever possessed—the ability to withhold labor, taxes, sons, or votes—presupposes someone who needs what you can withhold. As AI infrastructure encroaches on Americans, they are learning the lesson of many resource-rich states: where there is no need, there is no democracy.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 13:56:15 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/61b073ddff998f6f178c1b012d850dd7.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/61b073ddff998f6f178c1b012d850dd7.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/61b073ddff998f6f178c1b012d850dd7.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Where Will the Global Bond Rout Hit Growth and Equities?</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/global-bond-rout-wont-hit-us-stocks-by-nouriel-roubini-2026-08</link>
+      <description>&lt;p&gt;In the US, the recent rise in bond yields is largely driven by structural factors like the end of the post-2008 Great Stagnation, higher potential growth from tech-industry investments, and greater private-sector demand for credit. Higher yields are more worrisome for advanced economies that are stagnating and innovating less.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 13:09:02 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/07bb94fb4a9fb8be970ee1c6c2998b29.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/07bb94fb4a9fb8be970ee1c6c2998b29.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/07bb94fb4a9fb8be970ee1c6c2998b29.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Trump’s Korean Catastrophe</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/trump-dangerous-approach-to-korean-peninsula-by-richard-haass-2026-08</link>
       <description>&lt;p&gt;Donald Trump seems not to appreciate that deterrence depends on the ability to mount a credible defense. This makes the Korean Peninsula a more dangerous place, not least because 28,000 US troops are stationed in South Korea, which the US is obliged by treaty to defend.&lt;/p&gt;</description>
@@ -74,7 +107,7 @@
       <pubDate>Fri, 21 Aug 2026 15:57:40 +0000</pubDate>
     </item>
     <item>
-      <title>The Dollar&apos;s Outer Defenses Have Been Breached</title>
+      <title>The Dollar’s Outer Defenses Have Been Breached</title>
       <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/bessent-yen-bond-market-interventions-acts-of-desperation-by-harold-james-2026-08</link>
       <description>&lt;p&gt;The puzzle of why the Trump administration is so concerned with a falling yen has historical parallels not to the 1930s or the 1980s, but to the 1960s, when US officials feared that a crisis elsewhere could spread to America. With US bond yields spiking, Treasury Secretary Scott Bessent is getting desperate.&lt;/p&gt;</description>
       <pubDate>Fri, 21 Aug 2026 15:23:50 GMT</pubDate>
@@ -443,15 +476,6 @@
       <enclosure url="https://webapi.project-syndicate.org/library/da198b4d99ee60f5f520d8c7858dc8de.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>The Trolling of American Democracy</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/how-strategic-trolling-undermines-democracy-by-robert-gulotty-1-and-zhaotian-luo-2026-08</link>
-      <description>&lt;p&gt;Democracy is most vulnerable when voters can no longer distinguish genuine abuses of power from partisan attacks. Authoritarian leaders exploit that uncertainty by blurring the line between misconduct and political theater, making legitimate criticism look like just another witch hunt.&lt;/p&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 12:04:21 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/a4ea9d36d33e0712b128ecf3b2e77f0c.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/a4ea9d36d33e0712b128ecf3b2e77f0c.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/a4ea9d36d33e0712b128ecf3b2e77f0c.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Polo’s lessons for Argentina</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/19/polos-lessons-for-argentina</link>
       <description>Why the South American country dominates the sport</description>
@@ -488,28 +512,10 @@
       <pubDate>Tue, 18 Aug 2026 17:50:12 +0000</pubDate>
     </item>
     <item>
-      <title>A Future With Chinese Characteristics</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/china-replacing-west-in-worlds-understanding-of-the-future-by-mark-leonard-2026-08</link>
-      <description>&lt;p&gt;The world is undergoing a historical and cultural rupture. Just as Hollywood and other American exports once gave the rest of the world a glimpse of modern life and the future that awaited them, China is now doing the same for African, Latin American, and even American young people.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 17:44:37 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/fda16b6ddd3b94be7bd654de178e9157.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/fda16b6ddd3b94be7bd654de178e9157.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/fda16b6ddd3b94be7bd654de178e9157.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Japan’s Gen X workers are struggling</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling</link>
       <description>The “ice-age” generation has been cursed several times over</description>
       <pubDate>Tue, 18 Aug 2026 16:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Putin Has Run Out of Moves</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/russian-economy-facing-stagflation-fiscal-and-financial-instability-by-anders-aslund-2026-08</link>
-      <description>&lt;p&gt;Even with the Russian economy suffering from low growth, high inflation, and relentless Ukrainian long-range drone strikes on energy infrastructure, President Vladimir Putin has thrown fiscal caution to the wind and allowed the government’s budget deficit to balloon to 2.8% of GDP. It isn’t likely to end well.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 16:03:25 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/145fd823d1f37a383391e5884355ee03.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/145fd823d1f37a383391e5884355ee03.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/145fd823d1f37a383391e5884355ee03.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Russian attacks are doing severe harm to Ukraine’s economy</title>
@@ -3047,12 +3053,6 @@
       <title>Africa’s new middle class is putting down roots in the suburbs</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/africas-new-middle-class-is-putting-down-roots-in-the-suburbs</link>
       <description>For a glimpse of the continent’s future, visit the edges of its burgeoning cities</description>
-      <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uganda’s volatile army chief goes after the press</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/02/ugandas-volatile-army-chief-goes-after-the-press</link>
-      <description>Muhoozi Kainerugaba, the president’s son, looks increasingly like a despot-in-waiting</description>
       <pubDate>Thu, 02 Jul 2026 14:22:37 +0000</pubDate>
     </item>
   </channel>
