@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Americans should rekindle their love for big business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/24/americans-should-rekindle-their-love-for-big-business</link>
+      <description>New research shows large firms are vital for prosperity</description>
+      <pubDate>Mon, 24 Aug 2026 22:45:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Iran will be able to shrug off America’s financial threats</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/24/iran-will-be-able-to-shrug-off-americas-financial-threats</link>
       <description>In the face of fresh sanctions, the regime is defiant</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring</link>
       <description>Hazy numbers and the absence of the IMF make for an unusual negotiation</description>
       <pubDate>Thu, 02 Jul 2026 09:36:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>America is anxious, and awesomely powerful</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/02/america-is-anxious-and-awesomely-powerful</link>
-      <description>Restlessness is what prevents the republic from sinking into stagnation</description>
-      <pubDate>Thu, 02 Jul 2026 08:48:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
