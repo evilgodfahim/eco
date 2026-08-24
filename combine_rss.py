@@ -20,9 +20,7 @@ rss_feeds = [
     ("https://www.economist.com/business/rss.xml",                       "https://archive.is/o/nuunc/"),
     ("https://www.economist.com/graphic-detail/rss.xml",                 "https://archive.is/o/nuunc/"),
     ("https://www.economist.com/rss/middle_east_and_africa_rss.xml",     "https://archive.is/o/nuunc/"),
-    ("https://www.economist.com/the-americas/rss.xml",                   "https://archive.is/o/nuunc/"),
-    ("https://www.project-syndicate.org/rss",                            "https://archive.is/newest/"),
-]
+    ("https://www.economist.com/the-americas/rss.xml",                   "https://archive.is/o/nuunc/")]
 
 def escape_xml(text):
     """Escape special XML characters"""
