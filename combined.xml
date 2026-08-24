@@ -5,8 +5,17 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>While Ukraine is under fire, corruption and political chaos abounds</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/24/while-ukraine-is-under-fire-corruption-and-political-chaos-abounds</link>
+      <title>Trump’s Korean Catastrophe</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/trump-dangerous-approach-to-korean-peninsula-by-richard-haass-2026-08</link>
+      <description>&lt;p&gt;Donald Trump seems not to appreciate that deterrence depends on the ability to mount a credible defense. This makes the Korean Peninsula a more dangerous place, not least because 28,000 US troops are stationed in South Korea, which the US is obliged by treaty to defend.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 12:19:16 GMT</pubDate>
+      <media:thumbnail url="https://webapi.project-syndicate.org/library/6536bdd80e87a9a3f4f16b3f0f0de2b3.16-9-xlarge.1.jpg" />
+      <media:content url="https://webapi.project-syndicate.org/library/6536bdd80e87a9a3f4f16b3f0f0de2b3.16-9-xlarge.1.jpg" medium="image" />
+      <enclosure url="https://webapi.project-syndicate.org/library/6536bdd80e87a9a3f4f16b3f0f0de2b3.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>While Ukraine is under fire, corruption and political chaos abound</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/24/while-ukraine-is-under-fire-corruption-and-political-chaos-abound</link>
       <description>Is a reckoning close at hand?</description>
       <pubDate>Mon, 24 Aug 2026 01:57:00 +0000</pubDate>
     </item>
@@ -129,6 +138,18 @@
       <media:thumbnail url="https://webapi.project-syndicate.org/library/34061a54d05d602e7dafb478a00a5abe.16-9-xlarge.1.jpg" />
       <media:content url="https://webapi.project-syndicate.org/library/34061a54d05d602e7dafb478a00a5abe.16-9-xlarge.1.jpg" medium="image" />
       <enclosure url="https://webapi.project-syndicate.org/library/34061a54d05d602e7dafb478a00a5abe.16-9-xlarge.1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Technology Is Not Above the Law</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/magazine/technology-not-above-law-need-ai-safety-rules-and-section-230-reform-by-olivier-sylvain-2026-09</link>
+      <description>In arguing for a regulatory regime that is skewed entirely toward freeing developers to build online services, rather than placing any social obligations on them, the AI industry is using a playbook that Silicon Valley wrote 30 years ago. This time, however, the public seems less inclined to buy the industry&apos;s argument.</description>
+      <pubDate>Thu, 20 Aug 2026 22:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Superintelligent Democracy</title>
+      <link>https://archive.is/newest/https://www.project-syndicate.org/magazine/superintelligent-democracy-ai-governance-based-on-ethics-of-care-by-audrey-tang-2026-09</link>
+      <description>&lt;p&gt;Rather than framing the pursuit of AI capabilities as a race, we should turn the process into a democratic mission, with milestones set by the people, rather than on their behalf. Taiwan&apos;s own demonstration of mission-led governance, along with insights from the open-web community, show what is possible.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 22:05:00 GMT</pubDate>
     </item>
     <item>
       <title>Yuval Noah Harari on the economic and political perils of AI</title>
@@ -503,37 +524,10 @@
       <pubDate>Tue, 18 Aug 2026 15:42:49 +0000</pubDate>
     </item>
     <item>
-      <title>The Geopolitical Drag on AI Governance</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/us-and-china-view-ai-governance-through-geopolitical-lens-by-gabriela-ramos-2026-08</link>
-      <description>&lt;p&gt;The Trump administration’s decision to prioritize national competitiveness over multilateral frameworks has deepened the fragmentation of AI governance—and expanded the opening for China to organize its own system. But China&apos;s approach is similarly shaped primarily by its own geopolitical ambitions.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 15:31:29 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/072e821744d554674aaacfd70e2cb5f6.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/072e821744d554674aaacfd70e2cb5f6.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/072e821744d554674aaacfd70e2cb5f6.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Myth of the China Shock</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/open-trade-with-china-did-not-cause-us-deindustrialization-by-michael-r-strain-2026-08</link>
-      <description>&lt;p&gt;As advances in generative AI continue, US policymakers should heed two lessons from the opening of trade with China. But that will require them to rethink the conventional wisdom about deindustrialization and the decline of manufacturing employment.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 13:47:10 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/0092d50dddbb8abadddf83b06caa738a.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/0092d50dddbb8abadddf83b06caa738a.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/0092d50dddbb8abadddf83b06caa738a.16-9-xlarge.1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Does AI stop children from learning?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning</link>
       <description>New data show the peril and promise of the technology</description>
       <pubDate>Tue, 18 Aug 2026 13:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guatemala’s Democratic Renewal</title>
-      <link>https://archive.is/newest/https://www.project-syndicate.org/commentary/arevalo-new-attorney-general-appointment-victory-for-guatemala-democracy-by-carlos-alvarado-quesada-2026-08</link>
-      <description>&lt;p&gt;Guatemalan President Bernardo Arévalo’s recent selection of an honest successor to a corrupt attorney general represents a decisive victory for the country’s democracy. Arévalo succeeded not because he abandoned institutions to save democracy, but because he trusted institutions enough to work through them.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 12:50:14 GMT</pubDate>
-      <media:thumbnail url="https://webapi.project-syndicate.org/library/c7558f7f02f58a92416aca7d17aad8e8.16-9-xlarge.1.jpg" />
-      <media:content url="https://webapi.project-syndicate.org/library/c7558f7f02f58a92416aca7d17aad8e8.16-9-xlarge.1.jpg" medium="image" />
-      <enclosure url="https://webapi.project-syndicate.org/library/c7558f7f02f58a92416aca7d17aad8e8.16-9-xlarge.1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Introducing our latest newsletter, The Economist for You</title>
