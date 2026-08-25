@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How many Big Macs does your salary buy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/08/25/how-many-big-macs-does-your-salary-buy</link>
+      <description>Our McWages index offers a burger-based guide to purchasing power</description>
+      <pubDate>Tue, 25 Aug 2026 15:12:26 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: Donald Trump’s strange obsession with naval design</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/25/the-war-room-newsletter-donald-trumps-strange-obsession-with-naval-design</link>
       <description>Anton La Guardia, our diplomatic editor, examines why the president wants to revert to steam-driven catapults on aircraft-carriers</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year</link>
       <description>We calculate the rising price of Americans’ summer staples</description>
       <pubDate>Thu, 02 Jul 2026 09:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are stablecoins money?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money</link>
-      <description>Policymakers’ job is to make them safe as well as useful</description>
-      <pubDate>Thu, 02 Jul 2026 09:37:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
