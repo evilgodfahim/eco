@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>As his presidency flounders, Donald Trump is more dangerous than ever</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-donald-trump-is-more-dangerous-than-ever</link>
+      <description>Forget lame ducks. America’s president will defend his dominance like an ageing silverback gorilla</description>
+      <pubDate>Tue, 25 Aug 2026 17:36:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The universe is peculiar. But it may soon become less so</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/25/the-universe-is-peculiar-but-it-may-soon-become-less-so</link>
+      <description>New theories and experiments should shine light on string theory</description>
+      <pubDate>Tue, 25 Aug 2026 17:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>What makes a great investor?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor</link>
+      <description>A big dose of luck, and a distinctly odd character</description>
+      <pubDate>Tue, 25 Aug 2026 17:15:09 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Houthis have become the most fearsome of Iran’s allies</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/25/how-the-houthis-have-become-the-most-fearsome-of-irans-allies</link>
       <description>Yemen and the Red Sea are both threatened</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/02/indias-government-overhauls-a-vast-workfare-programme</link>
       <description>Critics say it has been gutted</description>
       <pubDate>Thu, 02 Jul 2026 10:45:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan’s army chief battles with its imprisoned ex-prime minister</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/02/pakistans-army-chief-battles-with-its-imprisoned-ex-prime-minister</link>
-      <description>Which of Asim Munir or Imran Khan will prevail?</description>
-      <pubDate>Thu, 02 Jul 2026 10:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>America should not imprison frontier AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai</link>
-      <description>Fable is free. But the technology desperately needs better regulations</description>
-      <pubDate>Thu, 02 Jul 2026 10:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Germany’s government finally getting its act together?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/02/is-germanys-government-finally-getting-its-act-together</link>
-      <description>A new set of reforms has lifted sagging spirits in Berlin</description>
-      <pubDate>Thu, 02 Jul 2026 09:49:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
