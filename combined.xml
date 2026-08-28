@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Kevin Warsh tries being a normal central banker</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker</link>
+      <description>And markets like it</description>
+      <pubDate>Fri, 28 Aug 2026 17:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to combine exercise with video games</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/28/how-to-combine-exercise-with-video-games</link>
+      <description>Warmed up and ready, player one</description>
+      <pubDate>Fri, 28 Aug 2026 16:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Let slip the dogs (and pigeons) of war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/28/the-war-room-newsletter-let-slip-the-dogs-and-pigeons-of-war</link>
+      <description>Richard Cockett, a senior editor, looks back at the remarkable history of animals in warfare</description>
+      <pubDate>Fri, 28 Aug 2026 15:00:18 +0000</pubDate>
+    </item>
+    <item>
       <title>When obeying an American law means breaking a Chinese one</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/27/when-obeying-an-american-law-means-breaking-a-chinese-one</link>
       <description>Multinationals must prepare for a world of legal contradiction</description>
@@ -95,9 +113,9 @@
       <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
     </item>
     <item>
-      <title>Giorgia Meloni is Italy’s steadiest postwar prime minister</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/27/giorgia-meloni-is-italys-steadiest-postwar-prime-minister</link>
-      <description>Fusing populism and moderation proves a recipe for staying in power</description>
+      <title>Giorgia Meloni is fusing populism and moderation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/27/giorgia-meloni-is-fusing-populism-and-moderation</link>
+      <description>On September 4th she will become Italy’s longest continuously serving prime minister since Benito Mussolini</description>
       <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
     </item>
     <item>
@@ -185,9 +203,9 @@
       <pubDate>Thu, 27 Aug 2026 08:57:29 +0000</pubDate>
     </item>
     <item>
-      <title>Tax breaks for charity donations are a poor way to do good</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/27/tax-breaks-for-charity-donations-are-a-poor-way-to-do-good</link>
-      <description>They should be scrapped</description>
+      <title>Tax breaks for charity donations should be scrapped</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/27/tax-breaks-for-charity-donations-should-be-scrapped</link>
+      <description>They are a poor way to do good</description>
       <pubDate>Thu, 27 Aug 2026 08:57:00 +0000</pubDate>
     </item>
     <item>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter</link>
       <description>War, weather and outages may still send gas prices soaring</description>
       <pubDate>Wed, 08 Jul 2026 14:08:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Middle East Dispatch: Mourning and spectacle in Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/08/middle-east-dispatch-mourning-and-spectacle-in-iran</link>
-      <description>The point of the mega-funeral is to demonstrate the power of the regime, writes Anton La Guardia, our diplomatic editor</description>
-      <pubDate>Wed, 08 Jul 2026 09:35:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marine Le Pen is running for the French presidency</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/07/marine-le-pen-is-running-for-the-french-presidency</link>
-      <description>Despite being found guilty by the Paris court of appeal</description>
-      <pubDate>Tue, 07 Jul 2026 20:23:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI has taken over the stock market. The bond market is next</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next</link>
-      <description>Judging credit risk of the AI boom is difficult</description>
-      <pubDate>Tue, 07 Jul 2026 20:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
