@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Checks and Balance newsletter: Silicon Valley’s simulation idea is old and dull</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/29/checks-and-balance-newsletter-silicon-valleys-simulation-idea-is-old-and-dull</link>
+      <description>John Prideaux, our executive editor, on Silicon Valley solipsism</description>
+      <pubDate>Sat, 29 Aug 2026 08:36:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Kevin Warsh tries being a normal central banker</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker</link>
       <description>And markets like it</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/08/brazilian-cities-are-building-vast-surveillance-networks</link>
       <description>Can they combat the country’s biggest security threats?</description>
       <pubDate>Wed, 08 Jul 2026 17:06:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three ways the LNG market could crack before winter</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter</link>
-      <description>War, weather and outages may still send gas prices soaring</description>
-      <pubDate>Wed, 08 Jul 2026 14:08:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
