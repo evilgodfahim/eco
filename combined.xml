@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Cover Story newsletter: The Unwelcoming States of America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/30/cover-story-newsletter-the-unwelcoming-states-of-america</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Sun, 30 Aug 2026 10:05:16 +0000</pubDate>
+    </item>
+    <item>
       <title>America’s murky deal to secure a fifth of Venezuela’s oil</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/29/americas-murky-deal-to-secure-a-fifth-of-venezuelas-oil</link>
       <description>It could give both countries reason to forestall a democratic transition</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/08/the-future-of-chipmaking-looks-more-like-manhattan-than-silicon-valley</link>
       <description>Constrained by physics and politics, chipmakers are building upwards</description>
       <pubDate>Wed, 08 Jul 2026 19:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russians are growing anxious and angry</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/russians-are-growing-anxious-and-angry</link>
-      <description>The war has come home and is everyone’s problem</description>
-      <pubDate>Wed, 08 Jul 2026 17:29:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
