@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Cornered, Vladimir Putin plans to escalate his war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/30/cornered-vladimir-putin-plans-to-escalate-his-war</link>
+      <description>His refusal to back down is rooted in Russia’s gangster politics</description>
+      <pubDate>Sun, 30 Aug 2026 20:16:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Will anybody use AI as much as coders?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders</link>
       <description>The answer will have big implications for the investment boom</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/08/is-donald-trump-serious-in-declaring-the-ceasefire-with-iran-over</link>
       <description>Iran’s ultra-nationalist new leaders may welcome his bluster</description>
       <pubDate>Wed, 08 Jul 2026 20:04:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s gaming strategy has misfired badly</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/08/microsofts-gaming-strategy-has-misfired-badly</link>
-      <description>A supply-chain crisis for Xbox couldn’t have come at a worse time</description>
-      <pubDate>Wed, 08 Jul 2026 19:48:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
