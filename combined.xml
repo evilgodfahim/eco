@@ -5,14 +5,44 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The extraordinary rise of a city’s economy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-a-citys-economy</link>
+      <description>Thanks to a combination of capital and politics, Miami is booming. Can its success be sustained?</description>
+      <pubDate>Mon, 31 Aug 2026 17:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Alternative for Germany has plans for Saxony-Anhalt</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/31/the-alternative-for-germany-has-plans-for-saxony-anhalt</link>
+      <description>If it wins its first state, ideology in schools and broadcasting is just the start</description>
+      <pubDate>Mon, 31 Aug 2026 16:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>In film and in life, China pursues dragon-restaurant diplomacy</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/31/in-film-and-in-life-china-pursues-dragon-restaurant-diplomacy</link>
+      <description>It is full of contradictions but welcomed by many as an alternative to Western power</description>
+      <pubDate>Mon, 31 Aug 2026 14:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could Latin America’s biggest democracy have a Milei moment?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/31/could-latin-americas-biggest-democracy-have-a-milei-moment</link>
+      <description>Renan Santos, a liberal nerd with a rock band, is rising in the polls</description>
+      <pubDate>Mon, 31 Aug 2026 14:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel’s election season is entering a new phase</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/31/israels-election-season-is-entering-a-new-phase</link>
+      <description>But Binyamin Netanyahu’s tactics are familiar: sowing discord</description>
+      <pubDate>Mon, 31 Aug 2026 13:53:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Cornered, Vladimir Putin plans to escalate his war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/30/cornered-vladimir-putin-plans-to-escalate-his-war</link>
       <description>His refusal to back down is rooted in Russia’s gangster politics</description>
       <pubDate>Sun, 30 Aug 2026 20:16:24 +0000</pubDate>
     </item>
     <item>
-      <title>Will anybody use AI as much as coders?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders</link>
+      <title>Will anybody use AI as much as coders do?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do</link>
       <description>The answer will have big implications for the investment boom</description>
       <pubDate>Sun, 30 Aug 2026 19:51:28 +0000</pubDate>
     </item>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams</link>
       <description>Even though capital markets are staging a comeback</description>
       <pubDate>Thu, 09 Jul 2026 08:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>An ageing society might not cost too much</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/09/an-ageing-society-might-not-cost-too-much</link>
-      <description>A dystopian vision of the future may not come to pass</description>
-      <pubDate>Thu, 09 Jul 2026 08:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The man who would change Russia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/the-man-who-would-change-russia</link>
-      <description>A leading oligarch speaks out, warning of the looming disaster facing his country</description>
-      <pubDate>Thu, 09 Jul 2026 04:44:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>NATO survives its bipolar summit</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/08/nato-survives-its-bipolar-summit</link>
-      <description>Allies breath a sigh of relief; Ukraine may even cheer</description>
-      <pubDate>Wed, 08 Jul 2026 21:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk and the age of the corporate leviathan</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/08/elon-musk-and-the-age-of-the-corporate-leviathan</link>
-      <description>For the world’s largest companies, the normal rules of corporate governance no longer apply</description>
-      <pubDate>Wed, 08 Jul 2026 21:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Donald Trump serious in declaring the ceasefire with Iran over?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/middle-east-and-africa/2026/07/08/is-donald-trump-serious-in-declaring-the-ceasefire-with-iran-over</link>
-      <description>Iran’s ultra-nationalist new leaders may welcome his bluster</description>
-      <pubDate>Wed, 08 Jul 2026 20:04:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
