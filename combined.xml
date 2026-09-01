@@ -5,15 +5,27 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Europe’s bond markets are suffering a post-holiday shock</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock</link>
+      <description>Reasons for rising yields differ somewhat from those in America, but are no less problematic</description>
+      <pubDate>Tue, 01 Sep 2026 21:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ukraine war is intensifying, expanding and stuck</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/01/the-ukraine-war-is-intensifying-expanding-and-stuck</link>
+      <description>The bleak view from Sweden, a Ukrainian ally braced for 50 years of confrontation with Russia</description>
+      <pubDate>Tue, 01 Sep 2026 19:57:35 +0000</pubDate>
+    </item>
+    <item>
       <title>IPO booms can spell trouble for the markets</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets</link>
       <description>Companies go public in good times that may not last</description>
       <pubDate>Tue, 01 Sep 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>Ukraine is preparing for Russia’s hardest winter blitz yet</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/01/ukraine-is-preparing-for-russias-hardest-winter-blitz-yet</link>
-      <description>The grid is better reinforced, but interceptors are lacking</description>
+      <title>Ukraine is bracing for Russia’s hardest winter blitz yet</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/01/ukraine-is-bracing-for-russias-hardest-winter-blitz-yet</link>
+      <description>It is reinforcing fast, but perhaps not fast enough</description>
       <pubDate>Tue, 01 Sep 2026 17:20:46 +0000</pubDate>
     </item>
     <item>
@@ -2990,18 +3002,6 @@
       <title>Europe’s public broadcasters go from prime time to hard-to-find</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/09/europes-public-broadcasters-go-from-prime-time-to-hard-to-find</link>
       <description>Apathetic teenagers and culture warriors are hobbling venerable state media outlets</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poland and Ukraine have fallen out over history</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/09/poland-and-ukraine-have-fallen-out-over-history</link>
-      <description>The row could have lasting consequences for Europe’s security</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The secret to good questions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/09/the-secret-to-good-questions</link>
-      <description>Consideration, consistency and curveballs</description>
       <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
     </item>
   </channel>
