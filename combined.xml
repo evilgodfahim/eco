@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The lengthening reach of China’s armed forces</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/01/the-lengthening-reach-of-chinas-armed-forces</link>
+      <description>Why Chinese jets are staging mock combat over Egypt</description>
+      <pubDate>Tue, 01 Sep 2026 15:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing Africa newsletter: A five-point guide to being a billionaire</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/01/analysing-africa-newsletter-a-five-point-guide-to-being-a-billionaire</link>
+      <description>John McDermott, chief Africa correspondent, provides some tongue-in-cheek advice</description>
+      <pubDate>Tue, 01 Sep 2026 14:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bartleby newsletter: Teamwork doesn’t make the machines work</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/01/bartleby-newsletter-teamwork-doesnt-make-the-machines-work</link>
+      <description>Our columnist, Andrew Palmer, looks at whether AI agents are able to co-operate</description>
+      <pubDate>Tue, 01 Sep 2026 12:27:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Asia Bulletin newsletter: Lessons from the flash flood in Nepal</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/01/asia-bulletin-newsletter-lessons-from-the-flash-flood-in-nepal</link>
       <description>Geoff Carr, senior editor, considers how to best prevent the harm caused by glacial avalanches</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/09/ahmed-al-sharaa-is-quashing-syrias-vast-captagon-trade</link>
       <description>But pills that cost cents to produce still sell for $25</description>
       <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Africa take the Asian path to growth?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/09/can-africa-take-the-asian-path-to-growth</link>
-      <description>Stalling agricultural productivity makes it look unlikely</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Americans and Canadians are squabbling over mines</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/09/americans-and-canadians-are-squabbling-over-mines</link>
-      <description>The frontier complicates disagreements between indigenous groups</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian mangoes have been banned from Japan</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/09/indian-mangoes-have-been-banned-from-japan</link>
-      <description>It’s the latest sign of a widespread food-safety problem</description>
-      <pubDate>Thu, 09 Jul 2026 11:07:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
