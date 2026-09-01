@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Asia Bulletin newsletter: Lessons from the flash flood in Nepal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/01/asia-bulletin-newsletter-lessons-from-the-flash-flood-in-nepal</link>
+      <description>Geoff Carr, senior editor, considers how to best prevent the harm caused by glacial avalanches</description>
+      <pubDate>Tue, 01 Sep 2026 11:28:45 +0000</pubDate>
+    </item>
+    <item>
       <title>The extraordinary rise of Miami’s economy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy</link>
       <description>Thanks to a combination of capital and politics, the city is booming. Can its success be sustained?</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/09/indian-mangoes-have-been-banned-from-japan</link>
       <description>It’s the latest sign of a widespread food-safety problem</description>
       <pubDate>Thu, 09 Jul 2026 11:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>China may struggle to fund Xi Jinping’s tech dreams</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams</link>
-      <description>Even though capital markets are staging a comeback</description>
-      <pubDate>Thu, 09 Jul 2026 08:27:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
