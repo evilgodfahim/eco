@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Pete Hegseth is conquering the Pentagon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/01/pete-hegseth-is-conquering-the-pentagon</link>
+      <description>His latest purge claims the army’s great reformer</description>
+      <pubDate>Tue, 01 Sep 2026 23:06:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s bond markets are suffering a post-holiday shock</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock</link>
       <description>Reasons for rising yields differ somewhat from those in America, but are no less problematic</description>
@@ -2996,12 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/09/politics</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s public broadcasters go from prime time to hard-to-find</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/09/europes-public-broadcasters-go-from-prime-time-to-hard-to-find</link>
-      <description>Apathetic teenagers and culture warriors are hobbling venerable state media outlets</description>
       <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
     </item>
   </channel>
