@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Middle East Dispatch: The return of the Gulf war</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/02/middle-east-dispatch-the-return-of-the-gulf-war</link>
+      <description>Gregg Carlstrom, our Middle East correspondent, on the reasons for the recent skirmishes</description>
+      <pubDate>Wed, 02 Sep 2026 09:45:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Pete Hegseth is conquering the Pentagon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/01/pete-hegseth-is-conquering-the-pentagon</link>
       <description>His latest purge claims the army’s great reformer</description>
@@ -2995,12 +3001,6 @@
     <item>
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/09/business</link>
-      <description></description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/09/politics</link>
       <description></description>
       <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
     </item>
