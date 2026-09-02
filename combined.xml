@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Why get an MBA when you can watch a sports documentary?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/02/why-get-an-mba-when-you-can-watch-a-sports-documentary</link>
+      <description>Business schools are running out of management ideas, but dressing rooms are full of them</description>
+      <pubDate>Wed, 02 Sep 2026 22:05:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Central banking has a forbidding future</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/02/central-banking-has-a-forbidding-future</link>
       <description>But Kevin Warsh has bought himself time</description>
@@ -13,7 +19,7 @@
     <item>
       <title>How data centres became one of America’s hottest political issues</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/02/how-data-centres-became-one-of-americas-hottest-political-issues</link>
-      <description>America’s growing hatred of the facilities is reshaping the midterm elections</description>
+      <description>Growing hatred of the facilities is reshaping the midterm elections</description>
       <pubDate>Wed, 02 Sep 2026 19:35:06 +0000</pubDate>
     </item>
     <item>
@@ -2996,12 +3002,6 @@
       <title>China’s media gloat at Britain’s chaotic democracy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy</link>
       <description>But Chinese viewers also love British comedy that laughs at politics</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>China releases a prominent Christian pastor</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/09/china-releases-a-prominent-christian-pastor</link>
-      <description>Jin Mingri formerly ran a large house church in Beijing</description>
       <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
     </item>
   </channel>
