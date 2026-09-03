@@ -5,6 +5,54 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How work makes families more equal</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/03/how-work-makes-families-more-equal</link>
+      <description>The love of money is the root of quite a lot of good</description>
+      <pubDate>Thu, 03 Sep 2026 10:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Catastrophic floods warn Nepal of more disasters to come</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/03/catastrophic-floods-warn-nepal-of-more-disasters-to-come</link>
+      <description>It is woefully short of the resources and international help to cope with them</description>
+      <pubDate>Thu, 03 Sep 2026 10:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chandrababu Naidu’s techno-utopian vision for his Indian state</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/03/chandrababu-naidus-techno-utopian-vision-for-his-indian-state</link>
+      <description>Has Andhra Pradesh’s tech-savvy chief minister bitten off more than he can chew?</description>
+      <pubDate>Thu, 03 Sep 2026 10:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia is driving the AI boom. Good</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good</link>
+      <description>The chipmaker’s enormous bets are how capitalism is supposed to work</description>
+      <pubDate>Thu, 03 Sep 2026 09:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia is the central bank of AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</link>
+      <description>But will its loans prove sound?</description>
+      <pubDate>Thu, 03 Sep 2026 09:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mexico is struggling to win over bond markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets</link>
+      <description>Investors are unconvinced by Claudia Sheinbaum’s policies</description>
+      <pubDate>Thu, 03 Sep 2026 09:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>China tries to look past the property slump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump</link>
+      <description>But its new policies could hurt construction and employment</description>
+      <pubDate>Thu, 03 Sep 2026 09:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian regulators’ attempts to protect retail traders are backfiring</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/03/indian-regulators-attempts-to-protect-retail-traders-are-backfiring</link>
+      <description>The unintended consequences of curbs on options trading</description>
+      <pubDate>Thu, 03 Sep 2026 09:34:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Why get an MBA when you can watch a sports documentary?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/02/why-get-an-mba-when-you-can-watch-a-sports-documentary</link>
       <description>Business schools are running out of management ideas, but dressing rooms are full of them</description>
@@ -19,7 +67,7 @@
     <item>
       <title>How data centres became one of America’s hottest political issues</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/02/how-data-centres-became-one-of-americas-hottest-political-issues</link>
-      <description>Growing hatred of the facilities is reshaping the midterm elections</description>
+      <description>America’s growing hatred of the facilities is reshaping the midterm elections</description>
       <pubDate>Wed, 02 Sep 2026 19:35:06 +0000</pubDate>
     </item>
     <item>
@@ -131,8 +179,8 @@
       <pubDate>Mon, 31 Aug 2026 14:25:54 +0000</pubDate>
     </item>
     <item>
-      <title>The dark horse presidential candidate Brazil’s authorities are trying to ban</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/31/the-dark-horse-presidential-candidate-brazils-authorities-are-trying-to-ban</link>
+      <title>The dark horse presidential candidate Brazil’s authorities tried to ban</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/31/the-dark-horse-presidential-candidate-brazils-authorities-tried-to-ban</link>
       <description>Renan Santos, a fast-talking liberal with a rock band, models himself after Argentina’s Javier Milei</description>
       <pubDate>Mon, 31 Aug 2026 14:15:11 +0000</pubDate>
     </item>
@@ -179,9 +227,9 @@
       <pubDate>Sun, 30 Aug 2026 10:05:16 +0000</pubDate>
     </item>
     <item>
-      <title>America’s murky deal to secure a fifth of Venezuela’s oil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/29/americas-murky-deal-to-secure-a-fifth-of-venezuelas-oil</link>
-      <description>It could give both countries reason to forestall a democratic transition</description>
+      <title>America has laid claim to a fifth of Venezuela’s oil</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/29/america-has-laid-claim-to-a-fifth-of-venezuelas-oil</link>
+      <description>The deal could give both countries reason to forestall a democratic transition</description>
       <pubDate>Sat, 29 Aug 2026 11:23:32 +0000</pubDate>
     </item>
     <item>
@@ -2955,54 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/10/where-is-the-home-of-football</link>
       <description>England invented the sport. But its modern centre of gravity lies elsewhere</description>
       <pubDate>Fri, 10 Jul 2026 10:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How dementia is being defeated</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated</link>
-      <description>Incidence among the elderly is falling fast</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is capable of evil?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/who-is-capable-of-evil</link>
-      <description>Stop lowering the age of criminal responsibility</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>A no-brainer for protecting your brain</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</link>
-      <description>One simple vaccination may dramatically reduce the risk of dementia</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>England needs fewer council homes, not more</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/england-needs-fewer-council-homes-not-more</link>
-      <description>Andy Burnham’s plan is no way to ease the housing crisis</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two cheers for Trump Accounts</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/09/two-cheers-for-trump-accounts</link>
-      <description>The grubby scheme contains the seeds of a good idea</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How South Korean Buddhists are trying to stay relevant</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/09/how-south-korean-buddhists-are-trying-to-stay-relevant</link>
-      <description>Life is suffering; the Buddha can help</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laos has big dreams of exporting energy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/09/laos-has-big-dreams-of-exporting-energy</link>
-      <description>But its dams have flooded it with debt and other problems</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s media gloat at Britain’s chaotic democracy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy</link>
-      <description>But Chinese viewers also love British comedy that laughs at politics</description>
-      <pubDate>Thu, 09 Jul 2026 13:03:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
