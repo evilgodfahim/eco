@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Checks and Balance newsletter: America has a new villain</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/05/checks-and-balance-newsletter-america-has-a-new-villain</link>
+      <description>Shashank Joshi, our Washington bureau chief, on why the backlash against data centres is misguided</description>
+      <pubDate>Sat, 05 Sep 2026 15:16:46 +0000</pubDate>
+    </item>
+    <item>
       <title>VW’s surprise job-slashing deal is a big win for its bosses</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/04/vws-surprise-job-slashing-deal-is-a-big-win-for-its-bosses</link>
       <description>And a blow to Germany’s co-operative model of industrial relations</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/16/its-too-darn-hot-blame-global-dimming</link>
       <description>Earth is absorbing a lot more sunshine</description>
       <pubDate>Thu, 16 Jul 2026 09:04:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking</link>
-      <description>The new chairman enlists heavy-hitters to fight a handful of gnarly problems</description>
-      <pubDate>Thu, 16 Jul 2026 09:02:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
