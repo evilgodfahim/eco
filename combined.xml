@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Alternative for Germany has won its best-ever election result</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/06/the-alternative-for-germany-has-won-its-best-ever-election-result</link>
+      <description>But the hard-right could still fall short of forming a government in Saxony-Anhalt</description>
+      <pubDate>Sun, 06 Sep 2026 22:35:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Inflation is back around the world—as is the fight against it</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it</link>
       <description>Central banks are raising interest rates again</description>
@@ -17,9 +23,9 @@
       <pubDate>Sun, 06 Sep 2026 11:17:33 +0000</pubDate>
     </item>
     <item>
-      <title>A reservoir of last resort is running dry in Wyoming</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/06/a-reservoir-of-last-resort-is-running-dry-in-wyoming</link>
-      <description>Competing water uses in the American West are getting harder to manage</description>
+      <title>The American West’s water is increasingly fought over</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/06/the-american-wests-water-is-increasingly-fought-over</link>
+      <description>A reservoir of last resort in Wyoming shows what that means in practice</description>
       <pubDate>Sun, 06 Sep 2026 09:52:58 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/16/ukraines-reformist-defence-minister-is-ousted</link>
       <description>The generals pushed back at his efforts to modernise the army</description>
       <pubDate>Thu, 16 Jul 2026 09:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s transformation of the Department of Justice will be hard to undo</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/16/donald-trumps-transformation-of-the-department-of-justice-will-be-hard-to-undo</link>
-      <description>Political prosecutions are just part of a more radical reinvention</description>
-      <pubDate>Thu, 16 Jul 2026 09:22:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
