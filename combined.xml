@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Inflation is back around the world—as is the fight against it</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it</link>
+      <description>Central banks are raising interest rates again</description>
+      <pubDate>Sun, 06 Sep 2026 15:39:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Why India baffles China</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/06/why-india-baffles-china</link>
       <description>Chinese scholarship on India has grown in breadth but not depth</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/16/donald-trumps-transformation-of-the-department-of-justice-will-be-hard-to-undo</link>
       <description>Political prosecutions are just part of a more radical reinvention</description>
       <pubDate>Thu, 16 Jul 2026 09:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to shrink the Fed’s $7trn balance-sheet</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/16/how-to-shrink-the-feds-7trn-balance-sheet</link>
-      <description>Kevin Warsh will struggle to reverse the effects of bond-buying</description>
-      <pubDate>Thu, 16 Jul 2026 09:06:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
