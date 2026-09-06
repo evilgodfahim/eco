@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Why India baffles China</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/06/why-india-baffles-china</link>
+      <description>Chinese scholarship on India has grown in breadth but not depth</description>
+      <pubDate>Sun, 06 Sep 2026 11:17:33 +0000</pubDate>
+    </item>
+    <item>
       <title>A reservoir of last resort is running dry in Wyoming</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/06/a-reservoir-of-last-resort-is-running-dry-in-wyoming</link>
       <description>Competing water uses in the American West are getting harder to manage</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/16/how-to-shrink-the-feds-7trn-balance-sheet</link>
       <description>Kevin Warsh will struggle to reverse the effects of bond-buying</description>
       <pubDate>Thu, 16 Jul 2026 09:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s gutting of the Department of Justice</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/16/donald-trumps-gutting-of-the-department-of-justice</link>
-      <description>What the degraded institution means for America</description>
-      <pubDate>Thu, 16 Jul 2026 09:05:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
