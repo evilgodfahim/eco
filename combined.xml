@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>A reservoir of last resort is running dry in Wyoming</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/06/a-reservoir-of-last-resort-is-running-dry-in-wyoming</link>
+      <description>Competing water uses in the American West are getting harder to manage</description>
+      <pubDate>Sun, 06 Sep 2026 09:52:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: America has a new villain</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/05/checks-and-balance-newsletter-america-has-a-new-villain</link>
       <description>Shashank Joshi, our Washington bureau chief, on why the backlash against data centres is misguided</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/16/donald-trumps-gutting-of-the-department-of-justice</link>
       <description>What the degraded institution means for America</description>
       <pubDate>Thu, 16 Jul 2026 09:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s too darn hot. Blame global dimming</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/16/its-too-darn-hot-blame-global-dimming</link>
-      <description>Earth is absorbing a lot more sunshine</description>
-      <pubDate>Thu, 16 Jul 2026 09:04:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
