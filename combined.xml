@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Javier Milei’s liberal experiment is struggling</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/07/javier-mileis-liberal-experiment-is-struggling</link>
+      <description>In an interview with The Economist, Argentina’s president is unyielding</description>
+      <pubDate>Mon, 07 Sep 2026 13:18:41 +0000</pubDate>
+    </item>
+    <item>
       <title>The Alternative for Germany has won its best-ever election result</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/06/the-alternative-for-germany-has-won-its-best-ever-election-result</link>
       <description>But the hard-right could still fall short of forming a government in Saxony-Anhalt</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/16/sovereign-ai-independent-of-america-and-china-is-a-pipe-dream</link>
       <description>But a degree of protection from coercion remains possible</description>
       <pubDate>Thu, 16 Jul 2026 09:39:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s reformist defence minister is ousted</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/16/ukraines-reformist-defence-minister-is-ousted</link>
-      <description>The generals pushed back at his efforts to modernise the army</description>
-      <pubDate>Thu, 16 Jul 2026 09:30:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
