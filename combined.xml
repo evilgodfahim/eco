@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Satellites get a new type of armour</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/07/satellites-get-a-new-type-of-armour</link>
+      <description>Composite tiles, fabrics and foams may bring effective shielding from orbital debris</description>
+      <pubDate>Mon, 07 Sep 2026 17:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speech in China is in the deep freeze</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/07/speech-in-china-is-in-the-deep-freeze</link>
+      <description>A natural disaster and a comedy mishap testify to the party’s power</description>
+      <pubDate>Mon, 07 Sep 2026 15:02:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Javier Milei’s liberal experiment is struggling</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/07/javier-mileis-liberal-experiment-is-struggling</link>
       <description>In an interview with The Economist, Argentina’s president is unyielding</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/16/the-biggest-schools-training-americas-doctors-are-in-the-caribbean</link>
       <description>The industry has a seedy underbelly</description>
       <pubDate>Thu, 16 Jul 2026 12:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>An unreliable America is drawing Asia’s middle powers closer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/16/an-unreliable-america-is-drawing-asias-middle-powers-closer</link>
-      <description>A burst of Indian diplomacy exemplifies the trend</description>
-      <pubDate>Thu, 16 Jul 2026 10:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sovereign AI, independent of America and China, is a pipe dream</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/16/sovereign-ai-independent-of-america-and-china-is-a-pipe-dream</link>
-      <description>But a degree of protection from coercion remains possible</description>
-      <pubDate>Thu, 16 Jul 2026 09:39:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
