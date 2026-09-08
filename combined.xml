@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Are teenagers growing dimmer?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/08/are-teenagers-growing-dimmer</link>
+      <description>The latest global school tests reveal shocking new declines</description>
+      <pubDate>Tue, 08 Sep 2026 07:28:37 +0000</pubDate>
+    </item>
+    <item>
       <title>How American universities get around the DEI backlash</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/07/how-american-universities-get-around-the-dei-backlash</link>
       <description>Schools are relabelling offices faster than they are cutting them</description>
@@ -2996,12 +3002,6 @@
       <title>A hit new show takes on polygamy in modern South Africa</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/16/a-hit-new-show-takes-on-polygamy-in-modern-south-africa</link>
       <description>“The Polygamist” is trashy yet perceptive about family, patriarchy and inequality</description>
-      <pubDate>Thu, 16 Jul 2026 12:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s other battle with Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/16/americas-other-battle-with-iran</link>
-      <description>The two countries are vying for influence in Iraq</description>
       <pubDate>Thu, 16 Jul 2026 12:53:49 +0000</pubDate>
     </item>
   </channel>
