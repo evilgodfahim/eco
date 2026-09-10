@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>A Russian shadow flits over Sweden’s election</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/a-russian-shadow-flits-over-swedens-election</link>
+      <description>The tight contest may not go as the populist-right Sweden Democrats hoped</description>
+      <pubDate>Thu, 10 Sep 2026 16:27:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Argentina needs less shouting and more growth</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/10/argentina-needs-less-shouting-and-more-growth</link>
       <description>Without it, Javier Milei’s remarkable liberal experiment could end next year</description>
@@ -41,8 +47,8 @@
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
     <item>
-      <title>China rethinks its relationship with leisure</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/10/china-rethinks-its-relationship-with-leisure</link>
+      <title>Can China finally relax?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/10/can-china-finally-relax</link>
       <description>The hard-working society wants to kick back more, but faces constraints</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
@@ -65,8 +71,8 @@
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
     <item>
-      <title>Cartoon:</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/cartoon</link>
+      <title>Cartoon: How 9/11 empowers Donald Trump’s presidency</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/cartoon-how-911-empowers-donald-trumps-presidency</link>
       <description>A lighter take on the news</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
@@ -86,6 +92,12 @@
       <title>Russia has turned its schools into indoctrination machines</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/russia-has-turned-its-schools-into-indoctrination-machines</link>
       <description>Soviet-style educational propaganda is back</description>
+      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facing global crises, Europe rearranges the diplomatic deckchairs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/facing-global-crises-europe-rearranges-the-diplomatic-deckchairs</link>
+      <description>Foreign affairs, domestic rows</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/22/indias-gen-z-protesters-demand-a-proper-education</link>
       <description>Delhi’s biggest protests in years have been met by tear-gas and repression</description>
       <pubDate>Wed, 22 Jul 2026 16:42:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electric aviation is taking off</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/22/electric-aviation-is-taking-off</link>
-      <description>Hybrids, rather than fully electric planes, are likely to triumph</description>
-      <pubDate>Wed, 22 Jul 2026 10:49:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Iran war is consuming the Trump presidency</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/21/the-iran-war-is-consuming-the-trump-presidency</link>
-      <description>Donald Trump may hate to hear it, but Barack Obama was right about avoiding “stupid shit”</description>
-      <pubDate>Tue, 21 Jul 2026 20:42:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
