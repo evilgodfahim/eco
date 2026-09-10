@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Where prediction markets struggle</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/10/where-prediction-markets-struggle</link>
+      <description>They misfired during America’s primaries—but not in the way you might think</description>
+      <pubDate>Thu, 10 Sep 2026 17:53:56 +0000</pubDate>
+    </item>
+    <item>
       <title>A Russian shadow flits over Sweden’s election</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/a-russian-shadow-flits-over-swedens-election</link>
       <description>The tight contest may not go as the populist-right Sweden Democrats hoped</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/22/does-spacexs-plan-for-a-data-centre-in-space-add-up</link>
       <description>It’s less crazy than you think</description>
       <pubDate>Wed, 22 Jul 2026 17:58:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s Gen-Z protesters demand a proper education</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/22/indias-gen-z-protesters-demand-a-proper-education</link>
-      <description>Delhi’s biggest protests in years have been met by tear-gas and repression</description>
-      <pubDate>Wed, 22 Jul 2026 16:42:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
