@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>India at last acquires a taste for cheese</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/10/india-at-last-acquires-a-taste-for-cheese</link>
+      <description>Thank modern fermentation, changing diets and pizza</description>
+      <pubDate>Thu, 10 Sep 2026 10:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Donald Trump  boxed his party in</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/10/how-donald-trump-boxed-his-party-in</link>
+      <description>Despite his unpopularity, Republicans have to bet on him to hold their congressional majorities</description>
+      <pubDate>Thu, 10 Sep 2026 09:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kevin Warsh should raise interest rates</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/10/kevin-warsh-should-raise-interest-rates</link>
+      <description>The Federal Reserve’s next meeting will be his first big test as chair</description>
+      <pubDate>Thu, 10 Sep 2026 09:25:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Germany’s economic recovery outrun the AfD?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd</link>
+      <description>It is showing signs of life—but fragile ones</description>
+      <pubDate>Thu, 10 Sep 2026 09:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The economic folly of free buses</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/10/the-economic-folly-of-free-buses</link>
+      <description>There are better ways to fight climate change, immobility and inequality</description>
+      <pubDate>Thu, 10 Sep 2026 09:17:11 +0000</pubDate>
+    </item>
+    <item>
       <title>The rise of retrofuturism</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/09/the-rise-of-retrofuturism</link>
       <description>A new aesthetic is taking hold in Silicon Valley and beyond</description>
@@ -109,7 +139,7 @@
     <item>
       <title>Chinese carmakers are bringing their factories to the world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/07/chinese-carmakers-are-bringing-their-factories-to-the-world</link>
-      <description>Incumbents will need to hit the accelerator to compete</description>
+      <description>Incumbents will have to accelerate to compete</description>
       <pubDate>Mon, 07 Sep 2026 19:59:43 +0000</pubDate>
     </item>
     <item>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/06/17/boomers-have-the-good-life-but-it-could-be-longer</link>
       <description>A single chart shows why they have missed out on extra years</description>
       <pubDate>Fri, 17 Jul 2026 14:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pete Hegseth’s testosterone-screening plan is unusual, not crazy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/17/pete-hegseths-testosterone-screening-plan-is-unusual-not-crazy</link>
-      <description>Soldiers seem to be at particular risk of hypogonadism</description>
-      <pubDate>Fri, 17 Jul 2026 13:36:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia is losing its grip on Crimea</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/16/russia-is-losing-its-grip-on-crimea</link>
-      <description>Ukraine’s drone offensive is making it harder to supply and defend the vital peninsula</description>
-      <pubDate>Thu, 16 Jul 2026 16:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: Continuing uncertainty over the Strait of Hormuz</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/16/cartoon-continuing-uncertainty-over-the-strait-of-hormuz</link>
-      <description>A lighter take on the news</description>
-      <pubDate>Thu, 16 Jul 2026 12:56:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel’s future hangs in the balance</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/16/israels-future-hangs-in-the-balance</link>
-      <description>The country’s coming election may be its most important ever</description>
-      <pubDate>Thu, 16 Jul 2026 12:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>America should stop making it so hard to have fun</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/16/america-should-stop-making-it-so-hard-to-have-fun</link>
-      <description>Bureaucracy is nightlife’s toughest bouncer</description>
-      <pubDate>Thu, 16 Jul 2026 12:53:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
