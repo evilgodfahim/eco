@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Top mathematicians are outraged by OpenAI’s methods</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</link>
+      <description>24 Fields Medal winners have written a letter of objection</description>
+      <pubDate>Fri, 11 Sep 2026 17:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hot coffee could cause oesophageal cancer</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer</link>
+      <description>The cooler it is, the safer</description>
+      <pubDate>Fri, 11 Sep 2026 17:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surging bond yields presage pain—and not just for bond investors</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors</link>
+      <description>Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds</description>
+      <pubDate>Fri, 11 Sep 2026 16:02:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Where prediction markets struggle</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/10/where-prediction-markets-struggle</link>
       <description>They misfired during America’s primaries—but not in the way you might think</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/22/the-tariffs-that-just-wont-die</link>
       <description>Donald Trump is adept at reviving levies. Achieving their goals is harder</description>
       <pubDate>Wed, 22 Jul 2026 19:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain’s troublingly nostalgic new prime minister</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/22/britains-troublingly-nostalgic-new-prime-minister</link>
-      <description>In an era of change, Andy Burnham promises to rewind the clock</description>
-      <pubDate>Wed, 22 Jul 2026 18:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the OpenAI escape is the most worrying AI mishap yet</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet</link>
-      <description>Containing the technology is getting harder</description>
-      <pubDate>Wed, 22 Jul 2026 18:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does SpaceX’s plan for a data centre in space add up?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/22/does-spacexs-plan-for-a-data-centre-in-space-add-up</link>
-      <description>It’s less crazy than you think</description>
-      <pubDate>Wed, 22 Jul 2026 17:58:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
