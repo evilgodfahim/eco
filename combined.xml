@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Women lead brutal lives in Colombia’s illegal gold-mining regions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/13/women-lead-brutal-lives-in-colombias-illegal-gold-mining-regions</link>
+      <description>They survive on what men discard, and are exploited by them</description>
+      <pubDate>Sun, 13 Sep 2026 09:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Indians are unhappy about 7.8% growth</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-growth</link>
+      <description>A row over GDP numbers is really about how people feel</description>
+      <pubDate>Sun, 13 Sep 2026 09:01:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Wanted: new business, finance and economics interns</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns</link>
       <description>The Economist invites applications for the Marjorie Deane internship</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street</link>
       <description>Clearing the regulatory hurdles is only half the battle</description>
       <pubDate>Thu, 23 Jul 2026 08:59:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s Saudi deal risks nuclear proliferation</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/donald-trumps-saudi-deal-risks-nuclear-proliferation</link>
-      <description>It could have consequences far beyond the Middle East</description>
-      <pubDate>Thu, 23 Jul 2026 08:55:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s new military commander aims to fight a more modern war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/22/ukraines-new-military-commander-aims-to-fight-a-more-modern-war</link>
-      <description>Mykhailo Drapaty is innovative—and critical of Soviet-style leadership</description>
-      <pubDate>Wed, 22 Jul 2026 21:41:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
