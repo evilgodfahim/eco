@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Houthis’ shock advance in Yemen gives Iran new leverage</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/13/the-houthis-shock-advance-in-yemen-gives-iran-new-leverage</link>
+      <description>Their gains are also an embarrassment for Saudi Arabia</description>
+      <pubDate>Sun, 13 Sep 2026 16:01:46 +0000</pubDate>
+    </item>
+    <item>
       <title>In search of the least wrong map</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/09/13/in-search-of-the-least-wrong-map</link>
       <description>The UN wants to adopt a fairer way to trace borders</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too</link>
       <description>Robotaxis offer an early test case</description>
       <pubDate>Thu, 23 Jul 2026 09:03:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The rise of the deserving rich</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</link>
-      <description>Today’s billionaires are more likely than yesterday’s to have made their own money</description>
-      <pubDate>Thu, 23 Jul 2026 08:59:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
