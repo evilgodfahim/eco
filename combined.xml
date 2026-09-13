@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>In search of the least wrong map</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/09/13/in-search-of-the-least-wrong-map</link>
+      <description>The UN wants to adopt a fairer way to trace borders</description>
+      <pubDate>Sun, 13 Sep 2026 11:51:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Women lead brutal lives in Colombia’s illegal gold-mining regions</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/13/women-lead-brutal-lives-in-colombias-illegal-gold-mining-regions</link>
       <description>They survive on what men discard, and are exploited by them</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</link>
       <description>Today’s billionaires are more likely than yesterday’s to have made their own money</description>
       <pubDate>Thu, 23 Jul 2026 08:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can prediction markets win over Wall Street?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street</link>
-      <description>Clearing the regulatory hurdles is only half the battle</description>
-      <pubDate>Thu, 23 Jul 2026 08:59:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
