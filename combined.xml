@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How an oil-supply crisis could bring about an investment boom</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom</link>
+      <description>A Gulf-war windfall has boosted balance-sheets and enriched shareholders. Next: expansion</description>
+      <pubDate>Sun, 13 Sep 2026 17:22:47 +0000</pubDate>
+    </item>
+    <item>
       <title>The Houthis’ shock advance in Yemen gives Iran new leverage</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/13/the-houthis-shock-advance-in-yemen-gives-iran-new-leverage</link>
       <description>Their gains are also an embarrassment for Saudi Arabia</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism</link>
       <description>States ultimately decide how fast technology is adopted</description>
       <pubDate>Thu, 23 Jul 2026 09:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can China dominate AI exports, too?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too</link>
-      <description>Robotaxis offer an early test case</description>
-      <pubDate>Thu, 23 Jul 2026 09:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
