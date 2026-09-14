@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Should Anthropic press pause on a potential $2trn IPO?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/14/should-anthropic-press-pause-on-a-potential-2trn-ipo</link>
+      <description>Amid a safety freakout, it wants to slow down AI development</description>
+      <pubDate>Mon, 14 Sep 2026 04:47:47 +0000</pubDate>
+    </item>
+    <item>
       <title>How an oil-supply crisis could bring about an investment boom</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom</link>
       <description>A Gulf-war windfall has boosted balance-sheets and enriched shareholders. Next: expansion</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/prediction-markets-need-better-rules</link>
       <description>Their capricious settlement mechanisms are putting off serious investors</description>
       <pubDate>Thu, 23 Jul 2026 09:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A brief history of Luddism</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism</link>
-      <description>States ultimately decide how fast technology is adopted</description>
-      <pubDate>Thu, 23 Jul 2026 09:09:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
