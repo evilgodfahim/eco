@@ -5,8 +5,14 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>A new device lets severely paralysed patients talk and gesture</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/14/a-new-device-lets-severely-paralysed-patients-talk-and-gesture</link>
+      <title>France’s centre has one question: who can beat Marine Le Pen?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/frances-centre-has-one-question-who-can-beat-marine-le-pen</link>
+      <description>Seven months out, presidential candidates are lacklustre and there are too many of them</description>
+      <pubDate>Mon, 14 Sep 2026 17:47:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new device lets severely paralysed patients communicate more effectively</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/14/a-new-device-lets-severely-paralysed-patients-communicate-more-effectively</link>
       <description>Eventually they might be able to control robots or exoskeletons</description>
       <pubDate>Mon, 14 Sep 2026 17:07:20 +0000</pubDate>
     </item>
@@ -23,8 +29,8 @@
       <pubDate>Mon, 14 Sep 2026 15:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>China’s tutoring crackdown has created a new black market</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/14/chinas-tutoring-crackdown-has-created-a-new-black-market</link>
+      <title>China’s tutoring crackdown has created a black market</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/14/chinas-tutoring-crackdown-has-created-a-black-market</link>
       <description>The academic system has become more unfair but just as pressure-filled</description>
       <pubDate>Mon, 14 Sep 2026 15:11:06 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/07/23/gulf-countries-are-experts-at-air-conditioning</link>
       <description>They want to sell their technology to the world</description>
       <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Narendra Modi’s party discovers the limits of propaganda</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/23/narendra-modis-party-discovers-the-limits-of-propaganda</link>
-      <description>India’s biggest protest in years has produced shocking videos and angry young people</description>
-      <pubDate>Thu, 23 Jul 2026 10:10:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
