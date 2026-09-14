@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Sweden’s left seems to have eked out a narrow victory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/swedens-left-seems-to-have-eked-out-a-narrow-victory</link>
+      <description>The populist-right Sweden Democrats appear to have stumbled</description>
+      <pubDate>Mon, 14 Sep 2026 07:20:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Should Anthropic press pause on a potential $2trn IPO?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/14/should-anthropic-press-pause-on-a-potential-2trn-ipo</link>
       <description>Amid a safety freakout, it wants to slow down AI development</description>
@@ -35,8 +41,8 @@
       <pubDate>Sun, 13 Sep 2026 09:17:37 +0000</pubDate>
     </item>
     <item>
-      <title>Why Indians are unhappy about 7.8% growth</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-growth</link>
+      <title>Why Indians are unhappy about 7.8% economic growth</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-economic-growth</link>
       <description>A row over GDP numbers is really about how people feel</description>
       <pubDate>Sun, 13 Sep 2026 09:01:08 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/23/nicaraguas-president-daniel-ortega-scraps-elections</link>
       <description>The Central American country may become a one-party state</description>
       <pubDate>Thu, 23 Jul 2026 09:33:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prediction markets need better rules</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/prediction-markets-need-better-rules</link>
-      <description>Their capricious settlement mechanisms are putting off serious investors</description>
-      <pubDate>Thu, 23 Jul 2026 09:19:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
