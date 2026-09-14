@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>A new device lets severely paralysed patients talk and gesture</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/14/a-new-device-lets-severely-paralysed-patients-talk-and-gesture</link>
+      <description>Eventually they might be able to control robots or exoskeletons</description>
+      <pubDate>Mon, 14 Sep 2026 17:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Africa is at risk of becoming a mafia state</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/14/south-africa-is-at-risk-of-becoming-a-mafia-state</link>
+      <description>An extraordinary public inquiry is confirming the country’s worst fears about organised crime</description>
+      <pubDate>Mon, 14 Sep 2026 16:14:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Russia is hunting Ukraine’s trains</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/the-war-room-newsletter-russia-is-hunting-ukraines-trains</link>
+      <description>Russia’s drones and missiles are battering the railway system, writes Adam Roberts, our foreign editor</description>
+      <pubDate>Mon, 14 Sep 2026 15:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s tutoring crackdown has created a new black market</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/14/chinas-tutoring-crackdown-has-created-a-new-black-market</link>
+      <description>The academic system has become more unfair but just as pressure-filled</description>
+      <pubDate>Mon, 14 Sep 2026 15:11:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Sweden’s left seems to have eked out a narrow victory</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/swedens-left-seems-to-have-eked-out-a-narrow-victory</link>
       <description>The populist-right Sweden Democrats appear to have stumbled</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/23/narendra-modis-party-discovers-the-limits-of-propaganda</link>
       <description>India’s biggest protest in years has produced shocking videos and angry young people</description>
       <pubDate>Thu, 23 Jul 2026 10:10:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should you be afraid of Elon Musk?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/should-you-be-afraid-of-elon-musk</link>
-      <description>Artificial intelligence is charging ahead. Not even its creators know how to keep up</description>
-      <pubDate>Thu, 23 Jul 2026 09:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s vision of the future</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/23/elon-musks-vision-of-the-future</link>
-      <description>The world’s richest man sits down with The Economist</description>
-      <pubDate>Thu, 23 Jul 2026 09:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The world’s balance-sheet is out of kilter with its economy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy</link>
-      <description>Restoring balance could be painful</description>
-      <pubDate>Thu, 23 Jul 2026 09:42:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nicaragua’s President Daniel Ortega scraps elections</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/23/nicaraguas-president-daniel-ortega-scraps-elections</link>
-      <description>The Central American country may become a one-party state</description>
-      <pubDate>Thu, 23 Jul 2026 09:33:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
