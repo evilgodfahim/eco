@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Sea cucumbers may help protect coral reefs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/16/sea-cucumbers-may-help-protect-coral-reefs</link>
+      <description>They change the chemistry of seawater</description>
+      <pubDate>Wed, 16 Sep 2026 14:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nannying for the ultra-rich is a booming business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/16/nannying-for-the-ultra-rich-is-a-booming-business</link>
+      <description>Wealthy parents are expecting (and paying) more than ever</description>
+      <pubDate>Wed, 16 Sep 2026 13:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bartleby newsletter: Meetings are broccoli</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/16/bartleby-newsletter-meetings-are-broccoli</link>
+      <description>Our columnist, Andrew Palmer, explains why work gatherings are disliked—but useful</description>
+      <pubDate>Wed, 16 Sep 2026 13:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>How House Republicans might fend off defeat</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/16/how-house-republicans-might-fend-off-defeat</link>
+      <description>A polling error and a few good breaks could be enough</description>
+      <pubDate>Wed, 16 Sep 2026 12:42:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>An electoral result that helps Japan’s defence buildup</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/16/an-electoral-result-that-helps-japans-defence-buildup</link>
+      <description>The country’s south-western islands go conservative</description>
+      <pubDate>Wed, 16 Sep 2026 12:34:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Agreeing to make AI safer may be impossible</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible</link>
       <description>It is technically feasible, but American labs and the American authorities are at odds, as are America and China</description>
@@ -37,7 +67,7 @@
     <item>
       <title>China would face a “hellscape” in a war over Taiwan</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/15/china-would-face-a-hellscape-in-a-war-over-taiwan</link>
-      <description>New tech may give America an edge</description>
+      <description>Drones and artificial intelligence may give America an edge</description>
       <pubDate>Tue, 15 Sep 2026 18:27:13 +0000</pubDate>
     </item>
     <item>
@@ -2972,36 +3002,6 @@
       <title>Cartoon: America’s trouble getting out of the Iran conflict</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/23/cartoon-americas-trouble-getting-out-of-the-iran-conflict</link>
       <description>A lighter take on the news</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/23/business</link>
-      <description></description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/23/politics</link>
-      <description></description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dismissing Europe as a museum is glib. Think of it as a theme park</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park</link>
-      <description>All the continent’s a stage</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain’s team embodies footballing values FIFA has betrayed</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/23/spains-team-embodies-footballing-values-fifa-has-betrayed</link>
-      <description>La Roja won the World Cup through teamwork and grit</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A surrogacy scandal throws Germany’s conservatives into turmoil</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/23/a-surrogacy-scandal-throws-germanys-conservatives-into-turmoil</link>
-      <description>Just when Friedrich Merz’s government was getting its act together</description>
       <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
     </item>
   </channel>
