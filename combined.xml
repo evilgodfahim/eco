@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>High petrol prices could hand Democrats a mighty midterm victory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/17/high-petrol-prices-could-hand-democrats-a-mighty-midterm-victory</link>
+      <description>Our model gives them a record chance of claiming both the House of Representatives and the Senate</description>
+      <pubDate>Thu, 17 Sep 2026 19:48:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia has entered a new phase of total war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/09/17/russia-has-entered-a-new-phase-of-total-war</link>
       <description>Ukrainians are feeling the heat</description>
@@ -137,9 +143,9 @@
       <pubDate>Thu, 17 Sep 2026 11:57:22 +0000</pubDate>
     </item>
     <item>
-      <title>GDP per person no longer grows like it used to</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/17/gdp-per-person-no-longer-grows-like-it-used-to</link>
-      <description>In many countries, it is shrinking</description>
+      <title>The GDP-per-person slowdown threatens global living standards</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards</link>
+      <description>Brazil, China, Germany and Russia have recently joined an unfortunate club</description>
       <pubDate>Thu, 17 Sep 2026 10:30:49 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/29/selling-stakes-in-the-beautiful-game-what-could-go-wrong</link>
       <description>FIFA’s plan to tap private investors is causing outrage</description>
       <pubDate>Wed, 29 Jul 2026 20:27:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea’s stock-market boom is collapsing spectacularly</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/29/south-koreas-stock-market-boom-is-collapsing-spectacularly</link>
-      <description>It may be a harbinger</description>
-      <pubDate>Wed, 29 Jul 2026 20:03:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
