@@ -5,6 +5,66 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>What Donald Trump understands about character in public life</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/17/what-donald-trump-understands-about-character-in-public-life</link>
+      <description>And why it could be Ken Paxton’s path to victory in Texas</description>
+      <pubDate>Thu, 17 Sep 2026 11:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>GDP per person no longer grows like it used to</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/17/gdp-per-person-no-longer-grows-like-it-used-to</link>
+      <description>In many countries, it is shrinking</description>
+      <pubDate>Thu, 17 Sep 2026 10:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>To keep out “infiltrators”, India is trapping its own citizens</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/17/to-keep-out-infiltrators-india-is-trapping-its-own-citizens</link>
+      <description>A buffer zone has become a miserable limbo</description>
+      <pubDate>Thu, 17 Sep 2026 09:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The trickle-down economics of the AI boom</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom</link>
+      <description>How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints</description>
+      <pubDate>Thu, 17 Sep 2026 09:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ricardo Reis was too frank for the IMF</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/17/ricardo-reis-was-too-frank-for-the-imf</link>
+      <description>It can still benefit from the economist’s ideas</description>
+      <pubDate>Thu, 17 Sep 2026 09:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Markets are waking up to the rich world’s reckless borrowing</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/17/markets-are-waking-up-to-the-rich-worlds-reckless-borrowing</link>
+      <description>Governments are still, alas, asleep</description>
+      <pubDate>Thu, 17 Sep 2026 09:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can the AI arms race be stopped?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped</link>
+      <description>America will struggle to make the technology safe while staying ahead of China</description>
+      <pubDate>Thu, 17 Sep 2026 09:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Real co-operation on AI is likely to elude China and America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/17/real-co-operation-on-ai-is-likely-to-elude-china-and-america</link>
+      <description>Mutual suspicions run too deep</description>
+      <pubDate>Thu, 17 Sep 2026 09:10:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The debate over AI has taken over Washington</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/17/the-debate-over-ai-has-taken-over-washington</link>
+      <description>Whether it will act is another matter</description>
+      <pubDate>Thu, 17 Sep 2026 09:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s new exit rules stoke fears of ever-tighter border controls</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/17/chinas-new-exit-rules-stoke-fears-of-ever-tighter-border-controls</link>
+      <description>Officials say they want to monitor overseas travel, not stop it</description>
+      <pubDate>Thu, 17 Sep 2026 08:14:14 +0000</pubDate>
+    </item>
+    <item>
       <title>There is too little money in British politics, not too much</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/16/there-is-too-little-money-in-british-politics-not-too-much</link>
       <description>Parties come to office hopelessly unprepared</description>
@@ -47,9 +107,9 @@
       <pubDate>Wed, 16 Sep 2026 14:22:24 +0000</pubDate>
     </item>
     <item>
-      <title>Nannying for the ultra-rich is a booming business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/16/nannying-for-the-ultra-rich-is-a-booming-business</link>
-      <description>Wealthy parents are expecting (and paying) more than ever</description>
+      <title>Nannying for the ultra-rich is increasingly demanding—and lucrative</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/16/nannying-for-the-ultra-rich-is-increasingly-demanding-and-lucrative</link>
+      <description>Life for rota-nannies can be glamorous and gruelling</description>
       <pubDate>Wed, 16 Sep 2026 13:54:41 +0000</pubDate>
     </item>
     <item>
@@ -91,7 +151,7 @@
     <item>
       <title>In Morocco, scandal is weakening the king’s shaky rule</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/15/in-morocco-scandal-is-weakening-the-kings-shaky-rule</link>
-      <description>Upcoming elections will do little to shore it up</description>
+      <description>Forthcoming elections will do little to shore it up</description>
       <pubDate>Tue, 15 Sep 2026 20:40:01 +0000</pubDate>
     </item>
     <item>
@@ -145,7 +205,7 @@
     <item>
       <title>Sweden’s left seems to have eked out a narrow victory</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/swedens-left-seems-to-have-eked-out-a-narrow-victory</link>
-      <description>The populist-right Sweden Democrats appear to have stumbled</description>
+      <description>A modest loss for the hard-right Sweden Democrats</description>
       <pubDate>Mon, 14 Sep 2026 07:20:15 +0000</pubDate>
     </item>
     <item>
@@ -157,7 +217,7 @@
     <item>
       <title>How an oil-supply crisis could bring about an investment boom</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom</link>
-      <description>A Gulf-war windfall has boosted balance-sheets and enriched shareholders. Next: expansion</description>
+      <description>The windfall from the Gulf war has shored up balance-sheets and enriched shareholders. Next comes expansion</description>
       <pubDate>Sun, 13 Sep 2026 17:22:47 +0000</pubDate>
     </item>
     <item>
@@ -2943,66 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/26/donald-trumps-food-stamp-overhaul-is-beginning-to-bite</link>
       <description>Federal reforms have left the states with a growing bill</description>
       <pubDate>Sun, 26 Jul 2026 10:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sweden is launching its own MI6</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/26/sweden-is-launching-its-own-mi6</link>
-      <description>Memories of a big mistake still spook Europe’s spies</description>
-      <pubDate>Sun, 26 Jul 2026 08:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: AI has become the ultimate dread risk</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/07/26/checks-and-balance-newsletter-ai-has-become-the-ultimate-dread-risk</link>
-      <description>John Prideaux, our executive editor, on the psychology behind our anxiety over the technology</description>
-      <pubDate>Sun, 26 Jul 2026 03:53:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Narendra Modi caves to India’s Gen Z</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/25/narendra-modi-caves-to-indias-gen-z</link>
-      <description>Protesters oust the education minister and promise to go home</description>
-      <pubDate>Sat, 25 Jul 2026 15:35:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is it useful to measure “biological” v “chronological” age?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/24/is-it-useful-to-measure-biological-v-chronological-age</link>
-      <description>You will get data, but perhaps not knowledge</description>
-      <pubDate>Fri, 24 Jul 2026 15:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: Should you be afraid of Elon Musk?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/07/24/cover-story-newsletter-should-you-be-afraid-of-elon-musk</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Fri, 24 Jul 2026 14:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is gaining troubling military know-how from Russia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/07/23/china-is-gaining-troubling-military-know-how-from-russia</link>
-      <description>It is learning how to improve its drones, nuclear subs and air defence</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lebanon has a chance to break free of Hizbullah</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/23/lebanon-has-a-chance-to-break-free-of-hizbullah</link>
-      <description>With better government, it could become a business hub once again</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Philippines war on drugs outlasts the Duterte presidency</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/23/the-philippines-war-on-drugs-outlasts-the-duterte-presidency</link>
-      <description>It continues, rebranded, under Ferdinand “Bongbong” Marcos</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A gold-bar scandal pits Indonesia’s army against its police</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/23/a-gold-bar-scandal-pits-indonesias-army-against-its-police</link>
-      <description>Cracks appear in the court of President Prabowo</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan’s popular prime minister is burning political capital fast</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/23/japans-popular-prime-minister-is-burning-political-capital-fast</link>
-      <description>Markets and the Diet are mounting resistance</description>
-      <pubDate>Thu, 23 Jul 2026 13:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
