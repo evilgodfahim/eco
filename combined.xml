@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>What having a daughter does to a boss</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/18/what-having-a-daughter-does-to-a-boss</link>
+      <description>Male managers hire more women after becoming a “girl dad”</description>
+      <pubDate>Fri, 18 Sep 2026 16:37:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consuming extra vitamin D is less good than it sounds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/18/consuming-extra-vitamin-d-is-less-good-than-it-sounds</link>
+      <description>What works well in theory seems not to in practice</description>
+      <pubDate>Fri, 18 Sep 2026 15:31:26 +0000</pubDate>
+    </item>
+    <item>
       <title>High petrol prices could hand Democrats a mighty midterm victory</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/17/high-petrol-prices-could-hand-democrats-a-mighty-midterm-victory</link>
       <description>Our model gives them a record chance of claiming both the House of Representatives and the Senate</description>
@@ -469,7 +481,7 @@
     <item>
       <title>How far left will Democrats go?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/10/how-far-left-will-democrats-go</link>
-      <description>Its base is almost as mad at their leaders as they are at the president</description>
+      <description>They are almost as mad at their leaders as they are at the president</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/29/it-is-past-time-to-upgrade-to-post-quantum-encryption</link>
       <description>When the quantum breakthrough comes, data being harvested today will be exposed</description>
       <pubDate>Wed, 29 Jul 2026 21:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI and quantum computers will be frenemies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/07/29/ai-and-quantum-computers-will-be-frenemies</link>
-      <description>The two technologies look more complementary than rivalrous</description>
-      <pubDate>Wed, 29 Jul 2026 21:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Selling stakes in the beautiful game. What could go wrong?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/29/selling-stakes-in-the-beautiful-game-what-could-go-wrong</link>
-      <description>FIFA’s plan to tap private investors is causing outrage</description>
-      <pubDate>Wed, 29 Jul 2026 20:27:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
