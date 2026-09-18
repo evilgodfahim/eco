@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Mark Carney hopes to redirect Canada’s economy around Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/18/mark-carney-hopes-to-redirect-canadas-economy-around-donald-trump</link>
+      <description>His Europe trip was one part of a bigger plan</description>
+      <pubDate>Fri, 18 Sep 2026 18:25:11 +0000</pubDate>
+    </item>
+    <item>
       <title>What having a daughter does to a boss</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/18/what-having-a-daughter-does-to-a-boss</link>
       <description>Male managers hire more women after becoming a “girl dad”</description>
@@ -25,7 +31,7 @@
     <item>
       <title>Russia has entered a new phase of total war</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/09/17/russia-has-entered-a-new-phase-of-total-war</link>
-      <description>Ukrainians are feeling the heat</description>
+      <description>Ukrainians are feeling the pain</description>
       <pubDate>Thu, 17 Sep 2026 12:45:01 +0000</pubDate>
     </item>
     <item>
@@ -191,9 +197,9 @@
       <pubDate>Thu, 17 Sep 2026 09:12:03 +0000</pubDate>
     </item>
     <item>
-      <title>Real co-operation on AI is likely to elude China and America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/17/real-co-operation-on-ai-is-likely-to-elude-china-and-america</link>
-      <description>Mutual suspicions run too deep</description>
+      <title>Deep mutual distrust will scupper US-China co-operation on AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/17/deep-mutual-distrust-will-scupper-us-china-co-operation-on-ai</link>
+      <description>Big progress at a summit of Donald Trump and Xi Jinping is unlikely</description>
       <pubDate>Thu, 17 Sep 2026 09:10:39 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/30/behind-indias-protests-is-a-crisis-in-the-graduate-jobs-market</link>
       <description>Fixing the exam system will not solve that</description>
       <pubDate>Thu, 30 Jul 2026 08:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>It is past time to upgrade to post-quantum encryption</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/29/it-is-past-time-to-upgrade-to-post-quantum-encryption</link>
-      <description>When the quantum breakthrough comes, data being harvested today will be exposed</description>
-      <pubDate>Wed, 29 Jul 2026 21:53:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
