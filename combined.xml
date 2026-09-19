@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Donald Trump drops demands to own Greenland, but the harm has been done</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/19/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done</link>
+      <description>A revised defence pact with Denmark and Greenland is a modest improvement, but annexation threats were a costly blunder</description>
+      <pubDate>Sat, 19 Sep 2026 19:28:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: How to think about candidate quality</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/19/checks-and-balance-newsletter-how-to-think-about-candidate-quality</link>
       <description>John Prideaux, our executive editor, on declaring independence</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/30/narendra-modi-is-on-a-quest-to-regain-his-aura</link>
       <description>What India’s government learnt from recent student protests</description>
       <pubDate>Thu, 30 Jul 2026 08:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Private equity is coming for the Indian Premier League</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/07/30/private-equity-is-coming-for-the-indian-premier-league</link>
-      <description>The cricket tournament has proved hugely profitable</description>
-      <pubDate>Thu, 30 Jul 2026 08:15:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
