@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>House prices survived the last interest-rate rise. Will they this time?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time</link>
+      <description>Supports that shored up the housing market when borrowing costs last rose are gone</description>
+      <pubDate>Sun, 20 Sep 2026 09:05:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump drops demands to own Greenland, but the harm has been done</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/19/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done</link>
       <description>A revised defence pact with Denmark and Greenland is a modest improvement, but annexation threats were a costly blunder</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/30/japan-pursues-an-ill-timed-fiscal-stimulus</link>
       <description>Takaichi Sanae’s economic agenda bears little resemblance to her mentor’s</description>
       <pubDate>Thu, 30 Jul 2026 09:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Narendra Modi is on a quest to regain his aura</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/30/narendra-modi-is-on-a-quest-to-regain-his-aura</link>
-      <description>What India’s government learnt from recent student protests</description>
-      <pubDate>Thu, 30 Jul 2026 08:58:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
