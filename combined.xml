@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Friedrich Merz rues “disaster” as populists win state elections</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/20/friedrich-merz-rues-disaster-as-populists-win-state-elections</link>
+      <description>German politics is fragmenting, fraying and radicalising</description>
+      <pubDate>Sun, 20 Sep 2026 21:44:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Want to flip the Senate? Try fish and charisma</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/20/want-to-flip-the-senate-try-fish-and-charisma</link>
       <description>Democrats in Alaska hope personal appeal, idiosyncratic politics and presidential missteps will win a crucial seat</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/briefing/2026/07/30/the-big-mac-index-at-40</link>
       <description>Exchange-rate theory can be a lot to digest. Instead, take three trips to McDonald’s</description>
       <pubDate>Thu, 30 Jul 2026 10:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many people are dying as a result of USAID’s demise?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise</link>
-      <description>Fewer than academics imagine, but more than Elon Musk will admit</description>
-      <pubDate>Thu, 30 Jul 2026 09:38:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
