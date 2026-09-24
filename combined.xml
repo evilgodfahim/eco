@@ -5,14 +5,68 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Tata goes to war with itself</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/24/tata-goes-to-war-with-itself</link>
+      <description>Trouble at one of India’s biggest conglomerates</description>
+      <pubDate>Thu, 24 Sep 2026 10:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Fed should measure inflation</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation</link>
+      <description>Pinning down the underlying rate may be harder than Kevin Warsh thinks</description>
+      <pubDate>Thu, 24 Sep 2026 09:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel’s war economy is thriving</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving</link>
+      <description>But conflict is worsening its industrial divide</description>
+      <pubDate>Thu, 24 Sep 2026 09:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The battle between India’s stock exchanges is heating up again</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/24/the-battle-between-indias-stock-exchanges-is-heating-up-again</link>
+      <description>Number two is trying harder</description>
+      <pubDate>Thu, 24 Sep 2026 09:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why house prices may be in trouble</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/24/why-house-prices-may-be-in-trouble</link>
+      <description>In a big serving of bad news, there are crumbs of comfort</description>
+      <pubDate>Thu, 24 Sep 2026 09:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turkey’s investment-fund fiasco</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/24/turkeys-investment-fund-fiasco</link>
+      <description>The country could lose its status as an emerging market</description>
+      <pubDate>Thu, 24 Sep 2026 09:40:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The White House may soon announce a nonsensical ban</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/24/the-white-house-may-soon-announce-a-nonsensical-ban</link>
+      <description>Restricting diesel exports would create more problems than it solves</description>
+      <pubDate>Thu, 24 Sep 2026 09:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>When America walks away</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/24/when-america-walks-away</link>
+      <description>For decades America has enjoyed hegemony over the Middle East. That is about to end</description>
+      <pubDate>Thu, 24 Sep 2026 09:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump will lose his latest media battle</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/24/donald-trump-will-lose-his-latest-media-battle</link>
+      <description>Even so, his fight with the press is taking a toll</description>
+      <pubDate>Thu, 24 Sep 2026 08:49:32 +0000</pubDate>
+    </item>
+    <item>
       <title>How tech firms hope to beat the backlash against “pervert glasses”</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/24/how-tech-firms-hope-to-beat-the-backlash-against-pervert-glasses</link>
       <description>Creating a device for the AI era is hard</description>
       <pubDate>Thu, 24 Sep 2026 02:45:09 +0000</pubDate>
     </item>
     <item>
-      <title>Ethiopia may be descending into another civil war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/23/ethiopia-may-be-descending-into-another-civil-war</link>
+      <title>A disastrous new war threatens in Africa</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/23/a-disastrous-new-war-threatens-in-africa</link>
       <description>Heavy fighting in Tigray could herald a wider regional conflict</description>
       <pubDate>Wed, 23 Sep 2026 19:44:13 +0000</pubDate>
     </item>
@@ -25,7 +79,7 @@
     <item>
       <title>America is stepping back from a region it never managed to remake</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/23/america-is-stepping-back-from-a-region-it-never-managed-to-remake</link>
-      <description>It is not leaving the Middle East, but it is giving up the job of running it</description>
+      <description>It is giving up the job of running the Middle East</description>
       <pubDate>Wed, 23 Sep 2026 19:01:39 +0000</pubDate>
     </item>
     <item>
@@ -167,8 +221,8 @@
       <pubDate>Sun, 20 Sep 2026 14:46:01 +0000</pubDate>
     </item>
     <item>
-      <title>House prices survived the last interest-rate rise. Will they this time?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time</link>
+      <title>House prices survived the last rise in interest rates. Will they this time?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-rise-in-interest-rates-will-they-this-time</link>
       <description>Supports that shored up the housing market when borrowing costs last rose are gone</description>
       <pubDate>Sun, 20 Sep 2026 09:05:41 +0000</pubDate>
     </item>
@@ -2949,60 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/07/31/the-war-room-newsletter-the-most-significant-sieges-in-history</link>
       <description>Entire campaigns—and the fate of civilisations—have turned on a siege, writes Richard Cockett, a senior editor</description>
       <pubDate>Fri, 31 Jul 2026 19:42:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A migrant surge tests Spain’s open policies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/07/31/a-migrant-surge-tests-spains-open-policies</link>
-      <description>It is also angering the rest of Europe</description>
-      <pubDate>Fri, 31 Jul 2026 16:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javier Milei’s Odysseus act</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/07/31/javier-mileis-odysseus-act</link>
-      <description>He is wisely overhauling the central bank. But winning elections remains paramount</description>
-      <pubDate>Fri, 31 Jul 2026 14:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our estimated death toll for this year’s wildfires</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/07/30/our-estimated-death-toll-for-this-years-wildfires</link>
-      <description>The blazes in North America have claimed 10-80 times as many lives as those in Europe so far</description>
-      <pubDate>Thu, 30 Jul 2026 21:55:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>France and Spain are suffering their biggest wildfires on record</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/europe/2026/07/30/france-and-spain-are-suffering-their-biggest-wildfires-on-record</link>
-      <description>Bordeaux is on alert, and worse is yet to come</description>
-      <pubDate>Thu, 30 Jul 2026 13:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s startup boom offers hope for the future of work</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/30/americas-startup-boom-offers-hope-for-the-future-of-work</link>
-      <description>AI could make more people their own boss</description>
-      <pubDate>Thu, 30 Jul 2026 13:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is testing America’s defence lines in Asia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/30/china-is-testing-americas-defence-lines-in-asia</link>
-      <description>The allies must work to strengthen themselves, but also to strengthen America’s commitment</description>
-      <pubDate>Thu, 30 Jul 2026 13:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is getting better at writing. Humans must get better at editing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/07/30/ai-is-getting-better-at-writing-humans-must-get-better-at-editing</link>
-      <description>Our investigation suggests how</description>
-      <pubDate>Thu, 30 Jul 2026 13:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beerlao: probably the most important lager in the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/30/beerlao-probably-the-most-important-lager-in-the-world</link>
-      <description>Its country’s economy depends on it</description>
-      <pubDate>Thu, 30 Jul 2026 13:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japanese politics is becoming less of a turn-off for the young</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/07/30/japanese-politics-is-becoming-less-of-a-turn-off-for-the-young</link>
-      <description>Social-media-savvy politicians are drawing them in</description>
-      <pubDate>Thu, 30 Jul 2026 13:02:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
