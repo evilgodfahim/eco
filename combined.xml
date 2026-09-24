@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>What Donald Trump’s meeting with Xi Jinping has—and hasn’t—achieved</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/24/what-donald-trumps-meeting-with-xi-jinping-has-and-hasnt-achieved</link>
+      <description>A lavish welcome in Washington won’t ease tensions</description>
+      <pubDate>Thu, 24 Sep 2026 18:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good news for American renters</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/24/good-news-for-american-renters</link>
+      <description>Our annual index shows fewer cities are pricing out the average earner</description>
+      <pubDate>Thu, 24 Sep 2026 17:00:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Brazil’s next president will either be a vengeful nepo-baby or a doddering leftie</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/09/24/brazils-next-president-will-either-be-a-vengeful-nepo-baby-or-a-doddering-leftie</link>
       <description>Latin America’s biggest country is headed for more polarisation and stagnation, or worse</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce</link>
       <description>Chinese leaders worry about workers being displaced by the tech they are promoting</description>
       <pubDate>Thu, 06 Aug 2026 08:17:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Governments are making a dangerous bet on the AI boom</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom</link>
-      <description>To see why, look to the bond markets</description>
-      <pubDate>Wed, 05 Aug 2026 23:52:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors have fresh doubts about Elon Musk’s grandiose ambitions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/05/investors-have-fresh-doubts-about-elon-musks-grandiose-ambitions</link>
-      <description>SpaceX is spending gobs of money to refashion itself as an AI company</description>
-      <pubDate>Wed, 05 Aug 2026 19:50:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
