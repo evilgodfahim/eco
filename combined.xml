@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>America and China’s leaders indulge in pageantry as crises mount</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount</link>
+      <description>Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats</description>
+      <pubDate>Fri, 25 Sep 2026 20:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are weighted blankets really beneficial?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/25/are-weighted-blankets-really-beneficial</link>
+      <description>Measurable gains are modest, but many users report feeling better</description>
+      <pubDate>Fri, 25 Sep 2026 18:34:16 +0000</pubDate>
+    </item>
+    <item>
       <title>The War Room newsletter: The Soviet Union’s greatest war reporter</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter</link>
       <description>Oliver Jones, a news editor, explores the legacy of Vasily Grossman</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state</link>
       <description>Equipped with models and agents, citizens could bring government to a halt</description>
       <pubDate>Thu, 06 Aug 2026 08:34:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why AI is a risk to Communist China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china</link>
-      <description>It is not as well placed to take advantage of the technology as many people think</description>
-      <pubDate>Thu, 06 Aug 2026 08:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should AI labs be treated like the owners of dangerous animals?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</link>
-      <description>Autonomous hacking is here. Governments are not ready</description>
-      <pubDate>Thu, 06 Aug 2026 08:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
