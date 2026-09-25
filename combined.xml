@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The War Room newsletter: The Soviet Union’s greatest war reporter</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter</link>
+      <description>Oliver Jones, a news editor, explores the legacy of Vasily Grossman</description>
+      <pubDate>Fri, 25 Sep 2026 15:41:04 +0000</pubDate>
+    </item>
+    <item>
       <title>What Donald Trump’s meeting with Xi Jinping has—and hasn’t—achieved</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/24/what-donald-trumps-meeting-with-xi-jinping-has-and-hasnt-achieved</link>
       <description>A lavish welcome in Washington won’t ease tensions</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</link>
       <description>Autonomous hacking is here. Governments are not ready</description>
       <pubDate>Thu, 06 Aug 2026 08:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s AI drive threatens the world’s largest workforce</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/08/06/chinas-ai-drive-threatens-the-worlds-largest-workforce</link>
-      <description>Chinese leaders worry about workers being displaced by the tech they are promoting</description>
-      <pubDate>Thu, 06 Aug 2026 08:17:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
