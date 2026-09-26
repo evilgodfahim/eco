@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Climate Issue newsletter: Donald Trump’s least favourite thing</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/the-climate-issue-newsletter-donald-trumps-least-favourite-thing</link>
+      <description>Oliver Morton, our senior editor, runs the rule over American investment in clean energy</description>
+      <pubDate>Sat, 26 Sep 2026 15:47:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Can Democrats win by fighting graft?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/checks-and-balance-newsletter-can-democrats-win-by-fighting-graft</link>
       <description>Steve Coll, visiting senior editor, on whether running against corruption still moves voters</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar</link>
       <description>The yuan and local currencies stand to benefit</description>
       <pubDate>Thu, 06 Aug 2026 08:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How—and how much—should central banks talk?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk</link>
-      <description>The art is to say enough, and no more</description>
-      <pubDate>Thu, 06 Aug 2026 08:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
