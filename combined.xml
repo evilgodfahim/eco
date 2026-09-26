@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Checks and Balance newsletter: Can Democrats win by fighting graft?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/checks-and-balance-newsletter-can-democrats-win-by-fighting-graft</link>
+      <description>Steve Coll, visiting senior editor, on whether running against corruption still moves voters</description>
+      <pubDate>Sat, 26 Sep 2026 13:30:46 +0000</pubDate>
+    </item>
+    <item>
       <title>America and China’s leaders indulge in pageantry as crises mount</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount</link>
       <description>Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk</link>
       <description>The art is to say enough, and no more</description>
       <pubDate>Thu, 06 Aug 2026 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI is breaking the British state</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state</link>
-      <description>Equipped with models and agents, citizens could bring government to a halt</description>
-      <pubDate>Thu, 06 Aug 2026 08:34:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
