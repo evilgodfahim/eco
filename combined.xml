@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Ireland is helping supply Russia’s war machine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/27/ireland-is-helping-supply-russias-war-machine</link>
+      <description>The EU considers putting an Irish alumina refiner on its sanctions list</description>
+      <pubDate>Sun, 27 Sep 2026 18:29:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Can Jesus Christ sell moderates on Democrats?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/27/can-jesus-christ-sell-moderates-on-democrats</link>
       <description>Donald Trump’s faltering support among Christians creates an opportunity</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/international/2026/08/06/a-battle-for-supremacy-has-laid-sudan-and-its-capital-to-waste</link>
       <description>The country’s future depends on events beyond its borders, as well as within them</description>
       <pubDate>Thu, 06 Aug 2026 12:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s income taxes are diverging</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/06/americas-income-taxes-are-diverging</link>
-      <description>As states led by Democrats try to squeeze the rich, Republicans want to phase out income taxes entirely</description>
-      <pubDate>Thu, 06 Aug 2026 11:31:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
