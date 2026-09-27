@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>European industry is doing better than you may think</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think</link>
+      <description>The firms most exposed to China are suffering. But many are adapting</description>
+      <pubDate>Sun, 27 Sep 2026 11:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alternatives to GPS are around the corner</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/27/alternatives-to-gps-are-around-the-corner</link>
+      <description>Earth’s quantum field and signals from other satellites may prove more reliable</description>
+      <pubDate>Sun, 27 Sep 2026 10:25:46 +0000</pubDate>
+    </item>
+    <item>
       <title>The Climate Issue newsletter: Donald Trump’s least favourite thing</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/the-climate-issue-newsletter-donald-trumps-least-favourite-thing</link>
       <description>Oliver Morton, our senior editor, runs the rule over American investment in clean energy</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/gulf-states-should-make-a-deal-with-iran-on-hormuz</link>
       <description>How to make Iranian blackmail less painful</description>
       <pubDate>Thu, 06 Aug 2026 09:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s IT sector is surviving artificial intelligence</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence</link>
-      <description>Though the technology is making life still harder for many graduates</description>
-      <pubDate>Thu, 06 Aug 2026 09:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>African countries are souring on the dollar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar</link>
-      <description>The yuan and local currencies stand to benefit</description>
-      <pubDate>Thu, 06 Aug 2026 08:55:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
