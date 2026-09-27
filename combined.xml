@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Can Jesus Christ sell moderates on Democrats?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/27/can-jesus-christ-sell-moderates-on-democrats</link>
+      <description>Donald Trump’s faltering support among Christians creates an opportunity</description>
+      <pubDate>Sun, 27 Sep 2026 14:38:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will Donald Trump get to meet Kim Jong Un again?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/27/will-donald-trump-get-to-meet-kim-jong-un-again</link>
+      <description>North Korea wants America to drop demands for disarmament</description>
+      <pubDate>Sun, 27 Sep 2026 13:40:42 +0000</pubDate>
+    </item>
+    <item>
       <title>European industry is doing better than you may think</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think</link>
       <description>The firms most exposed to China are suffering. But many are adapting</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/06/americas-income-taxes-are-diverging</link>
       <description>As states led by Democrats try to squeeze the rich, Republicans want to phase out income taxes entirely</description>
       <pubDate>Thu, 06 Aug 2026 11:31:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>A temple scandal rocks India’s ruling party</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/06/a-temple-scandal-rocks-indias-ruling-party</link>
-      <description>One of Narendra Modi’s proudest achievements is under scrutiny</description>
-      <pubDate>Thu, 06 Aug 2026 10:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gulf states should make a deal with Iran on Hormuz</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/gulf-states-should-make-a-deal-with-iran-on-hormuz</link>
-      <description>How to make Iranian blackmail less painful</description>
-      <pubDate>Thu, 06 Aug 2026 09:41:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
