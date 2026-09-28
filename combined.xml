@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Xi Jinping uses old festivals to boost the party’s image</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/28/xi-jinping-uses-old-festivals-to-boost-the-partys-image</link>
+      <description>But ancient traditions may not always bend to his will</description>
+      <pubDate>Mon, 28 Sep 2026 17:09:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Ireland is helping supply Russia’s war machine</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/27/ireland-is-helping-supply-russias-war-machine</link>
       <description>The EU considers putting an Irish alumina refiner on its sanctions list</description>
@@ -47,8 +53,8 @@
       <pubDate>Sat, 26 Sep 2026 13:30:46 +0000</pubDate>
     </item>
     <item>
-      <title>America and China’s leaders indulge in pageantry as crises mount</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount</link>
+      <title>America’s and China’s leaders indulge in pageantry as crises mount</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount</link>
       <description>Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats</description>
       <pubDate>Fri, 25 Sep 2026 20:47:05 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/how-to-end-sudans-brutal-forgotten-conflict</link>
       <description>There is a sliver of a chance of a ceasefire. It must be grabbed</description>
       <pubDate>Thu, 06 Aug 2026 12:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A battle for supremacy has laid Sudan and its capital to waste</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/international/2026/08/06/a-battle-for-supremacy-has-laid-sudan-and-its-capital-to-waste</link>
-      <description>The country’s future depends on events beyond its borders, as well as within them</description>
-      <pubDate>Thu, 06 Aug 2026 12:03:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
