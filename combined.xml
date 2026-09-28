@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Big law is being shaken up—and not by AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai</link>
+      <description>A wave of poaching may presage a transformation of American law firms’ business model</description>
+      <pubDate>Mon, 28 Sep 2026 18:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial intelligence is coming for Israel’s voters</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters</link>
+      <description>Governments and voters elsewhere should be watching</description>
+      <pubDate>Mon, 28 Sep 2026 18:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why MAGA hates and loves Europe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/28/why-maga-hates-and-loves-europe</link>
+      <description>Three big reasons explain the New Right’s hostility to Europeans</description>
+      <pubDate>Mon, 28 Sep 2026 18:16:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Xi Jinping uses old festivals to boost the party’s image</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/28/xi-jinping-uses-old-festivals-to-boost-the-partys-image</link>
       <description>But ancient traditions may not always bend to his will</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/more-peace-and-more-funerals-in-gaza</link>
       <description>Despite Trump’s declarations, Gazans remain hostages to Israeli politics</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>An African vision of artificial intelligence</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence</link>
-      <description>Tech pioneers favour models suited to specific tasks that use little compute</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amid foreign interference, Brazil’s election kicks off with a whimper</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/06/amid-foreign-interference-brazils-election-kicks-off-with-a-whimper</link>
-      <description>Voters are disillusioned with the apparent choice between Lula and the son of a jailed former president</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to end Sudan’s brutal, forgotten conflict</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/06/how-to-end-sudans-brutal-forgotten-conflict</link>
-      <description>There is a sliver of a chance of a ceasefire. It must be grabbed</description>
-      <pubDate>Thu, 06 Aug 2026 12:06:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
