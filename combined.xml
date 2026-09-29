@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The AI boom meets a new kind of crypto scam</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam</link>
+      <description>Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models</description>
+      <pubDate>Tue, 29 Sep 2026 16:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the AI boom could worsen the rich world’s fiscal crunch</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch</link>
+      <description>Even with higher growth, taxes may be harder to find</description>
+      <pubDate>Tue, 29 Sep 2026 15:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing Africa newsletter: The war everyone saw coming</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/29/analysing-africa-newsletter-the-war-everyone-saw-coming</link>
+      <description>Ethiopia’s latest civil war did not begin in a vacuum, writes Tom Gardner, our Africa correspondent</description>
+      <pubDate>Tue, 29 Sep 2026 14:14:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Big law is being shaken up—and not by AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai</link>
       <description>A wave of poaching may presage a transformation of American law firms’ business model</description>
@@ -2984,24 +3002,6 @@
       <title>The return of Max Flannel, our workplace agony uncle</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/06/the-return-of-max-flannel-our-workplace-agony-uncle</link>
       <description>He has advice for Gianni in Switzerland, Kevin in Washington and Claude in San Francisco</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s lack of shipbuilding prowess is a problem for its navy</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/06/americas-lack-of-shipbuilding-prowess-is-a-problem-for-its-navy</link>
-      <description>China’s commercial shipyards provide it with a big advantage</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigeria’s builder-in-chief</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/nigerias-builder-in-chief</link>
-      <description>A friend of the president is racking up infrastructure contracts</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>More “peace” and more funerals in Gaza</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/08/06/more-peace-and-more-funerals-in-gaza</link>
-      <description>Despite Trump’s declarations, Gazans remain hostages to Israeli politics</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
   </channel>
