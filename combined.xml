@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Democracy is stronger than it looks</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/29/democracy-is-stronger-than-it-looks</link>
+      <description>Open societies have weathered murderous leftists and fascist radicals before</description>
+      <pubDate>Tue, 29 Sep 2026 20:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investing for babies involves knotty trade-offs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs</link>
+      <description>Should new parents favour financial capital, human capital or something else?</description>
+      <pubDate>Tue, 29 Sep 2026 17:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putin’s new bombardment of Kyiv has a terrible logic</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/29/putins-new-bombardment-of-kyiv-has-a-terrible-logic</link>
+      <description>A Russian terror campaign aims to cripple the capital even before winter hits</description>
+      <pubDate>Tue, 29 Sep 2026 16:17:16 +0000</pubDate>
+    </item>
+    <item>
       <title>The AI boom meets a new kind of crypto scam</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam</link>
       <description>Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models</description>
@@ -2984,24 +3002,6 @@
       <title>Italians may help Germany get its trains to run on time</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/06/italians-may-help-germany-get-its-trains-to-run-on-time</link>
       <description>Opening up national markets has worked wonders for European railways</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s Arctic threats are pushing Iceland towards Europe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/06/donald-trumps-arctic-threats-are-pushing-iceland-towards-europe</link>
-      <description>The island is voting on whether to restart EU membership talks</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Americans are losing their appetite for fast food</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/06/americans-are-losing-their-appetite-for-fast-food</link>
-      <description>McDonald’s and other chains are turning to gimmicks to lure customers back</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The return of Max Flannel, our workplace agony uncle</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/06/the-return-of-max-flannel-our-workplace-agony-uncle</link>
-      <description>He has advice for Gianni in Switzerland, Kevin in Washington and Claude in San Francisco</description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
   </channel>
