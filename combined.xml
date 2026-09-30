@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Simulating death can reduce people’s fear of dying</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/30/simulating-death-can-reduce-peoples-fear-of-dying</link>
+      <description>And help doctors train for the worst</description>
+      <pubDate>Wed, 30 Sep 2026 18:24:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>It may soon be possible to create “mirror life”</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life</link>
+      <description>Such research poses risks for humanity and the planet</description>
+      <pubDate>Wed, 30 Sep 2026 18:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>How will AI philanthropy change development aid?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/30/how-will-ai-philanthropy-change-development-aid</link>
+      <description>As Anthropic and its ilk join the donor class, they must avoid old pitfalls</description>
+      <pubDate>Wed, 30 Sep 2026 16:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bond markets give France a whacking for fiscal irresponsibility</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/30/bond-markets-give-france-a-whacking-for-fiscal-irresponsibility</link>
+      <description>Deficits, spreads against Germany and the risk of President Le Pen are all rising</description>
+      <pubDate>Wed, 30 Sep 2026 15:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>In an AI crisis, would China answer the phone?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/30/in-an-ai-crisis-would-china-answer-the-phone</link>
+      <description>The Americans want a hotline but the Chinese have been cool in the past</description>
+      <pubDate>Wed, 30 Sep 2026 15:03:27 +0000</pubDate>
+    </item>
+    <item>
       <title>For the first time Latin Americans prefer China to America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/30/for-the-first-time-latin-americans-prefer-china-to-america</link>
       <description>Donald Trump’s interventions are unpopular, but tough talk on security resonates</description>
@@ -2972,36 +3002,6 @@
       <title>China’s superstitious mayors</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors</link>
       <description>Supernatural beliefs lead to lower economic growth</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>To some, reviled former leaders don’t look so bad</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/06/to-some-reviled-former-leaders-dont-look-so-bad</link>
-      <description>Young netizens mine the Cultural Revolution for tropes</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why ever fewer young Chinese study abroad</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/06/why-ever-fewer-young-chinese-study-abroad</link>
-      <description>Those who do are more likely to return home afterwards</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Senate has become an annoyance to Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/06/the-senate-has-become-an-annoyance-to-donald-trump</link>
-      <description>Ahead of an August recess, Republican senators have not advanced the president’s agenda</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: War drags on in Ukraine and Iran</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/06/cartoon-war-drags-on-in-ukraine-and-iran</link>
-      <description>A lighter take on the news</description>
-      <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/06/business</link>
-      <description></description>
       <pubDate>Thu, 06 Aug 2026 13:00:25 +0000</pubDate>
     </item>
   </channel>
