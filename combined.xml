@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Schoolyard protests are setting France ablaze</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/02/schoolyard-protests-are-setting-france-ablaze</link>
+      <description>Six months from an election, the mood is tense</description>
+      <pubDate>Fri, 02 Oct 2026 16:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s grim record of failed executions</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/02/americas-grim-record-of-failed-executions</link>
+      <description>What happens when states combine ineptitude with the death penalty</description>
+      <pubDate>Fri, 02 Oct 2026 15:42:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should you be using a tongue-scraper?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/02/should-you-be-using-a-tongue-scraper</link>
+      <description>There is another tool that will do the job just as well</description>
+      <pubDate>Fri, 02 Oct 2026 15:12:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Middle East Dispatch newsletter: The new Judaism reshaping Israel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/02/middle-east-dispatch-newsletter-the-new-judaism-reshaping-israel</link>
       <description>A radical shift is taking place at Jerusalem’s holiest site, writes Nicolas Pelham, our Middle East correspondent</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up</link>
       <description>Firms tasked with defusing credit crises are getting into trouble</description>
       <pubDate>Thu, 13 Aug 2026 08:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Singapore ever build a proper stock market?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market</link>
-      <description>The city-state wants to fill a hole in its financial portfolio</description>
-      <pubDate>Thu, 13 Aug 2026 08:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agents lie, cheat and steal. That is putting off users</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</link>
-      <description>It is time to impose law and order on the frontier</description>
-      <pubDate>Wed, 12 Aug 2026 21:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zhu Rongji’s death is a reminder of how much has changed in China</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/12/zhu-rongjis-death-is-a-reminder-of-how-much-has-changed-in-china</link>
-      <description>A titan of pragmatic reform is gone, aged 97</description>
-      <pubDate>Wed, 12 Aug 2026 20:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
