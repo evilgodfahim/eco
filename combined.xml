@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Middle East Dispatch newsletter: The new Judaism reshaping Israel</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/02/middle-east-dispatch-newsletter-the-new-judaism-reshaping-israel</link>
+      <description>A radical shift is taking place at Jerusalem’s holiest site, writes Nicolas Pelham, our Middle East correspondent</description>
+      <pubDate>Fri, 02 Oct 2026 08:56:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Cartoon: Democracy v autocracy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/10/01/cartoon-democracy-v-autocracy</link>
       <description>A lighter take on the news</description>
@@ -287,9 +293,9 @@
       <pubDate>Tue, 29 Sep 2026 14:14:57 +0000</pubDate>
     </item>
     <item>
-      <title>Big law is being shaken up—and not by AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai</link>
-      <description>A wave of poaching may presage a transformation of American law firms’ business model</description>
+      <title>Big Law’s century-old business model is being transformed</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/28/big-laws-century-old-business-model-is-being-transformed</link>
+      <description>Leading firms are swooping on each other’s star partners</description>
       <pubDate>Mon, 28 Sep 2026 18:52:47 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/12/zhu-rongjis-death-is-a-reminder-of-how-much-has-changed-in-china</link>
       <description>A titan of pragmatic reform is gone, aged 97</description>
       <pubDate>Wed, 12 Aug 2026 20:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democratic moderates get a surprising reprieve in Wisconsin</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/12/democratic-moderates-get-a-surprising-reprieve-in-wisconsin</link>
-      <description>The party has narrowly dodged a socialist insurgency in a crucial swing state</description>
-      <pubDate>Wed, 12 Aug 2026 19:49:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
