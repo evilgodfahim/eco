@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The most innovative countries in the world</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/10/02/the-most-innovative-countries-in-the-world</link>
+      <description>Will Donald Trump hurt America’s ranking?</description>
+      <pubDate>Fri, 02 Oct 2026 20:00:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Schoolyard protests are setting France ablaze</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/02/schoolyard-protests-are-setting-france-ablaze</link>
       <description>Six months from an election, the mood is tense</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec</link>
       <description>When market power comes from buying power, oil importers can do better</description>
       <pubDate>Thu, 13 Aug 2026 08:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is China’s debt-bomb squad about to blow up?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up</link>
-      <description>Firms tasked with defusing credit crises are getting into trouble</description>
-      <pubDate>Thu, 13 Aug 2026 08:37:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
