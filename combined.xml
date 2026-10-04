@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How India saved its tigers—and lions and rhinos and elephants</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/04/how-india-saved-its-tigers-and-lions-and-rhinos-and-elephants</link>
+      <description>India’s wildlife-conservation success holds lessons for other environmental efforts</description>
+      <pubDate>Sun, 04 Oct 2026 12:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>White Zimbabweans return to farming</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/04/white-zimbabweans-return-to-farming</link>
+      <description>Their return a generation after Robert Mugabe’s land grabs reflects the country’s potential—and its troubles</description>
+      <pubDate>Sun, 04 Oct 2026 11:49:12 +0000</pubDate>
+    </item>
+    <item>
       <title>The most innovative countries in the world</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/10/02/the-most-innovative-countries-in-the-world</link>
       <description>Will Donald Trump hurt America’s ranking?</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/13/the-taliban-are-vile-democracies-must-still-engage-with-them</link>
       <description>Five years after America’s exit, the Afghan regime is not going anywhere</description>
       <pubDate>Thu, 13 Aug 2026 11:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Japan buys yen, it unwinds a dangerous trade</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade</link>
-      <description>The world’s biggest carry trader begins to exit its position</description>
-      <pubDate>Thu, 13 Aug 2026 08:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>China has wrested control of oil markets from OPEC</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec</link>
-      <description>When market power comes from buying power, oil importers can do better</description>
-      <pubDate>Thu, 13 Aug 2026 08:45:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
