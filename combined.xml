@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Belarus is becoming increasingly Russian</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/europe/2026/10/09/belarus-is-becoming-increasingly-russian</link>
+      <description>As the country stamps out its national heritage, its neighbour’s propaganda is taking over</description>
+      <pubDate>Fri, 09 Oct 2026 14:44:25 +0000</pubDate>
+    </item>
+    <item>
       <title>A no-rules approach to AI is mad politics and worse policy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/10/08/a-no-rules-approach-to-ai-is-mad-politics-and-worse-policy</link>
       <description>Do not let it rip</description>
@@ -97,7 +103,7 @@
     <item>
       <title>Europe’s lame-duck year could hardly come at a worse time</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/08/europes-lame-duck-year-could-hardly-come-at-a-worse-time</link>
-      <description>Elections will sap what little resolve Europe has to make tough decisions</description>
+      <description>Elections will sap what little resolve the continent has to make tough decisions</description>
       <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
     </item>
     <item>
@@ -116,6 +122,12 @@
       <title>The rise of the AI marketplace</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/08/the-rise-of-the-ai-marketplace</link>
       <description>Businesses such as OpenRouter are thriving as companies try to cut token costs</description>
+      <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Football’s latest scandal inspires apathy rather than anger</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/08/footballs-latest-scandal-inspires-apathy-rather-than-anger</link>
+      <description>That is dangerous for the game</description>
       <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/19/jason-arday-was-treated-as-a-symbol-not-a-man</link>
       <description>Both his supporters and detractors dehumanised the tragic fabulist</description>
       <pubDate>Wed, 19 Aug 2026 20:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the world’s richest country can’t defend vital infrastructure</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/19/why-the-worlds-richest-country-cant-defend-vital-infrastructure</link>
-      <description>Washington continues to move more slowly than hackers</description>
-      <pubDate>Wed, 19 Aug 2026 19:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rock-solid evidence for the origins of birds</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/19/rock-solid-evidence-for-the-origins-of-birds</link>
-      <description>Stones in dinosaur stomachs may help understanding of avian evolution</description>
-      <pubDate>Wed, 19 Aug 2026 18:36:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
