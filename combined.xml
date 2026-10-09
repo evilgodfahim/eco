@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Italy’s politicians are obsessed with short skirts</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/09/italys-politicians-are-obsessed-with-short-skirts</link>
+      <description>A parliamentary fight over hemlines shows the battle of the sexes is still on</description>
+      <pubDate>Fri, 09 Oct 2026 18:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do you need to walk 10,000 steps a day?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/09/do-you-need-to-walk-10000-steps-a-day</link>
+      <description>How fast you walk may be as important as how much</description>
+      <pubDate>Fri, 09 Oct 2026 15:21:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Belarus is becoming increasingly Russian</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/europe/2026/10/09/belarus-is-becoming-increasingly-russian</link>
       <description>As the country stamps out its national heritage, its neighbour’s propaganda is taking over</description>
@@ -215,8 +227,8 @@
       <pubDate>Thu, 08 Oct 2026 09:21:26 +0000</pubDate>
     </item>
     <item>
-      <title>Turbulent bond markets threaten some countries more than others</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/10/08/turbulent-bond-markets-threaten-some-countries-more-than-others</link>
+      <title>The countries most threatened by turbulent bond markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/10/08/the-countries-most-threatened-by-turbulent-bond-markets</link>
       <description>For those where interest rates outstrip economic growth, trouble looms</description>
       <pubDate>Thu, 08 Oct 2026 09:18:47 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/20/will-china-ever-learn-to-love-chocolate</link>
       <description>Local chocolatiers are raising the bar</description>
       <pubDate>Thu, 20 Aug 2026 08:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The war on data centres is a bit fake</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake</link>
-      <description>Developers are exaggerating their plans, just as politicians are overstating their opposition</description>
-      <pubDate>Wed, 19 Aug 2026 21:10:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jason Arday was treated as a symbol, not a man</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/19/jason-arday-was-treated-as-a-symbol-not-a-man</link>
-      <description>Both his supporters and detractors dehumanised the tragic fabulist</description>
-      <pubDate>Wed, 19 Aug 2026 20:53:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
