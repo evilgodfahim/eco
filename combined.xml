@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The limits of India’s diaspora power</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/11/the-limits-of-indias-diaspora-power</link>
+      <description>As the West closes its doors, India must make staying home more attractive</description>
+      <pubDate>Sun, 11 Oct 2026 10:42:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: Plans to livestream an execution in America</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/09/checks-and-balance-newsletter-plans-to-livestream-an-execution-in-america</link>
       <description>John Prideaux, our executive editor, argues that making a spectacle of a Muslim gunman’s death is a deliberate political choice</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths</link>
       <description>Freedom of navigation is worth preserving</description>
       <pubDate>Thu, 20 Aug 2026 09:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>However you measure it, China’s job market is weak</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak</link>
-      <description>Some workers are going back to the farm</description>
-      <pubDate>Thu, 20 Aug 2026 09:21:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
