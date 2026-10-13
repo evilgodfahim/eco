@@ -5,9 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Café Europa newsletter: Marco Rubio’s questionable history lesson</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/13/cafe-europa-newsletter-marco-rubios-questionable-history-lesson</link>
+      <description>Matt Steinglass, our Europe editor, identifies the continent’s Spartans</description>
+      <pubDate>Tue, 13 Oct 2026 09:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: The curious case of firing squads</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/13/the-war-room-newsletter-the-curious-case-of-firing-squads</link>
+      <description>Alex Turner, our defence editor, looks at this anachronistic and peculiar form of execution</description>
+      <pubDate>Tue, 13 Oct 2026 08:07:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Russian men are fleeing before the army can grab them</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/12/russian-men-are-fleeing-before-the-army-can-grab-them</link>
-      <description>Vladimir Putin looks poised for a huge new wave of forced inductions</description>
+      <description>Vladimir Putin looks poised for a huge wave of forced inductions</description>
       <pubDate>Mon, 12 Oct 2026 18:53:19 +0000</pubDate>
     </item>
     <item>
@@ -140,6 +152,12 @@
       <title>China wants teenagers to read a classic English novel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/10/08/china-wants-teenagers-to-read-a-classic-english-novel</link>
       <description>Officials see “Jane Eyre” as promoting the right kind of love</description>
+      <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nagging people to eat healthily does not work</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/08/nagging-people-to-eat-healthily-does-not-work</link>
+      <description>Taxes, planning rules, limits on ads—anything to curb junk food</description>
       <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
     </item>
     <item>
@@ -2984,24 +3002,6 @@
       <title>Why France has fallen for la danse country</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/20/why-france-has-fallen-for-la-danse-country</link>
       <description>Outside the snobbish capital, American line-dancing is huge</description>
-      <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>An ex-minister calls on Volodymyr Zelensky to hold elections</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/20/an-ex-minister-calls-on-volodymyr-zelensky-to-hold-elections</link>
-      <description>Most Ukrainians oppose holding them, but democratic pressure is mounting</description>
-      <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s oil industry is booming. Can it last?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/20/canadas-oil-industry-is-booming-can-it-last</link>
-      <description>Looser regulations will help with pipelines—but may not boost production</description>
-      <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Reddit survive in the AI era?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era</link>
-      <description>It wants more cash for its data—and more of people’s time</description>
       <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
     </item>
   </channel>
