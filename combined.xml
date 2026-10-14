@@ -5,10 +5,40 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Donald Trump is squeezing Ukraine’s military lifeline</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline</link>
+      <description>To protect his Russian diesel deal, he appears to be withholding vital military intelligence</description>
+      <pubDate>Wed, 14 Oct 2026 18:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could AI help scientists with their paperwork?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork</link>
+      <description>Yes—but that amplifies existing problems</description>
+      <pubDate>Wed, 14 Oct 2026 18:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI will make it possible to design and build organisms from scratch</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch</link>
+      <description>Synthetic biology has arrived at last</description>
+      <pubDate>Wed, 14 Oct 2026 18:47:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI companies want to become frontier scientific researchers</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers</link>
+      <description>Better AI models may be their reward</description>
+      <pubDate>Wed, 14 Oct 2026 18:45:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Hardly his finest hour</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/10/14/hardly-his-finest-hour</link>
       <description>The president’s scheme to secure Russian diesel is wrong-headed and immoral</description>
       <pubDate>Wed, 14 Oct 2026 17:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another warning sign for China’s economy: falling consumer credit</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit</link>
+      <description>A crackdown on aggressive debt collectors is good news and bad news</description>
+      <pubDate>Wed, 14 Oct 2026 17:52:55 +0000</pubDate>
     </item>
     <item>
       <title>Can Asian governments prevent a food shock?</title>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/21/cover-story-newsletter-could-ais-become-conscious</link>
       <description>An exclusive look at how we designed our cover</description>
       <pubDate>Fri, 21 Aug 2026 18:43:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracking the cost of Donald Trump’s tariffs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/trump-tariff-costs-tracker</link>
-      <description>America’s global effective tariff stands at 10.0%</description>
-      <pubDate>Fri, 21 Aug 2026 17:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>It now seems possible to vaccinate against cancer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/21/it-now-seems-possible-to-vaccinate-against-cancer</link>
-      <description>The latest results are promising, but not yet definitive</description>
-      <pubDate>Fri, 21 Aug 2026 15:57:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simply Science newsletter: The case for modifying the clouds</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/21/simply-science-newsletter-the-case-for-modifying-the-clouds</link>
-      <description>Oliver Morton, a senior editor, examines how contrails affect the climate</description>
-      <pubDate>Fri, 21 Aug 2026 11:43:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yuval Noah Harari on the economic and political perils of AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai</link>
-      <description>Humanity must not entrust its lot to clever machines, the bestselling historian warns</description>
-      <pubDate>Thu, 20 Aug 2026 20:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fewer contrails would be good for the climate</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/20/fewer-contrails-would-be-good-for-the-climate</link>
-      <description>It could take care of at least a little global warming</description>
-      <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
