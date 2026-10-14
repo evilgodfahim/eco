@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>European museums are seeing a spike in high-value art theft</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/14/european-museums-are-seeing-a-spike-in-high-value-art-theft</link>
+      <description>Forget cat burglars. Today’s thieves smash, grab and run</description>
+      <pubDate>Wed, 14 Oct 2026 12:57:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Elon Musk&apos;s foundation is opaque, miserly and self-serving</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving</link>
       <description>The world’s richest man disdains charity. His money is where his mouth is</description>
@@ -2996,12 +3002,6 @@
       <title>Kazakhstan prepares to vote in a cosmetic election</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/20/kazakhstan-prepares-to-vote-in-a-cosmetic-election</link>
       <description>Despite promises of renewal, it is still an authoritarian state</description>
-      <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The promise and the pitfalls of China’s new Arctic shipping route</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/20/the-promise-and-the-pitfalls-of-chinas-new-arctic-shipping-route</link>
-      <description>The Northern Sea Route is a pricey and risky alternative to the Suez Canal</description>
       <pubDate>Thu, 20 Aug 2026 12:59:02 +0000</pubDate>
     </item>
   </channel>
