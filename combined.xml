@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>It’s not just Commerzbank: Italians are eating up German business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business</link>
+      <description>The takeover of the bank by UniCredit is only the start</description>
+      <pubDate>Fri, 16 Oct 2026 17:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can joggers outrun injury?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/16/can-joggers-outrun-injury</link>
+      <description>Patience when training goes the extra mile</description>
+      <pubDate>Fri, 16 Oct 2026 17:53:14 +0000</pubDate>
+    </item>
+    <item>
       <title>The Cuba archives: Kennedy’s disastrous invasion</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-3</link>
       <description>Part 3 in our series on how The Economist reported on a pivotal decade in US-Cuba relations</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/08/27/donald-trump-is-at-last-building-his-border-wall</link>
       <description>The barrier serves many goals, but may fail at its most important one</description>
       <pubDate>Thu, 27 Aug 2026 10:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump is delivering the deportations he promised</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/08/27/donald-trump-is-delivering-the-deportations-he-promised</link>
-      <description>But that is not proving popular. The politics of immigration are changing</description>
-      <pubDate>Thu, 27 Aug 2026 09:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The economic costs of Donald Trump’s immigration crackdown</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown</link>
-      <description>A smaller workforce and slower growth</description>
-      <pubDate>Thu, 27 Aug 2026 09:49:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
