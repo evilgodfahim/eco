@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Cuba archives: Kennedy’s disastrous invasion</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-3</link>
+      <description>Part 3 in our series on how The Economist reported on a pivotal decade in US-Cuba relations</description>
+      <pubDate>Fri, 16 Oct 2026 14:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cuba archives: A revolution and America’s reaction</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-2</link>
+      <description>Part 2 in our series on how The Economist reported on a pivotal decade in US-Cuba relations</description>
+      <pubDate>Fri, 16 Oct 2026 14:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cuba archives: The coup that took America by surprise</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-1</link>
+      <description>Part 1 in our series on how The Economist reported on a pivotal decade in US-Cuba relations</description>
+      <pubDate>Fri, 16 Oct 2026 14:12:55 +0000</pubDate>
+    </item>
+    <item>
       <title>America makes waves in Cuba</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba</link>
       <description>But it shouldn’t undermine the growth of the island’s private sector</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown</link>
       <description>A smaller workforce and slower growth</description>
       <pubDate>Thu, 27 Aug 2026 09:49:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gallivanting EU politicians reveal where power really lies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/27/gallivanting-eu-politicians-reveal-where-power-really-lies</link>
-      <description>Inside the Grand Tour of 27 European capitals</description>
-      <pubDate>Thu, 27 Aug 2026 09:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scott Bessent takes on the bond market</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market</link>
-      <description>And makes trouble for the Fed</description>
-      <pubDate>Thu, 27 Aug 2026 09:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>China should be loosening budgetary policy. It’s doing the opposite</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite</link>
-      <description>Its belt-tightening is good micro, but bad macro</description>
-      <pubDate>Thu, 27 Aug 2026 08:57:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
