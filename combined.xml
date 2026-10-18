@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Indians’ rights have been chipped away for decades</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/18/indians-rights-have-been-chipped-away-for-decades</link>
+      <description>But interfering with the sanctity of elections is a step too far</description>
+      <pubDate>Sun, 18 Oct 2026 13:42:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checks and Balance newsletter: Is political shame making a comeback?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/18/checks-and-balance-newsletter-is-political-shame-making-a-comeback</link>
+      <description>Charlotte Howard, our US editor, reflects on a week of embarrassments at the White House</description>
+      <pubDate>Sun, 18 Oct 2026 10:23:33 +0000</pubDate>
+    </item>
+    <item>
       <title>It’s not just Commerzbank: Italians are eating up German business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business</link>
       <description>The takeover of the bank by UniCredit is only the start</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/27/a-hundred-days-of-bjp-shock-and-awe-in-west-bengal</link>
       <description>The party finds taking on local customs and the opposition easier than fixing the economy</description>
       <pubDate>Thu, 27 Aug 2026 10:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unwelcoming States of America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/08/27/the-unwelcoming-states-of-america</link>
-      <description>By trying to change its demographic trajectory, Donald Trump will make his country weaker</description>
-      <pubDate>Thu, 27 Aug 2026 10:16:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump is at last building his border wall</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/08/27/donald-trump-is-at-last-building-his-border-wall</link>
-      <description>The barrier serves many goals, but may fail at its most important one</description>
-      <pubDate>Thu, 27 Aug 2026 10:11:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
