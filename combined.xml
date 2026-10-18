@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Expect violent protests to erupt in France again</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/18/expect-violent-protests-to-erupt-in-france-again</link>
+      <description>No one is addressing the core problems that the country faces</description>
+      <pubDate>Sun, 18 Oct 2026 19:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>As America abandons Ukraine, Europe stands alone</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/18/as-america-abandons-ukraine-europe-stands-alone</link>
+      <description>But Europeans cannot fully replace American support, and they face trouble at home</description>
+      <pubDate>Sun, 18 Oct 2026 18:54:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Republicans’ identity crisis in Texas</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/18/republicans-identity-crisis-in-texas</link>
       <description>The old campaign messages aren’t working and the new ones are risky</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/08/27/the-problem-with-the-worlds-oldest-mummies</link>
       <description>The burial rituals of a culture that thrived 7,000 years ago have ramifications today</description>
       <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The terrifying mechanics of the Nepali flash flood</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood</link>
-      <description>How a glacial avalanche visits devastation</description>
-      <pubDate>Thu, 27 Aug 2026 12:26:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The long arm of the Chinese state</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/08/27/the-long-arm-of-the-chinese-state</link>
-      <description>Like America, China wants its laws to apply everywhere</description>
-      <pubDate>Thu, 27 Aug 2026 10:59:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
