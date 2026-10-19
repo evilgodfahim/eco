@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Everything is going wrong for Muhammad bin Salman</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman</link>
+      <description>This is his annus horribilis</description>
+      <pubDate>Mon, 19 Oct 2026 20:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s new era of private science</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/19/americas-new-era-of-private-science</link>
+      <description>The future of innovation may be research outside universities</description>
+      <pubDate>Mon, 19 Oct 2026 18:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who will buy $120bn-worth of fresh Japanese government bonds?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds</link>
+      <description>Japan wants its pension fund and households to buy more government debt</description>
+      <pubDate>Mon, 19 Oct 2026 18:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Americans have stopped buying new homes</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/10/19/why-americans-have-stopped-buying-new-homes</link>
+      <description>Mortgage lock-in is preventing nearly 1m property sales a year</description>
+      <pubDate>Mon, 19 Oct 2026 17:48:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia’s escalating information war in Africa</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/19/russias-escalating-information-war-in-africa</link>
       <description>The Kremlin is betting it can sway public opinion on the continent</description>
@@ -2978,30 +3002,6 @@
       <title>Business</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/27/business</link>
       <description></description>
-      <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: America and Canada stand on the brink of a trade war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/27/cartoon-america-and-canada-stand-on-the-brink-of-a-trade-war</link>
-      <description>A lighter take on the news</description>
-      <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/27/politics</link>
-      <description></description>
-      <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can music festivals save the melting Alps?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/27/can-music-festivals-save-the-melting-alps</link>
-      <description>Europe’s ski resorts must reinvent themselves for a hotter future</description>
-      <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>European countries are battling over rules on booze</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/27/european-countries-are-battling-over-rules-on-booze</link>
-      <description>Belgium wants advertisers to note that alcohol is bad for you, Italy does not</description>
       <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
     </item>
   </channel>
