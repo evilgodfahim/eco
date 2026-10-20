@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Asia Bulletin newsletter: Russia’s Japanese hostage</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/20/asia-bulletin-newsletter-russias-japanese-hostage</link>
+      <description>Noah Sneider, our East Asia bureau chief, asks what Russia hopes to gain by arresting a Japanese journalist</description>
+      <pubDate>Tue, 20 Oct 2026 11:21:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Everything is going wrong for Muhammad bin Salman</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman</link>
       <description>This is his annus horribilis</description>
@@ -2996,12 +3002,6 @@
       <title>Shrimpers are the latest group seeking protection from Washington</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/27/shrimpers-are-the-latest-group-seeking-protection-from-washington</link>
       <description>But Donald Trump is waking up to the risks of pricey food</description>
-      <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/08/27/business</link>
-      <description></description>
       <pubDate>Thu, 27 Aug 2026 14:02:18 +0000</pubDate>
     </item>
   </channel>
