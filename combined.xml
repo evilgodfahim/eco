@@ -5,15 +5,21 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Can Lula, now the underdog, pull off one last trick?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/10/21/can-lula-now-the-underdog-pull-off-one-last-trick</link>
+      <description>The polls are tightening with just days to go</description>
+      <pubDate>Wed, 21 Oct 2026 14:08:13 +0000</pubDate>
+    </item>
+    <item>
       <title>AI-powered personal assistants could reshape the digital economy</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy</link>
       <description>But they will first have to prove they are safe for users and helpful for businesses</description>
       <pubDate>Tue, 20 Oct 2026 19:55:23 +0000</pubDate>
     </item>
     <item>
-      <title>Donald Trump, human wrecking-ball</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball</link>
-      <description>The world mostly loathes Trumpian foreign policy. It may not change that much</description>
+      <title>MAGA foreign policy is a mess. Democrats disagree on what comes next</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next</link>
+      <description>Donald Trump’s yen for demolition has broken the “pendulum theory”</description>
       <pubDate>Tue, 20 Oct 2026 19:46:46 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/08/28/how-to-combine-exercise-with-video-games</link>
       <description>Warmed up and ready, player one</description>
       <pubDate>Fri, 28 Aug 2026 16:23:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Let slip the dogs (and pigeons) of war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/28/the-war-room-newsletter-let-slip-the-dogs-and-pigeons-of-war</link>
-      <description>Richard Cockett, a senior editor, looks back at the remarkable history of animals in warfare</description>
-      <pubDate>Fri, 28 Aug 2026 15:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
