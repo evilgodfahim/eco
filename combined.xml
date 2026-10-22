@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The second may soon be redefined</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined</link>
+      <description>Several atomic clocks are competing for the job</description>
+      <pubDate>Wed, 21 Oct 2026 22:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan’s mission to Mars’s moons takes off</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off</link>
+      <description>It will collect samples and search for signs of ancient life</description>
+      <pubDate>Wed, 21 Oct 2026 22:12:25 +0000</pubDate>
+    </item>
+    <item>
       <title>How France became ungovernable at home yet unstoppable in Brussels</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels</link>
       <description>The paradox of Parisian power</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/08/30/indias-payments-system-is-ten-it-must-start-paying-for-itself</link>
       <description>Processing 24bn transactions a month does not come cheap</description>
       <pubDate>Sun, 30 Aug 2026 15:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantifying anger in American politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/08/30/quantifying-anger-in-american-politics</link>
-      <description>The country is awash in indignation</description>
-      <pubDate>Sun, 30 Aug 2026 12:30:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU enlargement hits an Icelandic snag</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/08/30/eu-enlargement-hits-an-icelandic-snag</link>
-      <description>A no vote on joining the EU was more about fish than geopolitics</description>
-      <pubDate>Sun, 30 Aug 2026 11:48:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
