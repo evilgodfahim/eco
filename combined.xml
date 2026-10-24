@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Cover Story newsletter: The agony of liberal Europe</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Sat, 24 Oct 2026 10:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checks and Balance newsletter: If American voters lived under one roof</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof</link>
+      <description>John Prideaux, our executive editor, imagines a ten-storey apartment building to explain how a polarised country can still swing wildly</description>
+      <pubDate>Sat, 24 Oct 2026 10:45:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Are some protein powders better than others?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others</link>
       <description>Pure whey is the way to go</description>
@@ -263,9 +275,9 @@
       <pubDate>Tue, 20 Oct 2026 19:55:23 +0000</pubDate>
     </item>
     <item>
-      <title>MAGA foreign policy is a mess</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess</link>
-      <description>Democrats disagree on what comes next</description>
+      <title>MAGA foreign policy is a mess. Democrats disagree on what comes next</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next</link>
+      <description>Donald Trump’s yen for demolition has broken the “pendulum theory”</description>
       <pubDate>Tue, 20 Oct 2026 19:46:46 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/03/what-will-happen-to-uganda-when-yoweri-museveni-goes</link>
       <description>Nothing good, if recent months are anything to go by</description>
       <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ethiopia’s undeclared drone war</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/03/ethiopias-undeclared-drone-war</link>
-      <description>A spate of strikes on Tigray pushes the country into dangerous territory</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: Putin cornered</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/03/cartoon-putin-cornered</link>
-      <description>A lighter take on the news</description>
-      <pubDate>Thu, 03 Sep 2026 12:48:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
