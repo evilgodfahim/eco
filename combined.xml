@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>AI models may not be so opaque after all</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all</link>
+      <description>A glimmer of hope for those worried about AI safety</description>
+      <pubDate>Sat, 24 Oct 2026 15:20:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Cover Story newsletter: The agony of liberal Europe</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe</link>
       <description>An exclusive look at how we designed our cover</description>
@@ -2996,12 +3002,6 @@
       <title>Iran’s proxies are going their own way</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/03/irans-proxies-are-going-their-own-way</link>
       <description>After three years of war, the axis of resistance is no longer an axis</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>What will happen to Uganda when Yoweri Museveni goes?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/03/what-will-happen-to-uganda-when-yoweri-museveni-goes</link>
-      <description>Nothing good, if recent months are anything to go by</description>
       <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
     </item>
   </channel>
