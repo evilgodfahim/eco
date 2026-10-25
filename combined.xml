@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>India has stabilised its currency. But at what cost?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost</link>
+      <description>The central bank is using ever harsher measures to keep the rupee below 100 to the dollar</description>
+      <pubDate>Sun, 25 Oct 2026 12:23:19 +0000</pubDate>
+    </item>
+    <item>
       <title>AI models may not be so opaque after all</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all</link>
       <description>A glimmer of hope for those worried about AI safety</description>
@@ -2996,12 +3002,6 @@
       <title>From protein to matcha, food fads spread faster than ever</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/03/from-protein-to-matcha-food-fads-spread-faster-than-ever</link>
       <description>Supply chains struggle to keep up</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s proxies are going their own way</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/03/irans-proxies-are-going-their-own-way</link>
-      <description>After three years of war, the axis of resistance is no longer an axis</description>
       <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
     </item>
   </channel>
