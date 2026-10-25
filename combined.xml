@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>China increasingly depends on copying American AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai</link>
+      <description>Model distillation infuriates America, but may end up holding China back</description>
+      <pubDate>Sun, 25 Oct 2026 17:44:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The winners and losers of Trumponomics</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics</link>
+      <description>The president promised to help ordinary Americans. He achieved something rather different</description>
+      <pubDate>Sun, 25 Oct 2026 16:26:06 +0000</pubDate>
+    </item>
+    <item>
       <title>India has stabilised its currency. But at what cost?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost</link>
       <description>The central bank is using ever harsher measures to keep the rupee below 100 to the dollar</description>
@@ -79,7 +91,7 @@
     <item>
       <title>China’s party elite gathers with purges and promotions in mind</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind</link>
-      <description>Xi seeks new ways to curb corruption before a leadership shake-up</description>
+      <description>Xi Jinping seeks new ways to curb corruption before a leadership shake-up</description>
       <pubDate>Thu, 22 Oct 2026 12:59:25 +0000</pubDate>
     </item>
     <item>
@@ -2990,18 +3002,6 @@
       <title>The IRS is going after America Inc’s overseas profits</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/03/the-irs-is-going-after-america-incs-overseas-profits</link>
       <description>Companies from Coca-Cola to Meta are in its sights</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese businesses of all stripes are turning to Huawei</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/03/chinese-businesses-of-all-stripes-are-turning-to-huawei</link>
-      <description>In industries from mining to transport, the company’s technology is becoming pervasive</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>From protein to matcha, food fads spread faster than ever</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/03/from-protein-to-matcha-food-fads-spread-faster-than-ever</link>
-      <description>Supply chains struggle to keep up</description>
       <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
     </item>
   </channel>
