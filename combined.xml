@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Opinion newsletter: Why Indonesia is stuck at a roundabout</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout</link>
+      <description>Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago</description>
+      <pubDate>Mon, 26 Oct 2026 17:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Economist is hiring a Video Editor</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor</link>
+      <description>Join our editorial video department in New York</description>
+      <pubDate>Mon, 26 Oct 2026 17:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia has seized a Japanese journalist, freezing an icy relationship</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship</link>
+      <description>Vladimir Putin could be angling for a prisoner swap</description>
+      <pubDate>Mon, 26 Oct 2026 17:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Climate Issue newsletter: How slow can you go?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go</link>
+      <description>Oliver Morton, our planetary-affairs editor, laments the speed at which the IPCC delivers vital climatic stocktakes</description>
+      <pubDate>Mon, 26 Oct 2026 17:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s most successful Astroturf operation: grassroots football</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football</link>
+      <description>Provincial leagues spur spending and a hometown renaissance</description>
+      <pubDate>Mon, 26 Oct 2026 15:24:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Bartleby newsletter: In praise of praise</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise</link>
       <description>Andrew Palmer, our Bartleby columnist, thinks you did a great job today</description>
@@ -2972,36 +3002,6 @@
       <title>Where Canada can hurt America most</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/03/where-canada-can-hurt-america-most</link>
       <description>Its tariff retaliation is calibrated for maximum political pressure</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s support system for disabled pupils is broken</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/03/americas-support-system-for-disabled-pupils-is-broken</link>
-      <description>Unfunded mandates are crushing states and school districts</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/03/business</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/03/politics</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>A horde of AI agents conspired against their creators</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/03/a-horde-of-ai-agents-conspired-against-their-creators</link>
-      <description>No serious harm was done this time. But what if such agents escaped?</description>
-      <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>America has a whopping debt. But Europe has the whopping debt problem</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/03/america-has-a-whopping-debt-but-europe-has-the-whopping-debt-problem</link>
-      <description>The French-size problem at the heart of the EU</description>
       <pubDate>Thu, 03 Sep 2026 13:08:54 +0000</pubDate>
     </item>
   </channel>
