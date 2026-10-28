@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Israeli voters have given Binyamin Netanyahu’s coalition a drubbing</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing</link>
+      <description>His opponents will, nonetheless, probably struggle to form a government</description>
+      <pubDate>Wed, 28 Oct 2026 00:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>In an AI blow-up, would insurance pay out?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out</link>
+      <description>Credit default swaps are back in vogue amid fears of a debt disaster</description>
+      <pubDate>Tue, 27 Oct 2026 22:26:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump may love the Middle East to death</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death</link>
       <description>The folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/04/javier-mileis-outburst-over-the-falklands-is-a-mark-of-weakness</link>
       <description>In an interview with The Economist, Argentina’s president stirs up tensions with Britain</description>
       <pubDate>Fri, 04 Sep 2026 13:40:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI boom is coming for your gadgets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/03/the-ai-boom-is-coming-for-your-gadgets</link>
-      <description>We track price changes across six categories of consumer electronics</description>
-      <pubDate>Thu, 03 Sep 2026 16:12:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The moral panic over data centres is foolish</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish</link>
-      <description>A backlash fuelled by misinformation and misunderstanding</description>
-      <pubDate>Thu, 03 Sep 2026 14:40:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
