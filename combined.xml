@@ -5,8 +5,14 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>Israeli voters have given Binyamin Netanyahu’s coalition a drubbing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing</link>
+      <title>Flávio Bolsonaro appears to have fled Brazil</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/10/28/flavio-bolsonaro-appears-to-have-fled-brazil</link>
+      <description>It could mean a fresh start for the country’s political right</description>
+      <pubDate>Wed, 28 Oct 2026 03:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel’s voters deny Binyamin Netanyahu a majority</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/10/28/israels-voters-deny-binyamin-netanyahu-a-majority</link>
       <description>His opponents will, nonetheless, probably struggle to form a government</description>
       <pubDate>Wed, 28 Oct 2026 00:12:42 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/04/should-you-avoid-blue-light-before-bed</link>
       <description>Blueness may be less important than brightness</description>
       <pubDate>Fri, 04 Sep 2026 17:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Javier Milei’s outburst over the Falklands is a mark of weakness</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/04/javier-mileis-outburst-over-the-falklands-is-a-mark-of-weakness</link>
-      <description>In an interview with The Economist, Argentina’s president stirs up tensions with Britain</description>
-      <pubDate>Fri, 04 Sep 2026 13:40:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
