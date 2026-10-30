@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Is brown rice really healthier than white rice?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice</link>
+      <description>The scientific evidence goes against the grain</description>
+      <pubDate>Fri, 30 Oct 2026 16:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Off the Charts newsletter: Our favourite books about maps</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-our-favourite-books-about-maps</link>
+      <description>The Economist’s data team give their recommendations</description>
+      <pubDate>Fri, 30 Oct 2026 15:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Off the Charts newsletter: Seeing red</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-seeing-red</link>
+      <description>Not all colours are created equal, according to Alex Selby-Boothroyd, our head of data journalism</description>
+      <pubDate>Fri, 30 Oct 2026 15:01:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Google’s $500bn bloodbath reflects the danger it faces from AI</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai</link>
       <description>As its search engine sputters, rivals gain ground</description>
@@ -2984,24 +3002,6 @@
       <title>Politics</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/politics</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia has turned its schools into indoctrination machines</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/russia-has-turned-its-schools-into-indoctrination-machines</link>
-      <description>Soviet-style educational propaganda is back</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facing global crises, Europe rearranges the diplomatic deckchairs</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/facing-global-crises-europe-rearranges-the-diplomatic-deckchairs</link>
-      <description>Foreign affairs, domestic rows</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pedro Sánchez has let Ceuta turn into a crisis</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/pedro-sanchez-has-let-ceuta-turn-into-a-crisis</link>
-      <description>Spain’s PM is failing to deport or process thousands of migrants from Morocco</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
   </channel>
