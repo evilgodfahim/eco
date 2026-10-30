@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Stalled on the front lines, Russia hits Ukrainian harder</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder</link>
+      <description>Our tracker visualises a shift in the war</description>
+      <pubDate>Fri, 30 Oct 2026 18:58:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: The best warplanes in history</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history</link>
+      <description>Richard Cockett, a senior editor, straps in to examine the greatest aircraft of all time</description>
+      <pubDate>Fri, 30 Oct 2026 16:56:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Is brown rice really healthier than white rice?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice</link>
       <description>The scientific evidence goes against the grain</description>
@@ -2990,18 +3002,6 @@
       <title>Cartoon: How 9/11 empowers Donald Trump’s presidency</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/cartoon-how-911-empowers-donald-trumps-presidency</link>
       <description>A lighter take on the news</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/business</link>
-      <description></description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/politics</link>
-      <description></description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
   </channel>
