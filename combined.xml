@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Checks and Balance newsletter: Democrats’ nauseous optimism</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism</link>
+      <description>Charlotte Howard, our US editor, on what to watch in the final days before the midterms</description>
+      <pubDate>Sat, 31 Oct 2026 16:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: The Americans changing politics for the better</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Sat, 31 Oct 2026 15:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>California’s billionaire tax is dividing Democrats</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats</link>
+      <description>The fight over the state’s ballot measure has national stakes</description>
+      <pubDate>Sat, 31 Oct 2026 14:50:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Stalled on the front lines, Russia hits Ukrainian harder</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder</link>
       <description>Our tracker visualises a shift in the war</description>
@@ -2984,24 +3002,6 @@
       <title>How counterterrorism has empowered Donald Trump’s imperial presidency</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/10/how-counterterrorism-has-empowered-donald-trumps-imperial-presidency</link>
       <description>After 25 years, it may be time to reform the policies 9/11 inspired</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How far left will Democrats go?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/10/how-far-left-will-democrats-go</link>
-      <description>They are almost as mad at their leaders as they are at the president</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s disintegrating coalition</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/united-states/2026/09/10/donald-trumps-disintegrating-coalition</link>
-      <description>The swing voters of 2024 have abandoned the president</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartoon: How 9/11 empowers Donald Trump’s presidency</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/10/cartoon-how-911-empowers-donald-trumps-presidency</link>
-      <description>A lighter take on the news</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
   </channel>
