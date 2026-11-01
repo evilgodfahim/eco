@@ -5,8 +5,26 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>How AI is disrupting the art of campaigning</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/01/how-ai-is-disrupting-the-art-of-campaigning</link>
+      <title>An unfolding disaster in Alaska could cost Democrats the Senate</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate</link>
+      <description>The state has become the epicentre of election chicanery</description>
+      <pubDate>Sun, 01 Nov 2026 17:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Houthis built their war machine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/01/how-the-houthis-built-their-war-machine</link>
+      <description>The rebels in Yemen are outgrowing their dependence on their patron</description>
+      <pubDate>Sun, 01 Nov 2026 16:37:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intensive parenting is no longer the preserve of the rich</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich</link>
+      <description>But wealthy families still come out on top</description>
+      <pubDate>Sun, 01 Nov 2026 16:08:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is disrupting the art of campaigning</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning</link>
       <description>Candidates are using the technology to crunch data—and carry out dirty tricks</description>
       <pubDate>Sun, 01 Nov 2026 14:10:44 +0000</pubDate>
     </item>
@@ -2984,24 +3002,6 @@
       <title>Argentina needs less shouting and more growth</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/10/argentina-needs-less-shouting-and-more-growth</link>
       <description>Without it, Javier Milei’s remarkable liberal experiment could end next year</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plunging test scores are a slow-moving catastrophe</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe</link>
-      <description>Machines are getting brighter. Teens are getting dimmer. Schools must act now</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>In praise of the Democrats’ disarray</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/10/in-praise-of-the-democrats-disarray</link>
-      <description>Republicans are proving that party unity is overrated</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Black gold” is pouring out of Myanmar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/10/black-gold-is-pouring-out-of-myanmar</link>
-      <description>It is again the world’s largest producer of opium</description>
       <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
   </channel>
