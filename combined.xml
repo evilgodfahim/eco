@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Hackers are running riot with AI. Its makers want to cash in</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in</link>
+      <description>OpenAI and Anthropic spy a big opportunity in cyber-security</description>
+      <pubDate>Sun, 01 Nov 2026 21:41:42 +0000</pubDate>
+    </item>
+    <item>
       <title>An unfolding disaster in Alaska could cost Democrats the Senate</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate</link>
       <description>The state has become the epicentre of election chicanery</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/10/a-russian-shadow-flits-over-swedens-election</link>
       <description>The tight contest may not go as the populist-right Sweden Democrats hoped</description>
       <pubDate>Thu, 10 Sep 2026 16:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Argentina needs less shouting and more growth</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/10/argentina-needs-less-shouting-and-more-growth</link>
-      <description>Without it, Javier Milei’s remarkable liberal experiment could end next year</description>
-      <pubDate>Thu, 10 Sep 2026 14:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
