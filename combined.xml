@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>China’s AI stock-market struggles are a warning</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning</link>
+      <description>What happens when the supply of new tech catches up with demand?</description>
+      <pubDate>Tue, 03 Nov 2026 20:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besieged by war, Saudi Aramco continues to gush profits</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits</link>
+      <description>Higher oil prices comfortably make up for bombed facilities</description>
+      <pubDate>Tue, 03 Nov 2026 20:36:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>America’s renters are in serious trouble</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble</link>
+      <description>Several gauges of their financial health are flashing red</description>
+      <pubDate>Tue, 03 Nov 2026 19:06:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Café Europa newsletter: The story of Russia’s last free newspaper</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper</link>
+      <description>Matt Steinglass, our Europe editor, meets the larger-than-life character behind Novaya Gazeta</description>
+      <pubDate>Tue, 03 Nov 2026 18:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Middle East Dispatch newsletter: How Palestinians voted in Israel’s election</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election</link>
+      <description>Nicolas Pelham, our Middle East correspondent, looks at the Palestinians choosing participation over confrontation</description>
+      <pubDate>Tue, 03 Nov 2026 18:04:47 +0000</pubDate>
+    </item>
+    <item>
       <title>US midterms 2026: live results</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026/us-midterms/results/summary</link>
       <description>Follow all the races in the Senate and the House of Representatives</description>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/14/chinas-tutoring-crackdown-has-created-a-black-market</link>
       <description>The academic system has become more unfair but just as pressure-filled</description>
       <pubDate>Mon, 14 Sep 2026 15:11:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sweden’s left seems to have eked out a narrow victory</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/swedens-left-seems-to-have-eked-out-a-narrow-victory</link>
-      <description>A modest loss for the hard-right Sweden Democrats</description>
-      <pubDate>Mon, 14 Sep 2026 07:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should Anthropic press pause on a potential $2trn IPO?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/14/should-anthropic-press-pause-on-a-potential-2trn-ipo</link>
-      <description>Amid a safety freakout, it wants to slow down AI development</description>
-      <pubDate>Mon, 14 Sep 2026 04:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>How an oil-supply crisis could bring about an investment boom</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom</link>
-      <description>The windfall from the Gulf war has shored up balance-sheets and enriched shareholders. Next comes expansion</description>
-      <pubDate>Sun, 13 Sep 2026 17:22:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Houthis’ shock advance in Yemen gives Iran new leverage</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/13/the-houthis-shock-advance-in-yemen-gives-iran-new-leverage</link>
-      <description>Their gains are also an embarrassment for Saudi Arabia</description>
-      <pubDate>Sun, 13 Sep 2026 16:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>In search of the least wrong map</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/09/13/in-search-of-the-least-wrong-map</link>
-      <description>The UN wants to adopt a fairer way to trace borders</description>
-      <pubDate>Sun, 13 Sep 2026 11:51:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
