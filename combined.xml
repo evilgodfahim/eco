@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>As voters head to the polls, Democrats bet that discontent will power their victory</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory</link>
+      <description>Our latest forecast of the midterms’ outcome</description>
+      <pubDate>Mon, 02 Nov 2026 21:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The quest for immortality has become serious business</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business</link>
+      <description>As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing</description>
+      <pubDate>Mon, 02 Nov 2026 21:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>France’s unhappy countryside turns to the populist right</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right</link>
+      <description>In long-suffering villages, Marine Le Pen has come to stand for hope</description>
+      <pubDate>Mon, 02 Nov 2026 18:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Canada’s fighter-jet dilemma</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma</link>
+      <description>Alex Turner, our defence editor, looks at a choice between the Gripen and the F-35</description>
+      <pubDate>Mon, 02 Nov 2026 17:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fight for the soul of the Australian right</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right</link>
+      <description>Can a special-forces veteran stop the rise of Pauline Hanson?</description>
+      <pubDate>Mon, 02 Nov 2026 17:30:05 +0000</pubDate>
+    </item>
+    <item>
       <title>A new path to political power in China runs through state firms</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms</link>
       <description>China Inc has become a breeding ground for up-and-coming officials</description>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns</link>
       <description>The Economist invites applications for the Marjorie Deane internship</description>
       <pubDate>Sat, 12 Sep 2026 08:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: What America can learn from New York’s resilience after 9/11</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/11/checks-and-balance-newsletter-what-america-can-learn-from-new-yorks-resilience-after-911</link>
-      <description>Charlotte Howard, our US editor, reflects on the lessons from that tragedy</description>
-      <pubDate>Fri, 11 Sep 2026 18:34:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top mathematicians are outraged by OpenAI’s methods</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</link>
-      <description>A group of Fields Medal winners have written a letter of objection</description>
-      <pubDate>Fri, 11 Sep 2026 17:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hot coffee could cause oesophageal cancer</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer</link>
-      <description>The cooler it is, the safer</description>
-      <pubDate>Fri, 11 Sep 2026 17:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surging bond yields presage pain—and not just for bond investors</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors</link>
-      <description>Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds</description>
-      <pubDate>Fri, 11 Sep 2026 16:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where prediction markets struggle</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/10/where-prediction-markets-struggle</link>
-      <description>They misfired during America’s primaries—but not in the way you might think</description>
-      <pubDate>Thu, 10 Sep 2026 17:53:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
