@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>US midterms 2026: live results</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/2026/us-midterms/results/summary</link>
+      <description>Follow all the races in the Senate and the House of Representatives</description>
+      <pubDate>Tue, 03 Nov 2026 12:47:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers are exploiting Africa’s digital identities</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/03/hackers-are-exploiting-africas-digital-identities</link>
+      <description>Governments are embracing new databases. So too are criminals</description>
+      <pubDate>Tue, 03 Nov 2026 09:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wanted: a news researcher in Beijing</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing</link>
+      <description>Work with the Beijing bureau of The Economist</description>
+      <pubDate>Tue, 03 Nov 2026 09:28:37 +0000</pubDate>
+    </item>
+    <item>
       <title>As voters head to the polls, Democrats bet that discontent will power their victory</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory</link>
       <description>Our latest forecast of the midterms’ outcome</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/09/13/in-search-of-the-least-wrong-map</link>
       <description>The UN wants to adopt a fairer way to trace borders</description>
       <pubDate>Sun, 13 Sep 2026 11:51:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Women lead brutal lives in Colombia’s illegal gold-mining regions</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/13/women-lead-brutal-lives-in-colombias-illegal-gold-mining-regions</link>
-      <description>They survive on what men discard, and are exploited by them</description>
-      <pubDate>Sun, 13 Sep 2026 09:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Indians are unhappy about 7.8% economic growth</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-economic-growth</link>
-      <description>A row over GDP numbers is really about how people feel</description>
-      <pubDate>Sun, 13 Sep 2026 09:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wanted: new business, finance and economics interns</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns</link>
-      <description>The Economist invites applications for the Marjorie Deane internship</description>
-      <pubDate>Sat, 12 Sep 2026 08:04:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
