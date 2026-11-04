@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Live briefing: will it be a blue wave?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/03/midterms-coverage</link>
+      <description>Results, reactions and up-to-the-minute analysis from our editors and correspondents</description>
+      <pubDate>Tue, 03 Nov 2026 22:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fear united Europe. Nationalism may tear it apart</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart</link>
+      <description>Donald Trump and Vladimir Putin made Europe serious about its own defences. That may not last</description>
+      <pubDate>Tue, 03 Nov 2026 22:13:41 +0000</pubDate>
+    </item>
+    <item>
       <title>China’s AI stock-market struggles are a warning</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning</link>
       <description>What happens when the supply of new tech catches up with demand?</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/14/south-africa-is-at-risk-of-becoming-a-mafia-state</link>
       <description>An extraordinary public inquiry is confirming the country’s worst fears about organised crime</description>
       <pubDate>Mon, 14 Sep 2026 16:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: Russia is hunting Ukraine’s trains</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/the-war-room-newsletter-russia-is-hunting-ukraines-trains</link>
-      <description>Russia’s drones and missiles are battering the railway system, writes Adam Roberts, our foreign editor</description>
-      <pubDate>Mon, 14 Sep 2026 15:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s tutoring crackdown has created a black market</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/14/chinas-tutoring-crackdown-has-created-a-black-market</link>
-      <description>The academic system has become more unfair but just as pressure-filled</description>
-      <pubDate>Mon, 14 Sep 2026 15:11:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
