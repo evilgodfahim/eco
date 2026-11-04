@@ -5,7 +5,13 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>Live briefing: will it be a blue wave?</title>
+      <title>A landslide for Democrats. A rebuke to Donald Trump</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump</link>
+      <description>Republicans face a tumultuous new era</description>
+      <pubDate>Wed, 04 Nov 2026 06:05:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live briefing: Democrats take the House and Senate</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/03/midterms-coverage</link>
       <description>Results, reactions and up-to-the-minute analysis from our editors and correspondents</description>
       <pubDate>Tue, 03 Nov 2026 22:21:38 +0000</pubDate>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/14/a-new-device-helps-severely-paralysed-patients-communicate</link>
       <description>Eventually they might be able to control robots or exoskeletons</description>
       <pubDate>Mon, 14 Sep 2026 17:07:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Africa is at risk of becoming a mafia state</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/14/south-africa-is-at-risk-of-becoming-a-mafia-state</link>
-      <description>An extraordinary public inquiry is confirming the country’s worst fears about organised crime</description>
-      <pubDate>Mon, 14 Sep 2026 16:14:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
