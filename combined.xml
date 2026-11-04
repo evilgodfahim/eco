@@ -5,15 +5,27 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Bartleby newsletter: The case for scientific methods of decision-making</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making</link>
+      <description>Andrew Palmer, our Bartleby columnist, explains why too many corporate leaders rely on gut instinct</description>
+      <pubDate>Wed, 04 Nov 2026 14:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Democrats’ extraordinary triumph, explained</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/11/04/the-democrats-extraordinary-triumph-explained</link>
+      <description>Six charts show how they came out on top</description>
+      <pubDate>Wed, 04 Nov 2026 13:40:55 +0000</pubDate>
+    </item>
+    <item>
       <title>A landslide for Democrats. A rebuke to Donald Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump</link>
       <description>Republicans face a tumultuous new era</description>
       <pubDate>Wed, 04 Nov 2026 06:05:41 +0000</pubDate>
     </item>
     <item>
-      <title>Live briefing: Democrats take the House and Senate</title>
+      <title>Recap: How Democrats took the House and Senate</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/03/midterms-coverage</link>
-      <description>Results, reactions and up-to-the-minute analysis from our editors and correspondents</description>
+      <description>Results, reactions and analysis from our editors and correspondents</description>
       <pubDate>Tue, 03 Nov 2026 22:21:38 +0000</pubDate>
     </item>
     <item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/15/developers-are-learning-to-love-zohran-mamdani</link>
       <description>New York’s socialist mayor wants a housing boom</description>
       <pubDate>Tue, 15 Sep 2026 16:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>France’s centre has one question: who can beat Marine Le Pen?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/14/frances-centre-has-one-question-who-can-beat-marine-le-pen</link>
-      <description>Seven months out, presidential candidates are lacklustre and there are too many of them</description>
-      <pubDate>Mon, 14 Sep 2026 17:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new device helps severely paralysed patients communicate</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/14/a-new-device-helps-severely-paralysed-patients-communicate</link>
-      <description>Eventually they might be able to control robots or exoskeletons</description>
-      <pubDate>Mon, 14 Sep 2026 17:07:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
