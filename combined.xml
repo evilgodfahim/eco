@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>A political revolution in Texas</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas</link>
+      <description>What will Democrats do with control of America’s most iconic red state?</description>
+      <pubDate>Wed, 04 Nov 2026 23:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>What markets make of the midterms</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms</link>
+      <description>Democrats triumph. Investors yawn</description>
+      <pubDate>Wed, 04 Nov 2026 21:48:18 +0000</pubDate>
+    </item>
+    <item>
       <title>How Democrats will wield their new power</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power</link>
       <description>It will be hard to pass laws, but expect a torrent of investigations</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/16/nannying-for-the-ultra-rich-is-increasingly-demanding-and-lucrative</link>
       <description>Life for rota-nannies can be glamorous and gruelling</description>
       <pubDate>Wed, 16 Sep 2026 13:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bartleby newsletter: Meetings are broccoli</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/16/bartleby-newsletter-meetings-are-broccoli</link>
-      <description>Our columnist, Andrew Palmer, explains why work gatherings are disliked—but useful</description>
-      <pubDate>Wed, 16 Sep 2026 13:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>How House Republicans might fend off defeat</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/16/how-house-republicans-might-fend-off-defeat</link>
-      <description>A polling error and a few good breaks could be enough</description>
-      <pubDate>Wed, 16 Sep 2026 12:42:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
