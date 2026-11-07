@@ -5,9 +5,15 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Climate Issue newsletter: The world braces for an almighty El Niño</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino</link>
+      <description>Rachel Dobbs, our news editor, explains why the worst is yet to come</description>
+      <pubDate>Fri, 06 Nov 2026 20:45:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Republicans blame Israel for their defeat</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat</link>
-      <description>The Democrats’ victory could accelerate the decline of Israel and America’s alliance</description>
+      <description>The Democrats’ victory could accelerate the decline of the Israeli-American alliance</description>
       <pubDate>Fri, 06 Nov 2026 20:37:14 +0000</pubDate>
     </item>
     <item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/18/consuming-extra-vitamin-d-is-less-good-than-it-sounds</link>
       <description>What works well in theory seems not to in practice</description>
       <pubDate>Fri, 18 Sep 2026 15:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>High petrol prices could hand Democrats a mighty midterm victory</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/17/high-petrol-prices-could-hand-democrats-a-mighty-midterm-victory</link>
-      <description>Our model gives them a record chance of claiming both the House of Representatives and the Senate</description>
-      <pubDate>Thu, 17 Sep 2026 19:48:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
