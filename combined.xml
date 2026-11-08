@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Why Indians should have higher standards</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards</link>
+      <description>“Good enough” is not good enough</description>
+      <pubDate>Sun, 08 Nov 2026 10:38:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Off the Charts newsletter: A post mortem of our election model</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/11/07/off-the-charts-newsletter-a-post-mortem-of-our-election-model</link>
       <description>Dan Rosenheck, our data editor, considers why our election forecast missed the signs of the tsunami</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/19/checks-and-balance-newsletter-how-to-think-about-candidate-quality</link>
       <description>John Prideaux, our executive editor, on declaring independence</description>
       <pubDate>Sat, 19 Sep 2026 09:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Carney hopes to redirect Canada’s economy around Donald Trump</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/18/mark-carney-hopes-to-redirect-canadas-economy-around-donald-trump</link>
-      <description>His Europe trip was one part of a bigger plan</description>
-      <pubDate>Fri, 18 Sep 2026 18:25:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
