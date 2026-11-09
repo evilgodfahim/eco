@@ -5,6 +5,42 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The future of Trumponomics: compromise or failure</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure</link>
+      <description>How the art of the deal may yet prevail over the art of denial</description>
+      <pubDate>Mon, 09 Nov 2026 19:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xi Jinping’s plan for a China-centric world order</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order</link>
+      <description>A “community with a shared future” sounds soft, but is backed by muscle</description>
+      <pubDate>Mon, 09 Nov 2026 17:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bartleby newsletter: Can AI write newsletters</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters</link>
+      <description>Andrew Palmer, our Bartleby columnist, has bad news for some email scribes</description>
+      <pubDate>Mon, 09 Nov 2026 16:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: How long will Pete Hegseth last?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last</link>
+      <description>“Democrats, and a handful of Republicans, want the former Fox News host’s well-gelled head,” writes Samuel Beal, our Washington correspondent</description>
+      <pubDate>Mon, 09 Nov 2026 16:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cover Story newsletter: Wipeout</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout</link>
+      <description>An exclusive look at how we designed our cover</description>
+      <pubDate>Mon, 09 Nov 2026 14:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Nvidia’s boss survive a Chinese-spy controversy?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy</link>
+      <description>Jensen Huang is caught with his pants down</description>
+      <pubDate>Mon, 09 Nov 2026 10:26:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Gadi Eisenkot has a chance to form a new government in Israel</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel</link>
       <description>Both his foes and his supposed allies may yet prevent him</description>
@@ -2967,42 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/21/donald-trump-says-china-is-opening-up-american-bosses-disagree</link>
       <description>Chipmakers’ record sales disguise a gloomy picture</description>
       <pubDate>Mon, 21 Sep 2026 16:46:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paid interns on The Economist’s foreign desk</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/21/paid-interns-on-the-economists-foreign-desk</link>
-      <description>An opportunity to write for The Economist</description>
-      <pubDate>Mon, 21 Sep 2026 15:40:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Café Europa newsletter: Canada’s love-in with the EU</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/21/cafe-europa-newsletter-canadas-love-in-with-the-eu</link>
-      <description>Stanley Pignal, our Charlemagne columnist, explores what EU “associate membership” would actually mean for Canada</description>
-      <pubDate>Mon, 21 Sep 2026 15:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Mao can teach China about managing America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/21/what-mao-can-teach-china-about-managing-america</link>
-      <description>An insurgent power has fought the incumbent to a stalemate</description>
-      <pubDate>Mon, 21 Sep 2026 13:32:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friedrich Merz rues “disaster” as populists win state elections</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/20/friedrich-merz-rues-disaster-as-populists-win-state-elections</link>
-      <description>German politics is fragmenting, fraying and radicalising</description>
-      <pubDate>Sun, 20 Sep 2026 21:44:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A contentious battle in Alaska may determine control of the Senate</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/20/a-contentious-battle-in-alaska-may-determine-control-of-the-senate</link>
-      <description>Democrats hope idiosyncratic politics and presidential missteps win a crucial seat</description>
-      <pubDate>Sun, 20 Sep 2026 15:57:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cover Story newsletter: Can the AI arms race be stopped?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/09/20/cover-story-newsletter-can-the-ai-arms-race-be-stopped</link>
-      <description>An exclusive look at how we designed our cover</description>
-      <pubDate>Sun, 20 Sep 2026 14:46:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
