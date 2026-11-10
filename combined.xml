@@ -5,6 +5,42 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Global bullies have turned uncertainty into a weapon</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon</link>
+      <description>America and China see profit in keeping the whole world on edge</description>
+      <pubDate>Tue, 10 Nov 2026 22:15:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe has been living beyond its means. Now the bills are due</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due</link>
+      <description>It accounts for half the world’s social spending, but its fractured politics make cuts difficult</description>
+      <pubDate>Tue, 10 Nov 2026 22:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lessons from a miserable month for hedge funds</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds</link>
+      <description>The struggle to invest in anything other than AI</description>
+      <pubDate>Tue, 10 Nov 2026 20:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>For boomers, economic boom times are over</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over</link>
+      <description>Across the rich world, the geriatric share of income and wealth is ebbing</description>
+      <pubDate>Tue, 10 Nov 2026 20:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our analysis of the leaked Russian death toll in Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/11/10/our-analysis-of-the-leaked-russian-death-toll-in-ukraine</link>
+      <description>Hackers have released records they claim are from Russia’s statistics agency</description>
+      <pubDate>Tue, 10 Nov 2026 19:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>American workers face a surge in health costs</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs</link>
+      <description>Employer-sponsored insurance, the backbone of American coverage, is becoming more frail</description>
+      <pubDate>Tue, 10 Nov 2026 19:08:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside America’s first new submarine base abroad for 53 years</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years</link>
       <description>AUKUS is beginning to make waves on Australia’s west coast</description>
@@ -2967,42 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse</link>
       <description>It’s hard to price the threats posed by a misaligned superintelligence</description>
       <pubDate>Tue, 22 Sep 2026 19:51:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>How middle powers are rethinking espionage</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/22/how-middle-powers-are-rethinking-espionage</link>
-      <description>Allies are grappling with threats from Russia and China—and perhaps America</description>
-      <pubDate>Tue, 22 Sep 2026 17:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data centres are straining the insurance market</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/22/data-centres-are-straining-the-insurance-market</link>
-      <description>The premiums are juicy, but the financial stakes are hard to digest</description>
-      <pubDate>Tue, 22 Sep 2026 17:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>In MAGA-land people are dying faster than they are being born</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/09/22/in-maga-land-people-are-dying-faster-than-they-are-being-born</link>
-      <description>Our analysis suggests Trump country is only growing because of migration</description>
-      <pubDate>Tue, 22 Sep 2026 17:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s education system is failing in new ways</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/22/indias-education-system-is-failing-in-new-ways</link>
-      <description>A breakneck expansion has bred new dysfunction—and spurred young people to rebel</description>
-      <pubDate>Tue, 22 Sep 2026 17:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysing Africa newsletter: What a small island nation says about Africa in the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/22/analysing-africa-newsletter-what-a-small-island-nation-says-about-africa-in-the-world</link>
-      <description>John McDermott, our chief Africa correspondent, reports from São Tomé and Príncipe</description>
-      <pubDate>Tue, 22 Sep 2026 16:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Communist Party faces a generational shift</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/22/chinas-communist-party-faces-a-generational-shift</link>
-      <description>Will rising officials be freer thinkers than older ones?</description>
-      <pubDate>Tue, 22 Sep 2026 15:49:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
