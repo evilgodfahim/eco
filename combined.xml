@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Middle East Dispatch newsletter: An unintended Saudi road trip</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/11/middle-east-dispatch-newsletter-an-unintended-saudi-road-trip</link>
+      <description>Gregg Carlstrom, our Middle East correspondent, recounts how his car journey across the Gulf offered him a different perspective on the war</description>
+      <pubDate>Wed, 11 Nov 2026 10:33:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Global bullies have turned uncertainty into a weapon</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon</link>
       <description>America and China see profit in keeping the whole world on edge</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/09/23/the-love-in-between-donald-trump-and-delcy-rodriguez</link>
       <description>Their rapport bodes ill for Venezuelan democracy</description>
       <pubDate>Wed, 23 Sep 2026 11:03:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>You can’t trade your way through the AI apocalypse</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse</link>
-      <description>It’s hard to price the threats posed by a misaligned superintelligence</description>
-      <pubDate>Tue, 22 Sep 2026 19:51:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
