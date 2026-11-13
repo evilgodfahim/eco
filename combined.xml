@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Teaching kids to think for themselves in the age of AI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai</link>
+      <description>The Economist Educational Foundation helps schoolchildren around the world make sense of the news</description>
+      <pubDate>Fri, 13 Nov 2026 11:37:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Jensen Huang is out. His successor has the toughest job in tech</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech</link>
       <description>A company built around one man must now learn to run without him</description>
@@ -2996,12 +3002,6 @@
       <title>Back and shoulder surgery is often worse than useless</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless</link>
       <description>Millions of operations should be scrapped</description>
-      <pubDate>Thu, 24 Sep 2026 13:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t let AI kill the author</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/09/24/dont-let-ai-kill-the-author</link>
-      <description>The perils of machine-made prose</description>
       <pubDate>Thu, 24 Sep 2026 13:22:28 +0000</pubDate>
     </item>
   </channel>
