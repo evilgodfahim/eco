@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Bottom Line newsletter: Nvidia will never be the same</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same</link>
+      <description>Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang</description>
+      <pubDate>Sat, 14 Nov 2026 11:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Checks and Balance newsletter: What do ballot initiatives tell us about America?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america</link>
+      <description>John Prideaux, our executive editor, explains why they can be used to take the pulse of the country</description>
+      <pubDate>Sat, 14 Nov 2026 11:10:57 +0000</pubDate>
+    </item>
+    <item>
       <title>How badly did Republican gerrymandering fail?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/interactive/graphic-detail/2026/11/13/how-badly-did-republican-gerrymandering-fail</link>
       <description>Democrats cannot count on a big blue wave every election</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount</link>
       <description>Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats</description>
       <pubDate>Fri, 25 Sep 2026 20:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are weighted blankets really beneficial?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/25/are-weighted-blankets-really-beneficial</link>
-      <description>Measurable gains are modest, but many users report feeling better</description>
-      <pubDate>Fri, 25 Sep 2026 18:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The War Room newsletter: The Soviet Union’s greatest war reporter</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter</link>
-      <description>Oliver Jones, a news editor, explores the legacy of Vasily Grossman</description>
-      <pubDate>Fri, 25 Sep 2026 15:41:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
