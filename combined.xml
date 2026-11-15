@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>SpaceX achieves another historic first</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first</link>
+      <description>It has caught the second stage of its Starship rocket</description>
+      <pubDate>Sun, 15 Nov 2026 11:33:37 +0000</pubDate>
+    </item>
+    <item>
       <title>The Bottom Line newsletter: Nvidia will never be the same</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same</link>
       <description>Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/checks-and-balance-newsletter-can-democrats-win-by-fighting-graft</link>
       <description>Steve Coll, visiting senior editor, on whether running against corruption still moves voters</description>
       <pubDate>Sat, 26 Sep 2026 13:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s and China’s leaders indulge in pageantry as crises mount</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount</link>
-      <description>Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats</description>
-      <pubDate>Fri, 25 Sep 2026 20:47:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
