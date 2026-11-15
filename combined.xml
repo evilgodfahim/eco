@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Donald Trump will get a warm welcome in the Philippines</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines</link>
+      <description>He almost skipped about the only country that still adores him</description>
+      <pubDate>Sun, 15 Nov 2026 14:56:22 +0000</pubDate>
+    </item>
+    <item>
       <title>SpaceX achieves another historic first</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first</link>
       <description>It has caught the second stage of its Starship rocket</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/the-climate-issue-newsletter-donald-trumps-least-favourite-thing</link>
       <description>Oliver Morton, our senior editor, runs the rule over American investment in clean energy</description>
       <pubDate>Sat, 26 Sep 2026 15:47:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Can Democrats win by fighting graft?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/checks-and-balance-newsletter-can-democrats-win-by-fighting-graft</link>
-      <description>Steve Coll, visiting senior editor, on whether running against corruption still moves voters</description>
-      <pubDate>Sat, 26 Sep 2026 13:30:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
