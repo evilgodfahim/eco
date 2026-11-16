@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Iran is functioning without a supreme leader</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader</link>
+      <description>Six men from a council of generals and bureaucrats now dominate decision making</description>
+      <pubDate>Sun, 15 Nov 2026 23:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s giant IPO puts the heat on OpenAI</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai</link>
+      <description>Coding agents are big business. But what comes next?</description>
+      <pubDate>Sun, 15 Nov 2026 19:49:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Donald Trump will get a warm welcome in the Philippines</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines</link>
       <description>He almost skipped about the only country that still adores him</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think</link>
       <description>The firms most exposed to China are suffering. But many are adapting</description>
       <pubDate>Sun, 27 Sep 2026 11:22:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alternatives to GPS are around the corner</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/27/alternatives-to-gps-are-around-the-corner</link>
-      <description>Earth’s quantum field and signals from other satellites may prove more reliable</description>
-      <pubDate>Sun, 27 Sep 2026 10:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Climate Issue newsletter: Donald Trump’s least favourite thing</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/26/the-climate-issue-newsletter-donald-trumps-least-favourite-thing</link>
-      <description>Oliver Morton, our senior editor, runs the rule over American investment in clean energy</description>
-      <pubDate>Sat, 26 Sep 2026 15:47:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
