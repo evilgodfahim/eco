@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>A lone protester highlights the pain from China’s property bust</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust</link>
+      <description>“Excavator man” will not spark a popular movement, but his actions expose a deep malaise</description>
+      <pubDate>Mon, 16 Nov 2026 16:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bartleby newsletter: Why you weren’t invited to that meeting</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting</link>
+      <description>Andrew Palmer, our Bartleby columnist, writes about the benefits of “skip-level meetings”</description>
+      <pubDate>Mon, 16 Nov 2026 14:53:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Iran is functioning without a supreme leader</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader</link>
       <description>Six men from a council of generals and bureaucrats now dominate decision making</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/09/27/can-jesus-christ-sell-moderates-on-democrats</link>
       <description>Donald Trump’s faltering support among Christians creates an opportunity</description>
       <pubDate>Sun, 27 Sep 2026 14:38:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Donald Trump meet Kim Jong Un again?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/09/27/will-donald-trump-meet-kim-jong-un-again</link>
-      <description>North Korea wants America to drop demands for disarmament</description>
-      <pubDate>Sun, 27 Sep 2026 13:40:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>European industry is doing better than you may think</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think</link>
-      <description>The firms most exposed to China are suffering. But many are adapting</description>
-      <pubDate>Sun, 27 Sep 2026 11:22:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
