@@ -5,9 +5,45 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
-      <title>Jensen Huang’s departure will cause lasting damage to Nvidia</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia</link>
-      <description>The full toll will only become clear with time</description>
+      <title>LLMs are developing filthy mouths</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths</link>
+      <description>More challenging tasks may be to blame</description>
+      <pubDate>Wed, 18 Nov 2026 17:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Some grasshoppers fly like butterflies to mislead predators</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators</link>
+      <description>It is a rare example of motion-related mimicry</description>
+      <pubDate>Wed, 18 Nov 2026 17:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>America has slashed funding for biomedical science abroad</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/18/america-has-slashed-funding-for-biomedical-science-abroad</link>
+      <description>It has also weakened oversight of how future grants are spent</description>
+      <pubDate>Wed, 18 Nov 2026 17:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muslims may outnumber Christians by 2035</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/11/18/muslims-may-outnumber-christians-by-2035</link>
+      <description>But new projections show inflammatory talk of a takeover is bunk</description>
+      <pubDate>Wed, 18 Nov 2026 16:24:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just how central should one person be to an organisation?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation</link>
+      <description>From founder mode to bounder mode</description>
+      <pubDate>Wed, 18 Nov 2026 15:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia and Ukraine are bombing bridges. Who’s winning?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/18/russia-and-ukraine-are-bombing-bridges-whos-winning</link>
+      <description>A setback for Russia in Crimea, but damage in Kyiv may matter more</description>
+      <pubDate>Wed, 18 Nov 2026 12:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia’s roaring results can’t hide its troubles</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles</link>
+      <description>Jensen Huang’s departure will cause lasting damage</description>
       <pubDate>Wed, 18 Nov 2026 00:20:05 +0000</pubDate>
     </item>
     <item>
@@ -29,7 +65,7 @@
       <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
     </item>
     <item>
-      <title>The incredible shrinking legacy of Donald J Trump</title>
+      <title>The incredible shrinking legacy of Donald J. Trump</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump</link>
       <description>A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America</description>
       <pubDate>Tue, 17 Nov 2026 16:53:04 +0000</pubDate>
@@ -2967,42 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/01/financial-astrology-is-a-serious-business-in-india</link>
       <description>That is bad news for investors’ returns</description>
       <pubDate>Thu, 01 Oct 2026 09:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The era of speedball capitalism has dawned</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned</link>
-      <description>A financial revolution is taking place in America</description>
-      <pubDate>Wed, 30 Sep 2026 19:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simulating death can reduce people’s fear of dying</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/30/simulating-death-can-reduce-peoples-fear-of-dying</link>
-      <description>And help doctors train for the worst</description>
-      <pubDate>Wed, 30 Sep 2026 18:24:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>It may soon be possible to create “mirror life”</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life</link>
-      <description>Such research poses risks for humanity and the planet</description>
-      <pubDate>Wed, 30 Sep 2026 18:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>How will AI philanthropy change development aid?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/09/30/how-will-ai-philanthropy-change-development-aid</link>
-      <description>As Anthropic and its ilk join the donor class, they must avoid old pitfalls</description>
-      <pubDate>Wed, 30 Sep 2026 16:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bond markets whack France for fiscal irresponsibility</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/09/30/bond-markets-whack-france-for-fiscal-irresponsibility</link>
-      <description>Political risk brings economic pain</description>
-      <pubDate>Wed, 30 Sep 2026 15:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>In an AI crisis, would China answer the phone?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/09/30/in-an-ai-crisis-would-china-answer-the-phone</link>
-      <description>The Americans want a hotline but the Chinese have been cool in the past</description>
-      <pubDate>Wed, 30 Sep 2026 15:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
