@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Jensen Huang’s departure will cause lasting damage to Nvidia</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia</link>
+      <description>The full toll will only become clear with time</description>
+      <pubDate>Wed, 18 Nov 2026 00:20:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Why startups still go public, eventually</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually</link>
       <description>Costly regulation is not a big deterrent to IPOs</description>
@@ -19,12 +25,6 @@
     <item>
       <title>Does Donald Trump care about the economy?</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy</link>
-      <description>His economic advisers have gone missing after a bruising midterm defeat</description>
-      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Donald Trump care about the economy?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/17/does-donald-trump-care-about-the-economy</link>
       <description>His economic advisers have gone missing after a bruising midterm defeat</description>
       <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
     </item>
