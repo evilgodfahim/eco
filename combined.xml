@@ -5,6 +5,30 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Corporate spin-offs are getting out of control</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control</link>
+      <description>Some are enormously successful, but certainly not all</description>
+      <pubDate>Wed, 18 Nov 2026 21:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the European Central Bank’s new squad</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad</link>
+      <description>A Spaniard, a German and a Frenchwoman</description>
+      <pubDate>Wed, 18 Nov 2026 19:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>America must get serious about Chinese chip spying</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying</link>
+      <description>The Jensen Huang affair exposes an AI underworld</description>
+      <pubDate>Wed, 18 Nov 2026 19:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The return of measles in America</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america</link>
+      <description>Reversing an absurd, unnecessary failure will be expensive and slow</description>
+      <pubDate>Wed, 18 Nov 2026 18:32:30 +0000</pubDate>
+    </item>
+    <item>
       <title>LLMs are developing filthy mouths</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths</link>
       <description>More challenging tasks may be to blame</description>
@@ -2979,30 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/10/01/effective-altruism-is-this-centurys-biggest-idea</link>
       <description>The movement is admirable, but dangerous</description>
       <pubDate>Thu, 01 Oct 2026 09:39:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>How effective altruism conquered the world</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world</link>
-      <description>And how the 21st century’s most important social movement might yet end it</description>
-      <pubDate>Thu, 01 Oct 2026 09:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Governments want to hold America’s shares more than its debts</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts</link>
-      <description>When countries switch towards riskier assets, the global economy feels the consequences</description>
-      <pubDate>Thu, 01 Oct 2026 09:08:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Research on grasping bureaucrats startles Singapore</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore</link>
-      <description>It is more revealing about its academic culture than its civil service</description>
-      <pubDate>Thu, 01 Oct 2026 09:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Financial astrology is a serious business in India</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/01/financial-astrology-is-a-serious-business-in-india</link>
-      <description>That is bad news for investors’ returns</description>
-      <pubDate>Thu, 01 Oct 2026 09:05:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
