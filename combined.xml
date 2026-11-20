@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Anthropic soars in the biggest IPO of all time</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/19/anthropic-soars-in-the-biggest-ipo-of-all-time</link>
+      <description>It may soon be back, cap in hand</description>
+      <pubDate>Thu, 19 Nov 2026 23:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Myanmar’s regime is convicted of genocide</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide</link>
+      <description>The International Court of Justice rules that Myanmar set out to destroy the Rohingyas</description>
+      <pubDate>Thu, 19 Nov 2026 18:13:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin</link>
       <description>A lighter take on the news</description>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch</link>
       <description>In time it could bring about an equally disruptive glut</description>
       <pubDate>Sun, 04 Oct 2026 17:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain’s Greens have voted, shamefully, to say Zionism is racism</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/10/04/britains-greens-have-voted-shamefully-to-say-zionism-is-racism</link>
-      <description>It is a damning moment for a political party with pretensions to power</description>
-      <pubDate>Sun, 04 Oct 2026 16:07:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>When gerrymandering meets a blue wave</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/04/when-gerrymandering-meets-a-blue-wave</link>
-      <description>The unexpected consequences of Republicans’ effort to redraw electoral maps</description>
-      <pubDate>Sun, 04 Oct 2026 15:37:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
