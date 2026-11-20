@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Are some salts healthier than others?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/20/are-some-salts-healthier-than-others</link>
+      <description>The claim has more than a grain of truth</description>
+      <pubDate>Fri, 20 Nov 2026 16:01:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Anthropic soars, but it may soon be back, cap in hand</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand</link>
       <description>The biggest IPO of all time is just a start</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/05/checks-and-balance-newsletter-the-new-politics-of-christianity</link>
       <description>Charlotte Howard, our US editor, on the battle for America’s faithful</description>
       <pubDate>Mon, 05 Oct 2026 06:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The world is facing an almighty LNG crunch</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch</link>
-      <description>In time it could bring about an equally disruptive glut</description>
-      <pubDate>Sun, 04 Oct 2026 17:11:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
