@@ -5,14 +5,20 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Democrats will struggle with a state-level revolution</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution</link>
+      <description>Reversing Republican policies is harder than it looks</description>
+      <pubDate>Sun, 22 Nov 2026 14:38:46 +0000</pubDate>
+    </item>
+    <item>
       <title>The Gandhi dynasty suffers for India</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india</link>
       <description>And India suffers the Gandhi dynasty</description>
       <pubDate>Sun, 22 Nov 2026 12:18:07 +0000</pubDate>
     </item>
     <item>
-      <title>Spain’s election this week will be a referendum on Pedro Sánchez</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/22/spains-election-this-week-will-be-a-referendum-on-pedro-sanchez</link>
+      <title>Spain’s election will be a referendum on Pedro Sánchez</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/22/spains-election-will-be-a-referendum-on-pedro-sanchez</link>
       <description>Despite a booming economy Spaniards are feeling discontented</description>
       <pubDate>Sun, 22 Nov 2026 12:14:26 +0000</pubDate>
     </item>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/05/the-nobel-for-medicine-goes-to-lighting-up-the-brain</link>
       <description>Inventors of optogenetics get the gong</description>
       <pubDate>Mon, 05 Oct 2026 15:44:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>A controversial new power grab in Pakistan</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan</link>
-      <description>The country’s army chief and de facto ruler wants to redraw the political map</description>
-      <pubDate>Mon, 05 Oct 2026 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
