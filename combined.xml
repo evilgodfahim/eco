@@ -5,6 +5,24 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Gandhi dynasty suffers for India</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india</link>
+      <description>And India suffers the Gandhi dynasty</description>
+      <pubDate>Sun, 22 Nov 2026 12:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spain’s election this week will be a referendum on Pedro Sánchez</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/22/spains-election-this-week-will-be-a-referendum-on-pedro-sanchez</link>
+      <description>Despite a booming economy Spaniards are feeling discontented</description>
+      <pubDate>Sun, 22 Nov 2026 12:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudi Arabia’s $1trn wealth pot suffers an identity crisis</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis</link>
+      <description>The Public Investment Fund is distracted, and not just by war</description>
+      <pubDate>Sun, 22 Nov 2026 11:13:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Checks and Balance newsletter: The crowded field for 2028</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028</link>
       <description>Charlotte Howard, our US editor, on how presidential hopefuls are trying to stand out</description>
@@ -2985,24 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan</link>
       <description>The country’s army chief and de facto ruler wants to redraw the political map</description>
       <pubDate>Mon, 05 Oct 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bartleby newsletter: How to fire a chicken into a jet engine</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/05/bartleby-newsletter-how-to-fire-a-chicken-into-a-jet-engine</link>
-      <description>Andrew Palmer, our Bartleby columnist, reads up on testing regimes</description>
-      <pubDate>Mon, 05 Oct 2026 14:14:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pedro Sánchez gambles on a snap election—and populist policies</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/10/05/pedro-sanchez-gambles-on-a-snap-election-and-populist-policies</link>
-      <description>Spain’s prime minister makes a last stand for the European left</description>
-      <pubDate>Mon, 05 Oct 2026 13:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Record labels are in a spin over AI music</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music</link>
-      <description>Should they fight upstart labs, or co-operate with them?</description>
-      <pubDate>Mon, 05 Oct 2026 11:35:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
