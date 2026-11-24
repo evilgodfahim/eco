@@ -5,6 +5,36 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>Ten years after Colombia’s peace deal, violence is rising again</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/11/24/ten-years-after-colombias-peace-deal-violence-is-rising-again</link>
+      <description>The accord ended six decades of war. Can peace still be assured?</description>
+      <pubDate>Tue, 24 Nov 2026 18:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang and the age of impunity</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/11/24/jensen-huang-and-the-age-of-impunity</link>
+      <description>Silicon Valley and Donald Trump share a disturbing view of power</description>
+      <pubDate>Tue, 24 Nov 2026 17:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk shifts the blame for throttling Starshield in Ukraine</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/europe/2026/11/24/elon-musk-shifts-the-blame-for-throttling-starshield-in-ukraine</link>
+      <description>But it strains belief that anyone else could limit Ukrainian drones</description>
+      <pubDate>Tue, 24 Nov 2026 15:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republican lawmakers are in revolt over Jensen Huang’s return</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/11/24/republican-lawmakers-are-in-revolt-over-jensen-huangs-return</link>
+      <description>Donald Trump’s gambit delights Silicon Valley and Wall Street but dismays Washington</description>
+      <pubDate>Tue, 24 Nov 2026 12:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War Room newsletter: Is it a drone or a missile?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/24/the-war-room-newsletter-is-it-a-drone-or-a-missile</link>
+      <description>Alex Turner, our defence editor, explores how weapon technologies are converging</description>
+      <pubDate>Tue, 24 Nov 2026 09:52:24 +0000</pubDate>
+    </item>
+    <item>
       <title>How the manosphere could swing Spain’s election</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/11/23/how-the-manosphere-could-swing-spains-election</link>
       <description>Our data show angry young men could tip the result</description>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/07/donald-trumps-untenable-strategy-for-ai</link>
       <description>The president’s desire to unleash the technology is running into political reality</description>
       <pubDate>Wed, 07 Oct 2026 18:44:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Burglars could be identified from airborne DNA</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/07/burglars-could-be-identified-from-airborne-dna</link>
-      <description>Skin cells, dandruff and saliva are largely responsible</description>
-      <pubDate>Wed, 07 Oct 2026 18:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Nobel for illuminating life’s asymmetry</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/07/a-nobel-for-illuminating-lifes-asymmetry</link>
-      <description>And achieving a feat of chemical synthesis not seen for 4bn years</description>
-      <pubDate>Wed, 07 Oct 2026 18:38:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s oil tactics have been clever. Now the costs are mounting</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/10/07/chinas-oil-tactics-have-been-clever-now-the-costs-are-mounting</link>
-      <description>The choices it faces will have global repercussions</description>
-      <pubDate>Wed, 07 Oct 2026 15:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vladimir Putin and the pariah problem</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem</link>
-      <description>Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense</description>
-      <pubDate>Tue, 06 Oct 2026 21:27:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>In search of tax alpha</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/06/in-search-of-tax-alpha</link>
-      <description>The taxman is losing patience with Americans’ shrewd use of tax losses</description>
-      <pubDate>Tue, 06 Oct 2026 17:41:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
