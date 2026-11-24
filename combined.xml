@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>How the manosphere could swing Spain’s election</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/graphic-detail/2026/11/23/how-the-manosphere-could-swing-spains-election</link>
+      <description>Our data show angry young men could tip the result</description>
+      <pubDate>Mon, 23 Nov 2026 22:07:14 +0000</pubDate>
+    </item>
+    <item>
       <title>How the manosphere cashes in on male insecurity</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/11/23/how-the-manosphere-cashes-in-on-male-insecurity</link>
       <description>Behind the controversial influencers lies a web of troubling sponsorship deals</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/06/in-search-of-tax-alpha</link>
       <description>The taxman is losing patience with Americans’ shrewd use of tax losses</description>
       <pubDate>Tue, 06 Oct 2026 17:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>China wants to get inside your head</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head</link>
-      <description>Brain-computer interfaces are the latest battleground in its tech rivalry with America</description>
-      <pubDate>Tue, 06 Oct 2026 17:38:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
