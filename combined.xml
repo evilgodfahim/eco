@@ -5,10 +5,40 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The Gulf survived a short, hot war. A long, cold one will be harder</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder</link>
+      <description>Conflict could continue until 2029</description>
+      <pubDate>Tue, 24 Nov 2026 22:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are America’s supply chains really more vulnerable than China’s?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas</link>
+      <description>Mapping the vulnerabilities in global commerce</description>
+      <pubDate>Tue, 24 Nov 2026 20:34:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doomsday predictions have value, even if they’re wrong</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/24/doomsday-predictions-have-value-even-if-theyre-wrong</link>
+      <description>And other takeaways from a conference on the end of the world</description>
+      <pubDate>Tue, 24 Nov 2026 19:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shanghai’s boss is purged from Xi Jinping’s top team</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team</link>
+      <description>Chen Jining is the latest in a string of high-profile removals</description>
+      <pubDate>Tue, 24 Nov 2026 18:45:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Ten years after Colombia’s peace deal, violence is rising again</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/the-americas/2026/11/24/ten-years-after-colombias-peace-deal-violence-is-rising-again</link>
       <description>The accord ended six decades of war. Can peace still be assured?</description>
       <pubDate>Tue, 24 Nov 2026 18:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copper shows how AI is messing with markets</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets</link>
+      <description>The pitfalls of being a proxy bet for a technological revolution</description>
+      <pubDate>Tue, 24 Nov 2026 18:12:38 +0000</pubDate>
     </item>
     <item>
       <title>Jensen Huang and the age of impunity</title>
@@ -2973,36 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year</link>
       <description>Blame soaring sugar prices</description>
       <pubDate>Thu, 08 Oct 2026 09:25:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will bonds blow up?</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/10/08/will-bonds-blow-up</link>
-      <description>A government-debt crisis is looming</description>
-      <pubDate>Thu, 08 Oct 2026 09:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The countries most threatened by turbulent bond markets</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/briefing/2026/10/08/the-countries-most-threatened-by-turbulent-bond-markets</link>
-      <description>For those where interest rates outstrip economic growth, trouble looms</description>
-      <pubDate>Thu, 08 Oct 2026 09:18:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI claims to have solved hundreds of long-standing maths problems</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems</link>
-      <description>It is judgment day for mathematics</description>
-      <pubDate>Wed, 07 Oct 2026 18:52:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why shares are the new bricks and mortar</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar</link>
-      <description>Household wealth is flowing from property to stocks</description>
-      <pubDate>Wed, 07 Oct 2026 18:47:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s untenable strategy for AI</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/07/donald-trumps-untenable-strategy-for-ai</link>
-      <description>The president’s desire to unleash the technology is running into political reality</description>
-      <pubDate>Wed, 07 Oct 2026 18:44:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
