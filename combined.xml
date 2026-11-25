@@ -5,6 +5,12 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The rich world’s sexual recession is getting worse</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse</link>
+      <description>Exhaustion is just one of the culprits</description>
+      <pubDate>Wed, 25 Nov 2026 09:09:11 +0000</pubDate>
+    </item>
+    <item>
       <title>The Gulf survived a short, hot war. A long, cold one will be harder</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder</link>
       <description>Conflict could continue until 2029</description>
@@ -2997,12 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis</link>
       <description>They should lift incomes, not suppress prices</description>
       <pubDate>Thu, 08 Oct 2026 09:26:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian celebrations will be more expensive this year</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year</link>
-      <description>Blame soaring sugar prices</description>
-      <pubDate>Thu, 08 Oct 2026 09:25:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
