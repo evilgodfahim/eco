@@ -5,6 +5,18 @@
     <link>https://yourusername.github.io/combined.xml</link>
     <description>Combined feed: The Economist and Project Syndicate with archive.is links</description>
     <item>
+      <title>The War Room newsletter: The best armies in history</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/international/2026/11/27/the-war-room-newsletter-the-best-armies-in-history</link>
+      <description>Richard Cockett, one of our senior editors, makes a short list of the best fighting forces in history</description>
+      <pubDate>Fri, 27 Nov 2026 18:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>How much cardio exercise is too much?</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/27/how-much-cardio-exercise-is-too-much</link>
+      <description>Overdoing it can affect your heart, but doesn’t seem to kill you</description>
+      <pubDate>Fri, 27 Nov 2026 17:34:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Young people are having less sex. Blame helicopter parenting</title>
       <link>https://archive.is/o/nuunc/https://www.economist.com/leaders/2026/11/26/young-people-are-having-less-sex-blame-helicopter-parenting</link>
       <description>Overprotective parents are slowing the growing-up process</description>
@@ -209,8 +221,8 @@
       <pubDate>Wed, 25 Nov 2026 19:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>For most mothers, mental health improves after birth</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/25/for-most-mothers-mental-health-improves-after-birth</link>
+      <title>Having a baby is less bad for mental health than many realise</title>
+      <link>https://archive.is/o/nuunc/https://www.economist.com/science-and-technology/2026/11/25/having-a-baby-is-less-bad-for-mental-health-than-many-realise</link>
       <description>Many are told to expect the worst</description>
       <pubDate>Wed, 25 Nov 2026 18:36:31 +0000</pubDate>
     </item>
@@ -2991,18 +3003,6 @@
       <link>https://archive.is/o/nuunc/https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now</link>
       <description>It is easy to exaggerate their economic woes</description>
       <pubDate>Sun, 11 Oct 2026 15:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The limits of India’s diaspora power</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/asia/2026/10/11/the-limits-of-indias-diaspora-power</link>
-      <description>As the West closes its doors, India must make staying home more attractive</description>
-      <pubDate>Sun, 11 Oct 2026 10:42:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Checks and Balance newsletter: Plans to livestream an execution in America</title>
-      <link>https://archive.is/o/nuunc/https://www.economist.com/united-states/2026/10/09/checks-and-balance-newsletter-plans-to-livestream-an-execution-in-america</link>
-      <description>John Prideaux, our executive editor, argues that making a spectacle of a Muslim gunman’s death is a deliberate political choice</description>
-      <pubDate>Fri, 09 Oct 2026 21:14:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
